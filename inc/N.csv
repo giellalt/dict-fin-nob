@@ -4095,61 +4095,39 @@ lävistäjä	N	diagonal
 lääkärintodistus	N	legeattest
 lääkäripäivystys	N	legevakt
 lääte	N	fjelltistel
----------------------------------- Trond
 maa-alue	N	landdistrikt
 maadoitus	N	jording
-maahanmuuttaja	N	tilflytter
-maaherra	N	amtmann
-maaherra	N	landshøvding
+maahanmuuttaja	N	immigrant
+maaherra	N	landshøvding	fylkesmann
 maajohto	N	jordledning
 maalialue	N	femmeter
-maalialue	N	målfelt
-maalipotku	N	målspark
 maaliviiva	N	målstrek
 maallikko	N	legmann
-maamerkki	N	med
-maanjako	N	jordskiftesogn
-maankäyttö	N	grunndisponering
+maamerkki	N	landemerke
 maanmittari	N	landmåler
 maanmittaus	N	utmåling
-maanomistaja	N	overflategrunneier
-maanomistaja	N	væreier
+maanomistaja	N	grunneier
 maanpinta	N	jordoverflate
-maantie	N	jordveg
 maantie	N	landeveg
 maantieajo	N	landevegskjøring
-maanviljelijä	N	bufinn
-maanviljelijä	N	bumann
-maaomaisuus	N	grunneiendom
+maanviljelijä	N	bonde
 maapalsta	N	parsell
 maapohja	N	jordbunn
-maastakarkotus	N	jordutvisning
-maatila	N	gardsvald
 maatila	N	gård
 made	N	lake
-mahdollisuus	N	sjanse
-mahdollisuus	N	utsikt
-maine	N	ettermæle
+mahdollisuus	N	sjanse	mulighet
+maine	N	ettermæle	rykte
 makeutusaine	N	søtningsmiddel
 makrilli	N	makrell
 maksapasteija	N	leverpostei
-maksu	N	betaling
-maksu	N	gebyr
-maksu	N	innbetaling
-maksu	N	kontingent
-maksu	N	sportel
-maksu	N	utbetaling
-maksu	N	vederlag
+maksu	N	betaling	gebyr
 maksumääräys	N	gebyrregulativ
-makuaine	N	smak
 makuaine	N	smaksstoff
-makuaine	N	smakstoff
-makuaine	N	tilbehør
 malawilainen	N	malawier
 malediivilainen	N	maldiver
 malesialainen	N	malaysier
 malilainen	N	malier
-malli	N	lære
+malli	N	modell
 malmi	N	malm
 malmirikaste	N	slig
 maltalainen	N	malteser
@@ -4158,7 +4136,7 @@ mandariini	N	mandarin
 mandariinisorsa	N	mandarinand
 mannasuurimo	N	semulegryn
 manometri	N	manometer
-mantere	N	fastland
+manner	N	fastland
 marginaali	N	marg
 markkina-arvo	N	markedsverdi
 markkinaosuus	N	markedsandel
@@ -4175,7 +4153,6 @@ matto	N	teppe
 mauritanialainen	N	mauritanier
 mauritiuslainen	N	mauriter
 mehiläiskuningatar	N	bidronning
-mehiläissyöjä	N	bieter
 meikkaus	N	sminking
 meikki	N	sminke
 mekanismi	N	mekanisme
@@ -4186,7 +4163,7 @@ menekki	N	avsetning
 menestys	N	suksess
 menettely	N	prosedyre
 menettelytapa	N	framgangsmåte
-mentaalihygienia	N	mental hygiene
+mentaalihygienia	N	mentalhygiene
 merenpohja	N	sjøbotn
 merihanhi	N	grågås
 meriharakka	N	tjeld
@@ -4208,27 +4185,23 @@ metallisaha	N	baufil
 metodi	N	metode
 metonymia	N	metonymi
 metriikka	N	metrum
-metso	N	storfugl
-metso	N	tiur
+metso	N	storfugl	tiur
 metsähanhi	N	sædgås
 metsäkastikka	N	snerprørkvein
 metsälauha	N	smyle
 metsänraja	N	skoggrense
 metsästysoikeus	N	jaktrett
 metsätie	N	skogsveg
-miehistö	N	bemanning
-miehistö	N	mannskap
-miehittäjä	N	bemanne
+miehistö	N	bemanning	mannskap
 miehitys	N	okkupasjon
-miekkavalas	N	vannhund
-mielenhäiriö	N	sinnsforvirring
+miekkavalas	N	spekkhogger
 mielenhäiriö	N	sinnslidelse
 mielenliike	N	sinnsbevegelse
 mielentila	N	sinnstilstand
 mielentilatutkimus	N	mentalobservasjon
 mielialahäiriö	N	affektivt syndrom
 mielikuvitus	N	fantasi
-mielipide	N	opinion
+mielipide	N	mening	oppfatning
 mielipide-ero	N	meningsforskjell
 mielleyhtymä	N	assosiasjon
 mikroaaltouuni	N	mikrobølgeovn
@@ -4239,16 +4212,13 @@ mikrometri	N	mikrometer
 mikronesialainen	N	mikronesier
 mikroprosessori	N	mikroprosessor
 minervanpöllö	N	kirkeugle
-minimi	N	minikum
 minimi	N	minimum
 ministeri	N	minister
 mittaaja	N	måler
 mittaaminen	N	måling
-mittanauha	N	bandmål
-mittanauha	N	merkebånd
+mittanauha	N	mâleband
 mittatikku	N	målestokk
 mittayksikkö	N	måleenhet
-mittayksikkö	N	målenhet
 modernismi	N	modernisme
 modifikaatio	N	modifikasjon
 moldovalainen	N	moldover
@@ -4274,7 +4244,6 @@ moukari	N	slegge
 muhennos	N	stuing
 muikku	N	lagesild
 muinaisaika	N	oldtid
-muistaminen	N	hukommelse
 muistelmakirjallisuus	N	memoarlitteratur
 muisti	N	hukommelse
 muistotilaisuus	N	gravøl
@@ -4286,8 +4255,7 @@ munankeltuainen	N	eggeplomme
 munanvalkuainen	N	eggehvite
 munasarja	N	eggstokk
 muodonmuutos	N	formendring
-muoto	N	format
-muotti	N	formell
+muoto	N	form
 murto	N	innbrudd
 murto-osa	N	brøkdel
 murtoluku	N	brøk
@@ -4298,10 +4266,9 @@ mustaherukka	N	solbær
 mustakaulauikku	N	svarthalsdykker
 mustalintu	N	svartand
 mustasukkaisuus	N	sjalusi
-muta	N	slam
-mutka	N	albue
-mutka	N	kne
-muunnelma	N	variator
+muta	N	slam	gjørme
+mutka	N	krok	sving
+muunnelma	N	variasjon
 muuntaja	N	transformator
 muuttohaukka	N	vandrefalk
 myanmarilainen	N	myanmarer
@@ -4313,28 +4280,22 @@ myötävaikutus	N	medvirkning
 myötöraja	N	flytegrense
 männänrengas	N	stempelring
 mäntykukka	N	vaniljerot
-mäntä	N	råde
 mäntä	N	stempel
 märehtijä	N	drøvtygger
 märkätila	N	våtrom
 mäti	N	rogn
 määritelmä	N	definisjon
 määritys	N	bestemmelse
-määrä	N	beløp
 määrä	N	mengde
-määrä	N	volum
-määräys	N	beslutning
-määräys	N	forføyning
-määräys	N	forskrift
-määräys	N	pålegg
+määräys	N	beslutning	forskrift
 määrääminen	N	fastsetting
-mökki	N	hytter
+mökki	N	hytte
 naamio	N	maske
 nahkiainen	N	elveniøye
 namibialainen	N	namibier
-napa	N	pol
+napa	N	navle	pol
 napajäkälä	N	navlelav
-nappula	N	knott
+nappula	N	knott	knapp
 naskali	N	syl
 naturalismi	N	naturalisme
 naulakko	N	knaggrekke
@@ -4346,11 +4307,10 @@ nektariini	N	nektarin
 nelitahtimoottori	N	firetaktsmotor
 neliökilometri	N	kvadratkilometer
 neliömetri	N	kvadratmeter
-neljännes	N	fjerding
-neljännes	N	kvartal
+neljännes	N	fjerding	kvartal
 nepalilainen	N	nepaler
 neste	N	væske
-nestesäiliö	N	beholder for væske
+nestesäiliö	N	væskebeholder
 netto	N	netto
 neulalaakeri	N	nålelager
 neuvoja	N	instruktør
@@ -4368,7 +4328,6 @@ niittynätkelmä	N	gulflatbelg
 niittysuolaheinä	N	syregress
 nilkkanivel	N	ankelledd
 nimetön	N	ringfinger
-nimi	N	tittel
 nimikirja	N	matrikkel
 nimismies	N	namsmann
 nimistö	N	nomenklatur
@@ -4383,24 +4342,20 @@ nokkonen	N	stornesle
 nokkosihottuma	N	elveblest
 nollakohta	N	nullpunkt
 nollapiste	N	nullpunkt
-nopeus	N	hastighet
 nopeus	N	hurtighet
-nopeusmittari	N	fartsmåler
 nopeusmittari	N	hastighetsmåler
 nopeusrajoitus	N	fartsgrense
 norjalainen	N	nordmann
 normi	N	norm
 norsunluurannikkolainen	N	ivorianer
 nostolaite	N	løfteinnretning
-nostolaite	N	personløfter
-nosturi	N	kran
+nosturi	N	heisekran
 notkeus	N	smidighet
 nukketeatteri	N	dukketeater
 numero	N	siffer
 nuohous	N	feiing
 nuokkuhelmikkä	N	hengeaks
 nuokkutalvikki	N	nikkevintergrønn
-nuora	N	linesett
 nuotanperä	N	notpose
 nuottakalastus	N	synkenotfiske
 nurmikko	N	plen
@@ -4413,7 +4368,6 @@ nykäys	N	rykk
 nyrkkisääntö	N	tommelfingerregel
 nyrkkivalta	N	neverett
 näivetystauti	N	infeksjonssykdomme
-näkemys	N	innsyn
 näkyvyysalue	N	siktstrekning
 näköaisti	N	synssans
 näkökenttä	N	synsfelt
@@ -4421,23 +4375,18 @@ näkökeskus	N	synssentral
 näkökohta	N	synspunkt
 nälänhätä	N	hungersnød
 näppäimistö	N	tastatur
-näytelmä	N	forestilling
-näyttäjä	N	markør
-näyttäjä	N	viser
-näytös	N	akt
+näytelmä	N	skuespill
+näyttäjä	N	markør	viser
+näytös	N	akt	forestilling
 obligaatiolaina	N	obligasjonslån
 ohenne	N	tynner
 ohitus	N	forbikjøring
-ohitus	N	omkjøring
 ohituskaista	N	krabbefelt
 ohitusleikkaus	N	bypassoperasjon
 ohitustie	N	omkjøringsvei
-ohjaaja	N	dirigent
-ohjaaja	N	rettleder
+ohjaaja	N	dirigent	veileder
 ohjain	N	jigg
-ohjaus	N	rettledning
-ohjaus	N	styring
-ohjaus	N	veiledning
+ohjaus	N	styring	veiledning
 ohjaustanko	N	ratt
 ohje	N	anvisning
 ohjelmisto	N	programvare
@@ -4450,22 +4399,19 @@ oikeudenhoito	N	rettspleie
 oikeudenkäyntimenettely	N	rettergangsmåte
 oikeudenkäyttö	N	rettsanvendelse
 oikeudenloukkaus	N	overgrep
-oikeus	N	hjemmel
-oikeus	N	rett
+oikeus	N	hjemmel	rett
 oikeusapu	N	rettshjelp
 oikeusasema	N	rettsposisjon
 oikeusjärjestelmä	N	rettssystem
 oikeusjärjestys	N	rettsordning
 oikeuskäsittely	N	rettshandling
-oikeuskäsitys	N	rettsforestilling
 oikeuskäsitys	N	rettsoppfatning
 oikeuskäytäntö	N	rettspraksis
 oikeuslaitos	N	rettsinstitutt
 oikeusoppinut	N	rettslærd
 oikeuspaikka	N	verneting
-oikeussali	N	rettsalen
+oikeussali	N	rettsal
 oikeusseuraamus	N	rettsforfølgelse
-oikeusseuraamus	N	rettsfølge
 oikeussiirto	N	rettsovergang
 oikeussuhde	N	rettighetsforhold
 oikeustaju	N	rettsfølelse
@@ -4476,16 +4422,13 @@ ojanpenkka	N	grøfteskråning
 ojasorsimo	N	mannasøtgress
 ojennus	N	strekking
 oleskelu	N	opphold
-olettaminen	N	forutsettende
-oletus	N	presumsjon
+oletus	N	antakelse
 olka	N	skulder
 olkalihas	N	armstrekker
 olohuone	N	dagligstue
 omaelämäkerta	N	selvbiografi
-omaisuus	N	eiendel
+omaisuus	N	formue
 omaisuusvero	N	formueskatt
-omaisuusvero	N	formuesskatt
-omaisuusvero	N	leidangskatt
 omakotitalo	N	enebolig
 omakustanne	N	selvkost
 omakustannushinta	N	kostpris
@@ -4494,41 +4437,35 @@ omalaatuisuus	N	originalitet
 omanilainen	N	omaner
 omarahoitus	N	egenfinansiering
 ominaislaatu	N	særpreg
-omistaja	N	innehaver
+omistaja	N	innehaver	eier
 omistus	N	besittelse
-omistus	N	selveie
-omistus	N	tilegnelse
 omistusasunto	N	selveierleilighet
 omistusoikeus	N	besittelsesrett
 omistussuhde	N	besittelsesforhold
 ommel	N	søm
 ongenkoukku	N	angel
-opas	N	informant
+opas	N	guide
 opaskoira	N	førerhund
 opastusmerkki	N	opplysningsskilt
-opetus	N	lære
+opetus	N	undervisning
 opetusaineisto	N	lærestoff
-opetussuunnitelma	N	læreplanverk
-opetussuunnitelma	N	undervisningsopplegg
+opetussuunnitelma	N	læreplan	undervisningsopplegg
 opintopiste	N	studiepoeng
 opintovapaa	N	studiepermisjon
-oppilas	N	lærling
-oppilasvaihto	N	læringsutbytte
+oppilas	N	elev	lærling
+oppilasvaihto	N	elevutveksling
 oppimäärä	N	pensum
 oranssikeltano	N	rødsveve
 ordinaatta	N	ordinat
 ori	N	hingst
-orpo	N	etterlatt
-osa	N	lodd
+osa	N	lodd	del
 osakas	N	aksjonær
 osake	N	aksje
 osakehuoneisto	N	innskuddsleilighet
 osakesäästäminen	N	aksjesparing
 osallistuja	N	deltakende
-osallistuja	N	partisipant
 osamäärä	N	kvotient
 osanottaja	N	deltaker
-osasto	N	avd.
 osasto	N	avdeling
 osastonhoitaja	N	avdelingssykepleier
 osatekijä	N	komponent
@@ -4547,24 +4484,21 @@ paakku	N	klump
 paikallisliikenne	N	lokaltrafikk
 paikallistie	N	lokalveg
 paimenmökki	N	gjeterhytte
-paimentolainen	N	nomade
-paine	N	press
-paine	N	trykk
+paimentolainen	N	nomade	gjeter
+paine	N	press	trykk
 paineensäädin	N	trykkregulator
 paineilma	N	trykkluft
 paino	N	vekt
 painonappi	N	trykknapp
-painonnosto	N	vekttrening
-painotus	N	poengtere
+painonnosto	N	vektløfting
 paistinpannu	N	stekepanne
-paisuminen	N	ekspansjon
+paisuminen	N	ekspansjon	hevelse
 paisuntasäiliö	N	ekspansjonskar
 paisuvaiskudos	N	svampelegeme
 paitsio	N	offside
 pajusirkku	N	sivspurv
 pakanuus	N	hedenskap
 pakaralihas	N	lårmuskel
-pakastin	N	frys
 pakastin	N	fryseboks
 pakistanilainen	N	pakistaner
 pakkohuutokauppa	N	tvangsauksjon
@@ -4573,7 +4507,6 @@ pakkolunastus	N	ekspropriasjon
 pakkoluovutus	N	tvangsavståelse
 pakkoneuroosi	N	tvangsnevrose
 pakokaasu	N	eksos
-pakokaasu	N	eksospotte
 pakoputki	N	eksosrør
 paksunokkauikku	N	ringnebbdykker
 paksusuoli	N	tykktarm
@@ -4592,24 +4525,21 @@ pallolaakeri	N	sfærisk lager
 palo-ovi	N	branndør
 paloasema	N	brannstasjon
 paloauto	N	brannbil
-palohälytin	N	brannalarmanlegg
+palohälytin	N	brannvarsler
 palohälytys	N	brannalarm
 palokalusto	N	brannutstyr
 palokärki	N	svartspett
 palomiehistö	N	brannmannskap
-palomiehistö	N	brannslukkemannskap
 palomies	N	brannmann
 palonsammutus	N	brannslokking
-palonsammutus	N	brannslukking
 palontorjunta	N	brannvern
 paloruisku	N	brannslange
 paloseinä	N	brannvegg
 palotoimi	N	brannvesen
 palovaara	N	ildsfare
-palovamma	N	brannsår
-palovamma	N	forbrenningsskade
-palovaroitin	N	brannvarsling
-palovaroitin	N	røykvarsler
+palovamma	N	brannskade
+palohaava	N	brannsår
+palovaroitin	N	brannvarsler
 palsasuo	N	palsmyrer
 palvelin	N	server
 palveluala	N	servicebransje
@@ -4619,7 +4549,6 @@ panamalainen	N	panamaner
 paneelikeskustelu	N	paneldebatt
 pankkikortti	N	bankkort
 pankkisiirto	N	bankgiro
-pano	N	bankinnskudd
 panos	N	innsats
 panostus	N	beskikkelse
 panseksuaali	N	panseksuell
@@ -4642,19 +4571,16 @@ partaohra	N	silkebygg
 parveke	N	balkong
 parvi	N	hems
 passiivisuus	N	passivitet
-pasuri	N	flire
 patalappu	N	gryteklut
 patja	N	madrass
 patonki	N	bagett
 peippo	N	bokfink
-peite	N	belegg
-peite	N	panel
+peite	N	belegg	panel
 pektiini	N	pektin
 pelastuspuku	N	overlevingsdrakt
 peledsiika	N	peledsik
 pelivara	N	spillerom
-pelti	N	blikk
-pelti	N	spjell
+pelti	N	blikk	spjell
 peltiseppä	N	blikkenslager
 peltokasvi	N	åkervekst
 peltopyy	N	rapphøne
@@ -4662,12 +4588,11 @@ peltosaunio	N	balderbrå
 peltosauramo	N	hvit gåseblom
 peltosirkku	N	hortulan
 peltovillakko	N	åkersvineblom
-penkki	N	ståbenk
-perehtyminen	N	orientering
-perhe-eläke	N	etterlatte-pensjon
+penkki	N	benk
+perehtyminen	N	innføring
 perhe-eläke	N	etterlattepensjon
 perheasunto	N	familiebolig
-perheenpää	N	overhode
+perheenpää	N	familieoverhode
 perheneuvola	N	familievernkontor
 perna	N	milt
 pernarutto	N	miltbrand
@@ -4680,31 +4605,26 @@ perunarieska	N	hellekake
 perunasurvin	N	potetmoser
 peruskallio	N	berggrunn
 perusmitta	N	basismål
-perusta	N	fundament
-perusta	N	grunn
-perusta	N	grunnmur
-perustelu	N	argumentasjon
+perusta	N	fundament	grunnmur
 perustelu	N	begrunnelse
 perustus	N	oppretting
-perustuslaki	N	forgrunnlag
+perustuslaki	N	grunnlov
 peruutus	N	avbestilling
 peruutusvaihde	N	revers
 peräaukko	N	endetarmsåpning
 peräruiske	N	klyster
 perävaunu	N	tilhenger
-pesu	N	rensing
 pesu	N	vask
 pesuaine	N	vaskemiddel
 pesuallas	N	vaskekum
 pesuharja	N	badebørste
 pesuhuone	N	vaskerom
-pesukone	N	oppvaskmaskin
 pesukone	N	vaskemaskin
 pesula	N	renseri
 pesulappu	N	vaskeklut
 pesumerkintä	N	vaskesymbol
 pesupöytä	N	vaskeservant
-pesä	N	dyrehule
+pesä	N	reir	hi
 pesänhoitaja	N	bobestyrer
 petolintu	N	rovfugl
 peukalo	N	tommel
@@ -4713,12 +4633,11 @@ pidin	N	holder
 pienkarja	N	småfe
 pientalo	N	småhus
 pietaryrtti	N	reinfann
-piha	N	gårdsplassen
+piha	N	gårdsplass
 pihasaunio	N	tunbalderbrå
 pihlajanmarja	N	rognebær
 piikkimonni	N	dvergmalle
-piimä	N	kulturmelk
-piimä	N	surmelk
+piimä	N	kulturmelk	surmelk
 piippu	N	pipe
 piirustuslauta	N	tegnebrett
 pikaruoka	N	hurtigmat
@@ -4734,17 +4653,15 @@ pikkutuulenkala	N	småsil
 pilkkasiipi	N	sjøorre
 pilkku	N	komma
 pimiö	N	mørkerom
-pinta	N	flate
-pinta	N	overflate
+pinta	N	flate	overflate
 pinta-ala	N	areal
-pinta-ala	N	arealplan
 pintakarkaisu	N	settherding
 pintakäsittely	N	overflatebehandling
 pintavesi	N	overflatevann
 pioneeri	N	pionér
 piparjuuri	N	pepperrot
 pirkkalainen	N	birkarl
-piste	N	poeng
+piste	N	poeng	punkt
 pistehitsaus	N	punktsveising
 pistepuikko	N	kjørner
 pistos	N	sting
@@ -4774,7 +4691,7 @@ poistaminen	N	utvisning
 poisto	N	avskrivning
 poistumistie	N	rømningsvei
 poliisi	N	politimann
-poliisi	N	polititjenestemann
+poliisivirkailija	N	polititjenestemann
 poliisikuulustelu	N	politiavhør
 poliisimestari	N	politimester
 poliisiviranomainen	N	politimyndighet
@@ -4814,7 +4731,6 @@ puhti	N	sting
 puhuttelu	N	tilsnakk
 puikkari	N	garnnål
 puistotie	N	allé
-puistotie	N	parkveg
 pujo	N	burot
 pukki	N	bukk
 puku	N	kostyme
@@ -4835,7 +4751,6 @@ punapyy	N	rødhøne
 punasipuli	N	rødløk
 punasotka	N	taffeland
 puolalainen	N	polakk
-puoli	N	ribbe
 puolijohde	N	halvleder
 puolivalmiste	N	halvfabrikat
 puolustuspeli	N	forsvarsspill
@@ -4843,7 +4758,6 @@ purjevene	N	seilbåt
 purjosipuli	N	purreløk
 purkaminen	N	riving
 purkinavaaja	N	boksåpner
-purkinavaaja	N	lokkåpner
 puronieriä	N	bekkerøye
 pursotin	N	kakesprøyte
 puskuri	N	støtfanger
@@ -4867,7 +4781,6 @@ pyrstösulka	N	halefjær
 pysähtymismerkki	N	forvarsling av stopp
 pysäkki	N	standplass
 pysäköinti	N	parkering
-pysäköintialue	N	parkeringsfelt
 pysäköintialue	N	parkeringsområde
 pysäköintimaksu	N	parkeringsavgift
 pysäköintimittari	N	parkometer
@@ -4875,7 +4788,6 @@ pysäköintitalo	N	parkeringshus
 pyy	N	jerpe
 pyynti	N	fangst
 pyyntö	N	anmodning
-pyyntö	N	forlangende
 pyöriäinen	N	nise
 pyörtänökattara	N	åkerfaks
 pyörä	N	hjul
@@ -4883,7 +4795,6 @@ pyörännapa	N	nav
 pyöränvanne	N	felg
 pyörätie	N	sykkelveg
 pyörätuoli	N	rullestol
-pyöröhiomakone	N	rondellsliper
 pyöröhiomakone	N	rundslipemaskin
 pyörösaha	N	sirkelsag
 pyöröviila	N	rundfil
@@ -4899,9 +4810,7 @@ päiväpetolintu	N	dagrovfugl
 päiväsairaala	N	daghospital
 päiväsakko	N	døgnmulkt
 päivätyö	N	dagsverk
-päivätyö	N	hoveri
-pätevyys	N	kompetanse
-pätevyys	N	kvalifikasjon
+pätevyys	N	kompetanse	kvalifikasjon
 päällys	N	omslag
 pääoma	N	kapital
 pääskykahlaaja	N	brakksvale
@@ -4910,18 +4819,15 @@ päästö	N	utslipp
 pääsy	N	atkomst
 päätelmä	N	konklusjon
 päätepiste	N	endepunkt
-päättäminen	N	vedtakelse
+päättäminen	N	avgjørelse
 päätuki	N	hodestøtte
 päätyraja	N	dødlinje
-päätös	N	avgjørelse
-päätös	N	resolusjon
-päätös	N	vedtak
-pötsi	N	mage
+päätös	N	avgjørelse	vedtak
+pötsi	N	kuvom
 pöytä	N	ståbord
 pöytäliina	N	duk
 qatarilainen	N	qatarer
-raaka-aine	N	råmateriale
-raaka-aine	N	råstoff
+raaka-aine	N	råmateriale	råstoff
 raate	N	bukkeblad
 radiaattori	N	radiator
 raejuusto	N	cottage cheese
@@ -4946,7 +4852,6 @@ rajoitus	N	restriksjon
 rakennemuutos	N	strukturendring
 rakenneteräs	N	konstruksjonsstål
 rakennus	N	bygning
-rakennus	N	konstruksjon
 rakennusinsinööri	N	bygningsingeniør
 rakennuskielto	N	byggeforbudsbelte
 rakennuskone	N	anleggsmaskin
@@ -4959,14 +4864,12 @@ rakennustyö	N	bygningsdrift
 rakennustyömaa	N	bygg
 rakentaja	N	tømrer
 rakko	N	luftblære
-rakkula	N	blemme
-rakkula	N	blære
+rakkula	N	blemme	blære
 rakuuna	N	estragon
 ramppi	N	rampe
-rangaistusalue	N	sekstenmeter
-rangaistusalue	N	straffefelt
+rangaistusalue	N	straffeområde
 rangaistusvaatimus	N	straffekrav
-ranne	N	håndrot
+ranne	N	håndledd
 ranskalainen	N	fransk, franskmann
 ranta-alue	N	strandsone
 rantanätkelmä	N	myrflatbelg
@@ -4975,8 +4878,7 @@ rantavehnä	N	strandrug
 rantaviiva	N	strandlinje
 rapautuminen	N	forvitring
 rapu	N	krabbe
-rasva	N	smult
-rasva	N	spekk
+rasva	N	fett	smult	spekk
 rasvakala	N	rognkjeks
 ratkaisu	N	avgjørelse
 raudanpuutosanemia	N	jernmangelanemi
@@ -4998,7 +4900,6 @@ regressio	N	regresjon
 rehuvirna	N	forvikke
 rehuyksikkö	N	forenhet
 reisi	N	lår
-reittiliikenne	N	linjetrafikk
 reittiliikenne	N	rutetrafikk
 rekisteri	N	register
 rekisterinumero	N	registreringsnummer
@@ -5032,29 +4933,23 @@ rikastin	N	choke
 rikesakko	N	forenklet forelegg
 rikkalapio	N	støvbrett
 rikkaruoho	N	ugress
-rikkomus	N	brudd
 rikkomus	N	forseelse
-rikollinen	N	forbrytersk
-rikollinen	N	gjerningsmann
+rikollinen	N	forbryter
 rikosasia	N	straffesak
 rikoslaki	N	straffelov
-rikoslaki	N	straffeloven
 rikosoikeus	N	strafferett
-rima	N	ribba
 rinnakkaisluokka	N	parallellklasse
-rinta	N	bringe
+rinta	N	bringe	bryst
 ripa	N	håndtak
 riski	N	risiko
 riskiluokka	N	risikoklasse
 ristikkorakenne	N	bindingsverk
-ristiluu	N	korsbenet
-ristipäämeisseli	N	kryss skrutrekker
+ristiluu	N	korsbein
+ristipäämeisseli	N	krysskrutrekker
 ristipääruuvi	N	krysskrue
 ristipäätaltta	N	kryssportrekker
-ristiriita	N	selvmotsigende
-ristiriita	N	uoverenstemmelse
+ristiriita	N	selvmotsigende	uoverenstemmelse
 ristiriitaisuus	N	motsigelse
-ristiriitaisuus	N	motstrid
 ristisorsa	N	gravand
 rivi	N	rad
 rivimoottori	N	rekkemotor
@@ -5080,8 +4975,7 @@ ruis	N	rug
 ruiskattara	N	rugfaks
 ruiskaunokki	N	kornblom
 ruisvirna	N	lodnevikke
-rulla	N	rull
-rulla	N	rulle
+rulla	N	rull	rulle
 rullalaakeri	N	rullelager
 rumpujarru	N	trommelbrems
 runkosuunnitelma	N	rammeplan
@@ -5092,12 +4986,11 @@ ruoansulatus	N	fordøye
 ruoansulatus	N	fordøyelse
 ruoansulatuskanava	N	fordøyelseskanal
 ruohosipuli	N	gressløk
-ruoka	N	kost
+ruoka	N	mat	kost
 ruokailuhuone	N	spisestue
 ruokakunta	N	husstand
 ruokalusikka	N	spiseskje
-ruokavalio	N	diett
-ruokavalio	N	kosthold
+ruokavalio	N	diett	kosthold
 ruokavarasto	N	matbod
 ruokaöljy	N	matolje
 ruokki	N	alke
@@ -5127,13 +5020,12 @@ saapumisilmoitus	N	ankomstmelding
 saaristo	N	skjærgård
 saarnatuoli	N	prekestol
 saastuminen	N	forurensing
-saastuminen	N	forurensning
 saavutettavuus	N	tilgjengelighet
 sabotaasi	N	sabotasje
 sadasosa	N	hundredel
 sadealue	N	nedbørfelt
 saframi	N	safran
-saha	N	kaldsag
+saha	N	sag
 sahanpuru	N	spon
 sahanterä	N	sagblad
 sahapukki	N	sagbukk
@@ -5153,15 +5045,13 @@ sambialainen	N	zambier
 sametti	N	fløyel
 sammutusjauhe	N	brannslukningspulver
 sammutustyö	N	brannslukkearbeid
-sammutustyö	N	brannslukkeinnsats
 samoalainen	N	samoaner
 sanamuoto	N	ordlyd
 sananmuodostus	N	ordbilde
 sananvaihto	N	ordveksling
 sanastus	N	ekserpering
 saniainen	N	bregne
-sanko	N	bøtte
-sanko	N	spann
+sanko	N	bøtte	spann
 sanmarinolainen	N	sanmariner
 sappineste	N	gallesyre
 sarja	N	serie
@@ -5173,9 +5063,9 @@ satakerta	N	bladmage
 sateenkaariperhe	N	regnbuefamilie
 satelliittimittaus	N	satelittmålinger
 satiiri	N	satire
-satu	N	saga
+satu	N	saga	eventyr
 saudiarabialainen	N	saudiaraber, saudier
-sauva	N	pinne
+sauva	N	stav	pinne
 savoijinkaali	N	savoikål
 savukanava	N	røykkanal
 savusukeltaja	N	røykdykker
@@ -5186,7 +5076,6 @@ seiväshyppy	N	stavhopp
 sekatyöläinen	N	løsarbeider
 sekki	N	sjekk
 seksuaalirikos	N	seksualforbrytelse
-sekundääri	N	sekundær
 seleeni	N	selen
 selkäranka	N	ryggrad
 selkätuki	N	ryggstøtte
@@ -5218,14 +5107,14 @@ sidonta	N	binding
 sielikkö	N	greplyng
 siemenhedelmä	N	kjernefrukt
 siemenjohdin	N	sædleder
-sieni	N	svamp
+sieni	N	sopp	svamp
 sierraleonelainen	N	sierraleoner
 sietoalue	N	toleranseområde
 sietoraja	N	tålegrense
 signaali	N	signal
 sihteeristö	N	sekretær
 siipi	N	fløy
-siipi	N	skovl
+siipikarja	N	fjørfe
 siipimutteri	N	vingemutter
 siirto	N	overføring
 siirtoasiakirja	N	overdragelsesdokument
@@ -5291,14 +5180,13 @@ sokkeli	N	sokkel
 somalialainen	N	somalier
 sommitelma	N	komposisjon
 sonetti	N	sonette
-sopimus	N	forlik
-sopimus	N	kontrakt
+sopimus	N	forlik	kontrakt
 sopimusneuvottelu	N	forliksråd
 sopivuus	N	tjenlighet
 sora	N	grus
 sorapäällyste	N	grusoverflate
 soratie	N	grusveg
-sorkkarauta	N	brekkjern
+sorkkarauta	N	kubein	brekkjern
 sorkkavasara	N	pennhammer
 sorva	N	sørv
 sorvaaja	N	dreier
@@ -5312,8 +5200,7 @@ sovellutus	N	tillemping
 soveltamisala	N	virkekrets
 sovinto	N	rettsforlik
 sovittelija	N	meklingsmann
-sovittelu	N	megling
-sovittelu	N	mellomkomst
+sovittelu	N	megling	mellomkomst
 sovitus	N	bearbeidelse
 srilankalainen	N	srilanker
 standardi	N	standard
@@ -5345,8 +5232,7 @@ sumuvalo	N	tåkelys
 sunnuntaikorvaus	N	helgedagsgodtgjørelse
 suodatin	N	filter
 suodatus	N	filtrering
-suoja	N	beskyttelse
-suoja	N	sikring
+suoja	N	beskyttelse	sikring
 suojakoroke	N	trafikkøy
 suojakypärä	N	vernehjelm
 suojelu	N	holde i hevd
@@ -5358,14 +5244,11 @@ suopursu	N	finnmarkspors
 suopöllö	N	jordugle
 suora	N	linje
 suorittaminen	N	utførelse
-suoritus	N	prestasjon
-suoritus	N	ytelse
+suoritus	N	prestasjon	ytelse
 suorituspaine	N	prestasjonsangst
 suosiminen	N	begunstigelse
-suosio	N	gunst
-suosio	N	popularitet
+suosio	N	gunst	popularitet
 suositus	N	anbefaling
-suositus	N	referanse
 suostumus	N	bifalle
 suovilla	N	myrull
 superego	N	superego
@@ -5378,7 +5261,7 @@ suurustus	N	jevning
 suutin	N	dyse
 sveitsiläinen	N	sveitser
 swazimaalainen	N	swazilender
-sydän	N	veke
+sydän	N	hjerte	veke
 sylinteri	N	sylinder
 sylinterinkansi	N	deksel
 symboli	N	symbol
@@ -5389,11 +5272,9 @@ synteesi	N	syntese
 syrjäyttäminen	N	fortrengt
 sytologia	N	cytologi
 sytytin	N	tennstål
-sytytys	N	antennelse
 sytytys	N	tenning
 sytytysjärjestelmä	N	tenningssystem
 sytytystulppa	N	pluggledning
-sytytystulppa	N	rørsplint
 sytytystulppa	N	tennplugg
 syyrialainen	N	syrer
 syysmaitiainen	N	føllblom
@@ -5409,7 +5290,6 @@ syöte	N	input
 syötti	N	åte
 syöttäminen	N	mating
 syöttö	N	pasning
-syöttö	N	spiss, angrepsspiller
 syöttöpumppu	N	matepumpe
 sãotomépríncipeläinen	N	saotomeser
 sädehoito	N	stråleterapi
@@ -5423,7 +5303,7 @@ säilytyspaikka	N	oppbevaringssted
 säilö	N	forvaring
 säilöntäaine	N	konserveringsmiddel
 säkeistö	N	strofe
-sänky	N	ståseng
+sänky	N	seng
 särki	N	mort
 sävelmä	N	melodi
 säädin	N	regulator
@@ -5451,7 +5331,6 @@ taimen	N	ørret
 taipumus	N	tendens
 taitepapu	N	brekkbønne
 taive	N	svinging
-taivutus	N	bøy
 taivutus	N	bøying
 taka-akseli	N	bakaksel
 takaaja	N	kausjonist
@@ -5469,18 +5348,16 @@ takuumaksu	N	garantikostnad
 talletus	N	innsetting
 taloudenpito	N	pengehusholdning
 talous	N	husstand
-talousosasto	N	husøkonomavdeling
-talousosasto	N	økonomiavdeling
+talousosasto	N	husøkonomavdeling	økonomiavdeling
 talouspäällikkö	N	økonomisjef
 taltta	N	meisel
 talvikeli	N	vinterføre
 talvitie	N	vintervei
 tankki	N	tank
-tanko	N	stativ
+tanko	N	stang
 tansanialainen	N	tanzanianer
 tanskalainen	N	danske
-tapa	N	sedvane
-tapa	N	skikk
+tapa	N	sedvane	skikk
 tapaamisoikeus	N	samværsrett
 tapaoikeus	N	sedvanerett
 tapetti	N	tapet
@@ -5490,13 +5367,9 @@ tarjoaja	N	tilbyder
 tarjoilija	N	servitør
 tarjoilu	N	servering
 tarjotin	N	serveringsbrett
-tarjous	N	anbud
-tarjous	N	bud
+tarjous	N	anbud	bud
 tarkastelu	N	gjennomsyn
-tarkastus	N	ettersyn
-tarkastus	N	inspeksjon
-tarkastus	N	kontroll
-tarkastus	N	revisjon
+tarkastus	N	ettersyn	inspeksjon
 tarkastusmaksu	N	kontrollavgift
 tarkistus	N	kontroll
 tarkkaavaisuus	N	oppmerksomhet
@@ -5516,7 +5389,6 @@ taso	N	nivå
 tasoero	N	nivåforskjell
 tasogeometria	N	plangeometri
 tasohiomakone	N	planslipemaskin
-tasohiomakone	N	plansliper
 tattari	N	bokhvete
 tauriini	N	taurin
 tavaraluotto	N	varekreditt
@@ -5527,7 +5399,6 @@ teelusikka	N	teskje
 teema	N	tema
 teho	N	effekt
 tekijänoikeus	N	opphavsrett
-tekijänoikeus	N	åndsverk
 tekniikka	N	teknikk
 teknikko	N	tekniker
 teko	N	foretagende
@@ -5556,21 +5427,19 @@ tervas	N	tyrirot
 terveydenhoitaja	N	helsesøster
 terveydenhoito	N	helsestell
 terveys	N	helbred
-teräsvilla	N	skrubbstål
 teräsvilla	N	stålull
 teuraspaino	N	slaktevekt
 thaimaalainen	N	thailender
 tiamiini	N	tiamin
 tiedonantaja	N	hjemmelsmann
 tiedonhalu	N	vitebegjær
-tiedosto	N	database
+tiedosto	N	datafil	
+tietokanta	N	database
 tiedustelu	N	etterretning
 tiehöylä	N	veghøvel
 tieinsinööri	N	vegingeniør
 tieliikenne	N	vegtrafikk
 tieliikennelaki	N	vegtrafikklov
-tieliikennelaki	N	vegtrafikkloven
-tielinja	N	veglinje
 tielinja	N	vegtrase
 tiemaksu	N	vegavgift
 tiemestari	N	vegmester
@@ -5584,9 +5453,7 @@ tieoikeus	N	vegrett
 tiesulku	N	vegsperring
 tiesuola	N	vegsalt
 tieteenfilosofia	N	vitenskapsfilosofi
-tieto	N	erkjennelse
-tieto	N	informasjon
-tieto	N	kunnskap
+tieto	N	informasjon	kunnskap
 tietoisuus	N	bevissthet
 tietojärjestelmä	N	datasystem
 tietokone	N	datamaskin
@@ -5594,18 +5461,15 @@ tietopohja	N	kunnskapsbase
 tietyö	N	vegarbeid
 tieyhteys	N	vegforbindelse
 tiiviste	N	pakning
-tiiviste	N	tetning
 tiivisterengas	N	gacoring
 tilaaja	N	bestiller
 tilanne	N	tilstand
 tilasto	N	statistikk
-tilaus	N	abonnement
-tilaus	N	ordre
+tilaus	N	abonnement	ordre
 tilausliikenne	N	chartertrafikk
 tilavuus	N	volum
 tilhi	N	sidensvans
 tili	N	regnskap
-tili	N	tilstand
 tilikausi	N	perioderegnskapet
 tilikirja	N	kontobok
 tilintarkastus	N	revisjon
@@ -5615,12 +5479,10 @@ tina	N	tinn
 todistaja	N	vitne
 todistajanlausunto	N	vitneutsagn
 todistajanpalkkio	N	vitnegodtgjørelse
-todistelu	N	bevisoppgave
 todistelu	N	vitneførsel
 todistus	N	vitnemål
 todistusvoima	N	beviskraft
 togolainen	N	togoleser
-toimeentulo	N	levekår
 toimeentulo	N	utkomme
 toimenpide	N	inngrep
 toimi	N	befatning
@@ -5641,7 +5503,6 @@ toimituspalkkio	N	provisjon
 toksiini	N	toksin
 tomaatti	N	tomat
 tongalainen	N	tonganer
-tontti	N	boligtomt
 tontti	N	tomt
 torjunta	N	avvisning
 tornipöllö	N	tårnugle
@@ -5661,7 +5522,7 @@ tsaari	N	tsar
 tuhkakuppi	N	askebeger
 tuhkarokko	N	meslinger
 tuhlaaja	N	ødsling
-tuki	N	dybdestøtte
+tuki	N	støtte
 tukihenkilö	N	støttekontakt
 tukisukka	N	støttestrømpe
 tukkakoskelo	N	siland
@@ -5669,7 +5530,6 @@ tukkasotka	N	toppand
 tukkikuorma	N	skurlast
 tulehdus	N	betennelse
 tulkinta	N	tolking
-tulkinta	N	tolkning
 tulkka	N	bøssing
 tulkki	N	tolk
 tulliasema	N	tollsted
@@ -5681,15 +5541,13 @@ tulonlähde	N	inntektskilde
 tulos	N	resultat
 tulostavoite	N	resultatmål
 tulovero	N	lønnsfradrag
-tulva	N	alluvial
-tulva	N	flom
-tulva	N	oversvømmelse
+tulva	N	flom	oversvømmelse
 tummarusokki	N	flikbrønsle
 tummuminen	N	anløping
 tunisialainen	N	tunisier
 tunkeutuja	N	inntrenger
 tunkki	N	jekk
-tunne	N	emosjon
+tunne	N	følelse	emosjon
 tunneli	N	tunnell
 tunnelma	N	stemning
 tunnistaminen	N	gjenkjennelse
@@ -5705,8 +5563,7 @@ tuohi	N	never
 tuoli	N	stol
 tuomari	N	dommer
 tuomenmarja	N	heggebær
-tuomio	N	dom
-tuomio	N	domfellelse
+tuomio	N	dom	domfellelse
 tuomioistuin	N	domstol
 tuomioistuin	N	meddomsrett
 tuomionvoipa	N	domsmyndig
@@ -5715,7 +5572,6 @@ tuomiovirhe	N	rettergangsfeil
 tuomittu	N	domfelt
 tuonti	N	import
 tuoremehu	N	juice
-tuoremehu	N	råsaft
 tuotanto	N	produksjon
 tuotantokapasiteetti	N	produksjonskapasitet
 tuotantolaitos	N	produksjonsanlegg
@@ -5725,7 +5581,6 @@ tuote	N	produkt
 tuotekehitys	N	produktutvikling
 tuotenimi	N	produktnavn
 tuoteseloste	N	produktinformasjon
-tuottaja	N	produksjonsleder
 tuottaja	N	produsent
 tuottamus	N	uaktsomhet
 tuotto	N	avkastning
@@ -5738,17 +5593,13 @@ turkkilainen	N	tyrker
 turkmenistanilainen	N	turkmener
 turnaus	N	turnering
 turpa	N	stam
-turska	N	skrei
-turska	N	torsk
-turva	N	sikring
+turska	N	skrei	torsk
+turva	N	sikring	sikekrhet
 turvallisuus	N	trygghet
 turvattomuus	N	utrygghet
 turvavyö	N	sikkerhetsbelte
 tutkielma	N	studie
-tutkimus	N	forskning
-tutkimus	N	undersøkelse
-tutkimus	N	utforskning
-tutkintavankeus	N	varetektsfengsel
+tutkimus	N	forskning	undersøkelse
 tutkintavankeus	N	varetektsfengsling
 tuuletin	N	vifte
 tuuletusikkuna	N	ventil
@@ -5756,12 +5607,9 @@ tuulilasi	N	frontrute
 tuumamitta	N	meterstokk
 tuurna	N	dor
 tuvalulainen	N	tuvaler
-tyhjäkäynti	N	dødpunkt
-tyhjäkäynti	N	slakk
-tyhjäkäynti	N	tollekniv
 tyhjäkäynti	N	tomgang
 tynnyri	N	trommel
-tyrmäystippa	N	knockout dråper
+tyrmäystippa	N	knockoutdråpe
 tyssähitsaus	N	stukesveising
 tytärpuoli	N	stedatter
 tyyli	N	stil
@@ -5776,15 +5624,13 @@ työkalu	N	verktøy
 työkalulaatikko	N	verktøykasse
 työkappale	N	arbeidsstykke
 työkokemus	N	arbeidserfaring
-työkokemus	N	yrkeserfaring
 työkone	N	arbeidsmaskin
 työkyvyttömyys	N	arbeidsuførhet
 työkyvyttömyyseläke	N	uføretrygd
 työllistäminen	N	sysselsetting
 työlupa	N	arbeidstillatelse
-työmäärä	N	arbeidsmonn
+työmäärä	N	arbeidsmengde
 työnantaja	N	arbeidsgiver
-työntekijä	N	ansatt
 työntekijä	N	arbeidstaker
 työntömitta	N	skyvelære
 työpaikka	N	arbeidssted
@@ -5805,10 +5651,9 @@ työympäristö	N	arbeidsmiljø
 tähtitalvikki	N	olavsstake
 täplärapu	N	edelkreps
 täsmennys	N	presisering
-täydennys	N	komplementær
+täydennys	N	utfylling
 täysistunto	N	plenum
 täysmaito	N	helmelk
-täysmaito	N	tettemelk
 täyte	N	gjenfylling
 täyteaine	N	fyllmiddel
 törö	N	sandkryper
@@ -5830,15 +5675,13 @@ uniapnea	N	søvnapne
 unihäiriö	N	søvnforstyrrelse
 unikonsiemen	N	valmuefrø
 untuvapeitto	N	dyne
-upotus	N	forsenke
 upotus	N	forsenkning
-ura	N	fals
+ura	N	fals	spor
 urakka	N	akkord
 uraruuvi	N	sporskrue
 urheilulaji	N	idrettsøvelse
 uruguaylainen	N	uruguayaner
-uskomus	N	betroelse
-uskomus	N	tro
+uskomus	N	betroelse	tro
 uskonto	N	religion
 uskova	N	truende
 uudelleenvalinta	N	gjenutnevning
@@ -5877,7 +5720,7 @@ vaihtotavara	N	byttevare
 vaihtovirta	N	vekselstrøm
 vaijeri	N	vaier
 vaikeus	N	vanske
-vaikutus	N	bivirkning
+sivuvaikutus	N	bivirkning
 vaikutus	N	påvirkning
 vaikutusalue	N	virkeområde
 vaitiolovelvollisuus	N	taushetsplikt
@@ -5896,9 +5739,8 @@ valikko	N	meny
 valinnaisaine	N	tilvalgsfag
 valiokunta	N	utvalg
 valistusaika	N	opplysningstiden
-valittaminen	N	anke
-valitus	N	anke
-valitus	N	klage
+valittaminen	N	klaging
+valitus	N	anke	klage
 valituskirjelmä	N	ankebegjæring
 valituslautakunta	N	ankeinstans
 valitusoikeus	N	klagerett
@@ -5916,24 +5758,20 @@ valmistelija	N	saksforbereder
 valmistelu	N	forberedelse
 valmius	N	beredskap
 valokaari	N	lysbue
-valokuva	N	foto
 valokuva	N	fotografi
 valokuvaaja	N	fotograf
 valokuvaus	N	fotografering
 valta-asema	N	maktposisjon
 valtakirja	N	fullmakt
 valtaoikeus	N	høyhetsrett
-valtatie	N	fylkesveg
 valtatie	N	riksveg
 valtionsyyttäjä	N	statsadvokat
-valtuutettu	N	bemyndiget
 valtuutettu	N	fullmektig
 valtuutus	N	delegering
 valtuutus	N	prokura
 valurauta	N	støpejern
 valvoja	N	tilsynsmann
-valvonta	N	oppsyn
-valvonta	N	overvåking
+valvonta	N	oppsyn	overvåking
 valvonta	N	tilsyn
 valvontaviranomainen	N	tilsynsmyndighet
 vammainen	N	funksjonssvikt
@@ -5946,9 +5784,7 @@ varakkuus	N	besuttenhet
 varanto	N	reserve
 varaosa	N	reservedel
 vararengas	N	reservehjul
-varasto	N	beholdning
-varasto	N	bod
-varasto	N	lager
+varasto	N	beholdning	lager
 varastorakennus	N	lagerhus
 varjostus	N	skravering
 varmistus	N	sikkerhetskopi
@@ -5961,11 +5797,9 @@ varpuspöllö	N	spurveugle
 varsi	N	handtak
 vartalo	N	ordstamme
 vartija	N	vekter
-vasara	N	hammer
-vasara	N	klubbe
+vasara	N	hammer	klubbe
 vastaaja	N	saksøkte
-vastaanottaja	N	adressat
-vastaanottaja	N	mottaker
+vastaanottaja	N	adressat	mottaker
 vastine	N	tilsvar
 vastoinkäyminen	N	motsetning
 vastuuvakuutus	N	ansvarsforsikring
@@ -6030,22 +5864,18 @@ vesirakkula	N	vannblemme
 vesirakkula	N	vannbyll
 vesivaaka	N	vater
 vesivarasto	N	vannmagasin
-veto	N	avsug
-veto	N	avtrekk
+veto	N	avsug	avtrekk
 veto-oikeus	N	vetorett
 vetojuhta	N	trekkdyr
 vetoketju	N	glidelås
 vetolujuus	N	strekkfasthet
-vetopyörä	N	drev
 vetopyörä	N	drivhjul
 viemäri	N	avløp
 viemäri	N	kloakk
 viemäriaukko	N	sluk
-viemäriputki	N	avløpsrør
-viemäriputki	N	kloakkledning
+viemäriputki	N	avløpsrør	kloakkledning
 viemäristö	N	avløpsanlegg
-viemärivesi	N	avløpsvann
-viemärivesi	N	kloakk
+viemärivesi	N	avløpsvann	kloakk
 vienti	N	eksport
 vientituote	N	eksportprodukt
 vierintälaakeri	N	rullingslager
@@ -6069,11 +5899,9 @@ viitta	N	kappe
 viittaus	N	henvisning
 viittomakieli	N	tegnspråk
 viivytys	N	forsinkelse
-viivytys	N	hefte
-viivytys	N	opphold
 viljalyhde	N	kornnek
 viljatuote	N	kornprodukt
-viljely	N	kultivering
+viljely	N	kultivering	dyrking
 viljelyraja	N	odlingsgrense
 vilkku	N	retningslys
 vilkkuvalo	N	blinklys
@@ -6081,7 +5909,6 @@ vilkkuvalo	N	retningsviser
 villakuore	N	lodde
 vimpa	N	vimme
 vipu	N	hevarm
-vipu	N	kraftarm
 vipuvarsi	N	vippearm
 virka	N	embete
 virka-asema	N	embetsstand
@@ -6106,7 +5933,6 @@ voide	N	krem
 voikukka	N	løvetann
 voima	N	styrke
 voimaantulo	N	ikrafttredelse
-voimaantulo	N	ikrafttreden
 voimala	N	kraftverk
 voimansiirto	N	kraftoverføring
 voimisteluväline	N	gymnastikkartikkel
@@ -6114,14 +5940,11 @@ voipaperi	N	matpapir
 voiteluaine	N	smøremiddel
 voitelunippa	N	smørenippel
 voiteluöljy	N	smøreolje
-voitto	N	avanse
-voitto	N	utbytte
+voitto	N	utbytte	avanse
 vuodepaikka	N	sengepost
 vuokra	N	husleie
 vuokra-aika	N	forpaktningsperiode
-vuokraaja	N	bortfester
-vuokraaja	N	fester
-vuokraaja	N	forpakter
+vuokraaja	N	forpakter	utleier
 vuokraehto	N	festevilkår
 vuokrahuone	N	hybel
 vuokralainen	N	leieboer
@@ -6130,10 +5953,9 @@ vuokrasopimus	N	bortforpaktningskontrakt
 vuokrasopimus	N	festekontrakt
 vuokrasopimus	N	forpaktningskontrakt
 vuokrasopimus	N	leiekontrakt
-vuokrasuhde	N	festeforhold
+vuokrasuhde	N	leieforhold	festeforhold
 vuokratontti	N	festetomt
-vuokraus	N	bygsel
-vuokraus	N	forpaktning
+vuokraus	N	bygsel	forpaktning
 vuorijalava	N	alm, bergalm
 vuorijono	N	fjellkjede
 vuorimänty	N	alpefuru
@@ -6162,7 +5984,6 @@ väärinkäyttö	N	missbruk
 ydinluu	N	margebein
 yhdentyminen	N	integrering
 yhdessäolo	N	samvær
-yhdistäminen	N	assosiering
 yhdistäminen	N	sammensetning
 yhdysvaltalainen	N	amerikaner
 yhteenlaskettava	N	addend
@@ -6184,9 +6005,8 @@ yksilökäsite	N	individualbegrep
 yksinoikeus	N	enerett
 yksinoikeutettu	N	eneberettiget
 yksityisalue	N	enemerke
-yksityiskohta	N	enkelthet
+yksityiskohta	N	detalj
 yksityisomistus	N	enebesittelse
-yksityisomistus	N	privatbesiddelse
 yksiö	N	ettromsleilighet
 yleiskäsite	N	allmennbegrep
 yleisradio	N	kringkasting
@@ -6200,32 +6020,26 @@ ylikuorma	N	overbelastning
 ylioppiminen	N	overlæring
 ylipaine	N	overtrykk
 ylituotanto	N	overproduksjon
-ylitys	N	overskjøting
 ylitys	N	overskridelse
 ylivuoto	N	overløp
 ylivuotoinkontinenssi	N	overløpsinkontinens, overflowinkontinens
-ylläpito	N	håndhevelse
 ylläpito	N	service
 ylpeys	N	stolthet
 ylätasanko	N	svaberg
 ympäristölautakunta	N	miljøforvaltning
 ympäristönsuojelu	N	miljøvern
 yrittäjä	N	foretaker
-yritys	N	bedrift, foretak
-yritys	N	forsøk
-yritys	N	selskap
+yritys	N	bedrift, foretak	forsøk
 yrtti	N	urt
 yöpymispaikka	N	overnattingssted
 zimbabwelainen	N	zimbabwer
 äes	N	harv
 äiti	N	småbarnsmor, mor
-äitipuoli	N	steforelder
+äitipuoli	N	stemor
 ärtymys	N	plage
-äyriäinen	N	krepsdyr
-äyriäinen	N	skalldyr
+äyriäinen	N	krepsdyr	skalldyr
 äänenvaimennin	N	lyddemper
-ääni	N	stemme
-ääni	N	votum
+ääni	N	stemme	votum
 äänioikeutettu	N	stemmeberettiget
 äänitaso	N	lydnivå
 öljykannu	N	oljekanne

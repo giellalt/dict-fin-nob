@@ -1,6 +1,5 @@
 joka	Pron	hver
-se	Pron	det
-se	Pron	den
+se	Pron	den	det
 hän	Pron	han	hun
 tämä	Pron	denne	dette
 mikä	Pron	hva	som
@@ -13,17 +12,15 @@ itse	Pron	sjøl
 jokin	Pron	noe
 eri	Pron	annen
 koko	Pron	hel
-muutama	Pron	en
 muutama	Pron	et par
 toinen	Pron	annen
-toinen	Pron	andre
 jokainen	Pron	hver
 molemmat	Pron	begge
-joku	Pron	en
+joku	Pron	noen
 usein	Pron	ofte
 tuo	Pron	den der borte
-useampi	Pron	mer
-kukin	Pron	ingen
+useampi	Pron	flere
+kukin	Pron	noen og en hver
 me	Pron	vi
 kuka	Pron	hvem
 kumpikin	Pron	begge
@@ -32,9 +29,7 @@ kukaan	Pron	ingen
 minä	Pron	jeg
 kuinka	Pron	hvordan
 te	Pron	dere
-työ	N	arbeid
 sinä	Pron	du
 millainen	Pron	hva slags
 monta	Pron	mange
-sää	N	vær
 jompikumpi	Pron	den ene

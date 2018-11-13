@@ -5,8 +5,6 @@ hyvä	A	god
 oma	A	egen
 pieni	A	liten
 vanha	A	gammel
-suomalainen	N	finne
-suomalainen	N	finlender
 suomalainen	A	finsk
 tunnettu	A	kjent
 tärkeä	A	viktig
@@ -56,19 +54,15 @@ taloudellinen	A	økonomisk
 itsenäinen	A	selvstendig
 sellainen	A	slik
 paikallinen	A	lokal
-paikallinen	A	menneske herfra
 vapaa	A	fri
 tuleva	A	kommende
 varhainen	A	tidlig
-venäläinen	A	russer
 venäläinen	A	russisk
 julkinen	A	offentlig
 punainen	A	rød
 kuuluisa	A	berømt
 kova	A	hard
-pyhä	A	rengjøringsassistent
 pyhä	A	hellig
-pyhä	A	helligdag
 tyypillinen	A	typisk
 yhteinen	A	felles
 huomattava	A	betydningsfull
@@ -78,71 +72,64 @@ uskonnollinen	A	kristen
 vaikea	A	vanskelig
 huono	A	dårlig
 suora	A	rett
-sisäinen	A	det indre
-elävä	A	levende vesen
-myöhä	A	sent
+sisäinen	A	indre
+elävä	A	levende
+myöhä	A	sen
 ranskalainen	A	fransk
 tieteellinen	A	vitenskapelig
 erillinen	A	særskilt
-ruotsalainen	A	svenske
+ruotsalainen	A	svensk
 avoin	A	åpen
-parka	A	stakkar
+parka	A	stakkarslig
 tarkka	A	nøyaktig
-kehittynyt	A	sterk
-johtava	A	tet
+kehittynyt	A	utviklet
+johtava	A	ledende
 raskas	A	tung
 iso	A	stor
-heikko	A	dårlig
+heikko	A	svak
 kylmä	A	kald
 sopiva	A	høvelig
 valmis	A	ferdig
 helppo	A	lett
-yksittäinen	A	enslig
-kyseinen	A	angående
+yksittäinen	A	individuell	separat
+kyseinen	A	gjeldende
 brittiläinen	A	britisk
 yksityinen	A	privat
 todellinen	A	virkelig
-harvinainen	A	få
+harvinainen	A	sjelden
 selvä	A	klar
-edellinen	A	tidligere
+edellinen	A	tidligere	forrige
 sosiaalinen	A	sosial
-vanhempi	A	forelder
 klassinen	A	klassisk
 matala	A	lav
-matala	A	grunt vann
 yksinkertainen	A	enkel
 kristillinen	A	kristen
 vähäinen	A	liten
-vastainen	A	kommende
+vastainen	A	motstående
 kasvava	A	framvoksende
-tehokas	A	næringsrik
-paha	A	sint
+tehokas	A	effektiv
+paha	A	ond	ondskapsfull
 luonnollinen	A	naturlig
 amerikkalainen	A	amerikansk
 silloinen	A	daværende
 näkyvä	A	synlig
-näkyvä	A	utsikt
 vaihteleva	A	variabel
 demokraattinen	A	demokratisk
 pysyvä	A	varig
 aikuinen	A	voksen
-aikuinen	A	hel
 samanlainen	A	liknende
-yhtenäinen	A	kontinuerlig
+yhtenäinen	A	hel	helhetlig
 vihreä	A	grønn
 niminen	A	med navnet
 moderni	A	moderne
 sosialistinen	A	sosialistisk
-pitävä	A	innehaver
-pitävä	A	utøver
+pitävä	A	innehavende
 läheinen	A	nærliggende
 etninen	A	etnisk
 kirjallinen	A	skriftlig
 vakava	A	alvorlig
-pelkkä	A	bare
 puhdas	A	rein
 valtava	A	svær
-valtava	A	svært
 englantilainen	A	engelsk
 sotilaallinen	A	militær
 yhteiskunnallinen	A	samfunnsmessig
@@ -151,10 +138,8 @@ täydellinen	A	fullverdig
 jatkuva	A	vedvarende
 henkilökohtainen	A	personlig
 tekninen	A	teknisk
-nykyaikainen	A	nåtidens
+nykyaikainen	A	moderne
 edustava	A	representativ
-edustava	A	foresatt
-lämmin	A	varme
 lämmin	A	varm
 alainen	A	underlagt
 syvä	A	dyp
@@ -162,47 +147,42 @@ kevyt	A	lett
 kuiva	A	tørr
 muinainen	A	gammeldags
 hidas	A	sein
-kuuma	A	varme
 kuuma	A	varm
-vieras	A	gjest
-vieras	A	for at han eller hun ikke
 vieras	A	fremmed
 filosofinen	A	filosofisk
 ikäinen	A	av en bestemt alder
-köyhä	A	legdslem
 köyhä	A	fattig
 vaativa	A	krevende
 luterilainen	A	luthersk
-kielletty	A	forbud
+kielletty	A	forbudt
 tumma	A	mørk
 harva	A	sjelden
 fyysinen	A	fysisk
 kallis	A	dyr
-vaalea	A	skinne
 vaalea	A	lys
 ortodoksinen	A	ortodoks
 sininen	A	blå
 kemiallinen	A	kjemisk
 vaarallinen	A	farlig
-ulkopuolinen	A	fremmed
-ympäröivä	A	miljø
+ulkopuolinen	A	utenforstående
+ympäröivä	A	omliggende
 lopullinen	A	endelig
 ylin	A	øverst
 hallinnollinen	A	administrativ
 salainen	A	hemmelig
 alhainen	A	nedre
-tukeva	A	stiv
+tukeva	A	stødig	stabil
 seksuaalinen	A	seksuell
 positiivinen	A	positiv
 rikas	A	rik
 keskimääräinen	A	gjennomsnittlig
-kapea	A	trang
+kapea	A	smal	trang
 alempi	A	nedre
 liberaali	A	liberal
 vasen	A	venstre
 tiukka	A	stram
+-----------------------  Trond
 tiheä	A	tjukk
-tiheä	A	grøt
 vapaaehtoinen	A	frivillig
 tasainen	A	flat
 leveä	A	brei

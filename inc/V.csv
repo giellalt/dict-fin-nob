@@ -4,14 +4,14 @@ saada	V	få
 voida	V	kunne
 tulla	V	komme
 käyttää	V	bruke
-tehdä	V	arbeide
-pitää	V	skulle
+tehdä	V	gjøre
+pitää	V	skulle	holde
 kuulua	V	høres
 alkaa	V	begynne
-toimia	V	fungere
+toimia	V	agere	fungere
 vastata	V	svare
-sijaita	V	stelle
-tuntea	V	kjenne
+sijaita	V	ligge	befinne seg
+tuntea	V	kjenne	føle
 perustaa	V	grunnlegge
 ottaa	V	ta
 johtaa	V	lede
@@ -21,30 +21,30 @@ rakentaa	V	bygge
 antaa	V	gi
 tarkoittaa	V	mene	bety
 seurata	V	følge
-merkitä	V	merke
+merkitä	V	merke	registrere
 elää	V	leve
 muodostaa	V	lage	forme
-saattaa	V	kunne
+saattaa	V	følge	kunne
 esittää	V	fremme	presentere
-valita	V	velge
+valita	V	velge	utpeke
 jäädä	V	bli igjen
 kirjoittaa	V	skrive
 nähdä	V	se
-kutsua	V	kalle
-liittyä	V	knytte
+kutsua	V	kalle	invitere	tilkalle
+liittyä	V	knytte seg til
 kasvaa	V	vokse
 tapahtua	V	hende
 nousta	V	heve seg
 vaikuttaa	V	være
-muuttaa	V	forandre
-käydä	V	gå
-sanoa	V	lese
+muuttaa	V	flytte	bytte	forandre
+käydä	V	gå	besøke	fungere
+sanoa	V	si
 aiheuttaa	V	forårsake
 joutua	V	havne
 sisältää	V	inneholde
 järjestää	V	organisere
-aloittaa	V	få i gang
-esiintyä	V	finnes
+aloittaa	V	begynne	få i gang
+esiintyä	V	opptre	finnes
 pyrkiä	V	streve etter
 jakaa	V	dele
 katsoa	V	titte
@@ -53,7 +53,7 @@ kertoa	V	fortelle
 kehittää	V	utvikle
 tuottaa	V	produsere
 voittaa	V	vinne
-päästä	V	fritas
+päästä	V	slippe løs
 suunnitella	V	planlegge
 haluta	V	ville
 hallita	V	rå over
@@ -73,7 +73,7 @@ kehittyä	V	utvikle seg
 periä	V	arve
 pelata	V	spille
 saavuttaa	V	innhente
-tutkia	V	undersøke
+tutkia	V	undersøke	forske på
 tarvita	V	behøve
 valmistaa	V	lage
 muuttua	V	forandre seg
@@ -123,8 +123,8 @@ kärsiä	V	tåle	lide
 tarjota	V	tilby
 menettää	V	miste
 muistuttaa	V	påminne
-koskea	V	komme bort i
-keskittyä	V	samles
+koskea	V	komme borti	berøre
+keskittyä	V	konsentrere seg
 näyttää	V	vise
 toteuttaa	V	gjennomføre
 levitä	V	bre seg
@@ -135,37 +135,37 @@ syödä	V	spise
 estää	V	hindre
 määrätä	V	bestemme
 väittää	V	hevde
-johtua	V	komme	havne
+johtua	V	betinges
 julistaa	V	publisere
-asettaa	V	etablere
+asettaa	V	plassere
 työskennellä	V	arbeide
-myöntää	V	bifalle	innrømmæ
-aleta	V	resignere
-huomata	V	oppdage
-huolia	V	bry seg om
-todeta	V	finne ut
+myöntää	V	innrømmæ
+aleta	V	synke	falle sammen	gå ned
+huomata	V	legge merke til		observere
+huolia	V	godkjenne   bry seg om
+todeta	V	fastslå	    påpeke
 yhdistyä	V	forenes
 tietää	V	vite
 soittaa	V	ringe
-kokea	V	erfare
-lopettaa	V	slutte
-hoitaa	V	stelle
+kokea	V	erfare	oppleve
+lopettaa	V	avslutte	slutte	legge ned	
+hoitaa	V	stelle	pleie
 nostaa	V	løfte
-viitata	V	markere
+viitata	V	markere	peke på noe	rekke opp hånda
 kannattaa	V	lønne seg
 omistaa	V	eie
 verrata	V	sammenligne
-luopua	V	slutte
+luopua	V	avstå	avgå	avskaffe
 hyökätä	V	angripe
 vahvistaa	V	styrke
-maksaa	V	betale
-harjoittaa	V	trene
+maksaa	V	betale	koste
+harjoittaa	V	øve	drive med
 liikkua	V	bevege seg
 avata	V	åpne
 paeta	V	flykte
 lentää	V	fly
 oppia	V	lære
-käsittää	V	forstå
+käsittää	V	forstå	omfatte
 ostaa	V	kjøpe
 riippua	V	henge
 menestyä	V	lykkes
@@ -174,9 +174,9 @@ ryhtyä	V	begynne
 ohjata	V	styre
 tuhota	V	nøytralisere
 ymmärtää	V	forstå
-sallia	V	bifalle
+sallia	V	tillate	
 tuomita	V	dømme
-hävitä	V	forsvinne
+hävitä	V	forsvinne	tape
 vaihtaa	V	skifte
 sataa	V	regne
 selittää	V	forklare
@@ -200,8 +200,8 @@ riittää	V	vare
 kerätä	V	samle
 etsiä	V	leite
 auttaa	V	hjelpe
-kiertää	V	unngå
-viettää	V	bruke
+kiertää	V	unngå	omgå
+viettää	V	tilbringe	feire
 ajatella	V	tenke
 valloittaa	V	erobre
 opettaa	V	undervise
@@ -212,15 +212,15 @@ esitellä	V	framvise
 kääntää	V	oversette
 laajentaa	V	utvide
 säilyttää	V	beholde
-ylittää	V	krysse
-lisääntyä	V	øke
+ylittää	V	krysse	overtreffe
+lisääntyä	V	øke	forplante seg
 painaa	V	trykke
 kattaa	V	dekke
 säätää	V	regulere	justere
 kuulla	V	høre
 ratkaista	V	løse
 parantaa	V	forbedre
-palvella	V	tjene
+palvella	V	tjene	tjenestegjøre
 tunnustaa	V	innrømme
 noudattaa	V	følge
 herättää	V	vekke
@@ -237,24 +237,24 @@ edetä	V	utvikle seg
 odottaa	V	vente
 lyödä	V	slå
 loppua	V	ta slutt
-ilmaista	V	si
+ilmaista	V	uttrykke
 hakea	V	hente
 lakkauttaa	V	avslutte
 suunnata	V	flytte
 laatia	V	ordne
-sulkea	V	dekke	stenge
+sulkea	V	stenge	sperre av
 ehdottaa	V	foreslå
-puuttua	V	mangle
-päätyä	V	komme til å
+puuttua	V	mangle	gripe inn
+päätyä	V	slutte	komme til å
 hajota	V	gå i stykker
 kilpailla	V	konkurrere
-asettua	V	bo
+asettua	V	stille seg	sette seg	legge seg
 kuljettaa	V	frakte
 ampua	V	skyte
 maata	V	ligge
 toimittaa	V	utrette
 keksiä	V	finne på
-arvostella	V	bedømme
+arvostella	V	bedømme	kritisere
 puolustaa	V	forsvare
 synnyttää	V	føde
 koota	V	samle
@@ -262,110 +262,111 @@ vetäytyä	V	trekke seg
 epäillä	V	tvile
 edistää	V	fremme
 kääntyä	V	snu seg
-virrata	V	renne
+virrata	V	strømme
 kukistaa	V	overvinne
 arvella	V	foreslå
 vetää	V	dra
 vierailla	V	besøke
 heittää	V	kaste
-olettaa	V	kalle
+olettaa	V	anta
 varustaa	V	utruste
 luvata	V	love
 tulkita	V	tolke
-edellyttää	V	kreve
-sotia	V	kjempe
+edellyttää	V	forutsette
+sotia	V	føre krig
 tunnistaa	V	kjenne igjen
 muistaa	V	huske
 yleistyä	V	øke
 peittää	V	dekke
 pakottaa	V	tvinge
-pyytää	V	fiske
-kieltäytyä	V	nekte
+pyytää	V	be	begjære
+kieltäytyä	V	nekte	avstå
 epäonnistua	V	mislykkes
 liikennöidä	V	trafikere
-kulua	V	ta slutt
+kulua	V	bli sliten	ta slutt
 suojella	V	verne
 kiinnittää	V	sette fast
-määrittää	V	gjenkjenn
-täytyä	V	skulle
-selvitä	V	klare
-ilmetä	V	føles
+määrittää	V	bestemme	angi
+täytyä	V	måtte
+selvitä	V	klarne	komme til besinnelse
+ilmetä	V	vise seg      framgå
 palaa	V	brenne
-kohdistua	V	påvirke
+kohdistua	V	rette seg mot
 haudata	V	begrave
-suostua	V	bifalle
+suostua	V	gå med på
 pudota	V	falle
 laulaa	V	synge
 kohota	V	stige
-todistaa	V	bekrefte
-poistua	V	trekke seg
-nauttia	V	nyte
-kouluttaa	V	undervise
+todistaa	V	bevise	bevitne	bekrefte
+poistua	V	fjerne seg
+nauttia	V	innta  nyte
+kouluttaa	V	utdanne	lære opp
 suojata	V	beskytte
-matkustaa	V	bevege seg
-levittää	V	utvide
-päästää	V	miste
-välittää	V	bry seg om
-piirtää	V	tegne	streke
+matkustaa	V	reise
+levittää	V	spre	utvide
+päästää	V	slippe	befri
+välittää	V	formidle	bry seg om
+piirtää	V	tegne
 kadota	V	forsvinne
 uudistaa	V	fornye
 polttaa	V	brenne
-purkaa	V	rote opp
+purkaa	V	ta fra hverandre	løse opp
 sitoa	V	binde
 omaksua	V	tilegne seg
 kaatua	V	falle
-vaihtua	V	variere
-varata	V	advare
+vaihtua	V	byttes ut
+varata	V	reservere	bestille
 pelätä	V	frykte
 huolehtia	V	sørge for
-liittoutua	V	inngå
+liittoutua	V	gå sammen
 allekirjoittaa	V	underskrive
-rikkoa	V	overtre
+rikkoa	V	slå istykker	ødelegge
 tuhoutua	V	omkomme	ødelegges
-valvoa	V	vokte
+valvoa	V	våke	overvåke
 toivoa	V	ønske
 soveltaa	V	tilpasse
 vapautua	V	fritas
-harrastaa	V	pusle
-päätellä	V	bedømme
-osua	V	treffe
+harrastaa	V	være interessert i	drive med
+päätellä	V	konkludere med	 anta
+osua	V	treffe	
 käynnistää	V	få i gang
 kuvailla	V	beskrive
 surmata	V	drepe
 murhata	V	drepe
-keskustella	V	forstå hverandre
-sisältyä	V	høre
-sattua	V	kanskje
-astua	V	ta et skritt
+keskustella	V	diskutere
+sisältyä	V	inneholde
+sattua	V	treffe	skje
+astua	V	ta et skritt	trampe
 perustella	V	argumentere
 tutustua	V	bli kjent
 pysähtyä	V	stoppe
-laajeta	V	vokse
+laajeta	V	utvides
 toteutua	V	gjennomføres
-pidättää	V	holde
-soveltua	V	høve
-viljellä	V	så
+pidättää	V	holde igjen	hindre
+soveltua	V	passe
+viljellä	V	dyrke	bruke
 korjata	V	reparere
-torjua	V	ta imot
-suuntautua	V	oversette
+torjua	V	avverge	avvise
+suuntautua	V	rette seg	ta sikte på
 kokoontua	V	samles
-turvata	V	stole på
+turvata	V	gjøre noe trygt
 neuvotella	V	drøfte
-muokata	V	lage
+muokata	V	bearbeide	redigere	omarbeide
 taata	V	garantere
-rajata	V	begrense
+rajata	V	begrense	avgrense
 varmistaa	V	sikre
 näytellä	V	framvise
 hävittää	V	nøytralisere
 juoda	V	drikke
-ennustaa	V	forutsi
+ennustaa	V	forutsi	spå
 sekoittaa	V	blande
-aikoa	V	skulle
+aikoa	V	akte å gjøre noe
 tilata	V	bestille
-hajottaa	V	ødelegge
-antautua	V	resignere
+hajottaa	V	ødelegge	spre utover
+antautua	V	gi seg		gi opp	resignere
 vähentyä	V	minske
-yltää	V	nå
+yltää	V	strekke seg ut til
+---- Trond
 houkutella	V	tiltrekke
 kaapata	V	ta	kapre
 sairastua	V	bli syk
@@ -537,45 +538,39 @@ panostaa	V	satse, lade
 laskettaa	V	la renne
 analysoida	V	analysere
 sovittaa	V	tilpasse
----------------------------------- hit Trond
-sujua	V	heve seg
 tulostaa	V	printe
 sairastaa	V	være syk
-sairastaa	V	bli syk
-pysytellä	V	være
-palautua	V	snu
+pysytellä	V	forbli
+palautua	V	returnere
 lakata	V	slutte
-irrota	V	fritas
+irrota	V	løsne
 alentaa	V	senke
-unohtaa	V	overse
-säästää	V	korrigere
+unohtaa	V	glemme
+säästää	V	spare
 säteillä	V	stråle
 kuivata	V	tørke
 halkoa	V	kløyve
 turvautua	V	stole på
 työntää	V	skyve
 kuvastaa	V	avspeile
-evakuoida	V	tømme
-tavoittaa	V	innhente
-tarkistaa	V	inspisere
+evakuoida	V	evakuere
+tavoittaa	V	møte	få tak i
+tarkistaa	V	kontrollere	inspisere
 jäätyä	V	fryse
-varastoida	V	ta vare på
-taantua	V	bakover
+varastoida	V	sette på lager
 adoptoida	V	adoptere
 pyörittää	V	rotere
-loistaa	V	glitre
-raivata	V	kviste
+loistaa	V	lyse	glitre
 kukkia	V	blomstre
 varastaa	V	stjele
 uhrata	V	ofre
-tukahduttaa	V	slukke
-teettää	V	sysselsette
-loukkaantua	V	bli vanfør
+teettää	V	la gjøre
+loukkaantua	V	skade seg
 kerääntyä	V	samles
 opetella	V	lære
 boikotoida	V	boikotte
 seisoa	V	stå
-munata	V	dumme
+munata	V	dumme seg ut
 korottaa	V	løfte
 imeä	V	suge
 liueta	V	bli bløytt
@@ -589,34 +584,31 @@ levätä	V	hvile
 koristella	V	pynte
 varautua	V	advare
 kohdella	V	bearbeide
-jäljitellä	V	herme
-värvätä	V	ansette
+jäljitellä	V	herme	etterspore
+värvätä	V	verve
 vanhentua	V	bli gammel
 tehostaa	V	effektivisere
 piilottaa	V	gjømme
-paistaa	V	skinne
+paistaa	V	skinne	steike
 painottua	V	betone
 luennoida	V	forelese
 kätkeä	V	gjømme
-elvyttää	V	revitalisere
-koetella	V	eksperimentere
-vuotaa	V	renne
-tarkata	V	passe
-palvoa	V	tjene
+elvyttää	V	gjenopplive	revitalisere
+vuotaa	V	lekke
+palvoa	V	tilbe
 numeroida	V	nummerere
-hillitä	V	holde igjen
+hillitä	V	stagge
 hakata	V	hogge
 ylistää	V	rose
-velvoittaa	V	plikte
+velvoittaa	V	forplikte
 tuulla	V	blåse
 saartaa	V	omgi
 kuulostaa	V	høres
-eliminoida	V	tørke
+eliminoida	V	eliminere
 oleskella	V	oppholde seg
 liikuttaa	V	røre
 kustantaa	V	bekoste
 hypätä	V	hoppe
-henkiä	V	kjemme
 ehkäistä	V	hindre
 vihata	V	hate
 koskettaa	V	røre
@@ -624,30 +616,23 @@ innostua	V	bli glad
 päivittää	V	datere
 purra	V	bite
 luettaa	V	få til å lese
-syöstä	V	velte
 pakata	V	pakke
-koettaa	V	undersøke
-katua	V	vokte
+katua	V	angre
 upota	V	synke
 kaivata	V	savne
-valaista	V	skinne
-valaista	V	lys
 ääntää	V	gi lyd fra seg
-neuvoa	V	formane
-kiristyä	V	stram
-vaivata	V	plage
+neuvoa	V	råde
+kiristyä	V	bli stram
+vaivata	V	plage	bry
 pyydystää	V	fiske
-jaotella	V	dele
-valikoida	V	velge
-pettää	V	gi avslag
-anoa	V	be
+jaotella	V	dele opp
+valikoida	V	velge ut
+anoa	V	trygle	be
 kuultaa	V	skinne
-kuultaa	V	lys
 kutea	V	gyte
 täyttyä	V	bli full
 pestä	V	vaske
 sukia	V	kjemme
-reunustaa	V	følge spor
 rakastua	V	forelske seg
 murtua	V	brekke
 miettiä	V	tenke
@@ -664,14 +649,15 @@ taivuttaa	V	bøye
 nojata	V	lene seg
 käännyttää	V	vende om
 kostaa	V	hevne
-kiihdyttää	V	drive
+kiihdyttää	V	akselerere
 lykätä	V	utsette
 huolestua	V	bekymre
-välttyä	V	fritas
-tiedottaa	V	meddele
+välttyä	V	unngå
+tiedottaa	V	meddele	informere
 sammua	V	slukne
 rukoilla	V	be
 kyllästyä	V	bli lei
+---------------------------------- hit Trond
 joustaa	V	følge spor
 virittää	V	støtte opp
 otella	V	konkurrere

@@ -4,7 +4,7 @@
          <l pos="Adv">aikaisemmin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">før</t>
             <xg>
               <x></x>
@@ -18,7 +18,7 @@
          <l pos="Adv">aikaisin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">tidlig</t>
             <xg>
               <x></x>
@@ -32,7 +32,7 @@
          <l pos="Adv">aina</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">alltid</t>
             <xg>
               <x></x>
@@ -46,7 +46,7 @@
          <l pos="Adv">ajoissa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">i tide</t>
             <xg>
               <x></x>
@@ -60,7 +60,7 @@
          <l pos="Adv">aktiivisesti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">aktivt</t>
             <xg>
               <x></x>
@@ -74,7 +74,7 @@
          <l pos="Adv">alas</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ned</t>
             <xg>
               <x></x>
@@ -88,7 +88,7 @@
          <l pos="Adv">alaspäin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">nedover</t>
             <xg>
               <x></x>
@@ -102,7 +102,7 @@
          <l pos="Adv">alhaalla</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">nede</t>
             <xg>
               <x></x>
@@ -116,7 +116,7 @@
          <l pos="Adv">alla</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">under</t>
             <xg>
               <x></x>
@@ -130,7 +130,7 @@
          <l pos="Adv">alle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">inn under</t>
             <xg>
               <x></x>
@@ -144,7 +144,7 @@
          <l pos="Adv">aluksi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">i begynnelsen</t>
             <xg>
               <x></x>
@@ -158,7 +158,7 @@
          <l pos="Adv">alusta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">fra begynnelsen</t>
             <xg>
               <x></x>
@@ -172,7 +172,7 @@
          <l pos="Adv">auki</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">åpen</t>
             <xg>
               <x></x>
@@ -186,7 +186,7 @@
          <l pos="Adv">edelleen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">videre</t>
             <xg>
               <x></x>
@@ -195,7 +195,7 @@
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">fremdeles</t>
          </tg>
       </mg>
@@ -205,7 +205,7 @@
          <l pos="Adv">edessä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">i veien</t>
             <xg>
               <x></x>
@@ -214,7 +214,7 @@
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">foran</t>
          </tg>
       </mg>
@@ -224,7 +224,7 @@
          <l pos="Adv">edestä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">i veien</t>
             <xg>
               <x></x>
@@ -238,7 +238,7 @@
          <l pos="Adv">ehdottomasti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">gjerne</t>
             <xg>
               <x></x>
@@ -247,7 +247,7 @@
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">utvilsomt</t>
             <xg>
               <x></x>
@@ -261,7 +261,7 @@
          <l pos="Adv">eilen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">i går</t>
             <xg>
               <x></x>
@@ -275,7 +275,7 @@
          <l pos="Adv">enemmän</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">mer</t>
             <xg>
               <x></x>
@@ -289,7 +289,7 @@
          <l pos="Adv">enimmäkseen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">for det meste</t>
             <xg>
               <x></x>
@@ -303,7 +303,7 @@
          <l pos="Adv">eniten</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">mest</t>
             <xg>
               <x></x>
@@ -317,7 +317,7 @@
          <l pos="Adv">ennen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">før</t>
             <xg>
               <x></x>
@@ -331,7 +331,7 @@
          <l pos="Adv">yhdessä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">sammen</t>
             <xg>
               <x></x>
@@ -345,7 +345,7 @@
          <l pos="Adv">nopeasti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">fort</t>
             <xg>
               <x></x>
@@ -359,7 +359,7 @@
          <l pos="Adv">ensiksi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">for det første</t>
             <xg>
               <x></x>
@@ -373,7 +373,7 @@
          <l pos="Adv">ensin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">først</t>
             <xg>
               <x></x>
@@ -387,7 +387,7 @@
          <l pos="Adv">ensisijaisesti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">først og fremst</t>
             <xg>
               <x></x>
@@ -401,7 +401,7 @@
          <l pos="Adv">erikseen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">særskilt</t>
             <xg>
               <x></x>
@@ -415,7 +415,7 @@
          <l pos="Adv">erittäin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">meget</t>
             <xg>
               <x></x>
@@ -424,7 +424,7 @@
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">svært</t>
          </tg>
       </mg>
@@ -434,7 +434,7 @@
          <l pos="Adv">erityisesti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">særlig</t>
             <xg>
               <x></x>
@@ -448,7 +448,7 @@
          <l pos="Adv">eteen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">fram</t>
             <xg>
               <x></x>
@@ -457,7 +457,7 @@
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">foran</t>
          </tg>
       </mg>
@@ -467,7 +467,7 @@
          <l pos="Adv">eteenpäin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">framover</t>
             <xg>
               <x></x>
@@ -481,7 +481,7 @@
          <l pos="Adv">etukäteen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">på forhånd</t>
             <xg>
               <x></x>
@@ -495,7 +495,7 @@
          <l pos="Adv">harvoin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">sjelden</t>
             <xg>
               <x></x>
@@ -509,7 +509,7 @@
          <l pos="Adv">heti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">straks</t>
             <xg>
               <x></x>
@@ -523,7 +523,7 @@
          <l pos="Adv">hiljaa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">rolig</t>
             <xg>
               <x></x>
@@ -537,7 +537,7 @@
          <l pos="Adv">hiljattain</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">nylig</t>
             <xg>
               <x></x>
@@ -551,7 +551,7 @@
          <l pos="Adv">hitaasti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">sakte</t>
             <xg>
               <x></x>
@@ -565,7 +565,7 @@
          <l pos="Adv">huomenna</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">i morgen</t>
             <xg>
               <x></x>
@@ -579,7 +579,7 @@
          <l pos="Adv">hyvin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">godt</t>
             <xg>
               <x></x>
@@ -588,7 +588,7 @@
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">fint</t>
          </tg>
       </mg>
@@ -598,7 +598,7 @@
          <l pos="Adv">ilmaiseksi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">gratis</t>
             <xg>
               <x></x>
@@ -612,7 +612,7 @@
          <l pos="Adv">irti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">løs</t>
             <xg>
               <x></x>
@@ -626,7 +626,7 @@
          <l pos="Adv">jolloin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">når</t>
             <xg>
               <x></x>
@@ -640,7 +640,7 @@
          <l pos="Adv">jonne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">hvorhen</t>
             <xg>
               <x></x>
@@ -654,7 +654,7 @@
          <l pos="Adv">joskus</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">i blant</t>
             <xg>
               <x></x>
@@ -668,7 +668,7 @@
          <l pos="Adv">jälkeen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">etterpå</t>
             <xg>
               <x></x>
@@ -677,7 +677,7 @@
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">seinere</t>
          </tg>
       </mg>
@@ -687,7 +687,7 @@
          <l pos="Adv">kahden</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">toeine</t>
             <xg>
               <x></x>
@@ -701,7 +701,7 @@
          <l pos="Adv">kahdesti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">to ganger</t>
             <xg>
               <x></x>
@@ -715,7 +715,7 @@
          <l pos="Adv">kaikkialla</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">overalt</t>
             <xg>
               <x></x>
@@ -729,7 +729,7 @@
          <l pos="Adv">kaikkialle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">til overalt</t>
             <xg>
               <x></x>
@@ -743,7 +743,7 @@
          <l pos="Adv">kauan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">lenge</t>
             <xg>
               <x></x>
@@ -757,7 +757,7 @@
          <l pos="Adv">kauas</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">langt bort</t>
             <xg>
               <x></x>
@@ -771,7 +771,7 @@
          <l pos="Adv">kaukana</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">langt borte</t>
             <xg>
               <x></x>
@@ -785,7 +785,7 @@
          <l pos="Adv">kauniisti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">pent</t>
             <xg>
               <x></x>
@@ -799,7 +799,7 @@
          <l pos="Adv">kerran</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">en gang</t>
             <xg>
               <x></x>
@@ -813,7 +813,7 @@
          <l pos="Adv">keskelle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">midt på</t>
             <xg>
               <x></x>
@@ -827,7 +827,7 @@
          <l pos="Adv">keskellä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">midt på</t>
             <xg>
               <x></x>
@@ -841,7 +841,7 @@
          <l pos="Adv">keskeltä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">midt på</t>
             <xg>
               <x></x>
@@ -855,7 +855,7 @@
          <l pos="Adv">kesken</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">imellom</t>
             <xg>
               <x></x>
@@ -869,7 +869,7 @@
          <l pos="Adv">kesäisin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">om sommeren</t>
             <xg>
               <x></x>
@@ -883,7 +883,7 @@
          <l pos="Adv">keväisin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">om våren</t>
             <xg>
               <x></x>
@@ -897,7 +897,7 @@
          <l pos="Adv">kiinni</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">fast</t>
             <xg>
               <x></x>
@@ -911,7 +911,7 @@
          <l pos="Adv">kohta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">snart</t>
             <xg>
               <x></x>
@@ -925,7 +925,7 @@
          <l pos="Adv">kohti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">midt på</t>
             <xg>
               <x></x>
@@ -939,7 +939,7 @@
          <l pos="Adv">kokonaan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">fullstendig</t>
             <xg>
               <x></x>
@@ -953,7 +953,7 @@
          <l pos="Adv">koskaan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">noensinne</t>
             <xg>
               <x></x>
@@ -967,7 +967,7 @@
          <l pos="Adv">kotiin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">hjem</t>
             <xg>
               <x></x>
@@ -981,7 +981,7 @@
          <l pos="Adv">kotoa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">hjemmefra</t>
             <xg>
               <x></x>
@@ -995,7 +995,7 @@
          <l pos="Adv">kotona</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">hjemme</t>
             <xg>
               <x></x>
@@ -1009,7 +1009,7 @@
          <l pos="Adv">kovaa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">hardt</t>
             <xg>
               <x></x>
@@ -1023,7 +1023,7 @@
          <l pos="Adv">kovasti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">hardt</t>
             <xg>
               <x></x>
@@ -1037,7 +1037,7 @@
          <l pos="Adv">kuinka</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">hvordan</t>
             <xg>
               <x></x>
@@ -1051,7 +1051,7 @@
          <l pos="Adv">kuukausittain</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">månedlig</t>
             <xg>
               <x></x>
@@ -1065,7 +1065,7 @@
          <l pos="Adv">kylliksi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">nok</t>
             <xg>
               <x></x>
@@ -1074,7 +1074,7 @@
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">mett</t>
          </tg>
       </mg>
@@ -1084,7 +1084,7 @@
          <l pos="Adv">laajalti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">vidt</t>
             <xg>
               <x></x>
@@ -1098,7 +1098,7 @@
          <l pos="Adv">liki</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">nær</t>
             <xg>
               <x></x>
@@ -1112,7 +1112,7 @@
          <l pos="Adv">lopuksi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">til slutt</t>
             <xg>
               <x></x>
@@ -1126,7 +1126,7 @@
          <l pos="Adv">lujasti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">hardt</t>
             <xg>
               <x></x>
@@ -1140,7 +1140,7 @@
          <l pos="Adv">luonnollisesti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">naturlig</t>
             <xg>
               <x></x>
@@ -1154,7 +1154,7 @@
          <l pos="Adv">luota</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">hos</t>
             <xg>
               <x></x>
@@ -1168,7 +1168,7 @@
          <l pos="Adv">luultavasti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">trolig</t>
             <xg>
               <x></x>
@@ -1182,7 +1182,7 @@
          <l pos="Adv">lähellä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">nær</t>
             <xg>
               <x></x>
@@ -1196,7 +1196,7 @@
          <l pos="Adv">lähin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">nærmest</t>
             <xg>
               <x></x>
@@ -1210,7 +1210,7 @@
          <l pos="Adv">läpi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">gjennom</t>
             <xg>
               <x></x>
@@ -1224,7 +1224,7 @@
          <l pos="Adv">melkein</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">nesten</t>
             <xg>
               <x></x>
@@ -1238,7 +1238,7 @@
          <l pos="Adv">mielestä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">etter oppfatning</t>
             <xg>
               <x></x>
@@ -1252,7 +1252,7 @@
          <l pos="Adv">mihin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">hvorhen</t>
             <xg>
               <x></x>
@@ -1266,7 +1266,7 @@
          <l pos="Adv">mihinkään</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ikke noe sted</t>
             <xg>
               <x></x>
@@ -1280,7 +1280,7 @@
          <l pos="Adv">miksi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">hvorfor</t>
             <xg>
               <x></x>
@@ -1294,7 +1294,7 @@
          <l pos="Adv">milloin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">når</t>
             <xg>
               <x></x>
@@ -1308,7 +1308,7 @@
          <l pos="Adv">miltei</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">nesten</t>
             <xg>
               <x></x>
@@ -1322,7 +1322,7 @@
          <l pos="Adv">minne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">hvorhen</t>
             <xg>
               <x></x>
@@ -1336,7 +1336,7 @@
          <l pos="Adv">missä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">hvor</t>
             <xg>
               <x></x>
@@ -1350,7 +1350,7 @@
          <l pos="Adv">mistä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">hvor</t>
             <xg>
               <x></x>
@@ -1364,7 +1364,7 @@
          <l pos="Adv">miten</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">hvordan</t>
             <xg>
               <x></x>
@@ -1378,7 +1378,7 @@
          <l pos="Adv">monesti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">mange ganger</t>
             <xg>
               <x></x>
@@ -1392,7 +1392,7 @@
          <l pos="Adv">muinoin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">før i tiden</t>
             <xg>
               <x></x>
@@ -1406,7 +1406,7 @@
          <l pos="Adv">mukaan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">med</t>
             <xg>
               <x></x>
@@ -1420,7 +1420,7 @@
          <l pos="Adv">mukana</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">med</t>
             <xg>
               <x></x>
@@ -1434,7 +1434,7 @@
          <l pos="Adv">muuten</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ellers</t>
             <xg>
               <x></x>
@@ -1448,7 +1448,7 @@
          <l pos="Adv">myöhemmin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">seinere</t>
             <xg>
               <x></x>
@@ -1462,7 +1462,7 @@
          <l pos="Adv">myöhään</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">sent</t>
             <xg>
               <x></x>
@@ -1476,7 +1476,7 @@
          <l pos="Adv">niin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">slik</t>
             <xg>
               <x></x>
@@ -1490,7 +1490,7 @@
          <l pos="Adv">nimittäin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">nemlig</t>
             <xg>
               <x></x>
@@ -1504,7 +1504,7 @@
          <l pos="Adv">niukasti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">knapt</t>
             <xg>
               <x></x>
@@ -1518,7 +1518,7 @@
          <l pos="Adv">noin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">omtrent</t>
             <xg>
               <x></x>
@@ -1532,7 +1532,7 @@
          <l pos="Adv">nopeasti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">fort</t>
             <xg>
               <x></x>
@@ -1546,7 +1546,7 @@
          <l pos="Adv">näin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">slik</t>
             <xg>
               <x></x>
@@ -1560,7 +1560,7 @@
          <l pos="Adv">näkyviin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">til syne</t>
             <xg>
               <x></x>
@@ -1574,7 +1574,7 @@
          <l pos="Adv">näkyville</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">til syne</t>
             <xg>
               <x></x>
@@ -1588,7 +1588,7 @@
          <l pos="Adv">näkyvissä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">synlig</t>
             <xg>
               <x></x>
@@ -1602,7 +1602,7 @@
          <l pos="Adv">näkyvistä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">fra synlig</t>
             <xg>
               <x></x>
@@ -1616,7 +1616,7 @@
          <l pos="Adv">ohella</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ved siden av</t>
             <xg>
               <x></x>
@@ -1630,7 +1630,7 @@
          <l pos="Adv">ohessa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ved siden av</t>
             <xg>
               <x></x>
@@ -1644,7 +1644,7 @@
          <l pos="Adv">ohi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">forbi</t>
             <xg>
               <x></x>
@@ -1658,7 +1658,7 @@
          <l pos="Adv">oikein</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">riktig</t>
             <xg>
               <x></x>
@@ -1672,7 +1672,7 @@
          <l pos="Adv">osittain</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">delvis</t>
             <xg>
               <x></x>
@@ -1686,7 +1686,7 @@
          <l pos="Adv">paikoitellen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">her og der</t>
             <xg>
               <x></x>
@@ -1700,7 +1700,7 @@
          <l pos="Adv">paitsi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">unntatt</t>
             <xg>
               <x></x>
@@ -1714,7 +1714,7 @@
          <l pos="Adv">paljon</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">mye</t>
             <xg>
               <x></x>
@@ -1728,7 +1728,7 @@
          <l pos="Adv">paremmin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">bedre</t>
             <xg>
               <x></x>
@@ -1742,7 +1742,7 @@
          <l pos="Adv">parhaiten</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">best</t>
             <xg>
               <x></x>
@@ -1756,7 +1756,7 @@
          <l pos="Adv">perässä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">bak</t>
             <xg>
               <x></x>
@@ -1770,7 +1770,7 @@
          <l pos="Adv">perään</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">bak</t>
             <xg>
               <x></x>
@@ -1784,7 +1784,7 @@
          <l pos="Adv">pian</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">snart</t>
             <xg>
               <x></x>
@@ -1798,7 +1798,7 @@
          <l pos="Adv">poikittain</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">på tvers</t>
             <xg>
               <x></x>
@@ -1812,7 +1812,7 @@
          <l pos="Adv">pois</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">bort</t>
             <xg>
               <x></x>
@@ -1826,7 +1826,7 @@
          <l pos="Adv">päivisin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">om dagen</t>
             <xg>
               <x></x>
@@ -1840,7 +1840,7 @@
          <l pos="Adv">päivittäin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">daglig</t>
             <xg>
               <x></x>
@@ -1854,7 +1854,7 @@
          <l pos="Adv">päälle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">på</t>
             <xg>
               <x></x>
@@ -1868,7 +1868,7 @@
          <l pos="Adv">päällepäin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ovenpå</t>
             <xg>
               <x></x>
@@ -1882,7 +1882,7 @@
          <l pos="Adv">päällä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">på</t>
             <xg>
               <x></x>
@@ -1896,7 +1896,7 @@
          <l pos="Adv">päältä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">på</t>
             <xg>
               <x></x>
@@ -1910,7 +1910,7 @@
          <l pos="Adv">päästä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">fritas</t>
             <xg>
               <x></x>
@@ -1924,7 +1924,7 @@
          <l pos="Adv">rikki</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ødelagt</t>
             <xg>
               <x></x>
@@ -1938,7 +1938,7 @@
          <l pos="Adv">rinnalla</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ved siden av</t>
             <xg>
               <x></x>
@@ -1952,7 +1952,7 @@
          <l pos="Adv">rinnalle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ved siden av</t>
             <xg>
               <x></x>
@@ -1966,7 +1966,7 @@
          <l pos="Adv">ristiin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">på kryss</t>
             <xg>
               <x></x>
@@ -1980,7 +1980,7 @@
          <l pos="Adv">salaa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">i hemmelighet</t>
             <xg>
               <x></x>
@@ -1994,7 +1994,7 @@
          <l pos="Adv">salaisesti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">i hemmelighet</t>
             <xg>
               <x></x>
@@ -2008,7 +2008,7 @@
          <l pos="Adv">samalla</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">samtidig</t>
             <xg>
               <x></x>
@@ -2022,7 +2022,7 @@
          <l pos="Adv">samassa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">samtidig</t>
             <xg>
               <x></x>
@@ -2036,7 +2036,7 @@
          <l pos="Adv">sangen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ganske</t>
             <xg>
               <x></x>
@@ -2050,7 +2050,7 @@
          <l pos="Adv">siellä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">der</t>
             <xg>
               <x></x>
@@ -2064,7 +2064,7 @@
          <l pos="Adv">sieltä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">derfra</t>
             <xg>
               <x></x>
@@ -2078,7 +2078,7 @@
          <l pos="Adv">siihen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">til det</t>
             <xg>
               <x></x>
@@ -2092,7 +2092,7 @@
          <l pos="Adv">siinä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">der</t>
             <xg>
               <x></x>
@@ -2106,7 +2106,7 @@
          <l pos="Adv">siitä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">fra det</t>
             <xg>
               <x></x>
@@ -2120,7 +2120,7 @@
          <l pos="Adv">siksi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">derfor</t>
             <xg>
               <x></x>
@@ -2134,7 +2134,7 @@
          <l pos="Adv">silloin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">da</t>
             <xg>
               <x></x>
@@ -2148,7 +2148,7 @@
          <l pos="Adv">sinne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">dit</t>
             <xg>
               <x></x>
@@ -2162,7 +2162,7 @@
          <l pos="Adv">sisälle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">inn</t>
             <xg>
               <x></x>
@@ -2176,7 +2176,7 @@
          <l pos="Adv">sisällä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">inne</t>
             <xg>
               <x></x>
@@ -2190,7 +2190,7 @@
          <l pos="Adv">sisältä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ut fra</t>
             <xg>
               <x></x>
@@ -2204,7 +2204,7 @@
          <l pos="Adv">sisässä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">inne</t>
             <xg>
               <x></x>
@@ -2218,7 +2218,7 @@
          <l pos="Adv">sisään</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">inn</t>
             <xg>
               <x></x>
@@ -2232,7 +2232,7 @@
          <l pos="Adv">siten</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">slik</t>
             <xg>
               <x></x>
@@ -2246,7 +2246,7 @@
          <l pos="Adv">sitten</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">så</t>
             <xg>
               <x></x>
@@ -2260,7 +2260,7 @@
          <l pos="Adv">suoraan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">rett   rakt</t>
             <xg>
               <x></x>
@@ -2274,7 +2274,7 @@
          <l pos="Adv">suunnilleen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">omtrent</t>
             <xg>
               <x></x>
@@ -2288,7 +2288,7 @@
          <l pos="Adv">syksyisin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">om høsten</t>
             <xg>
               <x></x>
@@ -2302,7 +2302,7 @@
          <l pos="Adv">taa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">bakfra</t>
             <xg>
               <x></x>
@@ -2316,7 +2316,7 @@
          <l pos="Adv">taannoin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">for en tid siden</t>
             <xg>
               <x></x>
@@ -2330,7 +2330,7 @@
          <l pos="Adv">tahallaan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">med vilje</t>
             <xg>
               <x></x>
@@ -2344,7 +2344,7 @@
          <l pos="Adv">takaa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">bakfra</t>
             <xg>
               <x></x>
@@ -2358,7 +2358,7 @@
          <l pos="Adv">takaisin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">tilbake</t>
             <xg>
               <x></x>
@@ -2372,7 +2372,7 @@
          <l pos="Adv">takana</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">bak</t>
             <xg>
               <x></x>
@@ -2386,7 +2386,7 @@
          <l pos="Adv">tarkalleen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">just</t>
             <xg>
               <x></x>
@@ -2400,7 +2400,7 @@
          <l pos="Adv">tarpeeksi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">nok</t>
             <xg>
               <x></x>
@@ -2414,7 +2414,7 @@
          <l pos="Adv">tavallisesti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">vanligvis</t>
             <xg>
               <x></x>
@@ -2428,7 +2428,7 @@
          <l pos="Adv">tietysti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">naturligvis</t>
             <xg>
               <x></x>
@@ -2442,7 +2442,7 @@
          <l pos="Adv">todella</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">sannelig</t>
             <xg>
               <x></x>
@@ -2456,7 +2456,7 @@
          <l pos="Adv">tuohon</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">til det der borte</t>
             <xg>
               <x></x>
@@ -2470,7 +2470,7 @@
          <l pos="Adv">tuolla</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">der borte</t>
             <xg>
               <x></x>
@@ -2484,7 +2484,7 @@
          <l pos="Adv">tuolloin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">da</t>
             <xg>
               <x></x>
@@ -2498,7 +2498,7 @@
          <l pos="Adv">tuossa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">der borte</t>
             <xg>
               <x></x>
@@ -2512,7 +2512,7 @@
          <l pos="Adv">tuosta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">av det der borte</t>
             <xg>
               <x></x>
@@ -2526,7 +2526,7 @@
          <l pos="Adv">tähän</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">til dette</t>
             <xg>
               <x></x>
@@ -2540,7 +2540,7 @@
          <l pos="Adv">tällöin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">da</t>
             <xg>
               <x></x>
@@ -2554,7 +2554,7 @@
          <l pos="Adv">tänne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">hit</t>
             <xg>
               <x></x>
@@ -2568,7 +2568,7 @@
          <l pos="Adv">tänään</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">i dag</t>
             <xg>
               <x></x>
@@ -2582,7 +2582,7 @@
          <l pos="Adv">tässä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">her</t>
             <xg>
               <x></x>
@@ -2596,7 +2596,7 @@
          <l pos="Adv">tästä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">av dette</t>
             <xg>
               <x></x>
@@ -2605,7 +2605,7 @@
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">herfra</t>
          </tg>
       </mg>
@@ -2615,7 +2615,7 @@
          <l pos="Adv">täten</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">slik</t>
             <xg>
               <x></x>
@@ -2629,7 +2629,7 @@
          <l pos="Adv">täynnä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">fullt</t>
             <xg>
               <x></x>
@@ -2643,7 +2643,7 @@
          <l pos="Adv">täyteen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">mett</t>
             <xg>
               <x></x>
@@ -2652,7 +2652,7 @@
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">full</t>
          </tg>
       </mg>
@@ -2662,7 +2662,7 @@
          <l pos="Adv">täällä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">her</t>
             <xg>
               <x></x>
@@ -2676,7 +2676,7 @@
          <l pos="Adv">täältä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">herfra</t>
             <xg>
               <x></x>
@@ -2690,7 +2690,7 @@
          <l pos="Adv">ulkona</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ute</t>
             <xg>
               <x></x>
@@ -2704,7 +2704,7 @@
          <l pos="Adv">ulos</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ut</t>
             <xg>
               <x></x>
@@ -2718,7 +2718,7 @@
          <l pos="Adv">useasti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ofte</t>
             <xg>
               <x></x>
@@ -2732,7 +2732,7 @@
          <l pos="Adv">usein</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ofte</t>
             <xg>
               <x></x>
@@ -2746,7 +2746,7 @@
          <l pos="Adv">uudelleen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">pâ nytt</t>
             <xg>
               <x></x>
@@ -2760,7 +2760,7 @@
          <l pos="Adv">uudestaan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">en gang til</t>
             <xg>
               <x></x>
@@ -2774,7 +2774,7 @@
          <l pos="Adv">vaille</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">mangel</t>
             <xg>
               <x></x>
@@ -2783,7 +2783,7 @@
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">på</t>
          </tg>
       </mg>
@@ -2793,7 +2793,7 @@
          <l pos="Adv">vapaasti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">fritt</t>
             <xg>
               <x></x>
@@ -2807,7 +2807,7 @@
          <l pos="Adv">varmasti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">sikkert</t>
             <xg>
               <x></x>
@@ -2821,7 +2821,7 @@
          <l pos="Adv">vastaan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">i mot</t>
             <xg>
               <x></x>
@@ -2835,7 +2835,7 @@
          <l pos="Adv">vastakkain</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">mot hverandre</t>
             <xg>
               <x></x>
@@ -2849,7 +2849,7 @@
          <l pos="Adv">verran</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">så mye som</t>
             <xg>
               <x></x>
@@ -2863,7 +2863,7 @@
          <l pos="Adv">viereen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ved siden av</t>
             <xg>
               <x></x>
@@ -2877,7 +2877,7 @@
          <l pos="Adv">vieressä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ved siden av</t>
             <xg>
               <x></x>
@@ -2891,7 +2891,7 @@
          <l pos="Adv">vierestä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">fra ved siden av</t>
             <xg>
               <x></x>
@@ -2905,7 +2905,7 @@
          <l pos="Adv">vihdoin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">endelig</t>
             <xg>
               <x></x>
@@ -2919,7 +2919,7 @@
          <l pos="Adv">viimein</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">endelig</t>
             <xg>
               <x></x>
@@ -2933,7 +2933,7 @@
          <l pos="Adv">vuosittain</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">årlig</t>
             <xg>
               <x></x>
@@ -2947,7 +2947,7 @@
          <l pos="Adv">vähitellen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">etterhvert</t>
             <xg>
               <x></x>
@@ -2961,7 +2961,7 @@
          <l pos="Adv">vähän</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">litt</t>
             <xg>
               <x></x>
@@ -2975,7 +2975,7 @@
          <l pos="Adv">väkisin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">med makt</t>
             <xg>
               <x></x>
@@ -2989,7 +2989,7 @@
          <l pos="Adv">väliin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">inn mellom</t>
             <xg>
               <x></x>
@@ -3003,7 +3003,7 @@
          <l pos="Adv">välillä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">av og til</t>
             <xg>
               <x>Välillä yö on kuin päivä ja päivä kuin yö.</x>
@@ -3017,7 +3017,7 @@
          <l pos="Adv">välissä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">mellom</t>
             <xg>
               <x></x>
@@ -3031,7 +3031,7 @@
          <l pos="Adv">välistä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">einer</t>
             <xg>
               <x></x>
@@ -3045,7 +3045,7 @@
          <l pos="Adv">välittömästi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">umiddelbart</t>
             <xg>
               <x></x>
@@ -3059,7 +3059,7 @@
          <l pos="Adv">väärin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">galt</t>
             <xg>
               <x></x>
@@ -3073,7 +3073,7 @@
          <l pos="Adv">yhteen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">sammen</t>
             <xg>
               <x></x>
@@ -3087,7 +3087,7 @@
          <l pos="Adv">yhteensä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">til sammen</t>
             <xg>
               <x></x>
@@ -3096,7 +3096,7 @@
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">i alt</t>
          </tg>
       </mg>
@@ -3106,7 +3106,7 @@
          <l pos="Adv">yhtäkkiä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">plutselig</t>
             <xg>
               <x></x>
@@ -3120,7 +3120,7 @@
          <l pos="Adv">yksin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">alene</t>
             <xg>
               <x></x>
@@ -3134,7 +3134,7 @@
          <l pos="Adv">yleensä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">vanligvis</t>
             <xg>
               <x></x>
@@ -3148,7 +3148,7 @@
          <l pos="Adv">yleisesti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">generelt</t>
             <xg>
               <x></x>
@@ -3162,7 +3162,7 @@
          <l pos="Adv">yli</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">over</t>
             <xg>
               <x></x>
@@ -3176,7 +3176,7 @@
          <l pos="Adv">ylle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">over</t>
             <xg>
               <x></x>
@@ -3190,7 +3190,7 @@
          <l pos="Adv">yllä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ovenfor</t>
             <xg>
               <x></x>
@@ -3204,7 +3204,7 @@
          <l pos="Adv">yltä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ovenfra</t>
             <xg>
               <x></x>
@@ -3218,7 +3218,7 @@
          <l pos="Adv">ylös</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">opp</t>
             <xg>
               <x></x>
@@ -3232,7 +3232,7 @@
          <l pos="Adv">ylösalaisin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">opp ned</t>
             <xg>
               <x></x>
@@ -3260,7 +3260,7 @@
          <l pos="Adv">ympärille</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">omkring</t>
             <xg>
               <x></x>
@@ -3274,7 +3274,7 @@
          <l pos="Adv">ympärillä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">omkring</t>
             <xg>
               <x></x>
@@ -3288,7 +3288,7 @@
          <l pos="Adv">ympäriltä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">fra rundt om kring</t>
             <xg>
               <x></x>
@@ -3302,7 +3302,7 @@
          <l pos="Adv">äsken</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">nettopp</t>
             <xg>
               <x></x>
@@ -3316,7 +3316,7 @@
          <l pos="Adv">äskettäin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">for en tid siden</t>
             <xg>
               <x></x>
@@ -3330,7 +3330,7 @@
          <l pos="Adv">ääneen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">høylytt</t>
             <xg>
               <x></x>
@@ -3344,7 +3344,7 @@
          <l pos="Adv">ääreltä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ved siden av</t>
             <xg>
               <x></x>
@@ -3358,7 +3358,7 @@
          <l pos="Adv">ääressä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">ved siden av</t>
             <xg>
               <x></x>
@@ -3372,7 +3372,7 @@
          <l pos="Adv">öisin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">om natten</t>
             <xg>
               <x></x>

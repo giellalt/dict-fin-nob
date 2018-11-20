@@ -1,0 +1,332 @@
+<r>
+   <e>
+      <lg>
+         <l pos="N">Suomi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Finland</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Venäjä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Russland</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Ruotsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Sverige</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Tanska</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Danmark</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Belgia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Belgia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Grönlanti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Grønland</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Albania</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Albania</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Sodankylä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Sodankylä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Otava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Karlsvogna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Inari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Enare</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Teno</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Tana</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Armenia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Armenia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Bulgaria</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Bulgaria</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Englanti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">England</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Indonesia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Indonesia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Islanti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Island</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Kauppakomppania</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Handelskompaniet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Kiina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Kina</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Kiribati</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Kiribati</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Kongo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Kongo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Kroatia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Kroatia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Latvia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Latvia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Liettua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Litauen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Mali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Mali</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Malta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Malta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Moldova</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Moldova</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Nauru</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Nauru</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Nepal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Nepal</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Saksa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Tyskland</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Tonga</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Tonga</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Tuvalu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Tuvalu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Ukraina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Ukraina</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">Vietnam</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Vietnam</t>
+         </tg>
+      </mg>
+   </e>
+</r>

@@ -1,0 +1,3384 @@
+<r>
+   <e>
+      <lg>
+         <l pos="Adv">aikaisemmin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">før</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">aikaisin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">tidlig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">aina</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">alltid</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ajoissa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">i tide</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">aktiivisesti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">aktivt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ned</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alaspäin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">nedover</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alhaalla</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">nede</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alla</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">under</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">inn under</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">aluksi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">i begynnelsen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alusta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">fra begynnelsen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">auki</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">åpen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">edelleen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">videre</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="Adv">fremdeles</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">edessä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">i veien</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="Adv">foran</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">edestä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">i veien</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ehdottomasti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">gjerne</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="Adv">utvilsomt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">eilen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">i går</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">enemmän</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">mer</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">enimmäkseen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">for det meste</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">eniten</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">mest</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ennen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">før</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yhdessä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">sammen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nopeasti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">fort</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ensiksi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">for det første</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ensin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">først</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ensisijaisesti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">først og fremst</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">erikseen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">særskilt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">erittäin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">meget</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="Adv">svært</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">erityisesti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">særlig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">eteen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">fram</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="Adv">foran</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">eteenpäin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">framover</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">etukäteen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">på forhånd</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">harvoin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">sjelden</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">heti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">straks</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hiljaa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">rolig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hiljattain</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">nylig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hitaasti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">sakte</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">huomenna</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">i morgen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hyvin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">godt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="Adv">fint</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ilmaiseksi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">gratis</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">irti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">løs</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">jolloin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">når</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">jonne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">hvorhen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">joskus</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">i blant</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">jälkeen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">etterpå</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="Adv">seinere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kahden</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">toeine</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kahdesti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">to ganger</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kaikkialla</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">overalt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kaikkialle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">til overalt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kauan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">lenge</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kauas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">langt bort</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kaukana</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">langt borte</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kauniisti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">pent</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kerran</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">en gang</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">keskelle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">midt på</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">keskellä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">midt på</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">keskeltä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">midt på</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kesken</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">imellom</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kesäisin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">om sommeren</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">keväisin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">om våren</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kiinni</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">fast</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kohta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">snart</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kohti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">midt på</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kokonaan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">fullstendig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">koskaan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">noensinne</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kotiin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">hjem</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kotoa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">hjemmefra</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kotona</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">hjemme</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kovaa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">hardt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kovasti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">hardt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kuinka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">hvordan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kuukausittain</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">månedlig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kylliksi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">nok</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="Adv">mett</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">laajalti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">vidt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">liki</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">nær</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lopuksi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">til slutt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lujasti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">hardt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">luonnollisesti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">naturlig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">luota</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">hos</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">luultavasti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">trolig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lähellä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">nær</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lähin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">nærmest</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">läpi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">gjennom</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">melkein</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">nesten</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mielestä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">etter oppfatning</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mihin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">hvorhen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mihinkään</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ikke noe sted</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">miksi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">hvorfor</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">milloin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">når</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">miltei</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">nesten</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">minne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">hvorhen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">missä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">hvor</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mistä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">hvor</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">miten</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">hvordan</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">monesti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">mange ganger</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">muinoin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">før i tiden</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mukaan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">med</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mukana</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">med</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">muuten</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ellers</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">myöhemmin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">seinere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">myöhään</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">sent</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">niin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">slik</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nimittäin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">nemlig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">niukasti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">knapt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">noin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">omtrent</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nopeasti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">fort</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">näin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">slik</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">näkyviin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">til syne</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">näkyville</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">til syne</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">näkyvissä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">synlig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">näkyvistä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">fra synlig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ohella</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ved siden av</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ohessa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ved siden av</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ohi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">forbi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">oikein</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">riktig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">osittain</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">delvis</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">paikoitellen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">her og der</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">paitsi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">unntatt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">paljon</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">mye</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">paremmin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">bedre</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">parhaiten</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">best</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">perässä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">bak</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">perään</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">bak</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">pian</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">snart</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">poikittain</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">på tvers</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">pois</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">bort</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">päivisin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">om dagen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">päivittäin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">daglig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">päälle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">på</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">päällepäin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ovenpå</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">päällä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">på</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">päältä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">på</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">päästä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">fritas</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">rikki</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ødelagt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">rinnalla</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ved siden av</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">rinnalle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ved siden av</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ristiin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">på kryss</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">salaa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">i hemmelighet</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">salaisesti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">i hemmelighet</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">samalla</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">samtidig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">samassa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">samtidig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sangen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ganske</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">siellä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">der</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sieltä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">derfra</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">siihen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">til det</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">siinä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">der</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">siitä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">fra det</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">siksi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">derfor</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">silloin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">da</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sinne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">dit</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sisälle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">inn</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sisällä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">inne</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sisältä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ut fra</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sisässä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">inne</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sisään</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">inn</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">siten</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">slik</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sitten</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">så</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">suoraan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">rett   rakt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">suunnilleen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">omtrent</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">syksyisin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">om høsten</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">taa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">bakfra</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">taannoin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">for en tid siden</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tahallaan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">med vilje</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">takaa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">bakfra</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">takaisin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">tilbake</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">takana</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">bak</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tarkalleen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">just</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tarpeeksi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">nok</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tavallisesti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">vanligvis</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tietysti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">naturligvis</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">todella</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">sannelig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tuohon</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">til det der borte</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tuolla</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">der borte</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tuolloin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">da</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tuossa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">der borte</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tuosta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">av det der borte</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tähän</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">til dette</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tällöin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">da</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tänne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">hit</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tänään</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">i dag</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tässä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">her</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tästä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">av dette</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="Adv">herfra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">täten</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">slik</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">täynnä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">fullt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">täyteen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">mett</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="Adv">full</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">täällä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">her</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">täältä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">herfra</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ulkona</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ute</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ulos</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ut</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">useasti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ofte</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">usein</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ofte</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">uudelleen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">pâ nytt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">uudestaan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">en gang til</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vaille</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">mangel</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="Adv">på</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vapaasti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">fritt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">varmasti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">sikkert</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vastaan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">i mot</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vastakkain</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">mot hverandre</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">verran</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">så mye som</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">viereen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ved siden av</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vieressä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ved siden av</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vierestä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">fra ved siden av</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vihdoin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">endelig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">viimein</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">endelig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vuosittain</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">årlig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vähitellen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">etterhvert</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vähän</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">litt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">väkisin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">med makt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">väliin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">inn mellom</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">välillä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">av og til</t>
+            <xg>
+              <x>Välillä yö on kuin päivä ja päivä kuin yö.</x>
+              <xt>Av og til er natta som dag og dagen som natt.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">välissä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">mellom</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">välistä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">einer</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">välittömästi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">umiddelbart</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">väärin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">galt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yhteen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">sammen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yhteensä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">til sammen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="Adv">i alt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yhtäkkiä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">plutselig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yksin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">alene</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yleensä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">vanligvis</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yleisesti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">generelt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yli</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">over</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ylle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">over</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yllä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ovenfor</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yltä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ovenfra</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ylös</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">opp</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ylösalaisin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">opp ned</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pr">ympäri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">omkring</t>
+            <xg>
+               <x>Ajoimme ympäri.</x>
+               <xt>Vi kjørte rundt omkring.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ympärille</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">omkring</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ympärillä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">omkring</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ympäriltä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">fra rundt om kring</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">äsken</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">nettopp</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">äskettäin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">for en tid siden</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ääneen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">høylytt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ääreltä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ved siden av</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ääressä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">ved siden av</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">öisin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">om natten</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+</r>

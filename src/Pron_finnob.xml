@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
-<r id="fkvnob" xml:lang="fkv">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_finnob.dtd">
+<r id="finnob" xml:lang="fin">
    <lics>
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -416,6 +416,267 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Det">ingen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">eri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">forskjellig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">he</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">de</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hän</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">han</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">hun</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">itse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">selv</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">joka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">som</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">joku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">noen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">kaikki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">alle</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">kuka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">hvem</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">me</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">vi</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">mikä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">hva</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">monta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">mange</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">ne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">de om dyr og gjenstander</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">nämä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">disse</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">sinä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">du</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">toinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">andre</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">tuo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">den det  der</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">tämä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">denne</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">yksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">den ene</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
          </tg>
       </mg>
    </e>

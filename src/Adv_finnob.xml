@@ -3381,4 +3381,242 @@
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="Adv">ehkä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">kanskje</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">etenkin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">særlig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="Adv">jo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">allerede</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kai</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">kanskje</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="Adv">keskimäärin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">gjennomsnittlig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kovin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">veldig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lisäksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">i tillegg</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="Adv">myös</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">også</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nyt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">nå</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">reippaasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">kvikt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">siis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">altså</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">taas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">igjen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tietenkin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">selvfølgelig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">men</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">varmaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">kanskje muligens</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vielä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">enda</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ylöspäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">oppover</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>

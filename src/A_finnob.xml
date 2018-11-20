@@ -15468,4 +15468,354 @@
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="A">aurinkoinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">solrik</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">epäreilu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">urettferdig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">eteläinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sørlig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ihana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">fin</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ihana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">herlig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ihana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">vinunderlig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">itäinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">østlig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kaakkoinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sørøstlig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kaikkiruokainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">altetende</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">karviainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">stikkelsbær</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">koillinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">nordøst_nordøstlig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kuudes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sjette</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lounainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sørvestlig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">luoteinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">nordvestlig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">läntinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">vestlig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">puhuva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">snakkende</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">roteva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">robust</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sukulainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">slektning</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sumuinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">disig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">toinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">andre</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tummanpunainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">mørkerøde</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tuulinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">blåsende</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tyylikäs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">stilig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vastasyntynyt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">nyfødt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">viimeinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">siste</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>

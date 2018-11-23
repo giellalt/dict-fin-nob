@@ -37,6 +37,20 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="Po">muassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">ved siden av</t>
+            <xg>
+               <x>Mennään muun muassa Ahvenanmaalle.</x>
+               <xt>Vi drar blant annet til Åland.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Po">yli</l>
       </lg>
       <mg>

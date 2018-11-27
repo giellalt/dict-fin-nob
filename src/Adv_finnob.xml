@@ -196,14 +196,23 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">auki</l>
+         <l pos="A">auki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">åpen</t>
+            <t pos="A">åpen</t>
             <xg>
-              <x></x>
-              <xt></xt>
+              <x>Kirjasto on auki.</x>
+              <xt>Biblioteket er åpent.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ledig</t>
+            <xg>
+              <x>Virka on auki.</x>
+              <xt>Stillinga er ledig.</xt>
             </xg>
          </tg>
       </mg>
@@ -1168,7 +1177,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">naturlig</t>
+            <t pos="Adv">naturligvis</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -3055,20 +3064,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">välistä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">einer</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">välittömästi</l>
       </lg>
       <mg>
@@ -3610,7 +3605,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">kanskje muligens</t>
+            <t pos="Adv">sannsynligvis</t>
             <xg>
               <x></x>
               <xt></xt>

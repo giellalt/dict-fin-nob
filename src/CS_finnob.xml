@@ -26,7 +26,7 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   <e >
+   <e>
       <lg>
          <l pos="CS">että</l>
       </lg>
@@ -36,7 +36,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e >
+   <e>
       <lg>
          <l pos="CS">sillä</l>
       </lg>
@@ -46,7 +46,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e >
+   <e>
       <lg>
          <l pos="CS">ettei</l>
       </lg>
@@ -56,7 +56,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e >
+   <e>
       <lg>
          <l pos="CS">jos</l>
       </lg>
@@ -68,7 +68,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e >
+   <e>
       <lg>
          <l pos="CS">kuin</l>
       </lg>
@@ -79,7 +79,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e >
+   <e>
       <lg>
          <l pos="CS">kun</l>
       </lg>
@@ -90,7 +90,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e >
+   <e>
       <lg>
          <l pos="CS">koska</l>
       </lg>
@@ -101,17 +101,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e >
-      <lg>
-         <l pos="CS">sillä ko</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="CS">fordi</t>
-         </tg>
-      </mg>
-   </e>
-   <e >
+   <e>
       <lg>
          <l pos="CS">että</l>
       </lg>
@@ -121,7 +111,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e >
+   <e>
       <lg>
          <l pos="CS">entä</l>
       </lg>

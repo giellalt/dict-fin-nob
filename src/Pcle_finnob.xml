@@ -307,7 +307,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pcle">just</t>
+            <t pos="Pcle">nettopp</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -509,7 +509,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pcle">kommende</t>
+            <t pos="Pcle">første</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pcle">førstkommende</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -523,7 +532,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pcle">all</t>
+            <t pos="Pcle">aller</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -1271,20 +1280,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pcle">varmaankin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pcle">forsiktighet</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Pcle">tietysti</l>
       </lg>
       <mg>
@@ -1346,34 +1341,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pcle">enn</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">varmaan</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pcle">kanskje</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">varmaan</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pcle">forsiktighet</t>
             <xg>
               <x></x>
               <xt></xt>

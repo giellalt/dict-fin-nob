@@ -1,654 +1,4952 @@
-yhtye	N	band	musikkgruppe
-maakunta	N	fylke
-valtakunta	N	rike
-tasavalta	N	republikk
-keisari	N	keiser
-versio	N	nasjon
-yhtiö	N	firma	selskap
-pelaaja	N	spiller
-rakenne	N	struktur
-parlamentti	N	parlament
-ulkopuoli	N	ytterside
-juutalainen	N	jøde
-kuningaskunta	N	kongedømme
-dollari	N	dollar
-ilmiö	N	fenomen
-paavi	N	pave
-sisällissota	N	innbyrdeskrig	borgerkrig
-vallankumous	N	revolusjon
-unioni	N	union
-tekijä	N	aktør	den som har gjort det
-piirre	N	trekk
-eduskunta	N	parlament
-kannattaja	N	tilhenger
-hallinta	N	beherskelse
-seuraaja	N	etterfølger
-pohjoisosa	N	nordende
-kokonaisuus	N	helhet
-laivasto	N	flåte
-teollisuus	N	industri
-kenraali	N	general
-kaupunginosa	N	bydel
-perä	N	bakende
-ajattelu	N	tanke
-rautatie	N	jernbane
-kansalainen	N	borger
-kansanedustaja	N	parlamentsmedlem
-hallitsija	N	hersker
-keskimäärä	N	gjennomsnitt
-lento	N	flytur
-provinssi	N	provins
-nousu	N	løft
-kommunisti	N	kommunist
-eteläosa	N	sørende
-vihollinen	N	fiende
-fysiikka	N	fysikk
-britti	N	brite
-senaatti	N	senat
-julkaisu	N	publikasjon
-maantiede	N	geografi
-olympialainen	N	olympier
-naapurikunta	N	nabokommune
-levinneisyys	N	utbreiing
-komentaja	N	kommandør
-valmistus	N	forberedelse
-valinta	N	valg
-sodankäynti	N	krigføring
-maaseutu	N	landsbygd
-talvisota	N	vinterkrig
-vihollinen	N	fiende
-kokoomus	N	samlingspartiet
-keisarikunta	N	keiserdømme
-murha	N	mord
-kehittäminen	N	utvikling
-atomi	N	atom
-demokratia	N	demokrati
-alkupuoli	N	begynnerdel
-tekeminen	N	handling
-yläpuoli	N	overside
-testamentti	N	testamente
-surma	N	drap
-arvonimi	N	tittel
-luostari	N	kloster
-avaruus	N	verdensrommet
-vuoristo	N	fjellheimen
-puisto	N	park
-ilmakehä	N	atmosfære
-puute	N	mangel
-loppupuoli	N	sluttdel
-isku	N	slag
-tuho	N	ødeleggelse
-taiteilija	N	kunstner
-operaatio	N	operasjon
-itäosa	N	østside
-persialainen	N	perser
-kierros	N	runde
-presidentinvaali	N	presidentvalg
-orja	N	slave
-oppositio	N	opposisjon
-väestötiheys	N	befolkningstetthet
-pohjoispuoli	N	nordside
-evankeliumi	N	evangelium
-alkuaine	N	grunnstoff
-islam	N	islam
-elektroni	N	elektrode
-rintama	N	front
-mantere	N	kontinent
-osapuoli	N	del
-maalaiskunta	N	landkommune
-rautatieasema	N	jernbanestasjon
-liittovaltio	N	forbundsstat
-länsimaa	N	vestlig land
-muslimi	N	muslim
-aivo	N	hjerne
-siirtomaa	N	koloni
-temppeli	N	tempel
-arkkitehtuuri	N	arkitektur
-perustaja	N	grunnlegger
-bruttokansantuote	N	brutto nasjonalprodukt
-jatkosota	N	fortsettelseskrig
-latinalainen	N	latiner
-tyyppi	N	type
-säveltäjä	N	komponist
-teologia	N	teologi
-länsiosa	N	vestside
-eteläpuoli	N	sørside
-jazz	N	jazz
-alalaji	N	underart
-islamilainen	N	muslim
-kongressi	N	kongress
-merenpinta	N	havoverflate
-paluu	N	retur
-kansantasavalta	N	folkerepublikk
-arabi	N	araber
-solu	N	celle
-vety	N	hydrogen
-urheilija	N	idrettsutøver
-puhuja	N	taler
-valtameri	N	verdenshav
-rauhansopimus	N	fredsavtale
-osa-alue	N	delområde
-alkuvuosi	N	forår
-upseeri	N	offiser
-runko	N	stamme
-ote	N	grep
-käsittely	N	behandling
-kokoonpano	N	sammensetning
-talonpoika	N	husmann
-nolla	N	null
-pommi	N	bombe
-esiintyminen	N	opptreden
-suuriruhtinaskunta	N	storfyrstedømme
-palo	N	brann
-käyttäytyminen	N	oppførsel
-jääkausi	N	isid
-lääketiede	N	legevitenskap
-puna-armeija	N	den røde arme
-mitali	N	medalje
-kehittyminen	N	utvikling
-keskiosa	N	midtdel
-juhlapäivä	N	festdag
-tiedekunta	N	fakultet
-ruhtinas	N	drott
-arkkitehti	N	arkitekt
-taloustiede	N	økonomisk vitenskap
-ooppera	N	opera
-galaksi	N	galakse
-itäpuoli	N	østside
-systeemi	N	system
-osmani	N	osmaner
-vuorovaikutus	N	vekselvirkning
-vaihtelu	N	veksling
-orjuus	N	slaveri
-pyrkimys	N	streben
-vokaali	N	vokal
-satelliitti	N	satelitt
-pääkaupunkiseutu	N	hovedstadsregion
-leiri	N	leir
-kuntaliitos	N	kommuneforbund
-populaatio	N	populasjon
-akatemia	N	akademi
-sektori	N	sektor
-muuri	N	mur
-valmistaja	N	trener
-vallankaappaus	N	kupp
-lähetti	N	utsending
-hiili	N	kull
-mongoli	N	mongoler
-markka	N	mark
-tukikohta	N	støttepunkt
-ristiretki	N	korstog
-sosialismi	N	sosialisme
-hehtaari	N	hektar
-shakki	N	sjakk
-dynastia	N	dynasti
-teknologia	N	teknologi
-sosiaalidemokraatti	N	sosialdemokrat
-olio	N	vesen
-kemia	N	kjemi
-väline	N	middel
-moraali	N	moral
-kriitikko	N	kritiker
-cup	N	cup
-alppi	N	alpe
-siirtokunta	N	koloni
-itsenäistyminen	N	det å bli selvstendig
-luokittelu	N	klassifisering
-sovellus	N	tilpasning
-saavutus	N	prestasjon
-matkailu	N	reiseliv
-lestadiolaisuus	N	lestadianisme
-ruuma	N	lasterom
-päämaja	N	hovedkvarter
-kaikkeus	N	alt
-magneettikenttä	N	magnetfelt
-luominen	N	skapelse
-dokumentti	N	dokument
-nykypäivä	N	nåtid
-tiheys	N	tetthet
-keikka	N	spillejobb
-yhdistelmä	N	kombinasjon
-vuode	N	seng
-suojeluskunta	N	skyddskår
-päiväntasaaja	N	ekvator
-asevelvollisuus	N	verneplikt
-hiilidioksidi	N	kulldioksid
-uraani	N	uran
-prikaati	N	brigade
-maanjäristys	N	jordskjelv
-historioitsija	N	historiker
-länsipuoli	N	vestside
-levottomuus	N	urolighet
-selänne	N	åsrygg
-suhteellisuusteoria	N	relativitetsteori
-aurinkokunta	N	solsystem
-video	N	video
-neuvostotasavalta	N	sovjetrepublikk
-monarkia	N	monarki
-kääpiö	N	dverg
-edellytys	N	forutsetning
-syntyminen	N	fødsel
-talli	N	stall
-keskilämpötila	N	gjennomsnittstemperatur
-kehittäjä	N	utvikler
-hävittäjä	N	jagerfly
-asteroidi	N	astroide
-vastaanotto	N	mottagelse
-senttimetri	N	sentimeter
-kallioperä	N	berggrunn
-lama	N	økonomisk depresjon
-ydinase	N	atomvåpen
-ajanlasku	N	tidsregning
-vasemmisto	N	venstreside
-maailmankaikkeus	N	verdensaltet
-ratsuväki	N	kavalleri
-suurvalta	N	stormakt
-reaktori	N	reaktor
-panssarivaunu	N	stridsvogn
-liiga	N	liga
-rumpali	N	trommeslager	trommis
-kapitalismi	N	kapitalisme
-neuvostoliittolainen	N	sovjetborger
-radikaali	N	radikaler
-imperiumi	N	imperium
-terrorismi	N	terrorisme
-sinkki	N	sink
-kamera	N	kamera
-proteiini	N	protein
-vierailu	N	besøk
-punakaarti	N	rødegarde
-psykologia	N	psykologi
-tuottaminen	N	produktivitet
-naapurimaa	N	naboland
-virus	N	virus
-tulipalo	N	brann
-mytologia	N	mytologi
-äänioikeus	N	stemmerett
-matti	N	matt
-kapinallinen	N	opprører
-kampanja	N	kampanje
-protokolla	N	protokoll
-kuvernööri	N	guvernør
-eversti	N	oberst
-presidenttikausi	N	presidentperiode
-käynti	N	visitt
-kommunismi	N	kommunisme
-kapinallinen	N	opprører
-ensi-ilta	N	premierekveld
-tykki	N	kanon
-suuruus	N	storhet
-jäsenvaltio	N	medlemsstat
-ideologia	N	ideologi
-tulivuori	N	vulkan
-kitaristi	N	gitarist
-sissi	N	geriljakriger
-siirtolainen	N	migrant	innvandrer
-kokonaisluku	N	heltall
-ydinvoima	N	atomkraft
-vahvuus	N	styrke
-valloitus	N	okkupasjon
-senaattori	N	senator
-tosiasia	N	faktum
-maakaasu	N	jordgass
-millimetri	N	millimeter
-maanpako	N	landflyktighet
-maailmanmestaruus	N	verdensmesterskap
-keskustaajama	N	tettsted
-kannabis	N	cannabis
-herätysliike	N	vekkelsesbevegelse
-ylipäällikkö	N	kommandør
-ohjelmointikieli	N	programmeringsspråk
-viestintä	N	kommunikasjon
-vastakohta	N	motsetning
-sijoitus	N	investering
-riippuvuus	N	avhengighet
-pai	N	pai
-maihinnousu	N	ilandstiging
-joukkoliikenne	N	kollektivtrafikk
-vallankumouksellinen	N	revolusjonær
-unkarilainen	N	ungarer
-metallimusiikki	N	heavy metal
-loppuvaihe	N	avslutningsfase
-leviäminen	N	utbredelse
-kreivi	N	greve
-internet	N	internett
-bakteeri	N	bakterie
-herttua	N	hertug
-tutka	N	radar
-stadion	N	stadion
-mittaus	N	måling
-kansalliskokous	N	borgermøte
-jätti	N	kjempe
-isotooppi	N	isotop
-venäläinen	N	russer
-väestönlaskenta	N	folketelling
-propaganda	N	propaganda
-pataljoona	N	bataljon
-fyysikko	N	fysiker
-ritari	N	ridder
-maailmanmestari	N	verdensmester
-kivikausi	N	steinalder
-televisiosarja	N	fjernsynsserie
-natsi	N	nazist
-makedonialainen	N	makedoner
-jäsenyys	N	medlemskap
-ehtoollinen	N	nattverd
-titteli	N	tittel
-spektri	N	spektrum
-lempinimi	N	kjælenavn
-talouskasvu	N	økonomisk vekst
-parantaminen	N	helbredelse
-liberalismi	N	liberalisme
-kirkkokunta	N	kirkesamfunn
-diktaattori	N	diktator
-terveydenhuolto	N	helsevesen
-legenda	N	legende
-bolševikki	N	bolsjevik
-sakramentti	N	sakramente
-puoluekokous	N	partimøte
-matemaatikko	N	matematiker
-kaivos	N	gruve
-pommitus	N	bombardement
-klaani	N	klan
-jäsenmaa	N	medlemsland
-sanasto	N	ordforråd
-rykmentti	N	regiment
-renessanssi	N	renessanse
-nurmi	N	plen
-komponentti	N	komponent
-keskiarvo	N	gjennomsnitt
-helium	N	helium
-korruptio	N	korrupsjon
-hollantilainen	N	hollender
-merkistö	N	tegnsett
-valtaus	N	erobring
-neutroni	N	nøytron
-lintulaji	N	fugleart
-väritys	N	fargelegging
-novelli	N	novelle
-kantatie	N	stamveg
-toteuttaminen	N	tilvenning
-käyttöönotto	N	implementering
-varapuheenjohtaja	N	nestleder
-sähkövirta	N	elektrisitet
-rikkihappo	N	svovelsyre
-hasis	N	hasj
-basisti	N	bassist
-yksityiselämä	N	privatliv
-todennäköisyys	N	sannsynlighet
-pörssi	N	børs
-patentti	N	patent
-käyttötarkoitus	N	bruksformål
-juutalaisuus	N	jødedom
-esperanto	N	esperanto
-demokraatti	N	demokrat
-sosialisti	N	sosialist
-äänne	N	språklyd
-tšekki	N	tsjekker
-sillanpää	N	bruhode
-siitin	N	penis
-metafysiikka	N	metafysikk
-lopettaminen	N	avliving
-kärkiväli	N	vingespenn
-hitti	N	hit
-arabia	N	arabisk språk
-plutonium	N	plutonium
-kokaiini	N	kokain
-rajanaapuri	N	grensenabo
-kirkolliskokous	N	kirkemøte
-viikinki	N	viking
-suorituskyky	N	prestasjonsevne
-maanalainen	A	underjordisk
-maanalainen	N	tunnelbane
-osallistuminen	N	deltaking
-liittotasavalta	N	forbundsstat
-kvarkki	N	kvark
-konsonantti	N	konsonant
-buddhalaisuus	N	buddhisme
-tuotantokausi	N	produksjonssesong
-protoni	N	proton
-lisääminen	N	det å legge til
-lentoyhtiö	N	flyselskap
-keskuspankki	N	sentralbank
-päihde	N	rusmiddel
-musiikkivideo	N	musikkvideo
-maailmanperintöluettelo	N	verdensarvliste
-lepakko	N	flaggermus
-jakaminen	N	deling
-demo	N	demo
-bitti	N	bit	databit
-pormestari	N	borgermester
-marsalkka	N	marsalk
-maisteri	N	magister
-kiertorata	N	rullebane
-ulottuvuus	N	dimensjon
-ikäluokka	N	aldersklasse
-college	N	college
-taktiikka	N	taktikk
-painovoima	N	tyngdekraft
-menneisyys	N	fortid
-komeetta	N	komet
-arkkipiispa	N	erkebiskop
-tiedotusväline	N	massemedia
-pii	N	flint
-kirjoitusjärjestelmä	N	skriftsystem
-edustajainhuone	N	representantenes hus
-voimakkuus	N	styrke
-testi	N	test
-muutto	N	flytting
-kaukoputki	N	kikkert
-ehtoollinen	N	nattverd
-asento	N	innstilling
-päätöksenteko	N	beslutningsfatning
-vaikuttaja	N	influencer
-tietotekniikka	N	datateknikk
-neliö	N	kvadrat
-makedonialainen	N	makedoner
-levy-yhtiö	N	plateselskap
-kenraalikuvernööri	N	generalguvernør
-tiedemies	N	vitenskapsmann
-sotilasarvo	N	militær grad
-komento	N	kommando
-huumori	N	humor
-algoritmi	N	algoritme
-raunio	N	ruin
-kandidaatti	N	kandidat
-esi-isä	N	forfeder
-diktatuuri	N	diktatur
-alpi	N	alpe
-vähentäminen	N	redusering
-veturi	N	lokomotiv
-liiketoiminta	N	forretningsdrift
-kalusto	N	møblement
-johtopäätös	N	konklusjon
-evoluutio	N	evolusjon
-etanoli	N	etanol
-valmistaminen	N	forberedelse
-protestantti	N	protestant
-kesäaika	N	sommertid
-typpi	N	type
-tasavaltalainen	N	republikaner
-patentti	N	patent
-oppiminen	N	læring
-kriteeri	N	kriterium
-keskitysleiri	N	konsentrasjonsleir
-kaarti	N	garde
-edistäminen	N	framskritt
-tähtitiede	N	astronomi
-nauru	N	latter
-vandaali	N	vandal
-tyylisuunta	N	stilretning
-psykoanalyysi	N	psykoanalyse
-mekaniikka	N	mekanikk
-auktoriteetti	N	autoritet
-törmäys	N	kollisjon
-republikaani	N	republikaner
-reaaliluku	N	reelt tall
-ajattelija	N	tenker
-valmistuminen	N	forberedelse
-turismi	N	turisme
-romani	N	rom
-retkikunta	N	ekspedisjon
-maailmanmestaruuskilpailu	N	verdensmesterskap
-liikkuminen	N	mobilitet
-keksijä	N	oppfinner
-kansallissosialisti	N	nasjonalsosialist
-vertailu	N	sammenligning
-tykistö	N	artilleri
-seteli	N	seddel
-puuttuminen	N	mangel
-oikeisto	N	høyreside
-monikko	N	flertall
-laboratorio	N	laboratorium
-yhtenäisyys	N	enhet
-yhdistyminen	N	forening
-territorio	N	territorium
-painostus	N	press	påvirkning
-muuttuminen	N	forandring
-maanosa	N	landsdel
-lainasana	N	lånord
-kilogramma	N	kilogram
-eduskuntaryhmä	N	parlamentarikergruppe
-apostoli	N	apostel
-yhteenotto	N	sammenstøt	stridighet
-televisiokanava	N	fjernsynskanal
-suomennos	N	oversetting til finsk
-rituaali	N	rituale
-pääjohtaja	N	generaldirektør
-laskeminen	N	beregning	utforkjøring
-kustantaja	N	forlegger
-koostumus	N	konsistens
-konservatiivi	N	konservativ
-kielikunta	N	språkfamilie
-italia	N	italiensk språk
-aktiivisuus	N	aktivitet
-viro	N	estisk språk
-valistus	N	opplysning
-teloitus	N	henrettelse
-populaarimusiikki	N	populærmusikk
-kopio	N	kopi
-hallituskausi	N	regjeringsperiode
-buddhalainen	N	buddhist
-aie	N	hensikt
-saavuttaminen	N	prestasjon
-rikollisuus	N	kriminalitet
-reviiri	N	revir
-nova	N	nova
-leima	N	stempel
-kansallissosialismi	N	nasjonalsosialisme
-etupää	N	fremre del
-alahuone	N	underhus
-vastus	N	resistor
-ruhtinaskunta	N	fyrstedømme
-raketti	N	rakett
-paradoksi	N	paradoks
-läpimurto	N	gjennombrudd
-katedraali	N	katedral
-tuhoaminen	N	forintelse
-terroristi	N	terrorist
-talouspolitiikka	N	økonomisk politikk
-kiintolevy	N	harddisk
-jäsenmäärä	N	medlemstall
-edistyspuolue	N	fremskrittsparti
-tyylilaji	N	stilretning
-rautakausi	N	jernalder
-lordi	N	lord
-liittouma	N	allianse
-aakkosto	N	alfabet
-ristiretkeläinen	N	korsfarer
-mafia	N	mafia
-lähialue	N	nærområde
-keskipiste	N	midtpunkt
-kansantalous	N	nasjonaløkonomi
-blues	N	blues
-basso	N	bass
-alkaminen	N	begynnelse
-välimuisti	N	cacheminne	register
-tietokoneohjelma	N	dataprogram
-siili	N	pinnsvin
-saatto	N	følge
-reititin	N	ruter
-laajennus	N	utvidelse
-kemikaali	N	kjemikalium
-jatko-osa	N	oppfølger
-veistos	N	skulptur
-sorkkaeläin	N	klovdyr
-rikkominen	N	brudd
-palautus	N	retur
-mittakaava	N	målestokk
-matkailija	N	reisende
-marssi	N	mars
-keksiminen	N	det å finne opp noe
-kaari	N	bue
-ilmapiiri	N	stemning
-gootti	N	goter
-eläimistö	N	fauna
-presidenttiehdokas	N	presidentkandidat
-kuolemantuomio	N	dødsdom
-kesto	N	varighet
-hyödyntäminen	N	utnyttelse
-heroiini	N	heroin
-eläinlaji	N	dyreart
-ydinvoimala	N	atomkraftverk
-valtavirta	N	hovedstrømning
-itäraja	N	østgrense
-varallisuus	N	formue
-temppeliherra	N	tempelherre
-sähkövaraus	N	elektrisk ladning
-sisävesi	N	ferskvann
-satamakaupunki	N	havneby
-prototyyppi	N	prototype
-nuorsuomalainen	N	ungfinne
-kosketus	N	berøring
-komppania	N	kompani
-kehitysmaa	N	utviklingsland
-kammio	N	kammer
-kaappaus	N	kapring
-faarao	N	farao
-aselepo	N	våpenhvile
-aktivisti	N	aktivist
-teollistuminen	N	industrialisering
-sulttaani	N	sultan
-länsirannikko	N	vestkyst
-liikemies	N	forretningsmann
-kielitiede	N	språkvitenskap
-kansanliike	N	folkebevegelse
-esiintyjä	N	kunstner	performer
-empirismi	N	empirisme
-radioasema	N	radiostasjon
-päärata	N	hovedspor
-heikkous	N	svakhet
-etelävaltio	N	sørstat
-ateismi	N	ateisme
-aseistus	N	bevæpning
-alumiini	N	aluminium
-show	N	show
-jaottelu	N	klassifisering
-heavy	N	heavy
-geometria	N	geometri
-asepalvelus	N	verneplikt
-älykkyys	N	intelligens
-siviilipalvelus	N	siviltjeneste
-käsikirjoittaja	N	manusforfatter
-kysely	N	utspørring
-koho	N	dupp
-kenno	N	celle
-isoviha	N	den store ufreden
-hankinta	N	anskaffelse
-dialektiikka	N	dialektikk
-sääty	N	stand
-länsiranta	N	vestkyst
-keisarinna	N	keiserinne
-kanaali	N	kanal
-heprea	N	hebraisk språk
-elokuvaohjaaja	N	filmregisør
-titaani	N	titan
-siirtäminen	N	flytting
-objektiivi	N	objektiv
-näytönohjain	N	skjermkort
-näky	N	syn
-liuos	N	oppløsning
-klani	N	klan
-kidutus	N	tortur
-julkaiseminen	N	offentliggjøring
-jakauma	N	fordeling
+lämpötila	N	temperatur
+antiikki	N	antikken
+rock	N	rock
+eduskuntavaalit	N	parlamentsvalg
+hyönteinen	N	insekt
+yhdiste	N	forbindelse
+toiminto	N	funksjon	mekanisme
+asevoima	N	væpnede styrker
+pinna	N	eike
+taho	N	kant	hold
+kreikka	N	gresk språk
+edusta	N	plass foran noe
+valtakausi	N	maktperiode
+maaperä	N	jordsmonn
+sanoitus	N	sangtekst
+suoritin	N	prosessor	mikrochip
+kesäolympialaiset	N	sommerolympiade
+ohja	N	tøyler	tømmer
+tasanko	N	slette
+oppilaitos	N	læreanstalt
+kiitotie	N	rullebane
+meno	N	gang
+jalkaväki	N	infanteri
+seutukunta	N	økonomisk region
+aavikko	N	ørken
+sananen	N	småord
+sademäärä	N	nedbørsmengde
+paasikivi	N	kampestein
+kansannousu	N	folkeopprør
+päättely	N	konklusjon
+valtaistuin	N	trone
+loppuvuosi	N	høsthalvåret
+persoona	N	personlighet
+tukija	N	støttespiller
+määrittely	N	definisjon
+urho	N	helt
+valtiopäivät	N	
+kansainliitto	N	folkeforbund
+ylänkö	N	høgland
+vietti	N	instinkt
+lasta	N	steikespade	spjelkeskinne
+toteutus	N	fullføring	implementering
+sukupuutto	N	utryddelse
+huume	N	narkotikum
+sävellys	N	komposisjon
+piiritys	N	beleiring
+taru	N	sagn	fortelling
+jalkapallomaajoukkue	N	fotballandslag
+päättyminen	N	avslutning
+piirikunta	N	kanton
+noja	N	støtte
+ritarikunta	N	orden
+lakkauttaminen	N	nedlegging
+kirkkoherra	N	sokneprest	prost
+parlamenttivaalit	N	parlamentsvalg
+etelämanner	N	antarktis
+maavoimat	N	hæren	landstyrkene
+muuttaminen	N	forandring
+merivoimat	N	marine
+harrastaja	N	amatør
+kirkkaus	N	klarhet
+naara	N	dregg
+luotain	N	satelitt
+kasvo	N	ansikt
+näyte	N	eksempel	prøve
+hyödyke	N	
+pallonpuolisko	N	hemisfære
+suure	N	storhet
+hajaannus	N	
+painopiste	N	tyngdepunkt
+liittäminen	N	
+liittyminen	N	
+liikenneyhteys	N	
+oireyhtymä	N	
+tieteenala	N	vitenskapsområde
+siirtymä	N	
+löytäminen	N	
+pohjanlahti	N	polarstjerna
+kato	N	
+muodostuminen	N	
+levinneisyysalue	N	
+laitteisto	N	
+tuska	N	
+sivusto	N	
+fotoni	N	
+tukeminen	N	
+muodostaminen	N	
+yhde	N	
+vuosaari	N	
+hämähäkkimies	N	
+ahtisaari	N	
+tonga	N	
+talviolympialaiset	N	
+alfa	N	
+sosialidemokraattinen	N	
+pesimäkanta	N	
+ainu	N	
+karjalankannas	N	
+peru	N	
+estäminen	N	
+thrash	N	
+studioalbumi	N	
+suursaari	N	
+hautajainen	N	
+elintapa	N	
+virasto	N	
+luokki	N	
+sijoitettu	N	
+olympiakisat	N	
+mustanmeri	N	
+huumausaine	N	
+satraappi	N	
+pascal	N	
+sauro	N	
+punk	N	
+tuomioja	N	
+maailmanperintökohde	N	
+diabetes	N	
+tyytymättömyys	N	
+taloustieteilijä	N	
+rauhanyhdistys	N	
+pääteos	N	
+para	N	
+lähetystyö	N	
+kaupunginjohtaja	N	
+bändi	N	
+aasi	N	
+varuskunta	N	
+tytäryhtiö	N	
+tyhjiö	N	
+sotapäällikkö	N	
+sisarus	N	
+seksuaalisuus	N	
+saatavuus	N	
+räjähde	N	
+opisto	N	
+manifesti	N	
+lounaisosa	N	
+kunnianosoitus	N	
+kansanmurha	N	
+joukko-osasto	N	
+haltia	N	
+center	N	
+asteekki	N	
+yleiskieli	N	
+yhteiskoulu	N	
+väheneminen	N	
+tšetšeeni	N	
+tutkimuskeskus	N	
+sotajoukko	N	
+sali	N	
+ranking	N	
+pelaaminen	N	
+kurri	N	
+homoseksuaalisuus	N	
+agentti	N	
+aatelisto	N	
+tarjonta	N	
+mellakka	N	
+masennus	N	
+liivinmaa	N	
+laskenta	N	
+kielenkäyttö	N	
+keskushallinto	N	
+kaakkoisosa	N	
+havaitseminen	N	
+federaatio	N	
+väittämä	N	
+vapauttaminen	N	
+terrori	N	
+tehokkuus	N	
+soul	N	
+salaliitto	N	
+puukirkko	N	
+pistooli	N	
+party	N	
+neutriino	N	
+nero	N	
+muninta	N	
+lyönti	N	
+konsuli	N	
+etelärannikko	N	
+taivaankappale	N	
+säkä	N	
+suosikki	N	
+sato	N	
+raskaus	N	
+radioaktiivisuus	N	
+pitäjäs	N	
+pinyin	N	
+palauttaminen	N	
+mikki	N	
+mielihyvä	N	
+manageri	N	
+liitukausi	N	
+lehtipuu	N	
+kuolleisuus	N	
+konekivääri	N	
+tunnusmerkki	N	
+suurkaupunki	N	
+musiikkityyli	N	
+lohko	N	
+koulunkäynti	N	
+kortteli	N	
+kasvilaji	N	
+tähtijoukko	N	
+suviseura	N	
+salanimi	N	
+reservi	N	
+portugali	N	
+murrosikä	N	
+lyseo	N	
+luento	N	
+laita	N	
+kolo	N	
+koillisosa	N	
+kansanperinne	N	
+jälkipuolisko	N	
+erektio	N	
+autiomaa	N	
+sukupuolielin	N	
+santa	N	
+pinnanmuoto	N	
+piirros	N	
+olomuoto	N	
+muistelma	N	
+kvanttimekaniikka	N	
+kuolemanrangaistus	N	
+kieltolaki	N	
+keskuskomitea	N	
+kardinaali	N	
+kannanotto	N	
+johtaminen	N	
+hyökkääjä	N	
+elinikä	N	
+amiraali	N	
+yläluokka	N	
+verilöyly	N	
+vatsapuoli	N	
+uskontokunta	N	
+turvallisuusneuvosto	N	
+suurlähettiläs	N	
+päärakennus	N	
+pikseli	N	
+perämeri	N	
+mennyt	N	
+kaupunkivaltio	N	
+ilmestyminen	N	
+tytärsaari	N	
+pommikone	N	
+pikaraitiotie	N	
+istunto	N	
+ateisti	N	
+syrjä	N	
+siirtomaavalta	N	
+puoluesihteeri	N	
+platina	N	
+pelastus	N	
+osajoukko	N	
+liittymä	N	
+lentoliikenne	N	
+laski	N	
+kymijoki	N	
+keskusmuisti	N	
+ioni	N	
+armeijakunta	N	
+vankileiri	N	
+valtaannousu	N	
+tavaratalo	N	
+serbi	N	
+pääsaari	N	
+purkaus	N	
+puhdistus	N	
+patriarkka	N	
+moreeni	N	
+mineraali	N	
+metaani	N	
+lähetyssaarnaaja	N	
+köysi	N	
+koalitio	N	
+kamppailu	N	
+jumaluus	N	
+jalkapalloseura	N	
+imperialismi	N	
+ilmestys	N	
+hindulaisuus	N	
+hierarkia	N	
+ammus	N	
+väestöryhmä	N	
+vankeusrangaistus	N	
+valtakunnankansleri	N	
+uskonpuhdistus	N	
+tuomas	N	
+säilyttäminen	N	
+sala	N	
+saanti	N	
+puolisko	N	
+muuttoliike	N	
+luoteisosa	N	
+kaurismäki	N	
+kaupunkikuva	N	
+johdin	N	
+herännäisyys	N	
+helluntaiherätys	N	
+halme	N	
+frankki	N	
+emolevy	N	
+yuan	N	
+villisika	N	
+ulkoasu	N	
+tuuma	N	
+talouskriisi	N	
+saaja	N	
+pohjanmeri	N	
+pitäminen	N	
+paksuus	N	
+oikeustiede	N	
+messu	N	
+malaiji	N	
+lämpeneminen	N	
+koala	N	
+johtohahmo	N	
+etsintä	N	
+biodiesel	N	
+alanko	N	
+tähdistö	N	
+tasapeli	N	
+talouselämä	N	
+standardimalli	N	
+roll	N	
+puolivälinen	N	
+pronssikausi	N	
+ohjelmointi	N	
+nuoriso	N	
+nimike	N	
+mato	N	
+laulujoutsen	N	
+kuntakeskus	N	
+itärannikko	N	
+gnostilaisuus	N	
+fuusio	N	
+fasisti	N	
+fani	N	
+esihistoria	N	
+emämaa	N	
+ässä	N	
+vetäytyminen	N	
+vala	N	
+toimipiste	N	
+syntyvyys	N	
+suojelualue	N	
+panttivanki	N	
+mieliala	N	
+kuivuus	N	
+kraatteri	N	
+kertoma	N	
+jäähalli	N	
+hietaniemi	N	
+eläintarha	N	
+eksoplaneetta	N	
+amfetamiini	N	
+ulkomuoto	N	
+ulkomaankauppa	N	
+tuotos	N	
+tiedonsiirto	N	
+suisto	N	
+sosiologia	N	
+sisäosa	N	
+seksi	N	
+sekametsä	N	
+paikallishallinto	N	
+mielenkiinto	N	
+metropolialue	N	
+manga	N	
+maailmankuva	N	
+lähettiläs	N	
+litium	N	
+kuvanveistäjä	N	
+jäämeri	N	
+eksistentialismi	N	
+bosoni	N	
+asutuskeskus	N	
+anarkisti	N	
+aloittaminen	N	
+yhteistoiminta	N	
+valtataistelu	N	
+sulkasato	N	
+sivistys	N	
+sissisota	N	
+sara	N	
+salaus	N	
+populaarikulttuuri	N	
+perustajajäsen	N	
+ottaminen	N	
+ortodoksi	N	
+nimimerkki	N	
+metroasema	N	
+maankohoaminen	N	
+kunniamerkki	N	
+kondomi	N	
+kofeiini	N	
+kenraalimajuri	N	
+avajainen	N	
+yhdystie	N	
+vaurio	N	
+valtiovalta	N	
+valovuosi	N	
+uskonnonvapaus	N	
+työväenliike	N	
+tuntemus	N	
+sähkökenttä	N	
+steinerkoulu	N	
+ryhmittymä	N	
+oikeinkirjoitus	N	
+läpimitta	N	
+linjaus	N	
+levytys	N	
+kävijä	N	
+kotikaupunki	N	
+kieltäminen	N	
+juontaja	N	
+golf	N	
+atolli	N	
+asuma	N	
+asukasmäärä	N	
+arvostettu	N	
+täplä	N	
+taidemusiikki	N	
+suomenlinna	N	
+software	N	
+siirtoväki	N	
+radiokanava	N	
+purkki	N	
+punta	N	
+pesintä	N	
+ohjelmoija	N	
+neljäsosa	N	
+majuri	N	
+luutnantti	N	
+luokitus	N	
+laukaus	N	
+käkisalmi	N	
+koneisto	N	
+ajoitus	N	
+ylioppilaskunta	N	
+vastahyökkäys	N	
+vastaehdokas	N	
+valtuus	N	
+valtionhoitaja	N	
+unkari	N	
+tutkimuslaitos	N	
+tietoliikenne	N	
+taistolainen	N	
+porvari	N	
+pohjoisnapa	N	
+pesäpallo	N	
+kunnioitus	N	
+kultamitali	N	
+kommunistipuolue	N	
+kirjoitusasu	N	
+kirjeenvaihto	N	
+kauhu	N	
+kantakaupunki	N	
+iiri	N	
+hoitaminen	N	
+harjoittaja	N	
+hankkiminen	N	
+anne	N	
+välttäminen	N	
+vetovoima	N	
+verenkierto	N	
+vamma	N	
+sukukypsä	N	
+rupla	N	
+rotta	N	
+minkki	N	
+live	N	
+levittäminen	N	
+kulttuuriympäristö	N	
+jääkäri	N	
+fasismi	N	
+biokaasu	N	
+avaruusalus	N	
+yhdyntä	N	
+valitsijamies	N	
+ulkoministeriö	N	
+soitto	N	
+selkäpuoli	N	
+rauhanpalkinto	N	
+pimeys	N	
+oleminen	N	
+nationalismi	N	
+majakka	N	
+lahjoitus	N	
+kontrolli	N	
+jäte	N	
+hyväksikäyttö	N	
+helluntaiseurakunta	N	
+hallinto-oikeus	N	
+graniitti	N	
+astronautti	N	
+arabimaa	N	
+thai	N	
+suuralue	N	
+sisäpuoli	N	
+sisäpolitiikka	N	
+radioaallot	N	
+laulukilpailu	N	
+kuri	N	
+kaupunkilainen	N	
+huopalahti	N	
+homoseksuaali	N	
+halli	N	
+ylähuone	N	
+ylivoima	N	
+vapaussota	N	
+vaalitapa	N	
+ultraviolettisäteily	N	
+toimintatapa	N	
+syntyperä	N	
+supernova	N	
+sofisti	N	
+rockmusiikki	N	
+päivälehti	N	
+pyhimys	N	
+puutavara	N	
+protesti	N	
+pakina	N	
+olympiastadion	N	
+nautinto	N	
+muotokuva	N	
+lukema	N	
+leveyspiiri	N	
+laukaisu	N	
+kivimäki	N	
+kelvin	N	
+kansalaisjärjestö	N	
+kansainyhteisö	N	
+duuma	N	
+aluejako	N	
+viihde	N	
+vesialue	N	
+vasemmistonuori	N	
+varuste	N	
+vaaliliitto	N	
+syndrooma	N	
+sivilisaatio	N	
+sijoittaja	N	
+sadekausi	N	
+raide	N	
+pääsarja	N	
+porvaristo	N	
+pastori	N	
+operaattori	N	
+ontologia	N	
+nelson	N	
+muura	N	
+murhaaja	N	
+mittari	N	
+metanoli	N	
+levikki	N	
+japani	N	
+jakautuminen	N	
+holokausti	N	
+brändi	N	
+alkoholijuoma	N	
+väkivaltaisuus	N	
+valtuuskunta	N	
+tähtitieteilijä	N	
+trilogia	N	
+taistelija	N	
+syysmuutto	N	
+sotatila	N	
+sota-aika	N	
+skandaali	N	
+rajapinta	N	
+metsätalous	N	
+maataloustuote	N	
+maalaji	N	
+legioona	N	
+laskutoimitus	N	
+kunnas	N	
+korkeusero	N	
+kohtelu	N	
+kirjo	N	
+kansanmusiikki	N	
+kampus	N	
+juova	N	
+everstiluutnantti	N	
+alkeishiukkanen	N	
+aateli	N	
+valtiovarainministeri	N	
+törmä	N	
+tiedustelupalvelu	N	
+tavaraliikenne	N	
+sähkömoottori	N	
+sydänkohtaus	N	
+sukkula	N	
+sivusta	N	
+sarjataso	N	
+pommi-isku	N	
+ostoskeskus	N	
+maitotuote	N	
+mahti	N	
+lähiö	N	
+lumipeite	N	
+kuiperä	N	
+kreivikunta	N	
+konetyyppi	N	
+kivihiili	N	
+hobitti	N	
+genetiivi	N	
+etelämantere	N	
+erottelu	N	
+ennuste	N	
+celsiusaste	N	
+arkikieli	N	
+anarkismi	N	
+yllätys	N	
+viidennes	N	
+toimeenpanovalta	N	
+suuriruhtinas	N	
+sola	N	
+romahdus	N	
+robotti	N	
+ralli	N	
+puolustaminen	N	
+puhelu	N	
+paperitehdas	N	
+neuvostojoukko	N	
+moskeija	N	
+monarkki	N	
+metsäpeura	N	
+luoto	N	
+loppuottelu	N	
+levyke	N	
+lauseke	N	
+kivikirkko	N	
+kirjasarja	N	
+kaupunginhallitus	N	
+jesuiitta	N	
+imago	N	
+eliitti	N	
+asevelvollinen	N	
+ajaminen	N	
+välirauha	N	
+veteraani	N	
+valonnopeus	N	
+tutkimustulos	N	
+traakia	N	
+terrori-isku	N	
+taajuusalue	N	
+super	N	
+salamurha	N	
+rokote	N	
+rockyhtye	N	
+rannikkoalue	N	
+raitiotie	N	
+puulaji	N	
+oppikoulu	N	
+oikeudenmukaisuus	N	
+meemi	N	
+loppukesä	N	
+loimijoki	N	
+kuvaaminen	N	
+kompleksiluku	N	
+kappalainen	N	
+kaivaus	N	
+jännitys	N	
+hyväksyminen	N	
+hallitsijasuku	N	
+etuliite	N	
+erikoisjoukko	N	
+edelläkävijä	N	
+albumilista	N	
+alakoulu	N	
+yleiskokous	N	
+ydinvoimalaitos	N	
+velipuoli	N	
+varpuslintu	N	
+valtiopäivä	N	
+turvapaikka	N	
+tukiasema	N	
+tieteilijä	N	
+suurlähetystö	N	
+pragmatismi	N	
+parras	N	
+paasilinna	N	
+orgasmi	N	
+määräaika	N	
+levytyssopimus	N	
+laava	N	
+kirkkopitäjä	N	
+kemisti	N	
+kauppapaikka	N	
+kategoria	N	
+kaista	N	
+itärintama	N	
+haaparanta	N	
+empire	N	
+astrologia	N	
+artikla	N	
+ääntäminen	N	
+väre	N	
+viidesosa	N	
+valloittaja	N	
+uskontunnustus	N	
+työskentely	N	
+tavaramerkki	N	
+sulku	N	
+sinfoniaorkesteri	N	
+sensuuri	N	
+saariryhmä	N	
+ratsastus	N	
+puuta	N	
+matkustajaliikenne	N	
+matkailukohde	N	
+kiihtyvyys	N	
+kasvattaminen	N	
+ikävuosi	N	
+humala	N	
+etenemä	N	
+autisti	N	
+viestin	N	
+vatikaanivaltio	N	
+vanhakaupunki	N	
+tutkimuskohde	N	
+taite	N	
+sääntökunta	N	
+syöminen	N	
+suojelus	N	
+sotasaalis	N	
+ruokalaji	N	
+raideleveys	N	
+näkyvyys	N	
+nummi	N	
+mäyrä	N	
+muuttoaika	N	
+mielenosoittaja	N	
+maailmanmestaruusottelu	N	
+leveysaste	N	
+laskeutuminen	N	
+kuolinsyy	N	
+konsoli	N	
+kihlakunta	N	
+kide	N	
+kaupunkialue	N	
+höyhen	N	
+hiilivety	N	
+harjoittelu	N	
+esittäjä	N	
+esiintymisalue	N	
+alkupuolisko	N	
+ylimystö	N	
+yhteiskuntaluokka	N	
+voltti	N	
+vika	N	
+vauraus	N	
+vastalause	N	
+vastaanotin	N	
+tora	N	
+todellisuuskäsitys	N	
+tiedeakatemia	N	
+taideteos	N	
+suunnitelmatalous	N	
+ruokakulttuuri	N	
+runokokoelma	N	
+rationaaliluku	N	
+rakennelma	N	
+paholainen	N	
+onnistuminen	N	
+naakka	N	
+mustanaamio	N	
+muoti	N	
+matriisi	N	
+lisänimi	N	
+koordinaatisto	N	
+kirjapaino	N	
+keskustapuolue	N	
+keskusliitto	N	
+keskiluokka	N	
+huvila	N	
+hiukkasfysiikka	N	
+haudonta	N	
+haku	N	
+fenomenologia	N	
+diplomaatti	N	
+apulanta	N	
+vesihöyry	N	
+työttömyysaste	N	
+savanni	N	
+ratkaiseminen	N	
+pääaine	N	
+pula	N	
+parkki	N	
+paradigma	N	
+palomuuri	N	
+noudattaminen	N	
+neitsy	N	
+mielikuva	N	
+materialismi	N	
+lainausmerkki	N	
+konfederaatio	N	
+khmer	N	
+jääpallo	N	
+hylkääminen	N	
+huippuvuori	N	
+geologia	N	
+ennustus	N	
+antaminen	N	
+ylösnousemus	N	
+watti	N	
+videopeli	N	
+työehtosopimus	N	
+spin	N	
+sosiaaliturva	N	
+sisäministeri	N	
+santahamina	N	
+sanskrit	N	
+salaliittoteoria	N	
+röntgen	N	
+räjähdysaine	N	
+pidätys	N	
+panssari	N	
+onnellisuus	N	
+nostaminen	N	
+marxismi	N	
+maailmanpankki	N	
+maahanmuutto	N	
+kuninkuus	N	
+koro	N	
+kasvukausi	N	
+kansallisteatteri	N	
+jono	N	
+jatkaminen	N	
+hyötysuhde	N	
+havupuu	N	
+harjujakso	N	
+esikaupunki	N	
+väliaine	N	
+vuodenvaihde	N	
+vastapuoli	N	
+varusmiespalvelus	N	
+vapaakirkko	N	
+valuma-alue	N	
+vaikutelma	N	
+timantti	N	
+saaga	N	
+pönttö	N	
+päätalo	N	
+puolustusministeriö	N	
+pudotuspeli	N	
+potku	N	
+paratiisi	N	
+nisäkäslaji	N	
+metsäalue	N	
+merenkulku	N	
+maailmanennätys	N	
+lautapeli	N	
+laatta	N	
+kurdi	N	
+kultti	N	
+konekieli	N	
+katoaminen	N	
+kantoni	N	
+järjestysluku	N	
+joukkotuhoase	N	
+indeksi	N	
+hyvinvointivaltio	N	
+avaruusluotain	N	
+apartheid	N	
+yläkoulu	N	
+ydinkeskusta	N	
+väärinkäytös	N	
+värähtely	N	
+veljenpoika	N	
+vastakkainasettelu	N	
+tutkinta	N	
+toimikausi	N	
+todistusaineisto	N	
+tietoteoria	N	
+teollisuusmaa	N	
+televisio-ohjelma	N	
+syrjintä	N	
+sooloalbumi	N	
+solisti	N	
+saali	N	
+runkosarja	N	
+roottori	N	
+rautaristi	N	
+protektoraatti	N	
+palvonta	N	
+pahuus	N	
+osakilpailu	N	
+nitroglyseriini	N	
+metsäkauris	N	
+liike-elämä	N	
+lehto	N	
+käänne	N	
+keskusjärjestö	N	
+kansalaisoikeus	N	
+jersey	N	
+humanismi	N	
+henkilöliikenne	N	
+heikkeneminen	N	
+etelänapa	N	
+energianlähde	N	
+biologi	N	
+altruismi	N	
+ääntely	N	
+vastapaino	N	
+ulkosaaristo	N	
+työväestö	N	
+topologia	N	
+taistelukenttä	N	
+soittaminen	N	
+senaatintori	N	
+selusta	N	
+sekaannus	N	
+pyöriminen	N	
+piirijärjestö	N	
+pakkaus	N	
+otso	N	
+neliöjuuri	N	
+myyrä	N	
+maili	N	
+maanviljelys	N	
+lassi	N	
+lajityyppi	N	
+kompassi	N	
+kivääri	N	
+kauppasaarto	N	
+karjanhoito	N	
+kaaos	N	
+isänmaa	N	
+imperatiivi	N	
+ilmailu	N	
+herttuakunta	N	
+henkilöllisyys	N	
+evakko	N	
+eurovisio	N	
+euroalue	N	
+edustusjoukkue	N	
+edustajakokous	N	
+departementti	N	
+asuminen	N	
+antautuminen	N	
+alkuperäisasukas	N	
+aiheuttaja	N	
+älykkyysosamäärä	N	
+virhi	N	
+vapaa-ajattelija	N	
+valkohäntäpeura	N	
+tuulivoima	N	
+tutkimusmatkailija	N	
+sulamispiste	N	
+subjekti	N	
+slaavi	N	
+piilo	N	
+opiskeluaika	N	
+ohjaamo	N	
+nuorisoliitto	N	
+myymälä	N	
+merimies	N	
+mauste	N	
+maalaustaide	N	
+linja-autoasema	N	
+liikehdintä	N	
+kunniatohtori	N	
+kukistaminen	N	
+koululainen	N	
+korkeakoulututkinto	N	
+konsertto	N	
+kohouma	N	
+khmeri	N	
+kansleri	N	
+kaanon	N	
+grafiikka	N	
+formaatti	N	
+fermioni	N	
+esikoislestadiolaisuus	N	
+epäonnistuminen	N	
+avaaminen	N	
+aurinkotuuli	N	
+ateenalainen	N	
+yksityishenkilö	N	
+yhteenlasku	N	
+vesireitti	N	
+veljeskunta	N	
+vakoilu	N	
+tietämys	N	
+tarkkailija	N	
+taikuus	N	
+suojeluskuntalainen	N	
+slangi	N	
+sisämaavaltio	N	
+sananvapaus	N	
+resistanssi	N	
+pulssi	N	
+osuuskauppa	N	
+olympiakomitea	N	
+monumentti	N	
+mata	N	
+marxilaisuus	N	
+lähettäminen	N	
+lopputurnaus	N	
+leppävaara	N	
+ledi	N	
+kirkkoisä	N	
+kapasitanssi	N	
+itseisarvo	N	
+huvipuisto	N	
+hurrikaani	N	
+globalisaatio	N	
+etymologia	N	
+biisoni	N	
+ylioppilastutkinto	N	
+vakooja	N	
+tupakointi	N	
+toimielin	N	
+talvehtimisalue	N	
+suojelija	N	
+soundi	N	
+sortokausi	N	
+slovakki	N	
+sarjamurhaaja	N	
+samurai	N	
+saattue	N	
+ruanda	N	
+psykologi	N	
+popmusiikki	N	
+pakkotyö	N	
+objekti	N	
+määrittäminen	N	
+musikaali	N	
+morfiini	N	
+monimuotoisuus	N	
+metsätammi	N	
+maapinta-ala	N	
+läänitys	N	
+luterilaisuus	N	
+käännekohta	N	
+kulta-aika	N	
+kotitietokone	N	
+kotiseutumuseo	N	
+kolminaisuus	N	
+kenraaliluutnantti	N	
+katkelma	N	
+kannel	N	
+jalansija	N	
+instrumentti	N	
+ihailija	N	
+herätys	N	
+explorer	N	
+etsiminen	N	
+ylivalta	N	
+ydinkoe	N	
+välittäjä	N	
+väestöjakauma	N	
+vapaakauppa	N	
+vallankaappausyritys	N	
+tuleminen	N	
+tietoverkko	N	
+talousuudistus	N	
+synnytys	N	
+suomusjärvi	N	
+suoalue	N	
+sotamarsalkka	N	
+sotakorvaus	N	
+solmukohta	N	
+salibandy	N	
+saarivaltio	N	
+ruoholahti	N	
+roskaposti	N	
+pyöräily	N	
+puoliintumisaika	N	
+pikavuoro	N	
+pienviljelijä	N	
+parimäärä	N	
+panimo	N	
+ottomaani	N	
+muistiinpano	N	
+merirosvo	N	
+marxismileninismi	N	
+maksimi	N	
+maa-ala	N	
+luonnonsuojelu	N	
+luenta	N	
+loppuminen	N	
+linnake	N	
+lentäminen	N	
+kellotaajuus	N	
+katka	N	
+katastrofi	N	
+kantakieli	N	
+häirintä	N	
+hollanti	N	
+alueliitos	N	
+zarathustralaisuus	N	
+vektori	N	
+vastustaminen	N	
+valtionuskonto	N	
+vallanpitäjä	N	
+vaalivoitto	N	
+tuotemerkki	N	
+tietojenkäsittelytiede	N	
+sketsi	N	
+saalistaja	N	
+rahti	N	
+piisami	N	
+perus	N	
+perimä	N	
+pelle	N	
+partaveitsi	N	
+matkustajamäärä	N	
+lisensiaatti	N	
+liikennöinti	N	
+kultalevy	N	
+kauppakorkeakoulu	N	
+katalaani	N	
+kalalaji	N	
+kaatopaikka	N	
+kaappaaja	N	
+jättäminen	N	
+jäsenistö	N	
+intuitio	N	
+internationaali	N	
+ihmisryhmä	N	
+hymni	N	
+hunni	N	
+hiekkaranta	N	
+herääminen	N	
+dinosaurus	N	
+byrokratia	N	
+asettaminen	N	
+yövartijavaltio	N	
+yleislakko	N	
+yhteisymmärrys	N	
+ydinpolttoaine	N	
+välittäminen	N	
+viive	N	
+valtiomuoto	N	
+valtaväestö	N	
+utilitarismi	N	
+uimaranta	N	
+tärkeys	N	
+tuberkuloosi	N	
+torjuminen	N	
+tammisalo	N	
+synonyymi	N	
+sotaväki	N	
+skitsofrenia	N	
+reformaatio	N	
+puoluerekisteri	N	
+punasolu	N	
+psykoosi	N	
+piirtäjä	N	
+opetusministeriö	N	
+miss	N	
+miina	N	
+lähipiiri	N	
+lyhytelokuva	N	
+laajentaminen	N	
+kokonaispinta-ala	N	
+koivukylä	N	
+kehittely	N	
+karvoitus	N	
+kantama	N	
+kaatunut	N	
+ilmavoitto	N	
+hengitys	N	
+episodi	N	
+digitaalikamera	N	
+atomipommi	N	
+äänikynnys	N	
+yksityistäminen	N	
+väkijoukko	N	
+vertauskuva	N	
+vakaumus	N	
+urheilukenttä	N	
+työasema	N	
+tulivuorenpurkaus	N	
+selkärankainen	N	
+rukoushuone	N	
+rautatieyhteys	N	
+rauhansanalaisuus	N	
+rantakäärme	N	
+rajoittaminen	N	
+proletariaatti	N	
+positivismi	N	
+pelisarja	N	
+palokunta	N	
+otsoni	N	
+nauta	N	
+naispappeus	N	
+meijeri	N	
+lukutaito	N	
+lotta	N	
+lehtimetsä	N	
+lajike	N	
+laajentuminen	N	
+kohtaaminen	N	
+kaupungintalo	N	
+katsoma	N	
+kastilika	N	
+karkausvuosi	N	
+jokeri	N	
+hormoni	N	
+henkilökultti	N	
+hemoglobiini	N	
+elinvuosi	N	
+alunperä	N	
+ympärysvalta	N	
+ydinreaktori	N	
+virkakausi	N	
+vastarintaliike	N	
+vangitseminen	N	
+vaikutuspiiri	N	
+tuhoutuminen	N	
+tilastokeskus	N	
+tempo	N	
+seinämä	N	
+sari	N	
+salasana	N	
+reuna-alue	N	
+pähkinäsaari	N	
+potentiaali	N	
+pohjoisrannikko	N	
+pohjoisraja	N	
+pohjoisranta	N	
+pilvenpiirtäjä	N	
+parametri	N	
+orjakauppa	N	
+muodostuma	N	
+moduuli	N	
+merivesi	N	
+mannerjäätikkö	N	
+loitsu	N	
+liike-energia	N	
+lainaus	N	
+lahjakkuus	N	
+käyttökohde	N	
+kuve	N	
+kuumuus	N	
+kumoaminen	N	
+kreetalainen	N	
+klassismi	N	
+kieliryhmä	N	
+ketjureaktio	N	
+kallo	N	
+kalifi	N	
+itäkeskus	N	
+horisontti	N	
+halo	N	
+fretti	N	
+esikoinen	N	
+antropologia	N	
+ajattelutapa	N	
+äänimäärä	N	
+wigwam	N	
+vänrikki	N	
+varusmies	N	
+unelma	N	
+työväentalo	N	
+tritoni	N	
+rynnäkkökivääri	N	
+päätie	N	
+päätelaite	N	
+punkki	N	
+perusyksikkö	N	
+patriarkaatti	N	
+osio	N	
+nationalisti	N	
+mullistus	N	
+mauri	N	
+maskuliini	N	
+länsivallat	N	
+lukutaitoinen	N	
+loppuosa	N	
+lennätin	N	
+kupee	N	
+kultakanta	N	
+kuitu	N	
+kaupungistuminen	N	
+karsi	N	
+kansanvaali	N	
+joukkomurha	N	
+höyry	N	
+fissio	N	
+epidemia	N	
+elokuvajuhlat	N	
+ehdokkuus	N	
+avaus	N	
+avaruuslento	N	
+asuttaminen	N	
+ammattikorkeakoulututkinto	N	
+akselivallat	N	
+aihepiiri	N	
+ääntämys	N	
+wicca	N	
+viljelysmaa	N	
+verkkosivu	N	
+vedenpinta	N	
+uinti	N	
+työtoveri	N	
+työllisyys	N	
+tutkimustyö	N	
+torppa	N	
+tekstiviesti	N	
+sotilasvallankaappaus	N	
+sotilasjuntta	N	
+sanoittaja	N	
+rouva	N	
+puola	N	
+näennäistiede	N	
+nykytaide	N	
+nunna	N	
+merenlahti	N	
+loppuelämä	N	
+lasti	N	
+käytettävyys	N	
+kuutiometri	N	
+kunnallishallinto	N	
+korpi	N	
+kolonialismi	N	
+kilpikonna	N	
+kielimuoto	N	
+jääkäripataljoona	N	
+innoitus	N	
+hätätila	N	
+hindu	N	
+hiiliatomi	N	
+hiekkaharju	N	
+haavoittunut	N	
+eutanasia	N	
+eugeniikka	N	
+ethernet	N	
+derivaatta	N	
+bengali	N	
+bebop	N	
+askele	N	
+arvostelma	N	
+anto	N	
+aika-ajo	N	
+äänitys	N	
+yleisyys	N	
+yksinkertaisuus	N	
+voittaminen	N	
+vesistöalue	N	
+vesijärvi	N	
+vankeustuomio	N	
+valuuttarahasto	N	
+valtias	N	
+tuntu	N	
+tietosanakirja	N	
+tavoittelu	N	
+sääntely	N	
+syyllisyys	N	
+soveltaminen	N	
+skyytti	N	
+siirtolaisuus	N	
+saimaannorppa	N	
+romania	N	
+riitti	N	
+rasitus	N	
+peruspiiri	N	
+pelikonsoli	N	
+olympiamitali	N	
+olio-ohjelmointi	N	
+oikeustoimi	N	
+norsunluurannikko	N	
+nauhoitus	N	
+museovirasto	N	
+munuainen	N	
+materia	N	
+magia	N	
+lepo	N	
+kuvataiteilija	N	
+kulosaari	N	
+kosketinsoittaja	N	
+koralliriutta	N	
+keulakuva	N	
+kaupunkioikeus	N	
+kasvis	N	
+kasvatti	N	
+kasarmi	N	
+kanadanmajava	N	
+kadettikoulu	N	
+jälleenrakennus	N	
+jalkapallojoukkue	N	
+jaarli	N	
+hajottaminen	N	
+eteläranta	N	
+esikoisalbumi	N	
+erilaisuus	N	
+boikotti	N	
+barbaari	N	
+avaruusjärjestö	N	
+auringonvalo	N	
+ammattiyhdistys	N	
+alkuräjähdys	N	
+öljyvarat	N	
+yleisesikunta	N	
+vuoristoalue	N	
+tataari	N	
+tarvike	N	
+talousvaikeus	N	
+syttyminen	N	
+suurmestari	N	
+suurhyökkäys	N	
+sotilastukikohta	N	
+rataosa	N	
+rataosuus	N	
+polttoväli	N	
+pino	N	
+pikkukaupunki	N	
+pesti	N	
+näkemä	N	
+nykyihminen	N	
+nikotiini	N	
+maapähkinä	N	
+lääninhallitus	N	
+länsiväylä	N	
+linnavuori	N	
+lapinjärvi	N	
+kulttuurivallankumous	N	
+kuljettaminen	N	
+kruununprinssi	N	
+kosmologia	N	
+koodaus	N	
+kiuas	N	
+kiehumispiste	N	
+kesäkisat	N	
+kestävyys	N	
+keskivaihe	N	
+kauppareitti	N	
+jakomäki	N	
+itäranta	N	
+istutus	N	
+idealismi	N	
+hiihtokeskus	N	
+henkivartija	N	
+feminiini	N	
+evakuointi	N	
+epävarmuus	N	
+entropia	N	
+dosentti	N	
+cicero	N	
+ampeeri	N	
+örkki	N	
+ympäristövaikutus	N	
+ylänköalue	N	
+välirikko	N	
+viljelys	N	
+viisivuotiskausi	N	
+vastaisku	N	
+valtapiiri	N	
+valhe	N	
+tuottavuus	N	
+terveydentila	N	
+säätely	N	
+sähköntuotanto	N	
+satunnaismuuttuja	N	
+saksi	N	
+ratsumies	N	
+raatihuone	N	
+punkalaidun	N	
+pituuspiiri	N	
+pikajuna	N	
+paikallisjuna	N	
+osakkeenomistaja	N	
+oksidi	N	
+ohjelmakoodi	N	
+ohjaaminen	N	
+napalakki	N	
+mekka	N	
+maankuori	N	
+lähetin	N	
+luonnonvalinta	N	
+lisko	N	
+liittokansleri	N	
+lavansaari	N	
+kuvanveisto	N	
+kranaatti	N	
+kanssakäyminen	N	
+kansalaisopisto	N	
+julkaisija	N	
+jodi	N	
+iskelmä	N	
+ikäraja	N	
+haltio	N	
+hallussapito	N	
+dokumenttielokuva	N	
+debyyttialbumi	N	
+asumus	N	
+alkukesä	N	
+aalto-yliopisto	N	
+yliannostus	N	
+yleisnimitys	N	
+välimuoto	N	
+voimavarat	N	
+viittoma	N	
+vetypommi	N	
+valikoima	N	
+työväenluokka	N	
+totuusarvo	N	
+toimikunta	N	
+tieteiskirjallisuus	N	
+termodynamiikka	N	
+teekkari	N	
+tanssija	N	
+tamili	N	
+taiteilijanimi	N	
+suomenruotsi	N	
+suomalaisuus	N	
+sukulaisuus	N	
+sotilasura	N	
+sotarikos	N	
+saaristomeri	N	
+rautatieliikenne	N	
+rasvahappo	N	
+pätkä	N	
+puoluejohtaja	N	
+potenssi	N	
+poliisivoima	N	
+poistuminen	N	
+palaute	N	
+osasyy	N	
+oppositiopuolue	N	
+oopiumi	N	
+merkitseminen	N	
+merijalkaväki	N	
+mannerlaatta	N	
+maailmancup	N	
+lääkeaine	N	
+länsiraja	N	
+loppuaika	N	
+lentopaikka	N	
+laikku	N	
+kävelykatu	N	
+kuolonuhri	N	
+kirkkorakennus	N	
+kansanarmeija	N	
+joutsi	N	
+itäblokki	N	
+insuliini	N	
+harmonia	N	
+gammasäteily	N	
+euroopanmajava	N	
+epäkohta	N	
+energiantuotanto	N	
+efekti	N	
+edustus	N	
+botti	N	
+berberi	N	
+avaruusasema	N	
+atari	N	
+antropologi	N	
+anomus	N	
+alkuosa	N	
+yleistys	N	
+yksilönvapaus	N	
+viljelykasvi	N	
+vietto	N	
+veikkausliiga	N	
+varhaishistoria	N	
+valtiomies	N	
+vaippa	N	
+uranuurtaja	N	
+ulkomaailma	N	
+turvallisuuspalvelu	N	
+televisiolähetys	N	
+taolaisuus	N	
+tamil	N	
+syntetisaattori	N	
+resoluutio	N	
+rahamäärä	N	
+päätöslauselma	N	
+pääty	N	
+pääjoukko	N	
+promille	N	
+pojanpoika	N	
+pito	N	
+piirtäminen	N	
+pihapiiri	N	
+pienaakkonen	N	
+petos	N	
+perheenjäsen	N	
+paluumatka	N	
+olympiakulta	N	
+muuttomatka	N	
+murros	N	
+mormoni	N	
+mobile	N	
+metalliteollisuus	N	
+metalliseos	N	
+merkintö	N	
+mandariinikiina	N	
+löytäjä	N	
+lähisukulainen	N	
+loukkaantuminen	N	
+loisteho	N	
+linnanmäki	N	
+lakeus	N	
+kokoaminen	N	
+kognitiotiede	N	
+kisko	N	
+kiirastuli	N	
+kerääminen	N	
+katolisuus	N	
+jokivarsi	N	
+hävittäminen	N	
+historiankirjoitus	N	
+hedelmällisyys	N	
+havaitsija	N	
+hallitseminen	N	
+haave	N	
+germaani	N	
+galleria	N	
+elämänvaihe	N	
+diplomatia	N	
+beat	N	
+baseball	N	
+ammunta	N	
+algebra	N	
+ääninäyttelijä	N	
+yhtäläisyys	N	
+väriaine	N	
+vuosiluku	N	
+vesikasvi	N	
+verisuoni	N	
+urheilukeskus	N	
+tuotantotalous	N	
+tieverkko	N	
+talousjärjestelmä	N	
+taimi	N	
+skolastiikka	N	
+sisäministeriö	N	
+selkälokki	N	
+rugby	N	
+riippumattomuus	N	
+rahapolitiikka	N	
+päävyöhyke	N	
+päärautatieasema	N	
+puutalo	N	
+puolitoinen	N	
+puolestapuhuja	N	
+puhtaus	N	
+polttaminen	N	
+polo	N	
+politbyroo	N	
+osto	N	
+osakunta	N	
+oheislaite	N	
+näkeminen	N	
+neon	N	
+musiikkiopisto	N	
+muistopäivä	N	
+monimutkaisuus	N	
+mahtavuus	N	
+maakuntajoukko	N	
+maailmankuulu	N	
+lääkehoito	N	
+linja-autoliikenne	N	
+liekki	N	
+lapsikuolleisuus	N	
+kuusipeura	N	
+kukistuminen	N	
+kronikka	N	
+korvaaja	N	
+koodinimi	N	
+konepistooli	N	
+kominterni	N	
+kokoontuminen	N	
+kokoelmalevy	N	
+kauppakomppania	N	
+kansansuosio	N	
+junior	N	
+johtohenkilö	N	
+jatkumo	N	
+jalkaväkirykmentti	N	
+intressi	N	
+ihmisasutus	N	
+gravitaatio	N	
+emäs	N	
+elohopea	N	
+doomi	N	
+business	N	
+auringonpimennys	N	
+asuintalo	N	
+antisemitismi	N	
+alkukirjain	N	
+alkoholinkäyttö	N	
+aliohjelma	N	
+alaosa	N	
+ympäristöongelma	N	
+yhtymäkohta	N	
+yhteenliittymä	N	
+uusinta	N	
+univormu	N	
+tunnustuskirja	N	
+toteutuminen	N	
+toimivuus	N	
+tietoturva	N	
+teollisuuslaitos	N	
+tehopiste	N	
+taekwondo	N	
+tabu	N	
+sotavuosi	N	
+sisäasiainministeriö	N	
+saaste	N	
+romahtaminen	N	
+ravirata	N	
+puoluejohto	N	
+prefektuuri	N	
+piirroselokuva	N	
+papyrus	N	
+osuma	N	
+organismi	N	
+optiikka	N	
+oikeusministeri	N	
+ohmi	N	
+nimeäminen	N	
+nikkeli	N	
+neva	N	
+myyminen	N	
+momentti	N	
+metrolinja	N	
+mari	N	
+luonnonlaki	N	
+lukujoukko	N	
+kutu	N	
+kruununperillinen	N	
+kokonaismäärä	N	
+koillismaa	N	
+kirjoitusmerkki	N	
+keskusvalta	N	
+keskittymä	N	
+kellotapuli	N	
+kasvaminen	N	
+kansallisvaltio	N	
+kansallismuseo	N	
+kansalaisyhteiskunta	N	
+kalkkikivi	N	
+kahlaaja	N	
+järjestäytyminen	N	
+jänne	N	
+johdinauto	N	
+jaosto	N	
+jana	N	
+itsetyydytys	N	
+itsenäisyysjulistus	N	
+ideologi	N	
+höyrylaiva	N	
+hertsi	N	
+henkilöhahmo	N	
+genre	N	
+formaali	N	
+eteläkärki	N	
+eroavaisuus	N	
+epikurolaisuus	N	
+biopolttoaine	N	
+asiakassolmu	N	
+ampu	N	
+ammoniakki	N	
+albaani	N	
+alaluokka	N	
+aksiooma	N	
+ääripää	N	
+ylioppilaslehti	N	
+väsymys	N	
+väliaikaishallitus	N	
+väliaika	N	
+virtahepo	N	
+videopeli	N	
+verotulo	N	
+uskottu	N	
+tukahduttaminen	N	
+tropiikki	N	
+tiedostojärjestelmä	N	
+syntaksi	N	
+suojaaminen	N	
+skeptikko	N	
+simpanssi	N	
+selain	N	
+röntgensäteily	N	
+räyskä	N	
+runoelma	N	
+rikko	N	
+reserviläinen	N	
+päivälämpötila	N	
+päivitys	N	
+pronomini	N	
+professuuri	N	
+pesimäalue	N	
+paroni	N	
+palotie	N	
+normanni	N	
+motti	N	
+maaorjuus	N	
+kymmenkunta	N	
+kyhmyjoutsen	N	
+kukoistus	N	
+kriketti	N	
+koulutusohjelma	N	
+kauppakumppani	N	
+kanuuna	N	
+kalakukko	N	
+juntta	N	
+julmuus	N	
+jalokivi	N	
+ilma-alus	N	
+höyhenpeite	N	
+harhaoppi	N	
+hallintokausi	N	
+haittavaikutus	N	
+golfkenttä	N	
+etymologi	N	
+eteläraja	N	
+erikoismerkki	N	
+epäsuosio	N	
+elämäntyö	N	
+elinkaari	N	
+asuinrakennus	N	
+ammattiopisto	N	
+alkemisti	N	
+alamäki	N	
+ääniosuus	N	
+visio	N	
+viljelijä	N	
+vaihtaminen	N	
+uskottavuus	N	
+uiguuri	N	
+tutkimusmatka	N	
+toimivalta	N	
+tiedeyhteisö	N	
+terveysjärjestö	N	
+tektiitti	N	
+tekstiiliteollisuus	N	
+taskukirja	N	
+tarke	N	
+tammisalko	N	
+takajalka	N	
+säteilyannos	N	
+sähköenergia	N	
+suunnistus	N	
+superpesis	N	
+suojeluskuntajärjestö	N	
+sulaminen	N	
+somali	N	
+sodanjulistus	N	
+sfinksi	N	
+serotoniini	N	
+salakuljetus	N	
+rakastajatar	N	
+rahaliitto	N	
+pussieläin	N	
+pitopaikka	N	
+pisara	N	
+pianisti	N	
+patruuna	N	
+pappeus	N	
+palkkasoturi	N	
+paikallislehti	N	
+osanen	N	
+olympiavoittaja	N	
+oikeutus	N	
+muumi	N	
+mieltymys	N	
+maailmannäyttely	N	
+maailmankiertue	N	
+luomus	N	
+käskynhaltija	N	
+kuvitus	N	
+kurjuus	N	
+kreoli	N	
+kranaatinheitin	N	
+kotiottelu	N	
+kasvupaikka	N	
+kansanlähetys	N	
+jooga	N	
+itsevaltius	N	
+ikonoklasmi	N	
+hyve-etiikka	N	
+heraldiikka	N	
+havainnointi	N	
+harppaus	N	
+fosfaatti	N	
+feminismi	N	
+ensiesiintyminen	N	
+dubbaus	N	
+asetelma	N	
+alkemia	N	
+alajuoksu	N	
+äänite	N	
+äänenkannattaja	N	
+ylläpitäjä	N	
+wiki	N	
+varoitusääni	N	
+varikko	N	
+variantti	N	
+vanhasuomalainen	N	
+vaalikampanja	N	
+tutkimusryhmä	N	
+tuhoamisleiri	N	
+totalitarismi	N	
+toisto	N	
+toimitila	N	
+toimialue	N	
+teknologi	N	
+tartunta	N	
+tarha	N	
+tango	N	
+säästö	N	
+sähköverkko	N	
+suuraakkonen	N	
+sulttaanikunta	N	
+singlelista	N	
+sijaintipaikka	N	
+siirtomaa-aika	N	
+sauk	N	
+saarto	N	
+saarikoski	N	
+runsaus	N	
+ratsastaja	N	
+rataverkko	N	
+rahanpesu	N	
+pääryhmä	N	
+pyhiinvaeltaja	N	
+predikaattilogiikka	N	
+popperä	N	
+pohjantähti	N	
+pahoinpitely	N	
+otto	N	
+olympia	N	
+oikeusasiamies	N	
+ohilento	N	
+näyttämä	N	
+näytelmäkirjailija	N	
+nuijasota	N	
+norsu	N	
+naapurivaltio	N	
+myrkyllisyys	N	
+mutaatio	N	
+murhayritys	N	
+mooli	N	
+merta	N	
+massamuisti	N	
+maanpuolustus	N	
+maakuntakeskus	N	
+luovuttaminen	N	
+logos	N	
+lentotukikohta	N	
+lehtimies	N	
+käyminen	N	
+kytkös	N	
+kuntayhtymä	N	
+koulutusjärjestelmä	N	
+korostaminen	N	
+konservatismi	N	
+konepaja	N	
+kolmikko	N	
+kilta	N	
+kaupunginteatteri	N	
+kattojärjestö	N	
+karma	N	
+kantasolu	N	
+kaliiperi	N	
+järjestelmäkamera	N	
+jakaja	N	
+häviäminen	N	
+historiantutkimus	N	
+hirssi	N	
+hindi	N	
+helpottaminen	N	
+hakaniemi	N	
+etuosa	N	
+emäpitäjä	N	
+elokuvateollisuus	N	
+elintarviketeollisuus	N	
+elinkeinorakenne	N	
+dominikaani	N	
+aurajoki	N	
+ainesosa	N	
+ydinalue	N	
+voimanlähde	N	
+viritys	N	
+vietnam	N	
+vetoomus	N	
+velvoite	N	
+valkovenäjä	N	
+urheilutapahtuma	N	
+ultra	N	
+turvallisuuspoliisi	N	
+tunnuslause	N	
+tuhatkauno	N	
+touko-kesäkuu	N	
+toisinajattelija	N	
+tiedonvälitys	N	
+teiniliitto	N	
+teekkarilakki	N	
+tantrismi	N	
+talousarvio	N	
+tallikaveri	N	
+takaosa	N	
+taju	N	
+seinämaalaus	N	
+saunalahti	N	
+rautaruukki	N	
+pääsana	N	
+puunilaissota	N	
+pukeutuminen	N	
+pudasjärvi	N	
+peruskoulutus	N	
+pelastaminen	N	
+parodia	N	
+palsta	N	
+paavius	N	
+oopiumisota	N	
+olympiatuli	N	
+oikeusjuttu	N	
+oikeusistuin	N	
+odotusarvo	N	
+observatorio	N	
+myönnytys	N	
+muistikortti	N	
+muinaisjäännös	N	
+ministerineuvosto	N	
+metsämaa	N	
+mestariteos	N	
+matka-aika	N	
+maja	N	
+länsimetro	N	
+liukuportaat	N	
+liittokunta	N	
+käärinliina	N	
+kuusivuotias	N	
+kutsuääni	N	
+kromosomi	N	
+kroaatti	N	
+kristillisyys	N	
+kotiteollisuus	N	
+kotiaresti	N	
+kokoluokka	N	
+kirjoitustaito	N	
+keuhkokuume	N	
+keskuspaikka	N	
+kerroin	N	
+kehärata	N	
+kaupunkiseutu	N	
+kauppakamari	N	
+kampusalue	N	
+kalliovuori	N	
+kalatiira	N	
+jäsenjärjestö	N	
+joukkotiedotusväline	N	
+impedanssi	N	
+havukoski	N	
+harha	N	
+hakukone	N	
+gigatavu	N	
+evoluutioteoria	N	
+esipuhe	N	
+eläminen	N	
+eläinkunta	N	
+astrologi	N	
+aselaji	N	
+aistihavainto	N	
+älymystö	N	
+yläjuoksu	N	
+yleissopimus	N	
+ykseys	N	
+yhteistyökumppani	N	
+välilyönti	N	
+vähemmistökieli	N	
+vierailija	N	
+vastatoimi	N	
+variaatio	N	
+vantaanjoki	N	
+valve	N	
+valtiotiede	N	
+valtakunnanoikeus	N	
+vallankäyttö	N	
+vaatetus	N	
+uudisasutus	N	
+tuma	N	
+toiminnallisuus	N	
+testaus	N	
+terveysvaikutus	N	
+tanska	N	
+tallennus	N	
+taistolaisuus	N	
+suihkumoottori	N	
+stoalaisuus	N	
+sotilaskoulutus	N	
+sotavoimat	N	
+soololevy	N	
+singulariteetti	N	
+seuraaminen	N	
+selluloosa	N	
+selkkaus	N	
+sadeniemi	N	
+roolihahmo	N	
+ratsu	N	
+rationalismi	N	
+rantaniitty	N	
+radon	N	
+pääkatu	N	
+pääravinto	N	
+pääkirkko	N	
+presidenttiys	N	
+pilari	N	
+paikallisosasto	N	
+optio	N	
+omanlainen	N	
+odysseia	N	
+näkökanta	N	
+nyrkkeily	N	
+nousema	N	
+norppa	N	
+murtaminen	N	
+meteoriitti	N	
+metalliyhtye	N	
+meta	N	
+messias	N	
+malaria	N	
+magnitudi	N	
+lyöjä	N	
+liito-orava	N	
+liikemäärä	N	
+lepakkolaji	N	
+lati	N	
+käräjä	N	
+kuvernementti	N	
+kuolemattomuus	N	
+kultakausi	N	
+kulmakivi	N	
+kompleksi	N	
+koijärvi	N	
+keskitaso	N	
+kastike	N	
+karjala	N	
+kansanopisto	N	
+kalmari	N	
+kalle	N	
+junayhteys	N	
+jatkuvuus	N	
+itsenäisyysliike	N	
+itsenäisyyssota	N	
+innostus	N	
+influenssa	N	
+ihmisoikeusjärjestö	N	
+huumausainerikos	N	
+hoitomuoto	N	
+hermosolu	N	
+hankaluus	N	
+gospel	N	
+foto	N	
+erisnimi	N	
+epäpuhtaus	N	
+ennustaminen	N	
+edistys	N	
+colosseum	N	
+asiayhteys	N	
+arkielämä	N	
+aramea	N	
+analysointi	N	
+alttoviulu	N	
+alkutuotanto	N	
+öljy-yhtiö	N	
+ystävyyskaupunki	N	
+väärennös	N	
+vähittäiskauppa	N	
+väestömäärä	N	
+viisumi	N	
+verkkopalvelu	N	
+varustus	N	
+tärkkelys	N	
+tuotantoyhtiö	N	
+tuloero	N	
+tuliase	N	
+toimintakyky	N	
+toimeenpano	N	
+temppu	N	
+taiga	N	
+suurlakko	N	
+suomenmestaruus	N	
+sotilashallinto	N	
+sosiologi	N	
+sosiaalidemokratia	N	
+sivistyneistö	N	
+siviiliväestö	N	
+sissiliike	N	
+seldžukki	N	
+sarake	N	
+samankaltaisuus	N	
+salaseura	N	
+risteysasema	N	
+risteilyohjus	N	
+reformi	N	
+radiolähetys	N	
+radio-ohjelma	N	
+raappa	N	
+päättäjä	N	
+pylväs	N	
+puhkeaminen	N	
+pudonnut	N	
+potentiaalienergia	N	
+positroni	N	
+poikkeuslaki	N	
+poikkeavuus	N	
+plantaasi	N	
+pensaikko	N	
+partiolainen	N	
+palestiinalaishallinto	N	
+pajulintu	N	
+osuuspankki	N	
+näätäeläin	N	
+nälkävuosi	N	
+novellikokoelma	N	
+nestekidenäyttö	N	
+mäenpää	N	
+mystiikka	N	
+muuli	N	
+monipuoluejärjestelmä	N	
+mikropiiri	N	
+mikroaallot	N	
+metropoli	N	
+merkkijono	N	
+meduusa	N	
+mannerilmasto	N	
+madonna	N	
+maareformi	N	
+maalari	N	
+luontokohde	N	
+lajisto	N	
+lainsäädäntövalta	N	
+lady	N	
+kyyditys	N	
+kuvalehti	N	
+kuono	N	
+kuntalainen	N	
+kunnioittaminen	N	
+kulttuuripiiri	N	
+kulttuurikohde	N	
+kroisos	N	
+kosketinsoitin	N	
+koodekki	N	
+kohoaminen	N	
+kesti	N	
+keskustelupalsta	N	
+kerho	N	
+kemianteollisuus	N	
+keisarius	N	
+kaupunginkirjasto	N	
+karkotus	N	
+karkauspäivä	N	
+kanslia	N	
+jääkäriliike	N	
+junaliikenne	N	
+jeni	N	
+informaatiosodankäynti	N	
+hyönteissyöjä	N	
+gondori	N	
+fresko	N	
+entiteetti	N	
+eliölaji	N	
+bussilinja	N	
+biljoona	N	
+allekirjoitus	N	
+alkuasukas	N	
+alkeisvaraus	N	
+ääniraita	N	
+äänenvoimakkuus	N	
+yritystoiminta	N	
+yleisnimi	N	
+yksipuoluejärjestelmä	N	
+visigootti	N	
+viiltäjä	N	
+vasalli	N	
+vantaankoski	N	
+valtiovierailu	N	
+valtioliitto	N	
+valovoima	N	
+tuulivoimala	N	
+trio	N	
+tooni	N	
+teollisuustuotanto	N	
+tarkastaja	N	
+talvikisat	N	
+tajunta	N	
+suojelupoliisi	N	
+sisilisko	N	
+ruuhka	N	
+rakennushanke	N	
+rajaseutu	N	
+radium	N	
+päätavoite	N	
+puite	N	
+proto	N	
+pragmatisti	N	
+pohjukka	N	
+pesimäaika	N	
+perusajatus	N	
+persoonapronomini	N	
+paraati	N	
+panssarointi	N	
+paikallisjunaliikenne	N	
+otsonikerros	N	
+oppositiojohtaja	N	
+oikeuskansleri	N	
+maksaminen	N	
+maankäyttö	N	
+lääkitys	N	
+luonnontieteilijä	N	
+lukujono	N	
+lovi	N	
+leptoni	N	
+lambert	N	
+kuviointi	N	
+kukinto	N	
+kotietsintä	N	
+kopla	N	
+kirkkoherrakunta	N	
+kihlaus	N	
+katana	N	
+karjatalous	N	
+kansankieli	N	
+kalsium	N	
+kaasukammio	N	
+journalisti	N	
+johdos	N	
+jin-dynastia	N	
+jakolasku	N	
+intohimo	N	
+ihmiselämä	N	
+huumekauppa	N	
+hallintopitäjä	N	
+hadroni	N	
+fobia	N	
+etulinja	N	
+diesel	N	
+delta	N	
+bulgaari	N	
+biisi	N	
+bauksiitti	N	
+avesta	N	
+arabiemiirikunta	N	
+alttaritaulu	N	
+aids	N	
+ärsyke	N	
+vuosikausi	N	
+vientitulo	N	
+vesilintu	N	
+varhaisvaihe	N	
+varatuomari	N	
+valtionhallinto	N	
+valtauskonto	N	
+valmiste	N	
+tuomaristo	N	
+tiimi	N	
+tele	N	
+säästäminen	N	
+surrealismi	N	
+suolapitoisuus	N	
+strategi	N	
+sotilaskäyttö	N	
+sosiaalipsykologia	N	
+sitoutuminen	N	
+sinisorsa	N	
+sairausvakuutus	N	
+risteyskohta	N	
+rekyyli	N	
+raja-arvo	N	
+pääartikkeli	N	
+pyramidi	N	
+puukko	N	
+punasiirtymä	N	
+preesens	N	
+polio	N	
+perääntyminen	N	
+peliaika	N	
+pakinoitsija	N	
+otelauta	N	
+oppitunti	N	
+olvi	N	
+oikeushenkilö	N	
+nykytila	N	
+nousukausi	N	
+nimittäminen	N	
+myöntäminen	N	
+muokkaaminen	N	
+metsävaahtera	N	
+metsäteollisuus	N	
+länsirintama	N	
+luonnonsuojeluliitto	N	
+luonnonilmiö	N	
+lukiolainen	N	
+listaykkönen	N	
+liivi	N	
+levitys	N	
+kuuntelu	N	
+kumo	N	
+kulkuyhteys	N	
+kukinta	N	
+kruununperijä	N	
+kottarainen	N	
+kommunikointi	N	
+kieltäytyminen	N	
+kielitieteilijä	N	
+kesäteatteri	N	
+keräily	N	
+kansalliskaarti	N	
+kaksoistähti	N	
+jälleenrakentaminen	N	
+julkishallinto	N	
+intensiteetti	N	
+ilmatila	N	
+ihmissuhde	N	
+ihmisoikeusloukkaus	N	
+höyhenpuku	N	
+hiisi	N	
+havumetsävyöhyke	N	
+hakunila	N	
+hakemisto	N	
+haapamäki	N	
+fosfori	N	
+feodalismi	N	
+erikoistehoste	N	
+epävakaus	N	
+epilepsia	N	
+emoyhtiö	N	
+elokuvantekijä	N	
+ehkäiseminen	N	
+dynamiikka	N	
+disko	N	
+diplomaattisuhde	N	
+determinismi	N	
+burka	N	
+bridge	N	
+anime	N	
+aamulehti	N	
+ydinreaktio	N	
+whig-puolue	N	
+välityspalvelin	N	
+vuotias	N	
+virke	N	
+verkkotunnus	N	
+vararikko	N	
+valonlähde	N	
+valitseminen	N	
+vaisto	N	
+työnteko	N	
+tunnustaminen	N	
+terveysministeriö	N	
+teollisuuskaupunki	N	
+talvipäivänseisaus	N	
+tali	N	
+taantuma	N	
+säästöpankki	N	
+sykloni	N	
+surmaaminen	N	
+suojaus	N	
+sukukieli	N	
+sukujuuri	N	
+sotilashallitus	N	
+sotilasdiktatuuri	N	
+sotalaiva	N	
+sivellin	N	
+semifinaali	N	
+ryöstö	N	
+rotuerottelu	N	
+rikkidioksidi	N	
+rike	N	
+rauhanehto	N	
+randi	N	
+rakennuskanta	N	
+radiomafia	N	
+päätehtävä	N	
+pääelinkeino	N	
+puuaines	N	
+puhelinverkko	N	
+portaali	N	
+pohjoisvaltio	N	
+pilotti	N	
+painija	N	
+ostaminen	N	
+osoiteavaruus	N	
+oppivelvollisuus	N	
+mysteeri	N	
+motto	N	
+moolimassa	N	
+modus	N	
+merkintätapa	N	
+maya	N	
+matkustaminen	N	
+maraton	N	
+lähijuna	N	
+loikka	N	
+linnusto	N	
+leopardi	N	
+laskuteline	N	
+laskeuma	N	
+kukko	N	
+kreatiini	N	
+kotilo	N	
+kolmoskanava	N	
+kiima-aika	N	
+kielitoimisto	N	
+kevätpäiväntasaus	N	
+keltti	N	
+kellotorni	N	
+kehätie	N	
+kauppatori	N	
+katekismus	N	
+kasvinosa	N	
+kartelli	N	
+kaksivuotias	N	
+kaikupohja	N	
+kahakka	N	
+juopa	N	
+julkisuuskuva	N	
+johtoasema	N	
+johdannainen	N	
+jalanjälki	N	
+isojako	N	
+infrapunasäteily	N	
+induktanssi	N	
+ilmavirtaus	N	
+ilmatorjunta	N	
+ikäryhmä	N	
+ihmismieli	N	
+huijaus	N	
+henkilöhistoria	N	
+heitto	N	
+hallintoneuvosto	N	
+golfvirta	N	
+ghetto	N	
+frangi	N	
+fakta	N	
+faasi	N	
+esineistö	N	
+emäseurakunta	N	
+elinajanodote	N	
+atomimassa	N	
+atlas	N	
+arkeologia	N	
+animaatioelokuva	N	
+aikavyöhyke	N	
+aikaansaannos	N	
+adventisti	N	
+äänielokuva	N	
+älypuhelin	N	
+yhteydenpito	N	
+yhteistyöjärjestö	N	
+välimerkki	N	
+välimerenilmasto	N	
+visentti	N	
+virtsa	N	
+viheralue	N	
+veroparatiisi	N	
+valvontakomissio	N	
+vaihdos	N	
+vaalitappio	N	
+urheilupuisto	N	
+uppoaminen	N	
+ulkovalta	N	
+uhraus	N	
+täytäntöönpano	N	
+tyranni	N	
+tutkittava	N	
+tutkimusala	N	
+turvallisuuspolitiikka	N	
+turistikohde	N	
+tuomiokapituli	N	
+tulokas	N	
+tsunami	N	
+toimipaikka	N	
+tietoyhteiskunta	N	
+tieteiskirjailija	N	
+thessalialainen	N	
+tanssimusiikki	N	
+taliban	N	
+taidemuoto	N	
+suuruusluokka	N	
+sotilaspoliisi	N	
+soolo	N	
+seurajoukkue	N	
+salaliittolainen	N	
+saksanpaimenkoira	N	
+rautatieverkko	N	
+rautatientori	N	
+rauhanturvaaja	N	
+raja-alue	N	
+pääjakso	N	
+puolueohjelma	N	
+puoluehallitus	N	
+psykoanalyytikko	N	
+psykiatri	N	
+premissi	N	
+pikakirjoitus	N	
+pesäpaikka	N	
+perusrakenne	N	
+perusperiaate	N	
+pelihahmo	N	
+pelastaja	N	
+parittelu	N	
+pankkitoiminta	N	
+palvelusaika	N	
+oktaavi	N	
+nukkuminen	N	
+neuvostovalta	N	
+myllymäki	N	
+motivaatio	N	
+metalista	N	
+maskotti	N	
+mania	N	
+mandaattialue	N	
+lääniuudistus	N	
+lämpöenergia	N	
+lukuteoria	N	
+loppupeli	N	
+loppukilpailu	N	
+lieve	N	
+libertarismi	N	
+lakiesitys	N	
+kädellinen	N	
+koulutustaso	N	
+korkeakulttuuri	N	
+kolminaisuusoppi	N	
+kielilläpuhuminen	N	
+kiderakenne	N	
+kesäpäivänseisaus	N	
+keräilijä	N	
+keliakia	N	
+keidas	N	
+kausaliteetti	N	
+kasvisto	N	
+kaskiviljely	N	
+kapinointi	N	
+kansallistunne	N	
+kanne	N	
+kaksintaistelu	N	
+juomavesi	N	
+joukko-oppi	N	
+jatkaja	N	
+itsehallintoalue	N	
+iltalehti	N	
+hävittäjälentokone	N	
+härkätie	N	
+historiantutkija	N	
+hilleri	N	
+hiilimonoksidi	N	
+heinä-elokuu	N	
+heimosota	N	
+hansaliitto	N	
+goottirock	N	
+fysiikanpalkinto	N	
+fuusioreaktio	N	
+funktionalismi	N	
+esitystapa	N	
+esikuntapäällikkö	N	
+erämies	N	
+erityisasema	N	
+erioikeus	N	
+eriarvoisuus	N	
+eksponenttifunktio	N	
+editio	N	
+delaware	N	
+biokemia	N	
+auringonpilkku	N	
+atomiydin	N	
+aloittelija	N	
+allianssi	N	
+ääri	N	
+yleisradioyhtiö	N	
+yhteiskuntasopimus	N	
+yhteiskuntajärjestys	N	
+yhteisnimitys	N	
+välttämättömyys	N	
+vähyys	N	
+väestönosa	N	
+virike	N	
+videokamera	N	
+vesitorni	N	
+vesiliuos	N	
+verkkokalvo	N	
+vapina	N	
+vapaa-ajattelu	N	
+uudistaja	N	
+uskonnollisuus	N	
+ukraina	N	
+täyttäminen	N	
+tähtäin	N	
+työmarkkinat	N	
+tulitus	N	
+tornitalo	N	
+torium	N	
+toimintaperiaate	N	
+terroristijärjestö	N	
+tekoäly	N	
+tarusto	N	
+tappo	N	
+taksonomia	N	
+taival	N	
+särkisalo	N	
+supervalta	N	
+suistoalue	N	
+substanssi	N	
+sopusointu	N	
+sopu	N	
+skolastikko	N	
+skeptisismi	N	
+skandinaavi	N	
+sionismi	N	
+sapiens	N	
+sadomasokismi	N	
+ruuna	N	
+reggae	N	
+rajamaa	N	
+pääkirjasto	N	
+purkautuminen	N	
+puolivälierä	N	
+puhuminen	N	
+pohjoispää	N	
+pieneneminen	N	
+perinneruoka	N	
+pasuuna	N	
+paristo	N	
+palvelusektori	N	
+palloliitto	N	
+nuija	N	
+noppa	N	
+nelivuotiskausi	N	
+napalm	N	
+napa-alue	N	
+määräraha	N	
+muuttaja	N	
+munasolu	N	
+moraalifilosofia	N	
+moottoriurheilu	N	
+mittasuhde	N	
+mielenfilosofia	N	
+merkkihenkilö	N	
+megatavu	N	
+manala	N	
+maaraja	N	
+maailmanhistoria	N	
+länsiliittoutuneet	N	
+loisto	N	
+likiarvo	N	
+liiketila	N	
+liikennelaitos	N	
+lihansyöjä	N	
+lapsiperhe	N	
+käärö	N	
+kääntäminen	N	
+kyvyttömyys	N	
+kvasaari	N	
+kvantti	N	
+kupla	N	
+kulkureitti	N	
+kuha	N	
+kruuna	N	
+kreivitär	N	
+konventti	N	
+kiska	N	
+kirkkovaltio	N	
+kersantti	N	
+kenttäpelaaja	N	
+kaupunkirata	N	
+kauppatiede	N	
+katajanokka	N	
+karvapeite	N	
+kantoraketti	N	
+kantaisä	N	
+kansalliskirjasto	N	
+jälkipuoli	N	
+ilmaiseminen	N	
+hirvieläin	N	
+hertta	N	
+herkkyys	N	
+hautapaikka	N	
+harhaluulo	N	
+haastaja	N	
+grafiitti	N	
+gladiaattori	N	
+fraasi	N	
+etusivu	N	
+etsin	N	
+etappi	N	
+esitutkinta	N	
+esinahka	N	
+esiaste	N	
+ensiesitys	N	
+empiristi	N	
+elokuva-ala	N	
+durra	N	
+dualismi	N	
+dogmi	N	
+diplomi-insinööri	N	
+avoimuus	N	
+auttaminen	N	
+asiakasohjelma	N	
+antimateria	N	
+ammattijärjestö	N	
+allekirjoittanut	N	
+alkuräjähdysteoria	N	
+alkoholisti	N	
+aliupseeri	N	
+akateemikko	N	
+aikakone	N	
+aika-avaruus	N	
+aaltoliike	N	
+ylikulku	N	
+yhteisvaikutus	N	
+ydinfysiikka	N	
+välirauhansopimus	N	
+vähäisyys	N	
+videokuva	N	
+vetyatomi	N	
+vesiliikenne	N	
+verso	N	
+velvollisuusetiikka	N	
+varhaislapsuus	N	
+valtimo	N	
+valtakieli	N	
+valkokangas	N	
+uutuus	N	
+uutisryhmä	N	
+työväline	N	
+touko	N	
+tiedostopääte	N	
+terminologia	N	
+teollisuudenala	N	
+televisioasema	N	
+talousalue	N	
+taloustilanne	N	
+takaaminen	N	
+suuryritys	N	
+sukukypsyys	N	
+siviilihallinto	N	
+sitoumus	N	
+shakinpelaaja	N	
+scifi	N	
+satanismi	N	
+sarkofagi	N	
+salamasota	N	
+salakuuntelu	N	
+ruukki	N	
+rintamalinja	N	
+rikka	N	
+riimu	N	
+repo	N	
+rappio	N	
+rajavartiolaitos	N	
+rajapyykki	N	
+rajalinja	N	
+raideliikenne	N	
+rahoittaminen	N	
+päätäntävalta	N	
+pääsuunnittelija	N	
+plasma	N	
+pistemäärä	N	
+pintalämpötila	N	
+piilopaikka	N	
+pesin	N	
+peruslaki	N	
+pelilauta	N	
+partneri	N	
+paperiteollisuus	N	
+palmu	N	
+otos	N	
+opaste	N	
+oligarkki	N	
+nuorukainen	N	
+nuorisoseura	N	
+nosto	N	
+neutronitähti	N	
+natrium	N	
+murtovesi	N	
+monismi	N	
+moniajo	N	
+mini	N	
+mielisairaala	N	
+mannerjää	N	
+maksuväline	N	
+löytöretki	N	
+löydös	N	
+lämpötilaero	N	
+luonnontila	N	
+liikenneväylä	N	
+kuunpimennys	N	
+kuumoduuli	N	
+kuukautinen	N	
+kutuaika	N	
+kungfutselainen	N	
+kristikunta	N	
+koulutuskeskus	N	
+kommuuni	N	
+komissaari	N	
+koillispuoli	N	
+kirous	N	
+kilotavu	N	
+kiistely	N	
+kesämökki	N	
+keskinopeus	N	
+keskikoulu	N	
+kerrostaloalue	N	
+kerronta	N	
+kasti	N	
+kastaja	N	
+kasakka	N	
+kantoaika	N	
+kantamuoto	N	
+kamppailulaji	N	
+jälkipolvi	N	
+junamatka	N	
+joule	N	
+jokiniemi	N	
+jalkapalloliitto	N	
+isorokko	N	
+innoittaja	N	
+ilmenemismuoto	N	
+ihmisoikeusrikkomus	N	
+hyvyys	N	
+hyperinflaatio	N	
+horros	N	
+esivalta	N	
+enne	N	
+elokuvaura	N	
+edus	N	
+edistysaskel	N	
+brie	N	
+arvojoukko	N	
+alapinta	N	
+aboriginaali	N	
+ääniala	N	
+ympäristömyrkky	N	
+ylioppilaskirjoitukset	N	
+yhteiskuntajärjestelmä	N	
+yhteensopivuus	N	
+välivaihe	N	
+väliintulo	N	
+viljelymaa	N	
+varastointi	N	
+vapaamuurari	N	
+valonsäde	N	
+valistusajattelija	N	
+vahvistuminen	N	
+vaaliruhtinas	N	
+työnjako	N	
+työmies	N	
+typpihappo	N	
+tuulimylly	N	
+tutsi	N	
+tutkimusmenetelmä	N	
+tutkimusasema	N	
+tuotantoväline	N	
+terska	N	
+tekijänoikeuslaki	N	
+taistelupanssarivaunu	N	
+säveltäminen	N	
+sävelkorva	N	
+suurvalta-asema	N	
+sunnimuslimi	N	
+sulkapallo	N	
+sotilaslääni	N	
+sotaministeri	N	
+sotamies	N	
+sorsalintu	N	
+sisäpinta	N	
+siirtomaaisäntä	N	
+savolaismurre	N	
+sapatti	N	
+saariaho	N	
+saamelaiskieli	N	
+romanssi	N	
+riistaeläin	N	
+ravi	N	
+rantarata	N	
+päähine	N	
+pythagoralainen	N	
+puusto	N	
+purjehdus	N	
+puolentoinen	N	
+puistoalue	N	
+postmodernismi	N	
+possessiivisuffiksi	N	
+poltto	N	
+poikkeustapaus	N	
+pisi	N	
+pikkuesikoinen	N	
+piirretty	N	
+pesäkolo	N	
+peruspalvelu	N	
+persia	N	
+panssarilaiva	N	
+pallokala	N	
+painoarvo	N	
+paikannus	N	
+paikallisyhdistys	N	
+pahoinvointi	N	
+opetusministeri	N	
+olinpaikka	N	
+näkötorni	N	
+numerointi	N	
+nootti	N	
+neito	N	
+määräysvalta	N	
+myoni	N	
+mykkäelokuva	N	
+murska	N	
+muodostelma	N	
+muinaisenglanti	N	
+moottoriliikennetie	N	
+mittapuu	N	
+missio	N	
+mielenterveys	N	
+metroverkko	N	
+markiisi	N	
+mansi	N	
+mallisto	N	
+maitorasva	N	
+maastamuutto	N	
+maailmanmarkkinahinta	N	
+maailmanloppu	N	
+maahantuonti	N	
+läänitysvaltio	N	
+lähivuosi	N	
+luonnonoikeus	N	
+lumikko	N	
+loukkaus	N	
+linnalääni	N	
+leukemia	N	
+lenkki	N	
+lavantauti	N	
+laskettelukeskus	N	
+laittomuus	N	
+lahjus	N	
+käyttäytymä	N	
+kätkö	N	
+kutsunta	N	
+kromi	N	
+kopiointi	N	
+konsepti	N	
+koelento	N	
+kivennapa	N	
+kirkonmäki	N	
+keskustähti	N	
+kehitysapu	N	
+kehittymä	N	
+kasvitiede	N	
+kasaari	N	
+kapseli	N	
+kansanvalta	N	
+kansantuote	N	
+kansankomissaari	N	
+kalmisto	N	
+kaivanto	N	
+kaistale	N	
+jääkiekkoilija	N	
+jääkiekkoseura	N	
+järviseutu	N	
+internet-yhteys	N	
+ihonväri	N	
+ihmissilmä	N	
+hutu	N	
+hitaus	N	
+hirmumyrsky	N	
+hiilidioksidipäästö	N	
+haudonta-aika	N	
+harvinaisuus	N	
+happamuus	N	
+gray	N	
+geologi	N	
+fysiologia	N	
+falangi	N	
+eteläpää	N	
+eriseura	N	
+elokuvayhtiö	N	
+elintila	N	
+doktriini	N	
+deuterium	N	
+bunkkeri	N	
+asteroidivyöhyke	N	
+armeijaryhmä	N	
+aristokratia	N	
+antihiukkanen	N	
+ympäristötekijä	N	
+ylimys	N	
+yksinvaltias	N	
+yhteisvaluutta	N	
+weber	N	
+välittäjäaine	N	
+välierä	N	
+väkimäärä	N	
+vähemmistöhallitus	N	
+vuokatti	N	
+vihamielisyys	N	
+valtiolippu	N	
+valli	N	
+uutistoimisto	N	
+uutislähetys	N	
+universumi	N	
+unettomuus	N	
+ulkoasiainministeri	N	
+täydellisyys	N	
+tulitauko	N	
+todistaminen	N	
+tiikeri	N	
+tesla	N	
+tervehdys	N	
+teollisuusyritys	N	
+tarpeellisuus	N	
+talviuni	N	
+talousyhteisö	N	
+taloustutkimus	N	
+tallentaminen	N	
+säyne	N	
+sähkötekniikka	N	
+syys-lokakuu	N	
+suvaitsevaisuus	N	
+suolahappo	N	
+soturi	N	
+sotilasliitto	N	
+solukalvo	N	
+sointu	N	
+simulointi	N	
+simulaatio	N	
+silmukka	N	
+siittiö	N	
+shakkiliitto	N	
+selkäevä	N	
+selkouni	N	
+sassanidi	N	
+sanajärjestys	N	
+ristikirkko	N	
+rajoite	N	
+pääesikunta	N	
+pääpaikka	N	
+pyhäinjäännös	N	
+putous	N	
+puolustuslinja	N	
+puhveli	N	
+protestanttisuus	N	
+prisma	N	
+poikkeustila	N	
+pimennys	N	
+piirilevy	N	
+piirisarja	N	
+pesimäpaikka	N	
+perusmuoto	N	
+peruskirja	N	
+parsek	N	
+palmuöljy	N	
+oopperatalo	N	
+nykymaakunta	N	
+noituus	N	
+niukkuus	N	
+nimipalvelin	N	
+naapurikaupunki	N	
+mätimuna	N	
+myrkytys	N	
+muuttuma	N	
+muistolaatta	N	
+muistipaikka	N	
+muinaiskreikka	N	
+mithralaisuus	N	
+millisekunti	N	
+milli	N	
+metsäjänis	N	
+masto	N	
+maaottelu	N	
+maaorja	N	
+maanpetos	N	
+maanomistus	N	
+maahockey	N	
+lääkitystila	N	
+lämpösäteily	N	
+luottamustehtävä	N	
+lunnas	N	
+luhistuminen	N	
+loka-marraskuu	N	
+lausuma	N	
+laser	N	
+laivanrakennus	N	
+kulttuuritapahtuma	N	
+kouluttaja	N	
+konklaavi	N	
+kompleksisuus	N	
+kiuru	N	
+kirahvi	N	
+ketteryys	N	
+kaupunginvaltuutettu	N	
+kauhuelokuva	N	
+kasvihuonekaasupäästö	N	
+kapinaliike	N	
+kansikuva	N	
+kansankongressi	N	
+kalifaatti	N	
+jääkiekkojoukkue	N	
+jättiläisplaneetta	N	
+juominen	N	
+itsevaltias	N	
+isorotta	N	
+islaminusko	N	
+innovaatio	N	
+inho	N	
+infinitiivi	N	
+indikatiivi	N	
+ilmestyskirja	N	
+huomionosoitus	N	
+humanisti	N	
+hetulavalas	N	
+harjunpää	N	
+hallintorakennus	N	
+hakkuu	N	
+hakka	N	
+hajanaisuus	N	
+fantasiamaailma	N	
+epäluulo	N	
+eetteri	N	
+behaviorismi	N	
+becquerel	N	
+bassorumpu	N	
+baryoni	N	
+avenue	N	
+aspekti	N	
+alihankkija	N	
+alba	N	
+akustiikka	N	
+aitous	N	
+aiheuttaminen	N	
+adventtikirkko	N	
+öljyteollisuus	N	
+öljykenttä	N	
+öljykriisi	N	
+äänes	N	
+äänenlaatu	N	
+älykkyystesti	N	
+yläkulma	N	
+ylilento	N	
+yhtiökokous	N	
+ydinpommi	N	
+väijytys	N	
+virrankulutus	N	
+virkavala	N	
+virka-asunto	N	
+viikonloppuisä	N	
+vieminen	N	
+vartiotorni-seura	N	
+varianssi	N	
+vanhuus	N	
+valtioneuvos	N	
+vaihtojännite	N	
+vaarallisuus	N	
+turbo	N	
+tulostin	N	
+tuhopoltto	N	
+toimittaminen	N	
+tilinpäätös	N	
+tilastotiede	N	
+teoreetikko	N	
+talousongelma	N	
+taideakatemia	N	
+sääolot	N	
+sähkömagnetismi	N	
+syöttäjä	N	
+suojeluskuntapiiri	N	
+sukulaisuussuhde	N	
+steinerpedagogiikka	N	
+stalinismi	N	
+sotilasjohtaja	N	
+sooloura	N	
+somalimaa	N	
+sodanjohto	N	
+sloveeni	N	
+sivuhaara	N	
+siunaus	N	
+sisävesialue	N	
+sikari	N	
+salaaminen	N	
+ruokasieni	N	
+ruokakala	N	
+riskitekijä	N	
+rikollisjärjestö	N	
+riisto	N	
+riffi	N	
+raamatuntulkinta	N	
+pääpaino	N	
+provinssirock	N	
+predikaatti	N	
+polynomi	N	
+poliisilaitos	N	
+pikkuplaneetta	N	
+pienryhmä	N	
+pidätetty	N	
+perusvuorovaikutus	N	
+perukka	N	
+pelimoottori	N	
+parlamenttitalo	N	
+parlamentarismi	N	
+pakolaisleiri	N	
+painevesireaktori	N	
+paheksunta	N	
+ostovoima	N	
+osakekanta	N	
+nokikana	N	
+neuvottelukunta	N	
+neiti	N	
+naudanliha	N	
+määrittelyjoukko	N	
+myöhäisantiikki	N	
+murrosikä	N	
+moottoriajoneuvo	N	
+minimipalkka	N	
+miehittäjä	N	
+metsätyyppi	N	
+merkittävyys	N	
+merenkurkku	N	
+matkustajakone	N	
+matkakeskus	N	
+marjaniemi	N	
+makrotaloustiede	N	
+magna	N	
+länsipää	N	
+lyyra	N	
+loppukausi	N	
+livealbumi	N	
+lisälaite	N	
+liitäntä	N	
+liikenneväline	N	
+levykeasema	N	
+lentotukialus	N	
+lapsikaste	N	
+langobardi	N	
+lahtelainen	N	
+labour	N	
+köyhälistö	N	
+kääntöpuoli	N	
+kääntöpiiri	N	
+kysymysmerkki	N	
+kymmenvuotias	N	
+kuunnelma	N	
+kungfutselaisuus	N	
+koulujärjestelmä	N	
+kotitila	N	
+korotus	N	
+korkki	N	
+konsensus	N	
+klooni	N	
+klamydia	N	
+kirjuri	N	
+keulahahmo	N	
+keskussairaala	N	
+keskiö	N	
+keskittäminen	N	
+kauppalaiva	N	
+kastelu	N	
+kansanrintama	N	
+kansanedustuslaitos	N	
+kansanryhmä	N	
+kansallissankari	N	
+kansainvaellus	N	
+kaksoissidos	N	
+kaapeliverkko	N	
+jääkide	N	
+jälkiäänitys	N	
+jumalanpilkka	N	
+jousimies	N	
+jousikvartetto	N	
+joukkoyksikkö	N	
+johtomies	N	
+itsenäisyystaistelu	N	
+isäntämaa	N	
+ilmentymä	N	
+ilmataistelu	N	
+ilmastovyöhyke	N	
+ihmisoikeussopimus	N	
+ihmishenki	N	
+henkiolento	N	
+hakeminen	N	
+federalisti	N	
+etupuoli	N	
+etana	N	
+esikoisteos	N	
+eritys	N	
+entisaika	N	
+energiataso	N	
+edustajisto	N	
+dopamiini	N	
+dioksiini	N	
+dieselveturi	N	
+design	N	
+bulevardi	N	
+armolahja	N	
+animaatiosarja	N	
+almanakka	N	
+alalahko	N	
+aikamuoto	N	
+šiia	N	
+yläraja	N	
+yksinäisyys	N	
+yhteisyritys	N	
+yhteiskuntafilosofia	N	
+ydinjäte	N	
+vuokra-asunto	N	
+voittajavaltio	N	
+viri	N	
+vihkimys	N	
+vihamies	N	
+vastaisuus	N	
+varjelus	N	
+varistaival	N	
+vapautusarmeija	N	
+valtionyliopisto	N	
+valkeapää	N	
+uusliberalismi	N	
+ulkomaanmatka	N	
+uhkapeli	N	
+työväenyhdistys	N	
+turkis	N	
+toimintaperiaate	N	
+tinnitus	N	
+tiilitehdas	N	
+teoreema	N	
+televisioyhtiö	N	
+tallenne	N	
+säätäminen	N	
+sunni	N	
+sotilasakatemia	N	
+sosiaaliliberalismi	N	
+siemensyöksy	N	
+siemenneste	N	
+selonteko	N	
+sairaalahoito	N	
+saarnahuonekunta	N	
+räpylä	N	
+ryöstöretki	N	
+riff	N	
+ravintokasvi	N	
+ratapiha	N	
+rantavesi	N	
+rakettimoottori	N	
+radiosoitto	N	
+raati	N	
+pöytäkone	N	
+pääsääntö	N	
+päälliköö	N	
+pää-äänenkannattaja	N	
+päivänvalo	N	
+putoaminen	N	
+punjabi	N	
+prosenttiyksikkö	N	
+presidentinvirka	N	
+ponsi	N	
+pintakerros	N	
+pientaloalue	N	
+pesue	N	
+perhe-elämä	N	
+pelimuoto	N	
+pamfletti	N	
+painajainen	N	
+ottelija	N	
+ostos	N	
+nuoruusvuosi	N	
+naama	N	
+muumio	N	
+muistokivi	N	
+muistelmateos	N	
+mikrotaloustiede	N	
+messierä	N	
+marttyyri	N	
+mara	N	
+management	N	
+mallas	N	
+maalintekijä	N	
+maailmankatsomus	N	
+länsisatama	N	
+lähiseutu	N	
+luuranko	N	
+luolasto	N	
+louhinta	N	
+lopputuote	N	
+liikekeskus	N	
+lihassolu	N	
+lentokoneteollisuus	N	
+lentokonetehdas	N	
+lento-onnettomuus	N	
+lennosto	N	
+laskin	N	
+laivue	N	
+laivaliikenne	N	
+laitama	N	
+käänteisfunktio	N	
+kytkentä	N	
+kuvankäsittelyohjelma	N	
+kuvatiedosto	N	
+kuusikko	N	
+kuolinvuode	N	
+kulttuuritalo	N	
+kovakuoriainen	N	
+kotitalo	N	
+korkea-aste	N	
+konsentraatio	N	
+kolumni	N	
+kohokohta	N	
+koboltti	N	
+kirkkojärvi	N	
+kirjoituskone	N	
+kilotonni	N	
+kesä-heinäkuu	N	
+kertaluku	N	
+kerrostuma	N	
+kerrannaisyksikkö	N	
+katumus	N	
+kasvatustiede	N	
+karsintakierros	N	
+kaivopuisto	N	
+kaavio	N	
+jääpeite	N	
+julkistaminen	N	
+julkaisutoiminta	N	
+jokisuu	N	
+jatkuminen	N	
+jalkaväenkenraali	N	
+itiö	N	
+istunta	N	
+iskulause	N	
+irrationaaliluku	N	
+ikirouta	N	
+ihailu	N	
+hätänumero	N	
+hybridi	N	
+huutomerkki	N	
+huippunopeus	N	
+huippukokous	N	
+honka	N	
+hippiäinen	N	
+hintataso	N	
+henkilötunnus	N	
+helluntaikirkko	N	
+hautaus	N	
+harjanne	N	
+haittapuoli	N	
+guru	N	
+galaksijoukko	N	
+fenomenologi	N	
+facto	N	
+etruski	N	
+esiintyvyys	N	
+elokuvasarja	N	
+ellipsi	N	
+elintoiminto	N	
+duetto	N	
+diabeetikko	N	
+classic	N	
+asukastiheys	N	
+asianosainen	N	
+asemanseutu	N	
+arvojärjestys	N	
+arkkitehtitoimisto	N	
+alatalo	N	
+ajuri	N	
+aikuisikä	N	
+agnostikko	N	
+äänimaailma	N	
+yuan-dynastia	N	
+yläpinta	N	
+yläperä	N	
+yksinvalta	N	
+western	N	
+väärinkäsitys	N	
+väestölaskenta	N	
+vuosipäivä	N	
+voimistelu	N	
+voimakeino	N	
+viidakko	N	
+vesivoimalaitos	N	
+vesimolekyyli	N	
+vesivoimalaitos	N	
+vertaisverkko	N	
+verottaja	N	
+vastavoima	N	
+vastaanottaminen	N	
+vaskitsa	N	
+varustamo	N	
+varapääministeri	N	
+vanhainkoti	N	
+valtiontalous	N	
+valtionrautatie	N	
+vaikutin	N	
+uusiminen	N	
+utopia	N	
+uskonnonvapauslaki	N	
+ulkosaari	N	
+työpaja	N	
+tuominen	N	
+tunnetila	N	
+tukialue	N	
+tuholainen	N	
+tomismi	N	
+toipuminen	N	
+toimihenkilö	N	
+todenperäisyys	N	
+tislaus	N	
+tieteiselokuva	N	
+tienhaara	N	
+teleskooppi	N	
+tehoste	N	
+teesi	N	
+tavarajuna	N	
+taustasäteily	N	
+taajuusmuuttaja	N	
+särkänniemi	N	
+säestys	N	
+syrjäseutu	N	
+suupohja	N	
+staattori	N	
+spektriviiva	N	
+sotilaskomentaja	N	
+sotahistoria	N	
+sokeriruoko	N	
+skotti	N	
+sivurooli	N	
+sisäelin	N	
+sisus	N	
+sirpale	N	
+sinetti	N	
+sijoituspaikka	N	
+siirtomaakausi	N	
+seikkailija	N	
+saattaminen	N	
+rokotusohjelma	N	
+risteilijä	N	
+rikoksentekijä	N	
+riki	N	
+remonttiryhmä	N	
+realisti	N	
+reaktanssi	N	
+raviurheilu	N	
+ratas	N	
+raskasmetalli	N	
+rantatie	N	
+rakennusvaihe	N	
+raippaluoto	N	
+rahvas	N	
+pörssiyhtiö	N	
+päävalmentaja	N	
+pääteasema	N	
+päärooli	N	
+pääpiirre	N	
+pääkaupunkialue	N	
+päähaara	N	
+pääkaupunkialue	N	
+pyörimisnopeus	N	
+pyörimisliike	N	
+purjehtija	N	
+pulsari	N	
+prikaatikenraali	N	
+pokaali	N	
+pohjois-eteläsuunta	N	
+pituuskasvu	N	
+pienuus	N	
+perustuslakivaliokunta	N	
+perheyritys	N	
+peitenimi	N	
+partio	N	
+pappisvirka	N	
+paperikone	N	
+palkintokoroke	N	
+pakottaminen	N	
+oikeudenala	N	
+nouseminen	N	
+nominatiivi	N	
+niveljalkainen	N	
+nimittäjä	N	
+negatiivi	N	
+nanometri	N	
+muodostus	N	
+muistaminen	N	
+moottorivaunu	N	
+mesoni	N	
+menševikki	N	
+melonta	N	
+matkapuhelinverkko	N	
+maori	N	
+mangaani	N	
+mamelukki	N	
+mahalaukku	N	
+lyömäsoitin	N	
+luovutus	N	
+luonteenpiirre	N	
+luonnonuskonto	N	
+lukusana	N	
+lukujärjestelmä	N	
+logistiikka	N	
+lisäaine	N	
+lipputulo	N	
+liittokokous	N	
+liberaalipuolue	N	
+lakitiede	N	
+lahjakirja	N	
+köyhyysraja	N	
+kvanttitietokone	N	
+kuvanlaatu	N	
+kumpu	N	
+kulmanopeus	N	
+koulukeskus	N	
+koristelu	N	
+kontrasti	N	
+kommentaari	N	
+kohdemaa	N	
+klusiili	N	
+kiikari	N	
+kielitaito	N	
+kermajärvi	N	
+kassiitti	N	
+kartoitus	N	
+kansallisromantiikka	N	
+kaniini	N	
+kaavoitus	N	
+kaataminen	N	
+juristi	N	
+juoru	N	
+jousiammunta	N	
+joukkohauta	N	
+johtamissodankäynti	N	
+jiddiš	N	
+isoveli	N	
+islamisti	N	
+invaasio	N	
+indikaattori	N	
+ilmaisku	N	
+hiirihaukka	N	
+hietalahti	N	
+heittomerkki	N	
+happiatomi	N	
+hana	N	
+haarniska	N	
+gamma	N	
+fundamentalismi	N	
+fransiskaani	N	
+fotosynteesi	N	
+esivaali	N	
+epäjärjestys	N	
+emiiri	N	
+elokuvasarja	N	
+elinolo	N	
+edellisvuosi	N	
+buuri	N	
+astronomia	N	
+asevelvollisuuslaki	N	
+asemasota	N	
+arvostelumenestys	N	
+arvomaailma	N	
+aristotelismi	N	
+aluekeskus	N	
+aluehallintovirasto	N	
+alkukoti	N	
+aktiviteetti	N	
+aikido	N	
+ahneus	N	
+ahdinko	N	
+afrikaans	N	
+šintolaisuus	N	
+äänenkorkeus	N	
+äänennopeus	N	
+yläpää	N	
+yllätyshyökkäys	N	
+ydinvoimalaonnettomuus	N	
+vähemmistöryhmä	N	
+vire	N	
+viitekehys	N	
+viejä	N	
+vasemmistosiipi	N	
+vapaudenristi	N	
+valtionyhtiö	N	
+vaihteisto	N	
+underground	N	
+työmaa	N	
+tuuri	N	
+tuomitseminen	N	
+torppari	N	
+toora	N	
+tietojenkäsittely	N	
+temperamentti	N	
+teini-ikäinen	N	
+tarjoaminen	N	
+talvipalatsi	N	
+talouspakote	N	
+taistelutahto	N	
+syntypaikka	N	
+sunna	N	
+substraatti	N	
+strategiapeli	N	
+sopeutuma	N	
+solki	N	
+sointi	N	
+sini	N	
+siirtonopeus	N	
+seurausetiikka	N	
+seurakuntalainen	N	
+selkämeri	N	
+seisake	N	
+saviastia	N	
+sahti	N	
+saago	N	
+rusakko	N	
+ruoka-aine	N	
+romaanikirjailija	N	
+ripe	N	
+repliikki	N	
+ravinne	N	
+raskaudenkeskeytys	N	
+rannikkokaupunki	N	
+radiaani	N	
+pääsihteeristö	N	
+pyhiinvaellus	N	
+puoluevaltuusto	N	
+pornografia	N	
+porajärvi	N	
+polttopullo	N	
+polonium	N	
+piki	N	
+piispanistuin	N	
+pietismi	N	
+petturi	N	
+perikunta	N	
+periaateohjelma	N	
+penis	N	
+panssaridivisioona	N	
+palveluskäyttö	N	
+palkka-armeija	N	
+pakonopeus	N	
+paikkalintu	N	
+paikallisradio	N	
+osatekijä	N	
+osakepääoma	N	
+opiskelijajärjestö	N	
+ohutsuoli	N	
+nyrkkeilijä	N	
+nuorisotyö	N	
+nostovoima	N	
+nimikappale	N	
+nimellisarvo	N	
+niini	N	
+narri	N	
+myllykoski	N	
+mosaiikki	N	
+mineraalivarat	N	
+mikroydin	N	
+miehitysvyöhyke	N	
+metsähiiri	N	
+merkantilismi	N	
+meritaistelu	N	
+mehiläinen	N	
+megatonni	N	
+massatuotanto	N	
+maski	N	
+markkina-asema	N	
+mainonta	N	
+maapäivät	N	
+maalaaminen	N	
+länsipohja	N	
+loppupuolisko	N	
+loki	N	
+lohikala	N	
+lisuke	N	
+libertaari	N	
+leppälintu	N	
+lehtori	N	
+lehdistönvapaus	N	
+lasitehdas	N	
+laivasto-osasto	N	
+lahdenväylä	N	
+kääpiöplaneetta	N	
+kääntyminen	N	
+kuvaruutu	N	
+kuusitoinen	N	
+kuolemansynti	N	
+kuntauudistus	N	
+kuntakokous	N	
+kotikylä	N	
+koste	N	
+koskettimisto	N	
+korostus	N	
+komi	N	
+koipi	N	
+klaanilainen	N	
+kilpailukyky	N	
+kiima	N	
+keula	N	
+keskushallitus	N	
+keskisuomalainen	N	
+kehitysyhteistyö	N	
+katolilaisuus	N	
+karkottaminen	N	
+kani	N	
+kalliomaalaus	N	
+kalkki	N	
+kadotus	N	
+kaani	N	
+jäämä	N	
+järjestysnumero	N	
+jolla	N	
+isäntäkaupunki	N	
+istumapaikka	N	
+interventio	N	
+improvisaatio	N	
+iltapäivälehti	N	
+ilmansuunta	N	
+ideaoppi	N	
+hyökkäämättömyyssopimus	N	
+huoneenlämpö	N	
+holvi	N	
+hapetusluku	N	
+hapetin	N	
+guineanlahti	N	
+gneissi	N	
+gluoni	N	
+fontti	N	
+fantasiakirjallisuus	N	
+europarlamenttivaali	N	
+europarlamentaarikko	N	
+europarlamenttivaalit	N	
+eunukki	N	
+eukaristia	N	
+etätyö	N	
+etupiiri	N	
+etiketti	N	
+esitelmä	N	
+edikti	N	
+coulombi	N	
+azeri	N	
+astuminen	N	
+arvomerkki	N	
+aristokraatti	N	
+arabiemiraatti	N	
+antaja	N	
+altistuminen	N	
+alje	N	
+aliverkko	N	
+alaryhmä	N	
+šamanismi	N	
+šaahi	N	
+äänikerta	N	
+äänilähde	N	
+yökerho	N	
+yläilmakehä	N	
+yleisurheilija	N	
+yksityisyys	N	
+ydinenergia	N	
+ydinosaaminen	N	
+värväys	N	
+välimaasto	N	
+voimistuminen	N	
+visiiri	N	
+vichy	N	
+vetysidos	N	
+vetyioni	N	
+vesisiippa	N	
+verkkoyhteys	N	
+verenvuoto	N	
+vaste	N	
+vastareaktio	N	
+vastaavuus	N	
+vapaaehtoisuus	N	
+vanne	N	
+valuuttakurssi	N	
+valtapuolue	N	
+urheiluliitto	N	
+urdu	N	
+työttömyysprosentti	N	
+työpöytäympäristö	N	
+tyttökoulu	N	
+tyrmä	N	
+tyrannia	N	
+tupolevä	N	
+tuotantotapa	N	
+tunkeutuminen	N	
+trauma	N	
+torjuntahävittäjä	N	
+toimituskunta	N	
+tiltaltti	N	
+tietorakenne	N	
+tiedostomuoto	N	
+terveysongelma	N	
+teollisuuskeskus	N	
+tehosekoitin	N	
+tautiluokitus	N	
+tappaja	N	
+tantra	N	
+tammisto	N	
+talla	N	
+taivutusmuoto	N	
+taisteluosasto	N	
+taikuri	N	
+säteilyturvakeskus	N	
+säkäkorkeus	N	
+säilymislaki	N	
+sähköveturi	N	
+sähkökirja	N	
+synodi	N	
+synagoga	N	
+sympatia	N	
+sykli	N	
+suojeluspyhimys	N	
+sulamisvesi	N	
+sukuelin	N	
+sota-alus	N	
+skisma	N	
+sisu	N	
+silminnäkijä	N	
+siipiväli	N	
+shop	N	
+senaatintora	N	
+selli	N	
+sekaantuminen	N	
+segmentti	N	
+saves	N	
+sandinisti	N	
+sahateollisuus	N	
+saatananpalvonta	N	
+räme	N	
+ruutana	N	
+ruumiinavaus	N	
+ruissalo	N	
+riippumatto	N	
+rehellisyys	N	
+rankkasade	N	
+rakkaustarina	N	
+rahasäiliö	N	
+päivittäistavarakauppa	N	
+puhelinlinja	N	
+puhelinlaitos	N	
+prostituutio	N	
+postikortti	N	
+ponnistelu	N	
+pommittaja	N	
+polymeeri	N	
+polttopuu	N	
+pohjoissaari	N	
+platonismi	N	
+platinalevy	N	
+pikkukala	N	
+pikkulepakko	N	
+pienoismalli	N	
+perustuslakituomioistuin	N	
+perustamisvuosi	N	
+peltoala	N	
+pelityyli	N	
+pelikenttä	N	
+parisuhde	N	
+pakote	N	
+pahempi	N	
+paavinistuin	N	
+outsider	N	
+osoittaminen	N	
+ortodoksisuus	N	
+organisointi	N	
+orbitaali	N	
+opiskeluvuosi	N	
+opiskelijaliike	N	
+oopperalaulaja	N	
+olkiluoto	N	
+oliiviöljy	N	
+ohjelmointiympäristö	N	
+ohjelmistotuotanto	N	
+oheistuote	N	
+nykyhetki	N	
+neuvostoarmeija	N	
+muuntelu	N	
+muumilaakso	N	
+muokkaus	N	
+muistinhallinta	N	
+monetaristi	N	
+mestaruuskilpailu	N	
+massaluku	N	
+masennuslääke	N	
+marmori	N	
+maki	N	
+magneettivuo	N	
+maailmantalous	N	
+lähtöruutu	N	
+lähitulevaisuus	N	
+luonnonfilosofia	N	
+loka	N	
+lintujärvi	N	
+liikenneruuhka	N	
+lauttayhteys	N	
+lausuminen	N	
+lausahdus	N	
+lauluntekijä	N	
+laskimo	N	
+lapuanliike	N	
+kymenkartano	N	
+kuuleminen	N	
+kuualus	N	
+kutsumanimi	N	
+kustannusyhtiö	N	
+kuninkaantie	N	
+krypton	N	
+kreolikieli	N	
+koskemattomuus	N	
+korona	N	
+konserttisali	N	
+konditionaali	N	
+kohdeasema	N	
+kirkkohistoria	N	
+kirjosieppo	N	
+kirjainyhdistelmä	N	
+kiertäminen	N	
+kiertolainen	N	
+keuhkosyöpä	N	
+kesäpäivä	N	
+keskusta-alue	N	
+keskihajonta	N	
+kerrosala	N	
+keikkailu	N	
+kehitysohjelma	N	
+kauppajärjestö	N	
+katkeruus	N	
+kasino	N	
+kantaluku	N	
+kansanterveys	N	
+kansalaissota	N	
+kangaskäärme	N	
+kanalintu	N	
+kahtiajako	N	
+kaanikunta	N	
+jääkiekkoliitto	N	
+juures	N	
+julkilausuma	N	
+jousisoitin	N	
+itsemurhayritys	N	
+intro	N	
+inka	N	
+ilmatiede	N	
+ilmapuolustus	N	
+ilmailumuseo	N	
+ihmisyhteisö	N	
+ihmistiede	N	
+höyryveturi	N	
+hubi	N	
+hiukkaskiihdytin	N	
+heikentyminen	N	
+heijastus	N	
+hautamuistomerkki	N	
+haja-asutusalue	N	
+haihtuminen	N	
+gravitoni	N	
+gospelmusiikki	N	
+gestappo	N	
+folk	N	
+fissiopommi	N	
+feeniks	N	
+falsifiointi	N	
+europarlamentti	N	
+euronen	N	
+epäluottamuslause	N	
+energialähde	N	
+elämänsanalaisuus	N	
+eksistentialisti	N	
+ekshibitionismi	N	
+eduskuntatalo	N	
+eduskuntapuolue	N	
+dyyni	N	
+diakoni	N	
+crack	N	
+bussiliikenne	N	
+biomassa	N	
+bantu	N	
+baby	N	
+avaruuskeskus	N	
+autoliikenne	N	
+arawak	N	
+amfiteatteri	N	
+alueluovutus	N	
+alapää	N	
+adressi	N	
+äärivasemmisto	N	
+äänestysalue	N	
+zulu	N	
+zarathustralainen	N	
+yöeläin	N	
+yrittäjyys	N	
+ylätaso	N	
+ylijohtaja	N	
+yhdeksänvuotias	N	
+ydinsota	N	
+välikohtaus	N	
+vähemmistökansallisuus	N	
+virhepäätelmä	N	
+viestintäministeriö	N	
+vieraantuminen	N	
+vesikko	N	
+verkkokerros	N	
+veljestö	N	
+velhomaailma	N	
+vastenmielisyys	N	
+varapuhemies	N	
+valssi	N	
+vakiovuoro	N	
+vakiintuminen	N	
+vaivaishiiri	N	
+vaaleanruskea	N	
+uusintaottelu	N	
+umpi	N	
+työntövoima	N	
+tutkijaryhmä	N	
+tuotantokustannus	N	
+tuoksu	N	
+tulkitsija	N	
+tulinopeus	N	
+toksikologia	N	
+toimintamuoto	N	
+tietokoneverkko	N	
+tekstinkäsittelyohjelma	N	
+tasajännite	N	
+tarvitsija	N	
+tapulikaupunki	N	
+tapaluokka	N	
+talviaika	N	
+talouskehitys	N	
+taloluku	N	
+tallennuskapasiteetti	N	
+taivaanvuohi	N	
+taidekoulu	N	
+taajamajuna	N	
+syntymäkoti	N	
+synninpäästö	N	
+swing	N	
+suuruusjärjestys	N	
+suurristi	N	
+suurmoguli	N	
+suorakaide	N	
+suolisto	N	
+suka	N	
+strippi	N	
+sotataito	N	
+solidaarisuus	N	
+seurustelu	N	
+seitsemäntoinen	N	
+satelliittikuva	N	
+sairausloma	N	
+sahatavara	N	
+ryöstely	N	
+rypsiöljy	N	
+ruokintapaikka	N	
+ruokatorvi	N	
+runonlaulaja	N	
+rintamaa	N	
+remontti	N	
+rauhoittaminen	N	
+rauhanturvaoperaatio	N	
+rauduskoivu	N	
+rannikkotasanko	N	
+rako	N	
+rakennustoiminta	N	
+rakastaja	N	
+rajajoki	N	
+radiopuhelin	N	
+pääsykoe	N	
+pääsarjataso	N	
+pääluokka	N	
+pääkirjoitus	N	
+pääkieli	N	
+pääalue	N	
+pähkinäpensas	N	
+pystysuunta	N	
+pyhäkkö	N	
+pyhyys	N	
+purje	N	
+puolustusasema	N	
+punatulkku	N	
+punakhmer	N	
+punavuori	N	
+puhelinyhtiö	N	
+psykiatria	N	
+prioriteetti	N	
+prefekti	N	
+portto	N	
+polkka	N	
+poistuma	N	
+pohjois-eteläsuunta	N	
+piirtokirjoitus	N	
+piirrossarja	N	
+pesimälintu	N	
+perustutkinto	N	
+perusosa	N	
+peruskäsite	N	
+perussopimus	N	
+pelimaailma	N	
+passiivi	N	
+pankkiiri	N	
+palveluspaikka	N	
+palloseura	N	
+paljastaminen	N	
+paikallisvaali	N	
+pahe	N	
+opintomatka	N	
+omistaminen	N	
+omenapuu	N	
+olympiamitalisti	N	
+oivallus	N	
+nöyryytys	N	
+närhi	N	
+nykysuomi	N	
+nide	N	
+neutri	N	
+nepotismi	N	
+mustarotta	N	
+mustarastas	N	
+miehitysjoukko	N	
+metsälehmus	N	
+meteorologia	N	
+merkkipaalu	N	
+megawatti	N	
+mausoleumi	N	
+matkustajajuna	N	
+maolaisuus	N	
+maajoukkueura	N	
+maailmankirjallisuus	N	
+länsireuna	N	
+lisäjoukko	N	
+lippukunta	N	
+linja-autoyhteys	N	
+liityntäpiste	N	
+liikennemäärä	N	
+liikelaitos	N	
+latvia	N	
+kävijämäärä	N	
+kulttuuripääkaupunki	N	
+kuivuminen	N	
+kotikäyttö	N	
+korvasieni	N	
+korsi	N	
+kontu	N	
+konservatorio	N	
+konkurssipesä	N	
+kollektiivi	N	
+kokelas	N	
+kokardi	N	
+koirarotu	N	
+koiraeläin	N	
+kirkkolaki	N	
+kevätmuutto	N	
+keskustelija	N	
+kertominen	N	
+kellonaika	N	
+kellojakso	N	
+kebab	N	
+kaupunginoikeus	N	
+kauppakaupunki	N	
+katalyytti	N	
+kasviravinto	N	
+kasvikunta	N	
+kansantaloustiede	N	
+kansanruno	N	
+kansalliseepos	N	
+kalleus	N	
+kaapu	N	
+järvialue	N	
+jälkimaininki	N	
+jälkimaine	N	
+itäpää	N	
+isänmaallisuus	N	
+isoveli	N	
+islanti	N	
+irtautuminen	N	
+inklinaatio	N	
+informaatioteknologia	N	
+individualismi	N	
+improvisointi	N	
+imperfekti	N	
+ilmamassa	N	
+ikääntyminen	N	
+ikärakenne	N	
+iiris	N	
+ihmislaji	N	
+hylkeenpyynti	N	
+hirvisaari	N	
+hevosenliha	N	
+hautakivi	N	
+hallitusaika	N	
+hallintokeskus	N	
+halla	N	
+graham	N	
+foneemi	N	
+esperantisti	N	
+esikaupunkialue	N	
+erotuomari	N	
+erityishallintoalue	N	
+enemmistövaali	N	
+eliniänodote	N	
+divisio	N	
+dementia	N	
+brittijoukko	N	
+bikini	N	
+beagle	N	
+avomeri	N	
+avaruustoiminta	N	
+auringonlasku	N	
+ateljee	N	
+asuntoalue	N	
+arvokisa	N	
+areiolainen	N	
+aluevaatimus	N	
+alkupää	N	
+alkalimetalli	N	
+alentaminen	N	
+alamaa	N	
+ajatusmaailma	N	
+aikayksikkö	N	
+aikaraja	N	
+aatelisarvo	N	
+äärettömyys	N	
+äännearvo	N	
+yksityisoikeus	N	
+ydinsulkusopimus	N	
+ydinonnettomuus	N	
+vävy	N	
+vähimmäispalkka	N	
+viulisti	N	
+vesiraja	N	
+vesimäärä	N	
+veroaste	N	
+vasallivaltio	N	
+varapresidenttiehdokas	N	
+valvominen	N	
+valos	N	
+vaihtonäppäin	N	
+vaalilaki	N	
+uudissana	N	
+uskontotiede	N	
+urheilu-ura	N	
+työehto	N	
+tuotantovoima	N	
+tuloste	N	
+triumfi	N	
+toleranssi	N	
+todennäköisyyslaskenta	N	
+tietokonejärjestelmä	N	
+tieverkosto	N	
+testosteroni	N	
+terästeollisuus	N	
+terveyshaitta	N	
+teollisuusministeri	N	
+tekno	N	
+tapaturma	N	
+tapahtumahorisontti	N	
+talonpoikaiskapina	N	
+säännönmukaisuus	N	
+särkkä	N	
+särkisalko	N	
+sähkönjohtavuus	N	
+syönti	N	
+syntymäpaikka	N	
+symbolismi	N	
+sydänmaa	N	
+syanidi	N	
+suurnopeusjuna	N	
+suoni	N	
+sukuhaara	N	
+sukutausta	N	
+standardointi	N	
+spekulaatio	N	
+sotilasvalta	N	
+sotaonni	N	
+sotakoulu	N	
+sosialistipuolue	N	
+solulima	N	
+siviilipalvelusmies	N	
+siunauskappeli	N	
+sijaishallitsija	N	
+sigma-algebra	N	
+seuraajavaltio	N	
+separatisti	N	
+savuke	N	
+sammakkoeläin	N	
+salpalinja	N	
+salkku	N	
+rytikerttunen	N	
+ryssä	N	
+ruuhka-aika	N	
+ruokakauppa	N	
+ruohikko	N	
+ruoanlaitto	N	
+roolisuoritus	N	
+rikostuomioistuin	N	
+resonanssi	N	
+reseptori	N	
+rangaistuslaukaus	N	
+rangaistava	N	
+rakennuskustannukset	N	
+rakennusaine	N	
+raitti	N	
+railo	N	
+rahapaja	N	
+pääpuolue	N	
+päiväperhonen	N	
+pyörre	N	
+pyörimisakseli	N	
+pyökki	N	
+purotaimen	N	
+puolustuslaitos	N	
+puolustushaara	N	
+puolikuu	N	
+puoliaavikko	N	
+punarinta	N	
+pumppu	N	
+pudotus	N	
+preferenssi	N	
+pontikka	N	
+polttama	N	
+pitkäkirkko	N	
+pistepörssi	N	
+pikkupoika	N	
+pikkueläin	N	
+pikavuoropysäkki	N	
+pesye	N	
+pesimäkanna	N	
+peruskivi	N	
+perisynti	N	
+pembroke	N	
+peliväline	N	
+pelipaikka	N	
+patria	N	
+parantuminen	N	
+parantola	N	
+paniikki	N	
+pakkausmenetelmä	N	
+painovoimakenttä	N	
+paikkansapitävyys	N	
+paalu	N	
+omaksuminen	N	
+olettamus	N	
+oikeellisuus	N	
+näytteleminen	N	
+nojapyörä	N	
+neurologi	N	
+myyntimenestys	N	
+myllypuro	N	
+moninaisuus	N	
+monikerta	N	
+modi	N	
+miljoonasosa	N	
+mietiskely	N	
+metroliikenne	N	
+metrojuna	N	
+meditaatio	N	
+matinkylä	N	
+maniokki	N	
+mallintaminen	N	
+majatalo	N	
+mainoskatkotunnus	N	
+maidos	N	
+mafioso	N	
+maailmanpolitiikka	N	
+maailmankartta	N	
+maailmanliitto	N	
+maa-aines	N	
+länsituuli	N	
+luusto	N	
+luokkataistelu	N	
+lujuus	N	
+lounaisrannikko	N	
+lootus	N	
+lisäpöytäkirja	N	
+linnunpönttö	N	
+liittopresidentti	N	
+latvajärvi	N	
+lastenkirjallisuus	N	
+lajitoveri	N	
+labradorinnoutaja	N	
+käynnistäminen	N	
+kyyhky	N	
+kynäjalava	N	
+kvartsiitti	N	
+kuvittaja	N	
+kuuluvuusalue	N	
+kuolinpäivä	N	
+kuntajako	N	
+kunnossapito	N	
+kuningasperhe	N	
+kuki	N	
+koulurakennus	N	
+koripallomaajoukkue	N	
+konservatiivipuolue	N	
+konjunktiivi	N	
+komennus	N	
+kokoelma-albumi	N	
+koalitiohallitus	N	
+kivikko	N	
+kirkonkirja	N	
+kesäasunto	N	
+keltavahvero	N	
+katsomo	N	
+kastemato	N	
+karhukopla	N	
+kantasana	N	
+kansantarina	N	
+kansallislippu	N	
+kansakoulunopettaja	N	
+kalenterivuosi	N	
+jäänmurtaja	N	
+jääkiekkomaajoukkue	N	
+jäsenyhdistys	N	
+juutalaisvaino	N	
+joukkueenjohtaja	N	
+jazzmuusikko	N	
+imaami	N	
+ilmanvastus	N	
+ilmaherruus	N	
+huvi	N	
+hoidettu	N	
+hippodromi	N	
+hikirauhanen	N	
+hieskoivu	N	
+henkilökuva	N	
+harmaakivikirkko	N	
+hankoniemi	N	
+gradu	N	
+gorilla	N	
+giljotiini	N	
+fraktaali	N	
+fetissi	N	
+euromaa	N	
+erottava	N	
+epätasa-arvo	N	
+energiatila	N	
+elokuvatuotanto	N	
+elinikä	N	
+dublinilainen	N	
+demoskene	N	
+demoni	N	
+bordercollie	N	
+boksarikapina	N	
+binäärijärjestelmä	N	
+avaruusohjelma	N	
+autourheilu	N	
+autotehdas	N	
+aseteollisuus	N	
+apukeisari	N	
+antroposofia	N	
+anti	N	
+analyytikko	N	
+ammattioppilaitos	N	
+alkupäivä	N	
+alkaloidi	N	
+akti	N	
+aksentti	N	
+aivohalvaus	N	
+ainemäärä	N	
+aggressiivisuus	N	
+ääniaalto	N	
+äänisaalis	N	
+yöelämä	N	
+ystäväpiiri	N	
+yksityiskoulu	N	
+ykkössija	N	
+väitelause	N	
+vuosituhattavoite	N	
+vuorineuvos	N	
+voimasuhde	N	
+virkistysalue	N	
+villieläin	N	
+viiksi	N	
+verkkosivusto	N	
+verkkosarjakuva	N	
+vegaani	N	
+varastaminen	N	
+vapautusrintama	N	
+vapaudenpatsas	N	
+vapaaherra	N	
+vapaaseurakunta	N	
+vanhoillisuus	N	
+vanheneminen	N	
+vaneri	N	
+vanadiini	N	
+valtatyhjiö	N	
+valmistusmenetelmä	N	
+urheilumuoto	N	
+urheilukanava	N	
+ulkosuhde	N	
+täyttyminen	N	
+tähtitaivas	N	
+työura	N	
+työntäjä	N	
+työnimi	N	
+tyyppimerkintä	N	
+tusina	N	
+turvallisuusjoukko	N	
+turkmeeni	N	
+turkiseläin	N	
+turjanlinna	N	
+tulosuunta	N	
+tulenkantaja	N	
+triumviri	N	
+toimenkuva	N	
+tilastoalue	N	
+tikari	N	
+tiedonsiirtonopeus	N	
+teelaatu	N	
+taudinaiheuttaja	N	
+tartuntatauti	N	
+tarkoitusperä	N	
+tapahtumasarja	N	
+tammi-helmikuu	N	
+talouslama	N	
+säätösauva	N	
+säätyvaltiopäivät	N	
+syntymävuosi	N	
+syntyhistoria	N	
+suurkaupunkialue	N	
+suurpitäjä	N	
+suurkaupunkialue	N	
+sumeri	N	
+sukulaiskieli	N	
+sukeltaja	N	
+subjunktiivi	N	
+stratosfääri	N	
+stadi	N	
+sponsorointi	N	
+sovintokokous	N	
+sopimusoikeus	N	
+soluseinä	N	
+soluelin	N	
+soidinääni	N	
+skaala	N	
+sitkeys	N	
+siirtymävaihe	N	
+siirtotyöläinen	N	
+sessio	N	
+sepelvaltimotauti	N	
+sarvikuono	N	
+sakkaus	N	
+sairaanhoitopiiri	N	
+rytmihäiriö	N	
+ruutukaava	N	
+rupilisko	N	
+ruokasuola	N	
+ruokailu	N	
+runkoverkko	N	
+rotuluokittelu	N	
+ristiretkivaltio	N	
+risteymä	N	
+rippi	N	
+reduktio	N	
+rautaesirippu	N	
+rannikkokaistale	N	
+pääateria	N	
+päätarkoitus	N	
+pääperiaate	N	
+pääarmeija	N	
+pyörähdysaika	N	
+pysähdys	N	
+puolustusliitto	N	
+psykoterapia	N	
+preeria	N	
+potti	N	
+pointti	N	
+pilapiirros	N	
+pikkuviha	N	
+peruskorjaus	N	
+perimyssota	N	
+passio	N	
+pasifisti	N	
+pasaatituuli	N	
+partisiippi	N	
+parafilia	N	
+pankkikriisi	N	
+palvi	N	
+palveluntarjoaja	N	
+palvelunestohyökkäys	N	
+palaaminen	N	
+painaminen	N	
+paikannimistö	N	
+ottawa	N	
+oppi-isä	N	
+opetuskieli	N	
+onnettomuuspaikka	N	
+omaha	N	
+oksentelu	N	
+oikeusfilosofia	N	
+ohjaustyö	N	
+nomini	N	
+nitroglyseroli	N	
+nimialalaji	N	
+niinisalo	N	
+nihilismi	N	
+newyorkilainen	N	
+newton	N	
+neuvostoaika	N	
+neuroni	N	
+nelivuotias	N	
+naurulokki	N	
+natriumkloridi	N	
+naapuriprovinssi	N	
+myllykylä	N	
+muutostyö	N	
+mustangi	N	
+musiikkitapahtuma	N	
+musiikkielämä	N	
+muodonvaihdos	N	
+muistialue	N	
+morfologia	N	
+mittalaite	N	
+miljonääri	N	
+mietintö	N	
+miesliike	N	
+metsäpäästäinen	N	
+metrorata	N	
+mestaruussarja	N	
+merilintu	N	
+megapikseli	N	
+matruusi	N	
+marseljeesi	N	
+mainoskampanja	N	
+maayhteys	N	
+maataloustuotanto	N	
+maailmankauppa	N	
+löyly	N	
+lähiaika	N	
+lyhennelmä	N	
+luuttu	N	
+luotti	N	
+luotta	N	
+luonnehdinta	N	
+lukuvuosi	N	
+lossi	N	
+lopputila	N	
+lisätulo	N	
+liikennemuoto	N	
+libretto	N	
+libertaristi	N	
+laulutyyli	N	
+lapsuudenystävä	N	
+lakialoite	N	
+laiteajuri	N	
+lainsäädäntöelin	N	
+lainalaisuus	N	
+käsikranaatti	N	
+käsiase	N	
+kyselytutkimus	N	
+kymri	N	
+kuvaputkinäyttö	N	
+kuvaputki	N	
+kuvapiste	N	
+kuuria	N	
+kuppa	N	
+kuntaliitosselvitys	N	
+kulkija	N	
+kulissi	N	
+kristalli	N	
+kosmologi	N	
+koomikko	N	
+konehuone	N	
+kolumnisti	N	
+kolera	N	
+koelaulu	N	
+kiviniemi	N	
+kirkkosali	N	
+kihla	N	
+kielentutkija	N	
+kidnappaus	N	
+keveys	N	
+kesäkuukausi	N	
+keskusteluryhmä	N	
+keskusyhdistys	N	
+keskilänsi	N	
+kaupunkiliikenne	N	
+kaupunkirakenne	N	
+kauppaoikeus	N	
+katko	N	
+kasvillisuusvyöhyke	N	
+kapitalisti	N	
+kansantulo	N	
+kansaneläkelaitos	N	
+kannatusalue	N	
+kangasmetsä	N	
+kahdeksanvuotias	N	
+kaarna	N	
+jäsenmaksu	N	
+joukkuekilpailu	N	
+jalkine	N	
+itäkarjalainen	N	
+immuniteetti	N	
+ilmaisjakelulehti	N	
+illallinen	N	
+ihmisoikeustuomioistuin	N	
+ihmisjoukko	N	
+idealisti	N	
+hävitys	N	
+hälytys	N	
+hyperteksti	N	
+hymiö	N	
+huippuyksikkö	N	
+hopi	N	
+hiilidioksidipitoisuus	N	
+hieta	N	
+hevosrotu	N	
+henkimaailma	N	
+hartsirauhanen	N	
+halukkuus	N	
+hallitusvalta	N	
+europarlamenttivaalea	N	
+etumatka	N	
+eläinpuisto	N	
+elo-syyskuu	N	
+direktiivi	N	
+deklinaatio	N	
+capital	N	
+buurisota	N	
+burgundi	N	
+belizen	N	
+bataatti	N	
+barreli	N	
+avaruusolento	N	
+autoteollisuus	N	
+aurinkoenergia	N	
+audio	N	
+astronomi	N	
+asejärjestelmä	N	
+arkiajattelu	N	
+apuri	N	
+apujoukko	N	
+apteekkari	N	
+aluetoimisto	N	
+alttius	N	
+alpha	N	
+alkuhärkä	N	
+alkukausi	N	
+alankoalue	N	
+akvaario	N	
+ajatusviiva	N	
+aivotoiminta	N	
+afrikaaneri	N	
+adjutantti	N	
+ääriliike	N	
+ystäväkirje	N	
+ystävyyskunta	N	
+ympärysmitta	N	
+ympäriajo	N	
+yläreuna	N	
+väärentäminen	N	
+vääntömomentti	N	
+värimuoto	N	
+väestönkehitys	N	
+vuokati	N	

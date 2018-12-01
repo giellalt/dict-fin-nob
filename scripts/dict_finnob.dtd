@@ -1,6 +1,6 @@
 <!ELEMENT e ( lg, mg+ ) >
 <!ATTLIST e reverse NMTOKEN #IMPLIED >
-<!ATTLIST e src CDATA #REQUIRED >
+<!ATTLIST e src CDATA #IMPLIED >
 
 <!ELEMENT l ( #PCDATA ) >
 <!ATTLIST l comment CDATA #IMPLIED >
@@ -9,6 +9,7 @@
                   N | Num | Pcle | Po | Pr | Pron | Qu | V ) #REQUIRED >
 <!ATTLIST l src NMTOKEN #IMPLIED >
 <!ATTLIST l val ( IV | TV ) #IMPLIED >
+<!ATTLIST l type (Prop) #IMPLIED >
 
 <!ELEMENT lics (lic, ref*, sourcenote*) >
 <!ATTLIST lics xml:space (default|preserve) 'preserve'>

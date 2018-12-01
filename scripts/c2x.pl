@@ -15,6 +15,7 @@ while (<>)
 	print STDOUT "   <e>\n";
 	print STDOUT "      <lg>\n";
 	print STDOUT "         <l pos=\"$POS\">$lemma</l>\n";
+#	print STDOUT "         <l pos=\"$POS\" type=\"Prop\">$lemma</l>\n";
 	print STDOUT "      </lg>\n";
 	print STDOUT "      <mg>\n";
 	print STDOUT "         <tg xml:lang=\"nob\">\n";

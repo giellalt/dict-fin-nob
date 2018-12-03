@@ -16,7 +16,7 @@
 <!ELEMENT lic (#PCDATA|a)*>
 <!ATTLIST lic xml:lang ( en | nno ) #IMPLIED >
 <!ELEMENT ref (#PCDATA|a|i)*>
-<!ELEMENT sourcenote (#PCDATA|a)*>
+<!ELEMENT sourcenote (#PCDATA|a|i)*>
 <!ELEMENT a (#PCDATA)>
 <!ELEMENT i (#PCDATA)>
 

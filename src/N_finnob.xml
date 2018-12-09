@@ -120117,4 +120117,3149 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="N">vapaaehtoistoiminta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">frivillig arbeid</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">monikulttuurivalmennus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">flerkulturell trening</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">yhteystiedot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kontaktinformasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">etusivu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forside</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kuukausitiedote</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">månedsinfo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">viikkokalenteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ukekalender</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ostos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">innkjøp</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kesäpäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sommerdag</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">toimintamuoto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">virkemåte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">postituslista</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">postliste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">äänitiedosto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lydfil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">design</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">design</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sanaraja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ordgrense</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tavuraja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stavingsgrense</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mummi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mormor</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tavuviiva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stavingsbindestrek</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sanaväli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ordmellomrom</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ukki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bestefar</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kielitieto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">språkkunnskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">perusmuoto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">grunnform</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">virke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ytring</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vihje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hint</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tiu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">snes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">eukalyptuspuu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">eukalyptustre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">astevaihtelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stadieveksling</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">verso</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">podekvist</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">verbityyppi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">verbtype</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">työpaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">workshop</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="N">arbeidsgruppe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tehtäväsarja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">oppgavesett</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="N">oppgaveserie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">pelkka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bjelke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">opastuskeskus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utdanningssenter</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kuvake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">symbol</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kuuntelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lytting</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kaksoiskonsonantti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dobbeltkonsonant</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tehtäväohje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forklaring av oppgava</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">teemailta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">temakveld</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">pistemäärä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">poengsum</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">persoonapronomini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">personlig pronomen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">virkeraja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ytringsgrense</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">työkirja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arbeidsbok</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sanamuistitesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ordhusketest</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="N">memory</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">näkemä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">syn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lausemuistitesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">setningshusketekst</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kesämökki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sommerhytte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ulkopaikallissija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ytre lokalkasus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">työhaastattelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arbeidsintervju</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tekstipala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tekstbit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sisäpaikallissija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">indre lokalkasus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">siirtolaisvirta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">migrasjonsstrøm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sanaristikko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kryssord</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">rangaistussiirtola</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">straffekoloni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">pikkulapsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">småbarn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">monikulttuurikeskus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">flerkulturelt senter</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">läksyaputoiminta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">leksehjelpaktivitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lapsiperhe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">barnefamilie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kysymyssana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">spørreord</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kuntoilulaji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kondisjonsgrein</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kumppanuushanke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">samarbeidspartnerprosjekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">keskussairaala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sentralsjukehus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">järjestötalo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">foreningshus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">joukkuelaji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lagsport</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">illatiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">illativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">harrasteratsastus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hobbyridning</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">alkuaika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">begynnertid</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">yhteenkuuluvaisuudentunne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fellesskapsfølelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vankikuljetus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fangetransport</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">urheiluhullu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sportsidiot</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">taisteluvalmius</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stridsberedskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">riimi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rim</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">rakennuskustannukset</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">byggekostnader</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">nyrkkitappelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nevekamp</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">maailmanmestaruuskisa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">verdensmesterskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">koirarotu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hunderase</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">koiranomistaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hundeeier</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kiekkoleijona</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ishockeyspiller på det finske landslaget</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kiekkokansa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ishockeytilhenger</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kennelliitto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kennelforbund</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kansallistunto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nasjonalfølelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hyttysparvi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">myggsverm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">grillimakkara</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">grillpølse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">yläkerta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">overetasje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">yhteistyökumppani</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">samarbeidspartner</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vanhustentalo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gamleheim</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">uutiskynnys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nyhetsterskel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">uutiset</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nyheter</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">toimintaryhmä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">aktivitetsgruppe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tervehdys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hilsen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">some</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sosiale media</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sisäpiha</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bakgård</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">saunakahvi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">badstukaffe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sarjapelaaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">seriespill</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ryhmänohjaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gruppeveiledning</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ravintolaillallinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">restaurantmåltid</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">puhdistusvaatimus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rengjøringskrav</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">paikallissija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lokalkasus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">nesessiiviverbi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nessesivt verb</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">muistipeli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">memory</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="innvandreropplæring">maahanmuuttajaopetus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="innvandreropplæring"></t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="innvandreropplæring"></t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="innvandreropplæring"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">läksyapu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">leksehjelp</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">loppuraportti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sluttrapport</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lisätieto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tilleggsopplysning</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lentotunti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">flygetime</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lempiharrastus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">yndlingshobby</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kielenoppiminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">språklæring</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kehittämishanke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utviklingsprosjekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">katsomo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tribune</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kaavio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">diagram</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">inessiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">inessiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">imperfekti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">imperfektum</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ilmansuunta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">himmelretning</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hölynpölysana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tulleord</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hiekkalaatikko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sandkasse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">henkilötiedot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">personopplysninger</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">esiselvitys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forundersøking</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">emu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">emu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">elatiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">elativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">arkielämä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hverdagsliv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tuulahdus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lufting</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tuttavuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kjennskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tuisku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">snøfokk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">toimija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">aktør</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">talvipakkanen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vinterfrost</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">talviasuttava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">helårsbeboelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">symbioosi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">symbiose</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sydäntalvi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">midtvinter</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">strutsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">struts</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sinileväongelma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">blågrønnalgeproblem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sietokyky</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tåleevne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">satula</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sal</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ruuhka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">trafikkork</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">reisilihas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lårmuskel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ratsastustunti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ridetime</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ratsastusharrastus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hobbyriding</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">puuhastelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fritidssyssel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">oikaisu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">korreksjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mökkikansa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hyttefolk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">moka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tabbe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lossi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kabelferge</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lentomatka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">flyreise</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">leikkipuisto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">leikepark</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">komposti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kompost</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">koirankakka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hundebæsj</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kaipuu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lengsel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kadunvarsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">veikant</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kaakkoisrannikko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sørøstkyst</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">huussi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utedo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hevosurheilu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hestesport</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">endorfiini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">endorfin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">asuma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">treff</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ympäristöuhka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">miljøtrussel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">yläkulma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">øvre hjørne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">yleisönosasto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">publikumsavdeling</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">yksilösuoritus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">individuell prestasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">yhteisvaluutta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fellesvaluta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">yhteistyöhanke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">samarbeidsprosjekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">yhteiselämä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">samliv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vuorokaudenaika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">døgn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vokaaliharmonia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vokalharmoni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">virhepiste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">feilpoeng</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vinkki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tips</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">videovuokraamo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">videoutleie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vapaaehtoistoimi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">frivillig aktivitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">valmistautuminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forberedelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">valmennus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">trening</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ulkoilualue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">friluftsområde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tähtikuvio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stjernebilde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">työyhteisö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arbeidsfellesskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">työväline</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arbeidsredskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">työtunti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arbeidstime</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">työnteko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">jobbing</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">työmatka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arbeidsreise</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">työmarkkinaratkaisu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arbeidsmarkedsløsning</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tuotos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">output</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tunnusluku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">id-nummer</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">toriaika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">torgtid</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="N">tida torget er åpent</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">toimintaperiaate</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">virksomhetsprinsipp</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tiskikaappi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">oppvaskskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tiistaiaamu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tirsdagsmorgen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tietosuoja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">databeskyttelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tietolähde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kunnskapskilde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">terveysturvayhdistys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">helsesikkerhetsforening</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">teenkeitin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tekoker</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">takapiha</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bakgård</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">taitto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">layout</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">säätiedotus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">værmelding</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sääsanasto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">værordforråd</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sääntökirja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">regelbok</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">säilytysperiaate</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">oppbevaringsprinsipp</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sähköpostiosoite</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">epostadresse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">syöttöpeli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pasningsspill</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">suvaitsevaisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">toleranse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sponsori</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sponsor</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sinilevaongelma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">blåalgeproblem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">selkälihas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ryggmuskel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">seinälauta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">panelbord</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">saunapuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">badstuplanke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sanastoharjoitus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ordforrådsøving</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sanametsästys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ordsøk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sakokaivo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">septiktank</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">röntgenkuvaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">røntgenfotografering</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ryhmäohjaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gruppeveileder</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ryhmäkoko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gruppestørrelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ruokakurssi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">matkurs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">rotukoira</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rasehund</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">roskapostisuoja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">søppelpostvern</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">rangaistuslaukaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">straffespark</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">radiopainike</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">radioknapp</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">pääverbi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hovedverb</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">puukiuas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vedfyrt badstuovn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">pulavuosi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nødsår</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">pudotusvalikko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nedfallsmeny</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">projektivastaava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">prosjektansvarlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">projektikoordinaattori</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">prosjektkoordinator</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">pikkujoulu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">julebord</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">perustutkinto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">grunneksamen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">perustoiminta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">basisaktivitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">persoonataivutus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">personbøying</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">persia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">persisk språk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">pelivuoro</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tur i spill</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">papukaijalaji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">papegøyeart</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">paperiasia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">formalitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">palloliitto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ballspillforbund</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">osaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ekspert</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">oppisopimuskoulutus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lærlingutdanning</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">oppimisstrategia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">læringsstrategi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">opiskeluympäristö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">studiemiljø</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">opiskelupaikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">studiplass</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">opiskelumateriaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">studiemateriale</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">opiskelumahdollisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">studiemulighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ope</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lærer</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">omakotiasuja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">villaeier</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">oksisto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">greiner</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">nuorisoasunto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ungdomsbolig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">nomini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nomen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mökkitie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hytteveg</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mökkitee</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hyttete</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mökkimatka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hyttetur</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mökkikulttuuri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hyttekultur</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">muuttosiivous</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">flyttereingjøring</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">muuttolaatikko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">flyttekasse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">murtohälytin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">innbruddsalarm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">multimedia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">multimedia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mielijohde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">innfall</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mielenvirkeys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mielenterveysseura</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">metsätyö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skogsarbeid</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mammografialaite</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mammografiapparat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">maahanmuuttovirasto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">immigrasjonsdirektorat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">maahanmuuttajatilasto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">immigrasjonsstatistikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">läksykerho</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lekseklubb</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">luotto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kreditt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lottovoitto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lottogevinst</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">linnunpönttö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fuglekasse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lelukoira</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">leikehund</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lelukauppa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">leikebutikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">leikkipaikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">leikeplass</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">leikkimökki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">leikehytte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lahjapaperi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gavepapir</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kyynärpäätaklaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">albuetakling</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kymmenvuotias</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tiåring</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kuvaristikko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bildekryssord</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kunnallishallinto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lokalstyre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kroketti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">krokket</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">koulutehtävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skolearbeid</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">koulupoika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skolegutt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kotiäiti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">husmor</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">korvapuusti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kanelbolle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kongruenssi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kongruens</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">koirapuisto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hundepark</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">koirankasvatus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hundedressur</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">koirankasvattaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hundedressør</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kohteliaisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">høflighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kirjastonhoitaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bibliotekar</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kilpailuvietti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">konkurranseinstinkt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kiina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kinesisk språk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kielikylpy</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">språkbad</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kesälomamatka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ferietur</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kesäkenkä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sommersko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">keskieurooppalainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mellomeuropeer</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kerrostalohuoneisto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">blokkleilighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kenkäkauppa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skobutikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kenguru</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kenguru</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kellonaika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tidspunkt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">keinu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">disse</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="N">huske</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kattoikkuna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">takvindu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kantaväestö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">opprinnelig befolkning</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kalakeitto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fiskesuppe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">järjestötyö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">organisasjonsarbeid</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">isi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pappa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">innostus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">iver</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">iltakurssi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kveldskurs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ikäihminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gamling</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hätätapaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nødstilfelle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">houkutus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fristelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hiihtolatu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skiløype</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">henkilötietorekisteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">personregister</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">henkilöstövastaava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">personalansvarlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">helle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">varme over 25°</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">harjoittelupaikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">praksisplass</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hanketyöntekijä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">prosjektmedarbeider</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hakeminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">søk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">globalisaatiostrategia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">globaliseringsstrategi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">fraasi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">frase</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">epäurheilijamaisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">usportslighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">eläinsuojelujärjestö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dyrevernorganisasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">doping</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">doping</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">bussinkuljettaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bussjåfør</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">avustusohjelma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hjelpeprogram</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">apuverbi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hjelpeverb</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">aamutakki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">morgenkåpe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">aamukahvi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">morgenkaffe</t>
+         </tg>
+      </mg>
+   </e>
 </r>

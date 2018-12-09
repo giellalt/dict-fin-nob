@@ -999,4 +999,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="Po">poikki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">på tvers av</t>
+            <xg>
+              <x>Matkustimme maan poikki.</x>
+              <xt>Vi reiste landet på tvers..</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>

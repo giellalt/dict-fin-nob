@@ -683,4 +683,32 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="Pron">jotain</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">noe</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">jotakin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">noe</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>

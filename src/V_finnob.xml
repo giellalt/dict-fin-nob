@@ -26134,4 +26134,32 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="V">potkutella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sparke</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">virtaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">renne</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>

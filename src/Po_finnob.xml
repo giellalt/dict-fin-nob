@@ -1013,4 +1013,32 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="Po">luokse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Po">til</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">luona</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Po">hos</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>

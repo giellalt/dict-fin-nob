@@ -1,0 +1,37 @@
+
+Tässä säilytetään finnob-sanakirjan ehdokkaat.
+orig-hakemistoon laitetaan alkuperäiset tiedostot, jos niitä
+halutaan säästää. Muut tiedostot ovat
+
+A.csv					  = tavallisimat adjektiivit (Wikipedian mukaan *)
+Adv.csv					  = tavallisimat adverbit (Wikipedian mukaan *)
+LUEMINUT				  = tämä tiedosto
+N-kirjallisuus-google.csv = vanhasta kirjallisuuden historiasta (1884)
+N-sadut.csv				  = satukokoelma taajuusjärjestyksessä
+N-ventar.csv			  = tavalliset nominit käännöksineeen
+N.csv					  = tavallisimat nominit (Wikipedian mukaan *)
+Num.csv					  = numeraalit
+Po.csv					  = tavallisimat postpositiot (Wikipedian mukaan *)
+Pr.csv					  = tavallisimat prepositiot (Wikipedian mukaan *)
+Pron.csv				  = tavallisimat pronominit (Wikipedian mukaan *)
+V-google.csv			  = tavallisimat verbit + ehdotus
+V.csv					  = tavallisimat verbit (Wikipedian mukaan *)
+freeA.csv				  = Giellateknon korpukset tavallisimmat
+freeAdv.csv				  = Giellateknon korpukset tavallisimmat
+freeN.csv				  = Giellateknon korpukset tavallisimmat
+freeV.csv				  = Giellateknon korpukset tavallisimmat
+problematiske.csv		  = Vaikeat sanat odottavat käännöstä
+saaristo_fin_nob.csv	  = Vesisaaren sanakirja
+saaristo_nob_fin.csv	  = Vesisaaren sanakirja
+sadut-ventar.csv		  = satutekstien sanat
+
+
+------------
+*) Suomen taajuuslistat ovat:
+
+Wikipedian taajuuden mukaan:
+https://victorio.uit.no/langtech/trunk/words/lists/fin/finwp.freq
+
+Sanomalehtikielen taajuuden mukaan:
+ks. orig-hakemistosta
+

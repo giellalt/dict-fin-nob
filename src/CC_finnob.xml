@@ -146,6 +146,20 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
+         <l pos="CC">joko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob" re="i spørsmål">
+            <t pos="CC">enten</t>
+	   <xg>
+	     <x>Huomenna syödään joko lihaa tai kalaa.</x>
+	     <xt>I morgen spiser vi enten kjøtt eller fisk.
+	   </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
          <l pos="CC">sekä</l>
       </lg>
       <mg>

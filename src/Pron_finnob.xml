@@ -711,4 +711,32 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="Pron">eräs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">en viss</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">muutama</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">noen få</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>

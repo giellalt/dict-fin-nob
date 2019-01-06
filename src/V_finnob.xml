@@ -821,11 +821,16 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">askarrella</l>
+      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">pusle med og lage noe</t>
             <xg>
-              <x>Koulun käsityötunnilla askaroin pingviinin.</x>
+              <x>Koulun käsityötunnilla askartelin pingviinin.</x>
               <xt>Jeg laget en pingvin i håndarbeidstimene.</xt>
             </xg>
          </tg>
@@ -26155,6 +26160,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">renne</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kommunikoida</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kommunisere</t>
             <xg>
               <x></x>
               <xt></xt>

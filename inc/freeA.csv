@@ -1,85 +1,80 @@
-pohjoissaamenkielinen	A	innfødt til samisk
+pohjoissaamenkielinen	A	nordsamiskkspråklig
 mainittu	A	nevnt
-yhteispohjoismainen	A	nordisk
-kolmas	A	den tredje
-inarinsaamenkielinen	A	inari samisk
-koltansaamenkielinen	A	skotsammen
-esitetty	A	Det har blitt presentert
-alkuinen	A	en start
+yhteispohjoismainen	A	fellesnordisk
+kolmas	A	tredje
+inarinsaamenkielinen	A	enaresamiskspråklig
+koltansaamenkielinen	A	skoltesamiskspråklig
+esitetty	A	presentert
+alkuinen	A	som begynner med
 määräaikainen	A	tidsbegrenset
-ulkopaikkakuntalainen	A	en utlending
+ulkopaikkakuntalainen	A	utbygdning
 valittu	A	valgt
-neljäs	A	den fjerde
-paikkakuntalainen	A	et fellesskap
+neljäs	A	fjerde
+paikkakuntalainen	A	sambygding
 parempi	A	bedre
-deminutiivinen	A	deminitive
-kolttasaamelainen	A	en kranisk samisk
+deminutiivinen	A	deminutiv
+kolttasaamelainen	A	skoltesamisk
 usea	A	flere
-oikee	A	Det stemmer
-ohjattu	A	kontrollert
+ohjattu	A	styrt	dirigert
 topografinen	A	topografisk
-rakennettu	A	Den er bygget
-turvattu	A	sikret
-lakisääteinen	A	lovfestet
-sivistyksellinen	A	kulturelt
-laajennettu	A	utvidet
-menestyksellinen	A	vellykket
-puhuttu	A	Det har blitt snakket om
-asetettu	A	satt
-mittainen	A	lenge
+lakisääteinen	A	lovfesta
+sivistyksellinen	A	danna	kulturell
+laajennettu	A	utvida
+menestyksellinen	A	vellykka
+puhuttu	A	omtalt
+mittainen	A	målt	xxx
 kokonaisvaltainen	A	helhetlig
-alimmainen	A	det laveste
-päätoiminen	A	full tid
-osoitettu	A	Det har blitt vist
-vanhin	A	den eldste
-koneellinen	A	mekanisk
-nasta	A	en pin
-perusteltu	A	berettiget
+alimmainen	A	lavest
+päätoiminen	A	fulltids
+osoitettu	A	vist
+vanhin	A	eldst
+koneellinen	A	maskinell
+nasta	A	fin	xxx
+perusteltu	A	begrunna
 toistainen	A	repeterende
 vaikutuksinen	A	imponerende
 ylimmäinen	A	øverst
 lainsäädännöllinen	A	lovgivende
 keskinäinen	A	gjensidig
-anonyymi	A	anonymt
-kiireellinen	A	presserende
-suomalais-ugrilainen	A	en fino-ugrikisk
-erämainen	A	villmark
-kielinen	A	språklig
-vuotias	A	gammelt
+anonyymi	A	anonym
+kiireellinen	A	travel	xxx
+suomalais-ugrilainen	A	fenno-ugrisk
+kielinen	A	språklig	xxx
+vuotias	A	årig	xxx
 tarkoituksenmukainen	A	hensiktsmessig
-kiireinen	A	opptatt
+kiireinen	A	travel	xxx
 tervetullut	A	velkommen
 omatoiminen	A	selvvirkende
-eteläisin	A	den sørligste
-arvoisa	A	kjære
+eteläisin	A	sørligste
+arvoisa	A	kjære	xxx
 luvanvarainen	A	lisensiert
-koskeva	A	Det handler om
+koskeva	A	vedrørende	xxx
 yhdenvertainen	A	lik
-muotoinen	A	Den er formet
-kulttuurihistoriallinen	A	kulturhistorie
-pikainen	A	raskt
-koltankielinen	A	et Colt-språk
-tietön	A	klokt
+muotoinen	A	formet
+kulttuurihistoriallinen	A	kulturhistorisk
+pikainen	A	rask
+koltankielinen	A	skoltesamisk
+tietön	A	vegløs
 opittu	A	lært
-käsitelty	A	blitt behandlet
+käsitelty	A	behandla
 kirjoitettu	A	skrevet
-äidinkielinen	A	Den er innfødt
+äidinkielinen	A	morsmåls	xxx
 viides	A	femte
-tasapuolinen	A	rettferdig
+tasapuolinen	A	likt fordelt	xxx
 erinäinen	A	annerledes
-yötön	A	over natten
-pitkäjänteinen	A	langvarig
+yötön	A	uten natt	xxx
+pitkäjänteinen	A	langvarig	utholdende
 moottoroitu	A	motorisert
 maisemallinen	A	naturskjønt
-läntisin	A	den vestligste
-vetovoimainen	A	attraktivt
-uudenlainen	A	nytt
-kokoinen	A	stort
-rajoitettu	A	begrenset
+läntisin	A	vestligste
+vetovoimainen	A	tiltrekkende
+uudenlainen	A	ny av utseende	xxx
+kokoinen	A	stor	xxx
+rajoitettu	A	begrensa
 määritelty	A	definert
-kuulu	A	dekket
 kuultu	A	hørt
 otettu	A	tatt
+------------------------------------------- Trond
 arvoinen	A	verdt det
 taitoinen	A	dyktig
 kouluikäinen	A	skolealderen

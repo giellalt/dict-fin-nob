@@ -54,14 +54,14 @@ laukoa	V	avfyre
 verottaa	V	skattlegge
 hämmästyttää	V	forbløffe
 investoida	V	investere
--------------------------------- Trond
-myhäillä	V	godt
-koettaa	V	prøve
+myhäillä	V	være fornøyd
+koettaa	V	prøve	forsøke	tilpasse
 kiteyttää	V	krystallisere
-helpottua	V	bli lettere
-kiriä	V	bli fanget
+helpottua	V	bli enklere	bli lettere
+kiriä	V	spurte
 huipentua	V	kulminere
 puhuttaa	V	få til å snakke
+-------------------------------- Trond
 järkyttää	V	forstyrre
 säästyä	V	spare deg
 listata	V	liste
@@ -232,4 +232,4 @@ virkistää	V	oppdatere
 kiitää	V	ros
 seikkailla	V	være eventyrlystne
 arvailla	V	gjette
-	V	 
+

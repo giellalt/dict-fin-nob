@@ -74,17 +74,14 @@ rajoitettu	A	begrensa
 määritelty	A	definert
 kuultu	A	hørt
 otettu	A	tatt
-------------------------------------------- Trond
-arvoinen	A	verdt det
+arvoinen	A	verdt	xxx
 taitoinen	A	dyktig
-kouluikäinen	A	skolealderen
+kouluikäinen	A	xxx	kouluikäinen tyttö	ei jente i skolealderen
 itäisin	A	den østligste
-suurehko	A	stort
-pisin	A	lengst
-muutettu	A	Det har blitt endret
-täydennetty	A	Det har blitt fullført
-monimuotoinen	A	mangfoldig
-kaikkinainen	A	alt
+------------------------------------------- Trond
+suurehko	A	stor		    xxx
+monimuotoinen	A	mangeformet	variert
+kaikkinainen	A	altomfattende
 tapauskohtainen	A	saksspesifikt
 motorisoitu	A	motorisert
 ansiokas	A	verdig

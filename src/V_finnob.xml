@@ -26181,4 +26181,3450 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="V">kiinnostaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">interessere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sujua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gå greit</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">julkistaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">publisere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">muistella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">minnes</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">mimre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ennakoida</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">forutse</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">luonnehtia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">karakterisere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">törmätä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kollidere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kaavailla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">planlegge</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kiitellä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">takke</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">avautua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">åpne seg</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kannustaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">oppmuntre</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ajautua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">havne</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">drive</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">ende opp</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">syyllistyä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gjøre seg skyldig i</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ilmoittautua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">registrere seg</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tähdentää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">understreke</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">betone</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">iloita</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">glede seg over</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kuitata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kvittere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">miellyttää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">behage</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">tiltale</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kunnostaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">rearere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">gjøre i orden</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">naurahtaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">le</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">sette i en latter</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">maistua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">smake</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vahvistua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">styrkes</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">huolestuttaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bekymre seg</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">haavoittua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli såret</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">harmittaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">irritere seg over</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tuumia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">overveie</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lahjoittaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">donere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ihailla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">beundre</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">korostua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli uthevet</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kiehtoa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">fascinere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">perehtyä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sette seg inn i</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">heiketä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">svekke</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ikääntyä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli eldre</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">koetella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">utfordre</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">teste</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">prøve</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">varmistua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli sikker</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">forsikre seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">matkata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">dra</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">reise</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tyrmätä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">forkaste</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">avviske</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">satsata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">satse</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tinkiä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">prute</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kaupata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">selge</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">kjøpslå</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">pienetä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">forminske</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">rohkaista</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">oppmuntre</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hälyttää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">varsle</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vauhdittaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">øke hastigheten</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vakuuttua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">overbevise</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">rakentua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli bygd</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ilmaantua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">dukke opp</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lukeutua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">tilhøre</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">regne seg som</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vaarantaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">risikere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hiipua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">falme</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">mieliä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ønske</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">ettertrakte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">haaveilla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">drømme</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">laukoa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">avfyre</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">verottaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">skattlegge</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hämmästyttää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">forbløffe</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">investoida</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">investere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">myhäillä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">være fornøyd</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">koettaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">prøve</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">forsøke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">tilpasse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kiteyttää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">krystallisere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">helpottua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli enklere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">bli lettere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kiriä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">spurte</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">huipentua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kulminere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">puhuttaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">få til å snakke</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">järkyttää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ryste</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V"> sjokkere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">säästyä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">spare seg</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V"> xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">listata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">liste</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">esittäytyä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">introdusere seg selv</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tarjoilla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">servere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">riehua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">rase</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hirvittää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">være forferdelig</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">isännöidä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">være vertskap for</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">uudistua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">fornye seg</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kisata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">konkurrere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">puuhata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">holde på med</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">luotsata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">lose</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">pahoitella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">si seg lei for</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">angre på</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hidastua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sakne farta</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">bli langsommere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vähätellä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bagatellisere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">raivata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">rase</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">rydde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tarkentaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">presisere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">noteerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">legge merke til</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">notere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">juhlistaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">erklære</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">    kunngjøre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tuumata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">vurdere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">tro</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hämmästellä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">være overraska</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">pohdiskella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">spekulere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">lure på</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">linjata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">trekke opp linjene for</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">stake ut</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">povata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">spå</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">varttua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli voksen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tiivistyä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli tettere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">täsmentää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">presisere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">väistyä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gi vei</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">vike unna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tarjoutua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">tilby seg</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">viestittää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">signalisere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">indikere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hämmentää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">være forvirrende</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">jonottaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">køe  stå i kø</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kierrellä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gå rundt rotere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kaksinkertaistua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">fordobles</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">voimaantulla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">tre i kraft</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">rajoittua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">begrense seg</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sanella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">diktere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vaurioitua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli skada</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hehkuttaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">lyse</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vanheta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli eldre</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">piitata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bry seg om</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kaavoittaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">allottere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">uusiutua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">fornye seg</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">murskata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">knuse</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">uupua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">slite seg ut</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">bli utslitt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">veikata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">tippe gjette</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">summata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">legge sammen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">summere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lupailla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">drive på og love</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">saastua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli forurensa</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">patistaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">reise</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hermostua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli nervøs</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ihastella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">beundre</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">paheksua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">fryse</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">päivystää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">være på vakt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">være jourhavende</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">naurattaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">le   xxx</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kunnostautua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gjøre seg i stand</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">jyrätä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">rulle over    bulldose seg fram</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">purkautua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">få utbrudd</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">viihdyttää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">underholde</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">langettaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">falle for</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">valitella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">drive på og klage</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ajoittua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">skje</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hoitua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli behandlet</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">huvittaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">være interessant</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hehkua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">lyse</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">gløde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tiukentaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">stramme</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">piristää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kvikke opp</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">soitella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ringe</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">piipahtaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">stikke innom</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">heittäytyä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kaste seg inn i</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hellittää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">slappe av</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tilittää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gjøre opp status</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sisällyttää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">inkludere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">laskeskella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">regne ut</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">alittaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ligge eller havne på et lavere nivå enn noe annet</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kummastella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">lure på</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">varteenottaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ta i betraktning</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tulittaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">antenne</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kruunata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">krone</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lieventää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">lindre</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">remontoida</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">renovere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">jahdata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">jage</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">følge etter</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">asioida</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gjøre forretninger</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">utrette ærend</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">puhutella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">snakke</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">ta opp til drøfting</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ylittyä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli overskredet</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">varoitella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">advare</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">järjestyä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">organiseres</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">ordne seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">levyttää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">spille inn på plate</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hahmottaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">utforme</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">   skissere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ponnistaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">prøve hardt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">anstrenge seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ideoida</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">komme med idéer</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">konsertoida</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">holde konsert</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">selittyä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">forklares</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">treenata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">trene</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">liioitella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">overdrive</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lomauttaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">permittere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">väistää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">unnvike</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">vike unna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">aloitella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">starte opp</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kilpailuttaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">konkurranseutsette</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">yhteenlaskea</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">legge sammen</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">viritellä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">stemme</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">sette opp</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">askarruttaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">drive med     pusle med</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ristiä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">krysse</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">rohjeta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">driste seg til å</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">murtautua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bryte seg inn</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">edesauttaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">hjelpe fram</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">fremme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">saneerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sanere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">voimistua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli sterkere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sulkeutua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">lukke seg</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">syrjäytyä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">marginaliseres</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">aseistaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bevæpne</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">haikailla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">lengte etter</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">onnitella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gratulere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">horjua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">svaie</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">taittua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">brettes</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">karttua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">samle seg</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ihmetyttää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">lure på</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">viestiä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">meddele</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">pohjustaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">legge grunnlaget for</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">arveluttaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ha skrupler</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">siivittää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">rydde opp</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kulkeutua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli ført</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">drive</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kärjistyä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">tilspisse seg</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">varjostaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">skygge over</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lupautua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">forplikte seg til</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sinnitellä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">arbeide hardt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">aprikoida</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gruble</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">tenke over</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">aikaansaada</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">få til</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">räätälöidä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">skreddersy</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">tilpasse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tokaista</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">stotre fram</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">paheta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli opprørt</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ravistella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">riste</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ripustaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">henge opp</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kaikua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gjenlyde</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="destabilisere ">horjuttaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="destabilisere "></t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="destabilisere "></t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="destabilisere "></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vaikeutua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli vanskeligere</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sekaantua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli innblandet</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hämmästyä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli forbløffet</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kuuluttaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kunngjøre</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">epäilyttää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">tvile på</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">suhteuttaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">forholde seg til</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tuhlata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sløse</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">herua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">dukke opp</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">vise seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">puntaroida</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">veie</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">vurdere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">viritä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">stemme</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">itää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">spire</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">houkuttaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">friste</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">saalistaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">fange</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tipahtaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">falle ned</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">dryppe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kotiutua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">komme hjem</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">bli husvarm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hoidella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">behandle</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">virkistää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">oppkvikke</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kiitää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">takke</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">seikkailla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">være eventyrlystne</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">arvailla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gjette</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos=""></l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos=""></t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos=""></t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos=""></t>
+         </tg>
+      </mg>
+   </e>
 </r>

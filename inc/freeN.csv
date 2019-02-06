@@ -1,158 +1,136 @@
 saamelaiskäräjät	N	Sametinget
-tenolainen	N	tenole
-inarinsaame	N	Inari Sable
-nimiperhe	N	familie av navn
-kotiseutualue	N	lokalt område
+tenolainen	N	tanaværing
+inarinsaame	N	enaresame	enaresamisk språk
+nimiperhe	N	navnefamilie
+kotiseutualue	N	heimbygd
 saamelaiskulttuuri	N	samisk kultur
-pohjoissaame	N	Nord-Sami
-etusivu	N	hjemmesiden
-saamelaisalue	N	samisk region
+pohjoissaame	N	nordsame
+etusivu	N	forside
+saamelaisalue	N	sameområde
 saamelaisnuori	N	samisk ungdom
 erämaa-alue	N	villmarksområde
-paliskunta	N	slynge
-koltansaame	N	colt
-saamelaiskulttuurikeskus	N	det samiske kultursenteret
+paliskunta	N	reinbeitedistrikt
+koltansaame	N	skoltesame	skoltesamisk språk
+saamelaiskulttuurikeskus	N	samiske kultursenter
 lisätieto	N	tilleggsinformasjon
-klo	N	på
+klo	N	kl
 saamelaismuseo	N	samisk museum
-määriteosaselitys	N	attributtdefinisjon
-toimeenpano	N	henrettelse
-kanna	N	hæl
-yleissopimus	N	konvensjon
+määriteosaselitys	N	forklaring på bestemmerdelen av et komplekst navn
+toimeenpano	N	iverksettelse
+yleissopimus	N	standardkontrakt
 taidetapahtuma	N	kunsthendelse
 sähköpostiosoite	N	e-postadresse
-sähköpostiosoite	N	e-postadresse
 nuorisoneuvosto	N	ungdomsråd
-sosiaali-	N	sosialt
 kielilaki	N	språklov
-käyttösuunnitelma	N	plan for bruk
-mukaelmasuomennos	N	koselig utseende
-oppimateriaali	N	pedagogisk materiale
-koulutuskeskus	N	treningssenter
-saamelaissopimus	N	samisk konvensjon
+käyttösuunnitelma	N	bruksplan
+oppimateriaali	N	pedagogisk materiale	læremateriell
+koulutuskeskus	N	utdanningssenter
+saamelaissopimus	N	samekonvensjon
 yhteystiedot	N	kontaktinformasjon
-luontaiselinkeino	N	naturlig industri
+luontaiselinkeino	N	naturalnæring
 virkistyskäyttö	N	rekreasjonsbruk
 maankäyttö	N	arealbruk
-koltta	N	scab
+koltta	N	skoltesame
 biodiversiteettisopimus	N	biodiversitetsavtale
-da	N	da
 velvoite	N	forpliktelse
-deminutiivimuoto	N	diminutiv form
+deminutiivimuoto	N	diminutivform
 ratifiointi	N	ratifisering
-saamelaiskäräjälaki	N	den samiske loven
-luontokeskus	N	naturssenter
+saamelaiskäräjälaki	N	sametingslov
+luontokeskus	N	natursenter
 saamelaisopetus	N	samisk utdanning
-169-sopimus	N	169-avtale
-ympäristöministeriö	N	Miljøverndepartementet
-määriteosa	N	smøremiddel
+ympäristöministeriö	N	miljøverndepartement
+määriteosa	N	bestemmerdelen av et komplekst namn
 luontomatkailu	N	naturturisme
 luontotyyppi	N	habitat
-resurssit	N	ressurser
-inarin-	N	inari
-kolttasaamelainen	N	kranisk samisk
-maastoliikenne	N	off-road
+kolttasaamelainen	N	skoltesame
+maastoliikenne	N	terrengtrafikk
 hallitusohjelma	N	regjeringsprogram
-perusosa	N	grunnleggende del
-osapuolikokous	N	festmøte
+perusosa	N	grunnleggende del	basiskomponent
 toimintaohjelma	N	handlingsprogram
-saamelaislapsi	N	samisk barn
-saamelaiselinkeino	N	samisk industri
-soidensuojelualue	N	myrbeskyttet område
+saamelaislapsi	N	samebarn
+saamelaiselinkeino	N	samisk næring
+soidensuojelualue	N	beskyttet myrområde
 valtionavustus	N	statsstøtte
 linjaus	N	justering
 saamelaismusiikki	N	samisk musikk
-pohjois	N	nord
-yhteistyöryhmä	N	samarbeidspartner
-yhteistyöryhmä	N	samarbeidspartner
-saamenkieli	N	samisk
+yhteistyöryhmä	N	samarbeidsgruppe
+saamenkieli	N	samisk språk
 saamelaisyhteisö	N	samisk samfunn
-peruspalkka	N	grunnlønnen
-kielipesä	N	språknest
+peruspalkka	N	grunnlønn
+kielipesä	N	språkreir
 sopimusvaltio	N	kontraherende stat
-saamelaisasia	N	samisk ting
-työpaja	N	verksted
-kulttuuriministeriö	N	Kulturdepartementet
-päivähoito	N	barnehage
-saamelaisuus	N	samisk
+saamelaisasia	N	samesak
+työpaja	N	verksted	workshop
+kulttuuriministeriö	N	kulturdepartement
+päivähoito	N	barnepass
+saamelaisuus	N	samiskhet
 vaaliluettelo	N	valgliste
-kulttuuri-itsehallinto	N	kulturell selvstyre
+kulttuuri-itsehallinto	N	kulturelt selvstyre
 saamelaisväestö	N	samisk befolkning
-eteläpää	N	sørenden
-toimija	N	skuespiller
-haastateltu	N	intervjuet
-genetiivimuoto	N	genetisk form
-varhaiskasvatus	N	tidlig barndomsutdanning
-hallintopäällikkö	N	administreringsansvarlig
-opastus	N	guide
-kämppä	N	hytte
-alkuperäiskansajulistus	N	originalerklæring
-autiotupa	N	øde hytte
-saamelaismusiikkikeskus	N	samisk musikk senter
-palkintolautakunta	N	jury
-retkeily	N	fotturer
+eteläpää	N	sørende
+toimija	N	aktør
+genetiivimuoto	N	genitivform
+varhaiskasvatus	N	oppdragelse av småbarn
+hallintopäällikkö	N	etatssjef
+opastus	N	guiding
+kämppä	N	leilighet	bolig
+alkuperäiskansajulistus	N	erklæring av status som urfolk
+autiotupa	N	hytte i ødemarka
+saamelaismusiikkikeskus	N	senter for samisk musikk
+palkintolautakunta	N	konkurransejury
+retkeily	N	turgåing
 vähemmistökieli	N	minoritetsspråk
-matkapuhelinnumero	N	mobilnummer
-matkapuhelinnumero	N	mobilnummer
-sidosryhmä	N	interessent
+matkapuhelinnumero	N	mobiltelefonnummer
 kielineuvosto	N	språkråd
-toimipaikka	N	forretningssted
-matkapuhelinhinnoittelu	N	mobiltelefon prissetting
+toimipaikka	N	forretningssted	 kontor	xxx
+matkapuhelinhinnoittelu	N	prisfastsetting for mobiltelefoni
 lankapuhelin	N	fasttelefon
 kokoustila	N	møterom
-palkkaus	N	lønn
-oy	N	oy
-avajaiset	N	åpningsseremonien
-oppimateriaalitoimisto	N	læringsmateriale byrå
+palkkaus	N	lønning
+oy	N	AS	aksjeselskap
+avajaiset	N	åpningsseremoni
 työkirja	N	arbeidsbok
-poronhoitaja	N	reinherder
+poronhoitaja	N	reingjeter
 määräraha	N	bevilling
-maisemayleissopimus	N	landskapskonvensjon
-pohjoispää	N	den nordlige enden
-nuora	N	ungt
-arkkitehtuurikilpailu	N	arkitektonisk konkurranse
+pohjoispää	N	nordende
+nuora	N	snor
+arkkitehtuurikilpailu	N	arkitektkonkurranse
 talousarvio	N	budsjett
 neuvottelukunta	N	rådgivende styre
-laadinta	N	Det har blitt utarbeidet
-asiantuntijatyöryhmä	N	ekspertgruppe
-paikko	N	sted
+laadinta	N	tilrettelegging
+asiantuntijatyöryhmä	N	arbeidsgruppe av eksperter
 kieliyhteistyö	N	språklig samarbeid
 ympäristökeskus	N	miljøsenter
 nuorisosihteeri	N	ungdomssekretær
-saamelaismääritelmä	N	samisk definisjon
-n:o	N	nei
-metsätalousministeriö	N	skogsdepartementet
-kyläkokous	N	bymøte
-kalastusoikeus	N	fiske rett
-pikku	N	lite
+saamelaismääritelmä	N	samedefinisjon
+metsätalousministeriö	N	skogbriksdepartementet
+kyläkokous	N	landsbymøte
+kalastusoikeus	N	fiskerett
+pikku	A	liten
 ohjausryhmä	N	styringsgruppe
 suunnittelualue	N	planleggingsområde
-loppuraportti	N	den endelige rapporten
-lastenkulttuurikeskus	N	barns kulturssenter
-luontopalvelu	N	naturservice
-yhdysosalyhentymä	N	union helbredelse
-palkkausjärjestelmä	N	betalingssystem
+loppuraportti	N	sluttrapport
+lastenkulttuurikeskus	N	barnekultursenter
+luontopalvelu	N	naturtjeneste
+palkkausjärjestelmä	N	lønningssystem
 resurssikeskus	N	ressursenter
 elokuvakeskus	N	filmsenter
-maastoliikennelupa	N	off-road lisens
-maastoliikennelupa	N	off-road lisens
-vaativuustaso	N	etterspørselsnivået
-puite	N	tre
-koillispuoli	N	nordøst
-sosiaaliala	N	sosial sektor
+maastoliikennelupa	N	lisens for ferdsel i utmarka
+vaativuustaso	N	kravnivå
+puite	N	ramme	forutsetning	xxx
+koillispuoli	N	nordøstlig side
+sosiaaliala	N	sosialsektor
 saamelaisjärjestö	N	samisk organisasjon
-luonnonkäyttö	N	naturlig bruk
-välinen	N	mellom
-keräily	N	Den samler inn
+luonnonkäyttö	N	naturutnytting
+keräily	N	innsamling
 esite	N	brosjyre
 työjärjestys	N	forretningsordenen
-saamelaisporonhoito	N	samisk borepleie
-saamelaisporonhoito	N	samisk borepleie
-nro	N	nei
-kulttuurilautakunta	N	kulturelt styre
-biodiversiteettistrategia	N	biologisk mangfoldsstrategi
+nro	N	nr
+kulttuurilautakunta	N	kulturkomité
+biodiversiteettistrategia	N	strategi for biologisk mangfold
 täytäntöönpano	N	implementering
 oppimateriaalityö	N	læringsmaterialearbeid
+---------------------------------------- Trond
 kuvaraito	N	bilde spor
 ihmisoikeuskomitea	N	menneskerettighetsutvalget
 kelpoisuusvaatimus	N	krav til kvalifikasjon

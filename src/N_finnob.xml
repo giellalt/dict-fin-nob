@@ -1505,11 +1505,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">akuutti</l>
+         <l pos="N">akuuttivastaanotto</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">akutt</t>
+            <t pos="N">legevakt</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -61374,7 +61374,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">stereotyp</t>
+            <t pos="N">stereotypi</t>
             <xg>
               <x></x>
               <xt></xt>

@@ -12294,10 +12294,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">sikker</t>
+            <t pos="A">kjent</t>
+            <t pos="A">viss</t>
             <xg>
-              <x></x>
-              <xt></xt>
+              <x>Minä puhun nyt tietystä henkilöstä.</x>
+              <xt>Jeg snakker nå om en viss person.</xt>
             </xg>
          </tg>
       </mg>

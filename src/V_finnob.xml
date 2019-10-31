@@ -1155,20 +1155,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">edetä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">utvikle seg</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">edistyä</l>
       </lg>
       <mg>
@@ -1237,11 +1223,6 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">ehkäistä</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">hindre</t>
@@ -1429,11 +1410,6 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">epäillä</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">mistenke</t>

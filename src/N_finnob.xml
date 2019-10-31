@@ -86408,7 +86408,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">avstand</t>
+            <t pos="N">distanse</t>
             <xg>
               <x></x>
               <xt></xt>
@@ -154235,6 +154235,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">felleskostnader</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">made</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lake</t>
             <xg>
               <x></x>
               <xt></xt>

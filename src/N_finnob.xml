@@ -154256,4 +154256,32 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="N">haaparousku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hulriske</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">rousku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">riske</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>

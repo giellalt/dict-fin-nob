@@ -429,10 +429,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">forskjellig</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -443,10 +439,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">de</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -457,19 +449,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">han</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">hun</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -480,10 +464,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">selv</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -494,10 +474,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">som</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -508,10 +484,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">noen</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -522,10 +494,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">alle</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -536,10 +504,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">hvem</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -550,10 +514,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">vi</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -564,10 +524,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">hva</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -578,10 +534,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">mange</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -592,10 +544,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">de om dyr og gjenstander</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -606,10 +554,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">disse</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -620,10 +564,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">du</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -634,10 +574,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">andre</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -648,10 +584,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">den det  der</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -662,10 +594,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">denne</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -676,10 +604,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">den ene</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -690,10 +614,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">noe</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -704,10 +624,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">noe</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -718,10 +634,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">en viss</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -732,10 +644,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">noen få</t>
-            <xg>
-              <x></x>
-              <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>

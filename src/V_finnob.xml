@@ -21381,26 +21381,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="destabilisere ">horjuttaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="destabilisere "></t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="destabilisere "></t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="destabilisere "></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">vaikeutua</l>
       </lg>
       <mg>
@@ -21616,26 +21596,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">gjette</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos=""></l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos=""></t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos=""></t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos=""></t>
          </tg>
       </mg>
    </e>

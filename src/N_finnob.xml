@@ -87520,26 +87520,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="innvandreropplæring">maahanmuuttajaopetus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="innvandreropplæring"></t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="innvandreropplæring"></t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="innvandreropplæring"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">läksyapu</l>
       </lg>
       <mg>
@@ -104316,26 +104296,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">lommetørkle</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="">møller</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos=""></t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos=""></t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos=""></t>
          </tg>
       </mg>
    </e>

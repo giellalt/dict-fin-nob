@@ -27,16 +27,6 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="Po">ympärille</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">rundt</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Po">muassa</l>
       </lg>
       <mg>
@@ -83,48 +73,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Pojat menivät talon taakse</x>
                <xt>Guttene gikk bak huset.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Po">seassa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">blant</t>
-            <xg>
-               <x></x>
-               <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Po">ympäri</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">rundt</t>
-            <xg>
-               <x>Ajoimme kaupungin ympäri.</x>
-               <xt>Vi kjørte rundt byen.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pr">ympäri</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">omkring</t>
-            <xg>
-               <x>Ajoimme ympäri kaupunkia.</x>
-               <xt>Vi kjørte omkring i byen.</xt>
             </xg>
          </tg>
       </mg>
@@ -237,10 +185,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="ai">
       <lg>
          <l pos="Po">edessä</l>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">foran</t>
+            <xg>
+               <x>Se on juuri sinun silmien edessä.</x>
+               <xt>Den er akkurat foran øyene dine.</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">overfor</t>
@@ -352,30 +309,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Minæ olen ollut kristilinen lapsuudesta asti.</x>
                <xt>Jeg har vært kristen siden barndommen.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">eteen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">foran</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">edessä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">foran</t>
-            <xg>
-               <x>Se on juuri sinun silmien edessä.</x>
-               <xt>Den er akkurat foran øyene dine.</xt>
             </xg>
          </tg>
       </mg>
@@ -649,16 +582,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Po">sisällä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">inne i</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="Po">sisässä</l>
       </lg>
       <mg>
@@ -702,18 +625,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">takana</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">bakenfor</t>
-            <t pos="Pr">bakom</t>
-            <t pos="Pr">bak</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai">
       <lg>
          <l pos="Po">takia</l>
@@ -722,16 +633,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Pr">for</t>
             <t pos="Pr">på grunn av</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">takaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">bakfra</t>
          </tg>
       </mg>
    </e>
@@ -981,6 +882,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Heillä on aita talon ympäri.</x>
                <xt>De har gjerde rundt huset.</xt>
+            </xg>
+            <xg>
+               <x>Ajoimme kaupungin ympäri.</x>
+               <xt>Vi kjørte rundt byen.</xt>
             </xg>
          </tg>
       </mg>

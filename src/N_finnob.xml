@@ -16545,7 +16545,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">interesse</t>
+            <t pos="N">iver</t>
          </tg>
       </mg>
    </e>
@@ -26398,16 +26398,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">gård</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">made</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">lake</t>
          </tg>
       </mg>
    </e>
@@ -76140,16 +76130,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">neitsyt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">jomfru</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">mielikuva</l>
       </lg>
       <mg>
@@ -84870,16 +84850,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">videopeli</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">videospill</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">verotulo</l>
       </lg>
       <mg>
@@ -86735,16 +86705,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">virke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">ytring</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">vihje</l>
       </lg>
       <mg>
@@ -87085,16 +87045,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">leksehjelpaktivitet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">lapsiperhe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">barnefamilie</t>
          </tg>
       </mg>
    </e>
@@ -87830,16 +87780,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">ruuhka</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">trafikkork</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">reisilihas</l>
       </lg>
       <mg>
@@ -88225,16 +88165,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">arbeidstime</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">työnteko</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">jobbing</t>
          </tg>
       </mg>
    </e>
@@ -89435,16 +89365,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">pappa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">innostus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">iver</t>
          </tg>
       </mg>
    </e>
@@ -90781,16 +90701,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">yhteistyökumppani</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">samarbeidspartner</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">välilyönti</l>
       </lg>
       <mg>
@@ -91441,16 +91351,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">fremskritt</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">arkielämä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">hverdagsliv</t>
          </tg>
       </mg>
    </e>
@@ -92566,16 +92466,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">persoonapronomini</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">personlig pronomen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">paraati</l>
       </lg>
       <mg>
@@ -93361,16 +93251,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">spredning</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">kuuntelu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">lytting</t>
          </tg>
       </mg>
    </e>
@@ -102661,16 +102541,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">vesivoimalaitos</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">vannkraftverk</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">vesimolekyyli</l>
       </lg>
       <mg>
@@ -110106,16 +109976,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bautastein</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">hiha</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">erme</t>
          </tg>
       </mg>
    </e>

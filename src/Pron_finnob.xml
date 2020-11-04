@@ -27,16 +27,6 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="Pron">he</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pron">de</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Pron">jokin</l>
       </lg>
       <mg>
@@ -86,21 +76,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron">joka</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Det">hver</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="CS">som</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Pron">jokainen</l>
       </lg>
       <mg>
@@ -142,16 +117,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">hvem sin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">kuka</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pron">hvem</t>
          </tg>
       </mg>
    </e>
@@ -208,16 +173,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="CS">som</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">mikä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pron">hva</t>
          </tg>
       </mg>
    </e>
@@ -283,16 +238,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">en eller annen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">ne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pron">de</t>
          </tg>
       </mg>
    </e>
@@ -444,31 +389,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron">hän</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pron">han</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pron">hun</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">itse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pron">selv</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Pron">joka</l>
       </lg>
       <mg>
@@ -476,24 +396,9 @@ For the full license text, see the link above.</lic>
             <t pos="Pron">som</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">joku</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">noen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">kaikki</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pron">alle</t>
+            <t pos="Det">hver</t>
          </tg>
       </mg>
    </e>
@@ -504,26 +409,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">hvem</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">me</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pron">vi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">mikä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pron">hva</t>
          </tg>
       </mg>
    </e>
@@ -544,66 +429,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">de om dyr og gjenstander</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">nämä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pron">disse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">sinä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pron">du</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">toinen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pron">andre</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">tuo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pron">den det  der</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">tämä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pron">denne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">yksi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pron">den ene</t>
          </tg>
       </mg>
    </e>

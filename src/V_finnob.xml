@@ -1152,31 +1152,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">betvile</t>
+            <t pos="V">tvile på</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">mistenke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">epäillä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">mistenkes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">epäillä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">tvile</t>
          </tg>
       </mg>
    </e>
@@ -1231,26 +1212,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">isolere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">eristää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">separere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">eristää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">utskille</t>
          </tg>
       </mg>
@@ -1267,16 +1228,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">piple fram</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">erittyä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">utsondre,trickle</t>
          </tg>
       </mg>
    </e>
@@ -1317,16 +1268,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">separeres</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">erota</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">skilles</t>
          </tg>
       </mg>
    </e>
@@ -1402,11 +1343,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">framvise</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">esitellä</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">presentere</t>
@@ -1419,31 +1355,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">forelegge</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">esittää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">fremlegge</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">esittää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">fremme</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">presentere</t>
          </tg>
       </mg>
@@ -1757,31 +1669,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">beherske</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">hallita</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">besitte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">hallita</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">kontrollere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">hallita</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">rå over</t>
@@ -1814,21 +1701,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">praktisere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">harjoitella</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">trene</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">øve</t>
          </tg>
       </mg>
@@ -1837,11 +1710,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="V">harjoittaa</l>
       </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">øve</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">drive med</t>
@@ -1860,16 +1728,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">vurdere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">harkita</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">skjønn</t>
          </tg>
       </mg>
    </e>
@@ -1954,24 +1812,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">avspeile</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">heijastaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">reflektere</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">heijastua</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">avspeile</t>
@@ -2134,34 +1977,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">båndlegge</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">hillitä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">dempe</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">hillitä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">moderere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">hillitä</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">stagge</t>
@@ -2311,17 +2129,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">jukse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">huijata</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">narre</t>
+            <t pos="V">jukse</t>
          </tg>
       </mg>
       <mg>
@@ -2464,11 +2273,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">forringe</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">huonontaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">svekke</t>
@@ -2569,16 +2373,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">vrake</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">hylätä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">vrake</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">forkaste</t>
@@ -2641,15 +2435,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">godtgjøre</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">hyvittää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">kompensere</t>
          </tg>
       </mg>
@@ -2660,26 +2445,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">aksept</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">hyväksyä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">akseptere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">hyväksyä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">godta</t>
          </tg>
       </mg>
@@ -2697,16 +2463,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">koagulere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">hyödyntää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">disponere</t>
          </tg>
       </mg>
    </e>
@@ -2842,16 +2598,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">hävetä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">skjemmes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">hävittää</l>
       </lg>
       <mg>
@@ -2965,16 +2711,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">uttrykke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">ilmentää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">manifestere</t>
          </tg>
       </mg>
    </e>
@@ -3156,26 +2892,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">irrota</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">oppheves</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">irrottaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">løse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">irrottaa</l>
       </lg>
       <mg>
@@ -3298,11 +3014,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">dele</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">jakaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">distribuere</t>
@@ -3406,15 +3117,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">kverne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">jauhaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">male</t>
          </tg>
       </mg>
@@ -3426,16 +3128,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">vise veg</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">johtaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">anføre</t>
          </tg>
       </mg>
    </e>
@@ -3541,15 +3233,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">publisere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">julkaista</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">utgi</t>
          </tg>
       </mg>
@@ -3716,23 +3399,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">arrangere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">järjestää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">organisere</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">järjestää</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">rangere</t>
@@ -3785,16 +3454,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">etterlate</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">jättää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">forlate</t>
          </tg>
       </mg>
@@ -3808,11 +3467,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">avkjøle</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">jäädyttää</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">båndlegge</t>
@@ -4123,11 +3777,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">jage bort</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">karkottaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">utvise</t>
@@ -4281,26 +3930,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">betrakte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">katsella</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">titte på</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">katsoa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">anse</t>
+            <t pos="V">se på</t>
+	    <xg>
+	      <x>On vaikeaa katsella Somalian tilannetta</x>
+	      <xt>Det er vanskelig å se på Somalias situasjon</xt>
+	    </xg>
          </tg>
       </mg>
    </e>
@@ -4311,16 +3945,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">titte</t>
+            <t pos="V"></t>
+	    <xg>
+	      <x>Sinun pitää katsoa tämä elokuva.</x>
+	      <xt>Du må se denne filmen.</xt>
+	    </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kattaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">avdekke</t>
+           <t pos="V">anse</t>
+	   <xg>
+	     <x>Komissio katsoo, että paikalliset olosuhteet kullakin lentokentällä otetaan huomioon.</x>
+	   <xt>Kommisjonen anser at de lokale forholdene på de ulike flyplassene må bli tatt i betraktning.</xt>
+	 </xg>
          </tg>
       </mg>
    </e>
@@ -4751,13 +4389,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">dreie</t>
+            <t pos="V">rotere</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kiertää</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">omgå</t>
@@ -4765,7 +4399,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">rotere</t>
+            <t pos="V">resikulere</t>
          </tg>
       </mg>
    </e>
@@ -4836,15 +4470,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">feste</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kiinnittää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">sette fast</t>
          </tg>
       </mg>
@@ -4886,15 +4511,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">benekte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kiistää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">bestride</t>
          </tg>
       </mg>
@@ -5028,11 +4644,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">bokføre</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kirjata</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">registrere</t>
@@ -5046,16 +4657,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">dekorere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kirjoittaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">beskrive</t>
          </tg>
       </mg>
    </e>
@@ -5156,21 +4757,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">mobbe</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">plage</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kiusata</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">plages</t>
          </tg>
       </mg>
    </e>
@@ -5206,15 +4793,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bearbeide</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kohdella</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">behandle</t>
          </tg>
       </mg>
@@ -5505,34 +5083,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">bøte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">korjata</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">bøte på</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">korjata</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">korrigere</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">korjata</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">reparere</t>
@@ -5555,34 +5108,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">aksentuere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">korostaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">betone</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">korostaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">foreholde</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">korostaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">fremheve</t>
@@ -5596,16 +5124,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">forhøye</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">korottaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">løfte</t>
          </tg>
       </mg>
    </e>
@@ -5625,22 +5143,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">gjelde</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">koskea</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">komme borti</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">berøre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gjelde</t>
          </tg>
       </mg>
    </e>
@@ -5887,21 +5400,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">respektere</t>
          </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kunnioittaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">ære</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">respektere</t>
-         </tg>
       </mg>
    </e>
    <e>
@@ -6148,33 +5651,9 @@ For the full license text, see the link above.</lic>
             <t pos="V">høres</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kuulua</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">tilkomme</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kuulua</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">underordnet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kuulua</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">vedkomme</t>
          </tg>
       </mg>
@@ -6236,13 +5715,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">beskrive</t>
+            <t pos="V">illustrere</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kuvata</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">fotografere</t>
@@ -6251,16 +5726,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">skildre</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kuvata</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">illustrere</t>
          </tg>
       </mg>
    </e>
@@ -6410,16 +5875,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">binde</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kytkeä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">kople</t>
          </tg>
       </mg>
@@ -6440,58 +5895,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">behefte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kärsiä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">fornærmes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kärsiä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">lide</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kärsiä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">plages</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kärsiä</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">tåle</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">lide</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">käsitellä</l>
+         <l pos="V">ksitellä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -6506,31 +5921,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">käsitellä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">behandle</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">käsittää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">begripe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">käsittää</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">forstå</t>
+            <t pos="V">begripe</t>
          </tg>
       </mg>
       <mg>
@@ -6621,15 +6017,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">få i gang</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">käynnistää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">starte</t>
          </tg>
       </mg>
@@ -6641,16 +6028,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">oppføre seg</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">käyttää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">betjene</t>
          </tg>
       </mg>
    </e>
@@ -6683,14 +6060,13 @@ For the full license text, see the link above.</lic>
             <t pos="V">snu seg</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kääntyä</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">svinge</t>
+           <t pos="V">svinge</t>
+	   <xg>
+	     <x>Bussi kääntyy</x>
+	     <xt>Bussen svinger.</xt>
+	   </xg>
          </tg>
       </mg>
    </e>
@@ -6836,16 +6212,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">laimentaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">svekke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">laimeta</l>
       </lg>
       <mg>
@@ -6978,11 +6344,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">regne</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">laskea</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">tappe</t>
@@ -7090,16 +6451,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">operere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">leikata</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">skjære</t>
          </tg>
       </mg>
@@ -7125,17 +6476,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">prege</t>
+            <t pos="V">stemple</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">leimata</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">stemple</t>
+            <t pos="V">prege</t>
          </tg>
       </mg>
    </e>
@@ -7146,16 +6492,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bake</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">leipoa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">bake brød</t>
          </tg>
       </mg>
    </e>
@@ -7415,27 +6751,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">bevege seg</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">liukua</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">gli</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">liukua</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">slure</t>
          </tg>
       </mg>
    </e>
@@ -7536,26 +6852,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">loukata</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">krenke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">loukata</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">støte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">loukkaantua</l>
       </lg>
       <mg>
@@ -7620,16 +6916,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">deklarere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">lukea</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">lese</t>
          </tg>
       </mg>
@@ -7641,16 +6927,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">låse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">lunastaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">bli innløst</t>
          </tg>
       </mg>
    </e>
@@ -7688,16 +6964,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">avstå</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">luopua</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">avstå</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">avgå</t>
@@ -7711,41 +6977,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">luopua</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">frafalle</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">luopua</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">frasi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">luottaa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">stole på</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">luovuttaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">avhende</t>
          </tg>
       </mg>
    </e>
@@ -7906,16 +7142,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">varme</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">lämmittää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">varme opp</t>
          </tg>
       </mg>
    </e>
@@ -8258,11 +7484,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">miste</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">menettää</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">tape</t>
@@ -8386,15 +7607,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">motivere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">motivoida</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">oppmuntre</t>
          </tg>
       </mg>
@@ -8601,26 +7813,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">endre</t>
+            <t pos="V">forandre</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">muuttaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">flytte</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">bytte</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">forandre</t>
          </tg>
       </mg>
    </e>
@@ -8705,27 +7903,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">angi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">määrittää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">definere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">määrätä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">beskikke</t>
          </tg>
       </mg>
    </e>
@@ -8738,11 +7916,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">bestemme</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">määrätä</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">pålegge</t>
@@ -8859,34 +8032,9 @@ For the full license text, see the link above.</lic>
             <t pos="V">drøfte</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">neuvotella</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">forhandle</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">neuvotella</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">konsultere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">neuvotella</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">rådføre</t>
          </tg>
       </mg>
    </e>
@@ -9054,31 +8202,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">følge</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">noudattaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">iaktta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">noudattaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">respektere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">noudattaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">ta til etterretning</t>
@@ -9197,16 +8320,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">nähdä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">vokte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">näkyä</l>
       </lg>
       <mg>
@@ -9224,13 +8337,9 @@ For the full license text, see the link above.</lic>
             <t pos="V">framvise</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">näytellä</l>
-      </lg>
       <mg>
-         <tg xml:lang="nob">
+        <tg xml:lang="nob">
+	  <re>om skuespill</re>
             <t pos="V">spille</t>
          </tg>
       </mg>
@@ -9281,17 +8390,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">avvente</t>
+            <t pos="V">vente</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">odottaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">vente</t>
+            <t pos="V">avvente</t>
          </tg>
       </mg>
    </e>
@@ -9591,17 +8695,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">markere</t>
+            <t pos="V">påpeke</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">osoittaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">påpeke</t>
+            <t pos="V">markere</t>
          </tg>
       </mg>
    </e>
@@ -9789,16 +8888,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">presse</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">painostaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">trykke</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">påvirke</t>
@@ -9977,16 +9066,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">paljastaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">åpenbare</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">palkita</l>
       </lg>
       <mg>
@@ -10132,16 +9211,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">peittää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">overlappe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">pelastaa</l>
       </lg>
       <mg>
@@ -10209,11 +9278,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">arve</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">periä</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">inndrive</t>
@@ -10249,24 +9313,9 @@ For the full license text, see the link above.</lic>
             <t pos="V">etablere</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">perustaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">grunnlegge</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">perustaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">stifte</t>
          </tg>
       </mg>
    </e>
@@ -10287,16 +9336,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">hjemle</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">peruuttaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">annullere</t>
          </tg>
       </mg>
    </e>
@@ -10399,11 +9438,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">arrestere</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">pidättää</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">holde igjen</t>
@@ -10639,14 +9673,9 @@ For the full license text, see the link above.</lic>
             <t pos="V">avvike</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">poiketa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">fravike</t>
+            <t pos="V">stikke innom</t>
          </tg>
       </mg>
    </e>
@@ -10881,24 +9910,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">pusse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">puhdistaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">reingjøre</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">puhdistaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">rense</t>
@@ -11082,16 +10096,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">klype</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">puristaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">presse</t>
          </tg>
       </mg>
@@ -11123,15 +10127,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">demontere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">purkaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">ta fra hverandre</t>
          </tg>
       </mg>
@@ -11243,15 +10238,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">stanse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">pysäyttää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">stoppe</t>
          </tg>
       </mg>
@@ -11302,32 +10288,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">anmode</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">pyytää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">be</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">begjære</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">pyytää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">forlange</t>
          </tg>
       </mg>
    </e>
@@ -11358,16 +10324,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">dreie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">pyöriä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">trinse</t>
          </tg>
       </mg>
    </e>
@@ -11495,29 +10451,9 @@ For the full license text, see the link above.</lic>
             <t pos="V">fastslå</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">päätellä</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">konkludere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">päätellä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">konkludere med</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V"> anta</t>
          </tg>
       </mg>
    </e>
@@ -11540,24 +10476,9 @@ For the full license text, see the link above.</lic>
             <t pos="V">avgjøre</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">päättää</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bestemme</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">päättää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">konstituere</t>
          </tg>
       </mg>
    </e>
@@ -11712,16 +10633,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">anlegge</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">rakentaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">bygge</t>
          </tg>
       </mg>
@@ -11840,34 +10751,9 @@ For the full license text, see the link above.</lic>
             <t pos="V">berolige</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">rauhoittaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">frede roe ned</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">rauhoittaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">fredlyse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">rauhoittua</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">beroliges</t>
+            <t pos="V">frede</t>
          </tg>
       </mg>
    </e>
@@ -12056,52 +10942,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">slå istykker</t>
+            <t pos="V">ødelegge</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">bryte</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">rikkoa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">forbryte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">rikkoa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">forse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">rikkoa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">misligholde</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">rikkoa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">slå istykker</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">ødelegge</t>
          </tg>
       </mg>
    </e>
@@ -12124,24 +10976,9 @@ For the full license text, see the link above.</lic>
             <t pos="V">likestille</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">rinnastaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">sideordne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">rinnastaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">sidestille</t>
          </tg>
       </mg>
    </e>
@@ -12424,11 +11261,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">innhente</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">saavuttaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">oppnå</t>
@@ -12517,16 +11349,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">holde hemmelig</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sallia</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">tillate</t>
          </tg>
       </mg>
    </e>
@@ -12684,24 +11506,10 @@ For the full license text, see the link above.</lic>
             <t pos="V">blande</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sekoittaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">blande sammen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sekoittaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">røre</t>
+            <t pos="V">blande sammen</t>
          </tg>
       </mg>
    </e>
@@ -12734,21 +11542,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">fortelle</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">selostaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">referat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">selostaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">referere</t>
@@ -12781,26 +11574,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">avklare</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">selvittää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">finne ut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">selvittää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">utrede</t>
          </tg>
       </mg>
@@ -12859,21 +11633,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">følge</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">seurata</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">følge</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">seurata</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">overvære</t>
@@ -12921,14 +11680,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">flytte</t>
+           <t pos="V">flytte</t>
+	   <xg>
+	     <x>Siirsin kukkaruukun.</x>
+	     <xt>Jeg flytta blomsterpotta.</xt>
+	   </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">siirtää</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">overdra</t>
@@ -13006,17 +11764,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">innlegge</t>
+            <t pos="V">sette</t>
+            <t pos="V">plassere</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sijoittaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">sette</t>
+            <t pos="V">investere</t>
          </tg>
       </mg>
    </e>
@@ -13077,16 +11831,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">forsegle</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sisustaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">fylle</t>
          </tg>
       </mg>
    </e>
@@ -13224,14 +11968,10 @@ For the full license text, see the link above.</lic>
             <t pos="V">avtale</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sopia</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">høve</t>
+            <t pos="V">passe</t>
          </tg>
       </mg>
    </e>
@@ -13338,11 +12078,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">arrangere</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sovittaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">tilpasse</t>
@@ -13463,11 +12198,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">tillate</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">suoda</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">unne</t>
@@ -13501,15 +12231,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">beskytte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">suojella</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">verne</t>
          </tg>
       </mg>
@@ -13571,15 +12292,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">anbefale</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">suositella</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">tilrå</t>
          </tg>
       </mg>
@@ -13736,16 +12448,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">suurentaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">forstørres</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">suurentua</l>
       </lg>
       <mg>
@@ -13781,16 +12483,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bli sint</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">suuttua</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">sint</t>
          </tg>
       </mg>
    </e>
@@ -13918,33 +12610,9 @@ For the full license text, see the link above.</lic>
             <t pos="V">anklage</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">syyttää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">mistenke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">syyttää</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">sikte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">syyttää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">tiltale</t>
          </tg>
       </mg>
@@ -13968,19 +12636,9 @@ For the full license text, see the link above.</lic>
             <t pos="V">ruse</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">syöksyä</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">styrte</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">falle</t>
          </tg>
       </mg>
    </e>
@@ -13993,11 +12651,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">fore</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">syöttää</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">mate</t>
@@ -14051,33 +12704,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">beholde</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">säilyttää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">bevare</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">säilyttää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">forvare</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">säilyttää</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">oppbevare</t>
@@ -14183,19 +12812,9 @@ For the full license text, see the link above.</lic>
             <t pos="V">justere</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">säätää</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">regulere</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">justere</t>
          </tg>
       </mg>
    </e>
@@ -14322,15 +12941,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">beslaglegge</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">takavarikoida</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">konfiskere</t>
          </tg>
       </mg>
@@ -14357,16 +12967,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">støpe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">takoa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">smi</t>
          </tg>
       </mg>
    </e>
@@ -14852,26 +13452,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">bekrefte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">todistaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">bevitne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">todistaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">vitne</t>
          </tg>
       </mg>
@@ -14965,21 +13545,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">avslå</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">torjua</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">avverge</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">torjua</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">avverge</t>
@@ -14988,26 +13553,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">avvise</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">torjua</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">avvise</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">torjua</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">fortrenge</t>
          </tg>
       </mg>
    </e>
@@ -15030,11 +13575,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">gjennomføre</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">toteuttaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">realisere</t>
@@ -15162,16 +13702,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">printe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">tulostaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">skrive ut</t>
          </tg>
       </mg>
@@ -15218,15 +13748,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">identifisere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">tunnistaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">kjenne igjen</t>
          </tg>
       </mg>
@@ -15240,24 +13761,9 @@ For the full license text, see the link above.</lic>
             <t pos="V">erkjenne</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">tunnustaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">innrømme</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">tunnustaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">knesette</t>
          </tg>
       </mg>
    </e>
@@ -15406,11 +13912,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">forske</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">tutkia</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">undersøke</t>
@@ -15619,26 +14120,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">täyttyä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">flø</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">täyttää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">fylle</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">täytyä</l>
       </lg>
       <mg>
@@ -15798,16 +14279,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">forsenke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">upottaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">senke</t>
          </tg>
       </mg>
@@ -15898,47 +14369,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">begjære</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vaatia</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">forlange</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vaatia</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">innkreve</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vaatia</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">kreve</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vaatia</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">påkreve</t>
          </tg>
       </mg>
    </e>
@@ -15996,54 +14428,9 @@ For the full license text, see the link above.</lic>
             <t pos="V">bekrefte</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vahvistaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">forsterke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vahvistaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">herde</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vahvistaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">stadfeste</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vahvistaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">styrke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vahvistaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">vedta</t>
          </tg>
       </mg>
    </e>
@@ -16083,27 +14470,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">gire</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vaihtaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">skifte</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vaihtaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">utbytte</t>
+            <t pos="V">gire</t>
          </tg>
       </mg>
    </e>
@@ -16144,31 +14516,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">dempe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vaimentaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">stilne</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">kvele</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vaimeta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">stilne</t>
          </tg>
       </mg>
    </e>
@@ -16253,16 +14600,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">skjenke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">valaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">støpe</t>
          </tg>
       </mg>
@@ -16321,24 +14658,9 @@ For the full license text, see the link above.</lic>
             <t pos="V">beklage</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">valittaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">klage</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">valittaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">påklage</t>
          </tg>
       </mg>
    </e>
@@ -16469,16 +14791,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">valtuuttaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">delegere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">valua</l>
       </lg>
       <mg>
@@ -16494,23 +14806,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">føre tilsyn</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">valvoa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">inspisere</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">valvoa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">våke</t>
@@ -16519,16 +14817,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">overvåke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">valvoa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">våke over</t>
          </tg>
       </mg>
    </e>
@@ -16571,41 +14859,11 @@ For the full license text, see the link above.</lic>
             <t pos="V">frifinne</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vapauttaa</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">frifinnes</t>
+            <t pos="V">slippe fri</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vapauttaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">løslatelse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vapauttaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">slippe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vapautua</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">frita</t>
@@ -16860,11 +15118,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">strekke</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">venyttää</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">tøye</t>
@@ -16938,15 +15191,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">dra</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vetää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">trekke</t>
          </tg>
       </mg>
@@ -17060,21 +15304,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="V">vihjata</l>
       </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">antyde</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vihjata</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">ymte om</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">antyde</t>
@@ -17280,11 +15509,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">kveike</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">virittää</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">trimme</t>
@@ -17377,24 +15601,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">bortfeste</t>
+            <t pos="V">leie bort</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vuokrata</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">bygsle bort</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vuokrata</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">leie av noen</t>
@@ -17448,15 +15657,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">forminske</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vähentää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">redusere</t>
          </tg>
       </mg>
@@ -17495,11 +15695,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">bry seg om</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">välittää</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">mekle</t>
@@ -17513,16 +15708,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">blinke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vältellä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">unndra</t>
          </tg>
       </mg>
    </e>
@@ -17553,15 +15738,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">unngå</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">välttää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">unnvike</t>
          </tg>
       </mg>
@@ -17665,16 +15841,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">forfalske</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">väärentää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">forfalske</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">vri</t>
@@ -17728,16 +15894,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">forene</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">yhtyä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">tiltre</t>
          </tg>
       </mg>
    </e>
@@ -17830,11 +15986,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">overtreffe</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">ylittää</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">overstige</t>
@@ -17850,34 +16001,9 @@ For the full license text, see the link above.</lic>
             <t pos="V">holde i hevd</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">ylläpitää</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">håndheve</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">ylläpitää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">underholde</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">ylläpitää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">vedlikehold</t>
          </tg>
       </mg>
    </e>
@@ -18146,15 +16272,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">gjenbruke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kierrättää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">resirkulere</t>
          </tg>
       </mg>

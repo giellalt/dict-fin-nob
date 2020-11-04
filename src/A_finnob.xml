@@ -979,16 +979,6 @@ For the full license text, see the link above.</lic>
             <t pos="A">forutgående</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">edellinen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">tidligere</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">forrige</t>
@@ -4668,16 +4658,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">lestadiolainen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">læstadiansk</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">leuto</l>
       </lg>
       <mg>
@@ -5528,16 +5508,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">moninkertainen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">mangfoldig</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">moniosainen</l>
       </lg>
       <mg>
@@ -6332,16 +6302,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">fremmed</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">outo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="A">rar</t>
          </tg>
       </mg>
@@ -6397,17 +6357,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">overveiende</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">painava</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">tung</t>
+           <t pos="A">tung</t>
+	   <xg>
+	     <x>Tämä on painava laukku.</x>
+	     <xt>Dette er ei tung veske.</xt>
+	   </xg>
          </tg>
       </mg>
    </e>
@@ -6417,7 +6371,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">tung</t>
+           <t pos="A">veiende</t>
+	   <xg>
+	     <x>Onnettomuudessa kaatui 100 tonnin painoinen metallirakenne.</x>
+	     <xt>I ulykka velta det en metallstruktur som veide 100 tonn.</xt>
+	   </xg>
          </tg>
       </mg>
    </e>
@@ -6448,16 +6406,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">obligatorisk</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">pakollinen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">tvungen</t>
          </tg>
       </mg>
    </e>
@@ -10063,16 +10011,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">enerådende</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">vallitseva</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="A">gjeldende</t>
          </tg>
       </mg>
@@ -10876,16 +10814,6 @@ For the full license text, see the link above.</lic>
             <t pos="A">enhetlig</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">yhtenäinen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">hel</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">helhetlig</t>
@@ -10971,11 +10899,6 @@ For the full license text, see the link above.</lic>
             <t pos="A">enkeltstående</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">yksittäinen</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">individuell</t>
@@ -11016,11 +10939,6 @@ For the full license text, see the link above.</lic>
             <t pos="A">allmenn</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">yleinen</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">generell</t>
@@ -11238,26 +11156,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">fin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">ihana</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="A">herlig</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">ihana</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="A">vidunderlig</t>
          </tg>
       </mg>

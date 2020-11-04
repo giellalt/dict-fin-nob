@@ -129,7 +129,8 @@ For the full license text, see the link above.</lic>
          <l pos="CC">vain</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="i spørsmål">
+         <tg xml:lang="nob">
+            <re>i spørsmål</re>
             <t pos="CC">eller</t>
          </tg>
       </mg>
@@ -139,7 +140,8 @@ For the full license text, see the link above.</lic>
          <l pos="CC">joko</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="i spørsmål">
+         <tg xml:lang="nob">
+            <re>i spørsmål</re>
             <t pos="CC">enten</t>
 	   <xg>
 	     <x>Huomenna syödään joko lihaa tai kalaa.</x>
@@ -153,12 +155,13 @@ For the full license text, see the link above.</lic>
          <l pos="CC">sekä</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="i spørsmål">
-	   <t pos="CC">både</t>
-	   <xg>
-	     <x>Hän soittaa sekä huilua ja kitaraa.</x>
-	     <xt>Hun spiller både fløyte og gitar.</xt>
-	   </xg>
+         <tg xml:lang="nob">
+            <re>i spørsmål</re>
+	         <t pos="CC">både</t>
+            <xg>
+               <x>Hän soittaa sekä huilua ja kitaraa.</x>
+               <xt>Hun spiller både fløyte og gitar.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

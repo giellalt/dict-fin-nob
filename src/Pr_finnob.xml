@@ -37,24 +37,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Po">yli</l>
+         <l pos="Pr">yli</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">over</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pr">ympäri</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">omkring</t>
             <xg>
-               <x>Ajoimme ympäri kaupunkia.</x>
-               <xt>Vi kjørte omkring i byen.</xt>
+               <x>yli odotusten.</x>
+               <xt>over all forventning.</xt>
             </xg>
          </tg>
       </mg>

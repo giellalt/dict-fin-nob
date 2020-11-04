@@ -1950,16 +1950,6 @@ For the full license text, see the link above.</lic>
             <t pos="A">androgyn</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A"></t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A"></t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -57931,7 +57921,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N"></t>
+            <t pos="N">livssynskunnskap</t>
          </tg>
       </mg>
    </e>
@@ -61734,7 +61724,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N"></t>
+            <t pos="N">TV</t>
          </tg>
       </mg>
    </e>
@@ -88905,21 +88895,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">mielenvirkeys</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">mielenterveysseura</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N"></t>
+            <t pos="N">forening for sinnets helse</t>
          </tg>
       </mg>
    </e>
@@ -106241,26 +106221,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">rot</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">soma</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">søt</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="A"></t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="A"></t>
          </tg>
       </mg>
    </e>

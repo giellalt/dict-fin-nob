@@ -5,7 +5,7 @@
 <!ELEMENT l ( #PCDATA ) >
 <!ATTLIST l comment CDATA #IMPLIED >
 <!ATTLIST l nr ( Pl ) #IMPLIED >
-<!ATTLIST l pos ( A | Abbr | Adv | CC | CS | Clt | Interj | 
+<!ATTLIST l pos ( A | Abbr | Adv | CC | CS | Clt | Interj |
                   N | Num | Pcle | Po | Pr | Pron | Qu | V ) #REQUIRED >
 <!ATTLIST l src NMTOKEN #IMPLIED >
 <!ATTLIST l val ( IV | TV ) #IMPLIED >
@@ -34,7 +34,7 @@
 <!ATTLIST t comment CDATA #IMPLIED >
 <!ATTLIST t gen ( f | m | n ) #IMPLIED >
 <!ATTLIST t nr ( Pl ) #IMPLIED >
-<!ATTLIST t pos ( A | Adv | CC | CS | Cp | Det | Interj | 
+<!ATTLIST t pos ( A | Adv | CC | CS | Cp | Det | Interj |
                   N | Num | Po | Pr | Pron | V ) #REQUIRED >
 <!ATTLIST t t_type NMTOKEN #IMPLIED >
 <!ATTLIST t type ( Prop ) #IMPLIED >
@@ -49,4 +49,3 @@
 <!ELEMENT xg ( x, xt ) >
 
 <!ELEMENT xt ( #PCDATA ) >
-

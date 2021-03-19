@@ -17492,7 +17492,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">irritere seg over</t>
+           <t pos="V">irritere seg over</t>
+	   <xg>
+	     <x>Minua harmittaa tämä asia.</x>
+	     <xt>Jeg irriterer meg over denne saka.</xt>
+	   </xg>
          </tg>
       </mg>
    </e>

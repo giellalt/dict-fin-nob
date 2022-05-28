@@ -222,7 +222,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">drive</t>
+            <t pos="V">drive rundt</t>
             <xg>
               <x>Aavelaiva ajelehti merellä ilman miehistöä.</x>
               <xt>Spøkelsesskipet dreiv rundt på havet uten mannskap.</xt>
@@ -365,6 +365,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">begynne</t>
+            <xg>
+              <x>Olli aloitti keityspäällikkönä toukokuun lopussa.</x>
+              <xt>Olli begynte som utviklingssjef i slutten av mai.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -379,7 +383,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">få i gang</t>
+            <t pos="V">forberede</t>
+            <xg>
+              <x></x>
+              <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">formattere</t>
+            <xg>
+              <x>Ole tarkkana sen suhteen, minkä kintolevyn alustat.</x>
+              <xt>Vær nøye når det gjelder hvilken harddisk du formatterer.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -452,12 +469,29 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">trygle</t>
+           <t pos="V">trygle</t>
+	   <xg>
+	     <x>Aikoinaan olin polvillani ja anoin armoa.</x>
+	     <xt>I si tid var eg på knærne og trygla om nåde.</xt>
+	   </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">be</t>
+           <t pos="V">be om noe</t>
+	   <xg>
+	     <x>Anoin poliisia ampumaan hevoseni, jalka oli mennyt poikki.</x>
+	     <xt>Jeg ba politiet skyte hesten min, den hadde brukket foten.</xt>
+	   </xg>
+         </tg>
+      </mg>
+      <mg>
+        <tg xml:lang="nob">
+           <t pos="V">søke</t>
+	   <xg>
+	     <x>Anoin lainaa.</x>
+	     <xt>Jeg søkte om lån.</xt>
+	   </xg>
          </tg>
       </mg>
    </e>
@@ -11058,7 +11092,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">be</t>
+           <t pos="V">be</t>
+	   <xg>
+	     <x>Rukoilin Jumalaa, mutta hän ei vastannut.</x>
+	     <xt>Jeg ba til Gud, men han svarte ikke.</xt>
+	   </xg>
          </tg>
       </mg>
    </e>
@@ -11078,7 +11116,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">øke</t>
+            <t pos="V">forøke seg</t>
          </tg>
       </mg>
    </e>

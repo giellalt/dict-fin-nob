@@ -22,14 +22,12 @@ sivistyksellinen	A	danna	kulturell
 laajennettu	A	utvida
 menestyksellinen	A	vellykka
 puhuttu	A	omtalt
-mittainen	A	målt	xxx
 kokonaisvaltainen	A	helhetlig
 alimmainen	A	lavest
 päätoiminen	A	fulltids
 osoitettu	A	vist
 vanhin	A	eldst
 koneellinen	A	maskinell
-nasta	A	fin	xxx
 perusteltu	A	begrunna
 toistainen	A	repeterende
 vaikutuksinen	A	imponerende
@@ -37,19 +35,17 @@ ylimmäinen	A	øverst
 lainsäädännöllinen	A	lovgivende
 keskinäinen	A	gjensidig
 anonyymi	A	anonym
-kiireellinen	A	travel	xxx
+kiireellinen	A	travel
 suomalais-ugrilainen	A	fenno-ugrisk
-kielinen	A	språklig	xxx
-vuotias	A	årig	xxx
 tarkoituksenmukainen	A	hensiktsmessig
-kiireinen	A	travel	xxx
+kiireinen	A	travel
 tervetullut	A	velkommen
 omatoiminen	A	selvvirkende
 eteläisin	A	sørligste
-arvoisa	A	kjære	xxx
+arvoisa	A	høyaktingsfull
 luvanvarainen	A	lisensiert
-koskeva	A	vedrørende	xxx
-yhdenvertainen	A	lik
+koskeva	A	vedrørende
+yhdenvertainen	A	lik	xxx
 muotoinen	A	formet
 kulttuurihistoriallinen	A	kulturhistorisk
 pikainen	A	rask
@@ -159,7 +155,6 @@ arkkitehtoninen	A	arkitektonisk
 aiheellinen	A	Det stemmer
 yksityisoikeudellinen	A	en sivilrettens sak
 todettu	A	Det har blitt funnet
-tenolainen	A	en tenole
 peräinen	A	arvingen
 pehmeäkantinen	A	mykt
 mieleenpainuva	A	minneverdig
@@ -169,7 +164,6 @@ kehityskelpoinen	A	utviklingsmessig
 interaktiivinen	A	interaktivt
 eloton	A	livløst
 avattu	A	Det har blitt åpnet
-asianosainen	A	en fest
 alkukielinen	A	på originalspråket
 utsjokelainen	A	utsjokelainen
 tasokas	A	bra

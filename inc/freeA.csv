@@ -78,96 +78,85 @@ suurehko	A	ganske stor
 monimuotoinen	A	mangeformet	variert
 kaikkinainen	A	all slags
 tapauskohtainen	A	saksspesifikk
-------------------------------------------- Trond
-
 motorisoitu	A	motorisert
-ansiokas	A	verdig
-varustettu	A	Den er utstyrt
-suuruinen	A	stort
+ansiokas	A	fortjenestefull
+varustettu	A	velutstyrt
 suojeltu	A	beskyttet
-porosaamelainen	A	en dragonfly
-moottorikäyttöinen	A	Den er drevet
-laajuinen	A	bredt
-kokopäiväinen	A	full tid
-kaksivaiheinen	A	to trinn
+porosaamelainen	N	reindriftssame
+moottorikäyttöinen	A	motorisert
+kokopäiväinen	A	heldags
+kaksivaiheinen	A	totrinns
 haasteellinen	A	utfordrende
-virtuaalinen	A	virtuelt
-kuvattu	A	blitt beskrevet
-kivikautinen	A	en steinalder
-heterogeeninen	A	heterogent
-toimitettu	A	Det har blitt levert
-silmälläpidettävä	A	et must
-saamelaispoliittinen	A	en samisk politikk
-oikeuksinen	A	riktig
-koottu	A	montert
+virtuaalinen	A	virtuell
+kuvattu	A	beskrevet
+kivikautinen	A	steinaldersk
+heterogeeninen	A	heterogen
+toimitettu	A	levert
+silmälläpidettävä	A	under oppsikt
+saamelaispoliittinen	A	samepolitisk
+koottu	A	samlet
 ikimuistoinen	A	minneverdig
-täysimääräinen	A	fullt
-sanottu	A	Det har blitt sagt
-ratkaistu	A	Det har blitt løst
-luonnonvarainen	A	villt
+sanottu	A	sagt
+ratkaistu	A	løst
 liiallinen	A	overdrevet
-korvaamaton	A	uvurderlig
+korvaamaton	A	uerstattelig
 innovatiivinen	A	nyskapende
 iankaikkinen	A	evig
 asuttu	A	befolket
-sulo	A	Sulo
-seitsemäs	A	den syvende
-omakielinen	A	innfødt
+seitsemäs	A	syvende
+omakielinen	A	egenspråklig
 monikielinen	A	flerspråklig
-löydetty	A	Det har blitt funnet
+löydetty	A	funnet
 laajakantoinen	A	utbredt
 kolmiyhteinen	A	en triade
-kohtuuton	A	urimelig
-kaikenikäinen	A	alle aldre
-uniikki	A	unikt
-solmittu	A	blitt signert
-erityyppinen	A	annerledes
-boreaalinen	A	borealt
-alpiininen	A	alpint
+kaikenikäinen	A	for alle aldre
+uniikki	A	unik
+solmittu	A	knyttet
+erityyppinen	A	ulikartet
+boreaalinen	A	boreal
+alpiininen	A	alpin
 ajantasainen	A	oppdatert
 sisällöllinen	A	innholdsbasert
 rento	A	avslappet
-nimetty	A	Den heter
+nimetty	A	kalt
 loppuunmyyty	A	utsolgt
-lainen	A	lat
-inarilainen	A	en Inari
-ensiarvoinen	A	viktigst
-välillinen	A	indirekte
+inarilainen	A	typisk for Enare
+välillinen	A	midlertidig
 voimassaoleva	A	gyldig
-takainen	A	tilbake
-selvitetty	A	Det har blitt ryddet opp
-prosentuaalinen	A	en prosentandel
+selvitetty	A	oppklart
+prosentuaalinen	A	prosentuell
 laskettu	A	beregnet
 yhdeksäs	A	niende
 valtioidenvälinen	A	transnasjonalt
-tehostettu	A	Det har blitt forbedret
+tehostettu	A	effektivisert
 opetuksellinen	A	pedagogisk
-omaehtoinen	A	egoistisk
+omaehtoinen	A	frivillig	på eget initiativ
 luonnonmukainen	A	organisk
 laupias	A	barmhjertig
-kiusattu	A	Det har blitt mobbet
-katsottu	A	blitt sett
-hoidettu	A	Det har blitt behandlet
-eriarvoinen	A	ulikt
-eri-ikäinen	A	ulik alder
-audiovisuaalinen	A	audiovisuelt
+kiusattu	A	mobbet
+katsottu	A	sett
+hoidettu	A	behandlet
+eriarvoinen	A	ulikeverdig
+eri-ikäinen	A	av ulik alder
+audiovisuaalinen	A	audiovisuell
 arkkitehtoninen	A	arkitektonisk
-aiheellinen	A	Det stemmer
-yksityisoikeudellinen	A	en sivilrettens sak
-todettu	A	Det har blitt funnet
-peräinen	A	arvingen
-pehmeäkantinen	A	mykt
+aiheellinen	A	saklig
+yksityisoikeudellinen	A	sivilrettslig
+todettu	A	fastslått
+-peräinen	A	av opprinnelse
+pehmeäkantinen	A	innbundet som paperback
 mieleenpainuva	A	minneverdig
-lappilainen	A	en Lappish
-kestämätön	A	uholdbart
-kehityskelpoinen	A	utviklingsmessig
-interaktiivinen	A	interaktivt
-eloton	A	livløst
-avattu	A	Det har blitt åpnet
-alkukielinen	A	på originalspråket
-utsjokelainen	A	utsjokelainen
-tasokas	A	bra
-päätetty	A	blitt bestemt
+lappilainen	A	lappisk	fra landskapet Lappland
+kestämätön	A	uholdbar
+kehityskelpoinen	A	i stand til å utvikle seg
+interaktiivinen	A	interaktiv
+eloton	A	livløs
+avattu	A	åpnet
+alkukielinen	A	originalspråklig
+utsjokelainen	A	fra Utsjok
+tasokas	A	av god kvalitet
+päätetty	A  bestemt
+------------------------------------------- Trond
 puustoinen	A	woody
 pakanuudenaikainen	A	hedensk
 nimenomainen	A	spesifikt

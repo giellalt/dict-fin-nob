@@ -3985,7 +3985,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">titte</t>
-            <t pos="V"></t>
 	    <xg>
 	      <x>Sinun pitää katsoa tämä elokuva.</x>
 	      <xt>Du må se denne filmen.</xt>
@@ -16500,7 +16499,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <!-- <e>
       <lg>
          <l pos="V">ulkoilla</l>
       </lg>
@@ -16509,7 +16508,7 @@ For the full license text, see the link above.</lic>
             <t pos="V"></t>
          </tg>
       </mg>
-   </e>
+   </e> -->
    <e>
       <lg>
          <l pos="V">ulvoa</l>

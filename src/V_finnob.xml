@@ -466,28 +466,28 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
            <t pos="V">trygle</t>
-	   <xg>
-	     <x>Aikoinaan olin polvillani ja anoin armoa.</x>
-	     <xt>I si tid var eg på knærne og trygla om nåde.</xt>
-	   </xg>
+      <xg>
+        <x>Aikoinaan olin polvillani ja anoin armoa.</x>
+        <xt>I si tid var eg på knærne og trygla om nåde.</xt>
+      </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
            <t pos="V">be om noe</t>
-	   <xg>
-	     <x>Anoin poliisia ampumaan hevoseni, jalka oli mennyt poikki.</x>
-	     <xt>Jeg ba politiet skyte hesten min, den hadde brukket foten.</xt>
-	   </xg>
+      <xg>
+        <x>Anoin poliisia ampumaan hevoseni, jalka oli mennyt poikki.</x>
+        <xt>Jeg ba politiet skyte hesten min, den hadde brukket foten.</xt>
+      </xg>
          </tg>
       </mg>
       <mg>
         <tg xml:lang="nob">
            <t pos="V">søke</t>
-	   <xg>
-	     <x>Anoin lainaa.</x>
-	     <xt>Jeg søkte om lån.</xt>
-	   </xg>
+      <xg>
+        <x>Anoin lainaa.</x>
+        <xt>Jeg søkte om lån.</xt>
+      </xg>
          </tg>
       </mg>
    </e>
@@ -1624,7 +1624,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">hogge</t>
             <xg>
-	      <x>hakata puita</x>
+         <x>hakata puita</x>
               <xt>hogge ved</xt>
             </xg>
          </tg>
@@ -3971,10 +3971,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">betrakte</t>
             <t pos="V">se på</t>
-	    <xg>
-	      <x>On vaikeaa katsella Somalian tilannetta</x>
-	      <xt>Det er vanskelig å se på Somalias situasjon</xt>
-	    </xg>
+       <xg>
+         <x>On vaikeaa katsella Somalian tilannetta</x>
+         <xt>Det er vanskelig å se på Somalias situasjon</xt>
+       </xg>
          </tg>
       </mg>
    </e>
@@ -3985,19 +3985,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">titte</t>
-	    <xg>
-	      <x>Sinun pitää katsoa tämä elokuva.</x>
-	      <xt>Du må se denne filmen.</xt>
-	    </xg>
+       <xg>
+         <x>Sinun pitää katsoa tämä elokuva.</x>
+         <xt>Du må se denne filmen.</xt>
+       </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
            <t pos="V">anse</t>
-	   <xg>
-	     <x>Komissio katsoo, että paikalliset olosuhteet kullakin lentokentällä otetaan huomioon.</x>
-	   <xt>Kommisjonen anser at de lokale forholdene på de ulike flyplassene må bli tatt i betraktning.</xt>
-	 </xg>
+      <xg>
+        <x>Komissio katsoo, että paikalliset olosuhteet kullakin lentokentällä otetaan huomioon.</x>
+      <xt>Kommisjonen anser at de lokale forholdene på de ulike flyplassene må bli tatt i betraktning.</xt>
+    </xg>
          </tg>
       </mg>
    </e>
@@ -6102,10 +6102,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
            <t pos="V">svinge</t>
-	   <xg>
-	     <x>Bussi kääntyy</x>
-	     <xt>Bussen svinger.</xt>
-	   </xg>
+      <xg>
+        <x>Bussi kääntyy</x>
+        <xt>Bussen svinger.</xt>
+      </xg>
          </tg>
       </mg>
    </e>
@@ -8378,7 +8378,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
         <tg xml:lang="nob">
-       	   <re>om skuespill</re>
+             <re>om skuespill</re>
             <t pos="V">spille</t>
          </tg>
       </mg>
@@ -11088,10 +11088,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
            <t pos="V">be</t>
-	   <xg>
-	     <x>Rukoilin Jumalaa, mutta hän ei vastannut.</x>
-	     <xt>Jeg ba til Gud, men han svarte ikke.</xt>
-	   </xg>
+      <xg>
+        <x>Rukoilin Jumalaa, mutta hän ei vastannut.</x>
+        <xt>Jeg ba til Gud, men han svarte ikke.</xt>
+      </xg>
          </tg>
       </mg>
    </e>
@@ -11724,10 +11724,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
            <t pos="V">flytte</t>
-	   <xg>
-	     <x>Siirsin kukkaruukun.</x>
-	     <xt>Jeg flytta blomsterpotta.</xt>
-	   </xg>
+      <xg>
+        <x>Siirsin kukkaruukun.</x>
+        <xt>Jeg flytta blomsterpotta.</xt>
+      </xg>
          </tg>
       </mg>
       <mg>
@@ -17536,10 +17536,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
            <t pos="V">irritere seg over</t>
-	   <xg>
-	     <x>Minua harmittaa tämä asia.</x>
-	     <xt>Jeg irriterer meg over denne saka.</xt>
-	   </xg>
+      <xg>
+        <x>Minua harmittaa tämä asia.</x>
+        <xt>Jeg irriterer meg over denne saka.</xt>
+      </xg>
          </tg>
       </mg>
    </e>

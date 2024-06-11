@@ -6358,10 +6358,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
            <t pos="A">tung</t>
-	   <xg>
-	     <x>Tämä on painava laukku.</x>
-	     <xt>Dette er ei tung veske.</xt>
-	   </xg>
+      <xg>
+        <x>Tämä on painava laukku.</x>
+        <xt>Dette er ei tung veske.</xt>
+      </xg>
          </tg>
       </mg>
    </e>
@@ -6372,10 +6372,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
            <t pos="A">veiende</t>
-	   <xg>
-	     <x>Onnettomuudessa kaatui 100 tonnin painoinen metallirakenne.</x>
-	     <xt>I ulykka velta det en metallstruktur som veide 100 tonn.</xt>
-	   </xg>
+      <xg>
+        <x>Onnettomuudessa kaatui 100 tonnin painoinen metallirakenne.</x>
+        <xt>I ulykka velta det en metallstruktur som veide 100 tonn.</xt>
+      </xg>
          </tg>
       </mg>
    </e>

@@ -379,9 +379,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Pr">gjennom</t>
             <xg>
-            	<x>He kävelivät tunnelin läpi.</x> 
-	            <xt>De gikk gjennom tunnelen.</xt>  
-	        </xg>          
+               <x>He kävelivät tunnelin läpi.</x>
+               <xt>De gikk gjennom tunnelen.</xt>
+           </xg>
          </tg>
       </mg>
    </e>
@@ -834,7 +834,7 @@ For the full license text, see the link above.</lic>
               <x>En osaa valita kahden miehen väliltä.</x>
               <xt>Jeg klarer ikke å velge mellom disse to mennene.</xt>
             </xg>
-	 </tg>
+    </tg>
       </mg>
    </e>
    <e src="ta;ai;mk">
@@ -849,7 +849,7 @@ For the full license text, see the link above.</lic>
               <x>Tampereen ja Turun välillä ei ole kovin paljon hyviä ruokailupaikkoja.</x>
               <xt>Mellom Tammerfors og Åbo er det ikke så mange gode steder å spise.</xt>
             </xg>
- 	 </tg>
+     </tg>
       </mg>
    </e>
    <e src="ai">

@@ -143,10 +143,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>i spørsmål</re>
             <t pos="CC">enten</t>
-	   <xg>
-	     <x>Huomenna syödään joko lihaa tai kalaa.</x>
-	     <xt>I morgen spiser vi enten kjøtt eller fisk.</xt>
-	   </xg>
+      <xg>
+        <x>Huomenna syödään joko lihaa tai kalaa.</x>
+        <xt>I morgen spiser vi enten kjøtt eller fisk.</xt>
+      </xg>
          </tg>
       </mg>
    </e>
@@ -157,7 +157,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>i spørsmål</re>
-	         <t pos="CC">både</t>
+            <t pos="CC">både</t>
             <xg>
                <x>Hän soittaa sekä huilua ja kitaraa.</x>
                <xt>Hun spiller både fløyte og gitar.</xt>

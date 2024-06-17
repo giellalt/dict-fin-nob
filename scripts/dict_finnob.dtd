@@ -1,3 +1,20 @@
+<!-- <!ELEMENT r (lics?, e+, xhtml:script?) > -->
+<!ELEMENT r (lics?, e+) >
+<!ATTLIST r xml:lang (fin) #IMPLIED>
+<!ATTLIST r id (finnob) #IMPLIED>
+
+<!ELEMENT lics (lic, ref*, sourcenote*) >
+<!ATTLIST lics xml:space (default|preserve) 'preserve'>
+<!ELEMENT lic (#PCDATA|a)*>
+<!ATTLIST lic xml:lang ( en | nno ) #IMPLIED >
+<!ELEMENT ref (#PCDATA|a|i)*>
+<!ELEMENT sourcenote (#PCDATA|a|i)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT i (#PCDATA)>
+
+<!ELEMENT lg ( l ) >
+
+
 <!ELEMENT e ( lg, mg+ ) >
 <!ATTLIST e reverse NMTOKEN #IMPLIED >
 <!ATTLIST e src CDATA #IMPLIED >
@@ -11,24 +28,18 @@
 <!ATTLIST l val ( IV | TV ) #IMPLIED >
 <!ATTLIST l type (Prop) #IMPLIED >
 
-<!ELEMENT lics (lic, ref*, sourcenote*) >
-<!ATTLIST lics xml:space (default|preserve) 'preserve'>
-<!ELEMENT lic (#PCDATA|a)*>
-<!ATTLIST lic xml:lang ( en | nno ) #IMPLIED >
-<!ELEMENT ref (#PCDATA|a|i)*>
-<!ELEMENT sourcenote (#PCDATA|a|i)*>
-<!ELEMENT a (#PCDATA)>
-<!ELEMENT i (#PCDATA)>
-
-<!ELEMENT lg ( l ) >
-
 <!ELEMENT mg ( tg ) >
 
-<!ELEMENT r (lics?, e+, xhtml:script?) >
-<!ATTLIST r xml:lang (fin) #IMPLIED>
-<!ATTLIST r id (finnob) #IMPLIED>
+<!ELEMENT tg ( re?  | t | xg? )+ >
+<!ATTLIST tg comment CDATA #IMPLIED >
+<!ATTLIST tg xml:lang ( nob ) #IMPLIED >
 
-<!ELEMENT stem ( #PCDATA ) >
+<!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
+<!ATTLIST re
+    xml:lang ( nob | sme | sma | smn | swe | eng | deu | lat) #IMPLIED
+>
+<!ATTLIST re x ( fad ) #IMPLIED >
+<!ATTLIST re comment CDATA #IMPLIED >
 
 <!ELEMENT t ( #PCDATA ) >
 <!ATTLIST t comment CDATA #IMPLIED >
@@ -39,16 +50,6 @@
 <!ATTLIST t t_type NMTOKEN #IMPLIED >
 <!ATTLIST t type ( Prop ) #IMPLIED >
 
-<!ELEMENT tg ( re? | syng | t | xg )* >
-<!ATTLIST tg comment CDATA #IMPLIED >
-<!ATTLIST tg xml:lang ( nob ) #IMPLIED >
-
-<!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
-<!ATTLIST re
-    xml:lang ( nob | sme | sma | smn | swe | eng | deu | lat) #IMPLIED
->
-<!ATTLIST re x ( fad ) #IMPLIED >
-<!ATTLIST re comment CDATA #IMPLIED >
 
 <!ELEMENT x ( #PCDATA ) >
 

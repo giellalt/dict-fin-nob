@@ -11699,9 +11699,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">overvære</t>
          </tg>
       </mg>
-      <mg>
-         <tg/>
-      </mg>
    </e>
    <e>
       <lg>
@@ -19770,17 +19767,61 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">være eventyrlystne</t>
+            <t pos="V">være eventyrlysten</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">arvailla</l>
+         <l pos="V"> täyttää</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <t pos="V">gjette</t>
+         <tg>
+            <t pos="V">fylle</t>
+            <xg>
+               <x>Uusien verojen tarkoituksena oli täyttää kroonisesti tyhjiä valtion rahakirstuja.</x>
+               <xt>Formålet med de nye skattene var å fylle statens kronisk tomme pengekister.</xt>
+            </xg>
+            <xg>
+               <x>Oppivelvollisuus alkaa sinä vuonna, jolloin oppilas täyttää seitsemän vuotta</x>
+               <xt>Skoleplikt begynner det året når eleven fyller sju år</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">oppfylle</t>
+            <xg>
+               <x>Myös Vesta saattaa täyttää kääpiöplaneetan määritelmän.</x>
+               <xt>Også Vesta kan oppfylle kriteriet for å væe en dvergplanet.</xt>
+            </xg>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">käsitellä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">behandle</t>
+            <xg>
+               <x>Luultavasti Homo erectus osasi valmistaa vaatteita ja käsitellä tulta sekä varastoida ruokaa.</x>
+               <xt>Homo erectul kunne sannsynligvis lage klær, behandle ild og lagre mat.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">handle om</t>
+            <xg>
+               <x>Neljäs osa käsittelee pimeyden valtakuntaa</x>
+               <xt>Den fjerde delen handler om mørkets rike.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

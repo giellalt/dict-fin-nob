@@ -12,12 +12,12 @@
 <!ELEMENT a (#PCDATA)>
 <!ELEMENT i (#PCDATA)>
 
-<!ELEMENT lg ( l ) >
-
 
 <!ELEMENT e ( lg, mg+ ) >
 <!ATTLIST e reverse NMTOKEN #IMPLIED >
 <!ATTLIST e src CDATA #IMPLIED >
+
+<!ELEMENT lg ( l ) >
 
 <!ELEMENT l ( #PCDATA ) >
 <!ATTLIST l comment CDATA #IMPLIED >
@@ -30,7 +30,7 @@
 
 <!ELEMENT mg ( tg ) >
 
-<!ELEMENT tg ( re?  | t | xg? )+ >
+<!ELEMENT tg ( re?, t+, xg* ) >
 <!ATTLIST tg comment CDATA #IMPLIED >
 <!ATTLIST tg xml:lang ( nob ) #IMPLIED >
 

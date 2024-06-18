@@ -28,7 +28,6 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-
    <e>
       <lg>
          <l pos="N">aakkonen</l>
@@ -45,6 +44,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">alfabetrekkefølge</t>
             <t pos="N">alfabetisk oppstilling</t>
          </tg>
       </mg>
@@ -7932,7 +7932,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">lengden på garnet       øverste del</t>
+            <t pos="N">lengden på garnet øverste del</t>
          </tg>
       </mg>
    </e>
@@ -8408,7 +8408,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">hetroseksuell       hetero       hetrofil</t>
+            <t pos="N">hetroseksuell hetero hetrofil</t>
          </tg>
       </mg>
    </e>
@@ -9696,8 +9696,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">god egenskap</t>
             <xg>
-              <x>Opettelemme yhdessä näkemään hyveet toisissamme.</x>
-              <xt>Sammen lærer vi å se de gode egenskapene ved hverandre.</xt>
+               <x>Opettelemme yhdessä näkemään hyveet toisissamme.</x>
+               <xt>Sammen lærer vi å se de gode egenskapene ved hverandre.</xt>
             </xg>
          </tg>
       </mg>
@@ -40212,7 +40212,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">avfall       søppel</t>
+            <t pos="N">avfall søppel</t>
          </tg>
       </mg>
    </e>
@@ -41377,7 +41377,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">sakkarose       sukrose</t>
+            <t pos="N">sakkarose sukrose</t>
          </tg>
       </mg>
    </e>
@@ -41962,7 +41962,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">saudiaraber       saudier</t>
+            <t pos="N">saudiaraber saudier</t>
          </tg>
       </mg>
    </e>
@@ -43783,7 +43783,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">benkslipemaskin       smergel</t>
+            <t pos="N">benkslipemaskin smergel</t>
          </tg>
       </mg>
    </e>
@@ -54933,7 +54933,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">avgiftning       rehabilitering</t>
+            <t pos="N">avgiftning rehabilitering</t>
          </tg>
       </mg>
    </e>
@@ -56118,7 +56118,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">alm       bergalm</t>
+            <t pos="N">alm bergalm</t>
          </tg>
       </mg>
    </e>
@@ -57248,7 +57248,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">overløpsinkontinens       overflowinkontinens</t>
+            <t pos="N">overløpsinkontinens overflowinkontinens</t>
          </tg>
       </mg>
    </e>
@@ -62411,7 +62411,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-  <e>
+   <e>
       <lg>
          <l pos="N">farmarihousut</l>
       </lg>
@@ -62431,7 +62431,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e>
+   <e>
       <lg>
          <l pos="N">kansallislintu</l>
       </lg>
@@ -73582,7 +73582,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">opprinnelse    herkomst</t>
+            <t pos="N">opprinnelse herkomst</t>
          </tg>
       </mg>
    </e>
@@ -95333,7 +95333,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="N">finsk-sovjetisk krigføring i Karelen 1918-1922 </t>
+            <t pos="N">finsk-sovjetisk krigføring i Karelen 1918-1922</t>
          </tg>
       </mg>
    </e>
@@ -104968,7 +104968,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">språkhistorie </t>
+            <t pos="N">språkhistorie</t>
          </tg>
       </mg>
    </e>
@@ -105068,7 +105068,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">lingvist </t>
+            <t pos="N">lingvist</t>
          </tg>
       </mg>
    </e>
@@ -105243,7 +105243,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">sosiolingvistikk </t>
+            <t pos="N">sosiolingvistikk</t>
          </tg>
       </mg>
    </e>
@@ -105263,7 +105263,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">synonymordbok </t>
+            <t pos="N">synonymordbok</t>
          </tg>
       </mg>
    </e>

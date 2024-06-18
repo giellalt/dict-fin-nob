@@ -184,16 +184,6 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <re>ajaa asiaa</re>
-            <t pos="V">fremme</t>
-            <xg>
-               <x>Unicef on ajanut lasten asiaa Hyvinkäällä jo 30 vuotta</x>
-               <xt>Unicef har allerede fremmet barnas interesser i Hyvinge i 30 år.</xt>
-            </xg>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -19831,6 +19821,61 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Neljäs osa käsittelee pimeyden valtakuntaa</x>
                <xt>Den fjerde delen handler om mørkets rike.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">periytyä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">stamme fra</t>
+            <xg>
+               <x>Sisilian kieli on latinasta periytyvä kieli</x>
+               <xt>Sisiliansk er et språk som nedstammer fra latin</xt>
+            </xg>
+            <xg>
+               <x>Kirkon paikka periytyy 1600-luvulta.</x>
+               <xt>Kirkas stilling stammer fra 1600-tallet.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">gå i arv til</t>
+            <xg>
+               <x>Myöhemmin rakennusyhtiö periytyi Rosan tyttärelle.</x>
+               <xt>Senere gikk bygningsfirmaet i arv til Rosas datter.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sekoitua</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">blande seg inn i</t>
+            <xg>
+               <x>Älä sekoidu tähän</x>
+               <xt>Ikke bland deg inn i dette.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vuorotella</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">veksle mellom</t>
+            <xg>
+               <x>1890-luvulla Gallen-Kallelan tuotannossa realismi ja symbolismi vuorottelivat.</x>
+               <xt>På 1890-tallet vekslet realismen og symbolismen i Gallen-Kallelas produksjon.</xt>
             </xg>
          </tg>
       </mg>

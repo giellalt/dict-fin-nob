@@ -20156,4 +20156,38 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="V">tullata</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">fortolle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kansallistaa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">nasjonalisere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ystävystyä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">bli venn med</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>

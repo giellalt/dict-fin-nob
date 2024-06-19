@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
@@ -19877,6 +19877,282 @@ For the full license text, see the link above.</lic>
                <x>1890-luvulla Gallen-Kallelan tuotannossa realismi ja symbolismi vuorottelivat.</x>
                <xt>På 1890-tallet vekslet realismen og symbolismen i Gallen-Kallelas produksjon.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">piirittää</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">omringe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">heijastua</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">reflekteres</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">äänittää</l>
+      </lg>
+      <mg>
+         <tg>
+            <re>om lyd</re>
+            <t pos="V">ta opp</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">innoittaa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">oppmuntre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">symboloida</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">symbolisere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ajoittaa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">tidfeste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kaupungistaa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">urbanisere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vakiinnuttaa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">stabilisere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ryhmittyä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">gruppere seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">yksilöidä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">individualisere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ohjelmoida</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">programmere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ratifioida</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">ratifisere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">inspiroida</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">inspirere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">linnoittaa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">beleire</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">patentoida</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">patentere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">luetteloida</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">katalogisere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ulkoistaa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">outsource</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">suomalaistaa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">forfinske</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">modernisoida</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">modernisere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">laillistaa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">legalisere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">rauhoittua</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">roe seg ned</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hankaloittaa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">gjøre vanskelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">irrottautua</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">løsgjøre seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">haarautua</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">forgreine seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">yksityistää</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">privatisere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">simuloida</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">simulere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">koodata</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">kode</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">programmere</t>
          </tg>
       </mg>
    </e>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
@@ -111714,6 +111714,109 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">riske</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kauppala</l>
+      </lg>
+      <mg>
+         <tg>
+            <re>historisk</re>
+            <t pos="N">handelssted</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">frankki</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">franker</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">asutuskeskus</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">tettsted</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kyy</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">hoggorm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">maanpäällinen</l>
+      </lg>
+      <mg>
+         <tg>
+            <re>religiøs</re>
+            <t pos="N">jordisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">valtionhoitaja</l>
+      </lg>
+      <mg>
+         <tg>
+            <re>historisk</re>
+            <t pos="N">stattholder</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">matkustajaliikenne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">persontrafikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ikäraja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">aldersgrense</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kalakukko</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">innbakt fisk i rugbrød</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kutsuääni</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">lokketone</t>
          </tg>
       </mg>
    </e>

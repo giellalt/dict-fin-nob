@@ -51,8 +51,6 @@
 <!ATTLIST t type ( Prop ) #IMPLIED >
 
 
-<!ELEMENT x ( #PCDATA ) >
-
 <!ELEMENT xg ( x, xt ) >
-
+<!ELEMENT x ( #PCDATA ) >
 <!ELEMENT xt ( #PCDATA ) >

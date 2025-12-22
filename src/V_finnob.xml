@@ -1471,7 +1471,7 @@ For the full license text, see the link above.</lic>
             <t pos="V">drikke alkohol</t>
          </tg>
       </mg>
-      </e>
+   </e>
    <e>
       <lg>
          <l pos="V">filmata</l>
@@ -5957,16 +5957,34 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">ksitellä</l>
+         <l pos="V">käsitellä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bearbeide</t>
+            <xg>
+               <x>Käsittelin ulkoseinää vedenkestävällä maalilla.</x>
+               <xt>Jeg behandlet ytterveggen med vannfast maling.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">behandle</t>
+            <xg>
+               <x>Jos matkatavaraasi on käsitelty huonosti, korvaafaan vahingoista aiheutuneet kulut</x>
+               <xt>Hvis bagasjen din er behandlet dårlig erstatter vi utleggene skaden har forårsaket.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">irtautua</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">løsrive seg</t>
          </tg>
       </mg>
    </e>

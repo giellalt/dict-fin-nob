@@ -20,36 +20,20 @@
 <!ELEMENT lg ( l ) >
 
 <!ELEMENT l ( #PCDATA ) >
-<!ATTLIST l comment CDATA #IMPLIED >
-<!ATTLIST l nr ( Pl ) #IMPLIED >
-<!ATTLIST l pos ( A | Abbr | Adv | CC | CS | Clt | Interj |
-                  N | Num | Pcle | Po | Pr | Pron | Qu | V ) #REQUIRED >
-<!ATTLIST l src NMTOKEN #IMPLIED >
-<!ATTLIST l val ( IV | TV ) #IMPLIED >
+<!ATTLIST l pos ( A | Adv | CC | CS | Interj |
+                  N | Num | Pcle | Po | Pr | Pron | V ) #REQUIRED >
 <!ATTLIST l type (Prop) #IMPLIED >
 
 <!ELEMENT mg ( tg ) >
 
 <!ELEMENT tg ( re?, t+, xg* ) >
-<!ATTLIST tg comment CDATA #IMPLIED >
 <!ATTLIST tg xml:lang ( nob ) #IMPLIED >
 
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
-<!ATTLIST re
-    xml:lang ( nob | sme | sma | smn | swe | eng | deu | lat) #IMPLIED
->
-<!ATTLIST re x ( fad ) #IMPLIED >
-<!ATTLIST re comment CDATA #IMPLIED >
 
 <!ELEMENT t ( #PCDATA ) >
-<!ATTLIST t comment CDATA #IMPLIED >
-<!ATTLIST t gen ( f | m | n ) #IMPLIED >
-<!ATTLIST t nr ( Pl ) #IMPLIED >
 <!ATTLIST t pos ( A | Adv | CC | CS | Cp | Det | Interj |
                   N | Num | Po | Pr | Pron | V ) #REQUIRED >
-<!ATTLIST t t_type NMTOKEN #IMPLIED >
-<!ATTLIST t type ( Prop ) #IMPLIED >
-
 
 <!ELEMENT xg ( x, xt ) >
 <!ELEMENT x ( #PCDATA ) >

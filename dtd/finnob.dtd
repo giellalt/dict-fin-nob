@@ -26,10 +26,11 @@
 
 <!ELEMENT mg ( tg ) >
 
-<!ELEMENT tg ( re?, t+, xg* ) >
+<!ELEMENT tg ( re*, t+, xg* ) >
 <!ATTLIST tg xml:lang ( nob ) #IMPLIED >
 
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
+<!ATTLIST re xml:lang ( fin | nob ) #IMPLIED >
 
 <!ELEMENT t ( #PCDATA ) >
 <!ATTLIST t pos ( A | Adv | CC | CS | Cp | Det | Interj |

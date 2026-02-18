@@ -289,17 +289,10 @@ For the full license text, see the link above.</lic>
          <l pos="V">aleta</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+        <tg xml:lang="nob">
+	  <re xml:lang="fin">hinnoista, maksuista</re>
+	  <re xml:lang="nob">om priser og betaling</re>
             <t pos="V">synke</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">falle sammen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">gå ned</t>
             <xg>
                <x>Autovero alenee, alkoholin ja energian verotus kiristyy.</x>
@@ -345,7 +338,7 @@ For the full license text, see the link above.</lic>
             <t pos="V">begynne</t>
             <xg>
                <x>Alan kohta tehdä pizzaa, johon laitan naudan jauhelihaa.</x>
-               <xt>Jeg begynner snart å lage pizza, der eg har oppi kjøttfarse av storfekjøtt.</xt>
+               <xt>Jeg begynner snart å lage pizza, der jeg legger på kjøttfarse av storfekjøtt.</xt>
             </xg>
          </tg>
       </mg>

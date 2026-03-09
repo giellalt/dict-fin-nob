@@ -27,7 +27,7 @@
 <!ELEMENT mg ( tg ) >
 
 <!ELEMENT tg ( re*, t+, xg* ) >
-<!ATTLIST tg xml:lang ( nob ) #IMPLIED >
+<!ATTLIST tg xml:lang ( nob ) #REQUIRED >
 
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
 <!ATTLIST re xml:lang ( fin | nob ) #IMPLIED >

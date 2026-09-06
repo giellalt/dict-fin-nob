@@ -27,14 +27,14 @@
 <!ELEMENT mg ( tg ) >
 
 <!ELEMENT tg ( re*, t+, xg* ) >
-<!ATTLIST tg xml:lang ( nob ) #REQUIRED >
+<!ATTLIST tg xml:lang ( nob ) #IMPLIED >
 
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
 <!ATTLIST re xml:lang ( fin | nob ) #IMPLIED >
 
 <!ELEMENT t ( #PCDATA ) >
 <!ATTLIST t pos ( A | Adv | CC | CS | Cp | Det | Interj |
-                  N | Num | Po | Pr | Pron | V ) #REQUIRED >
+                  N | Num | Po | Pr | Pron | V | Phrase ) #REQUIRED >
 
 <!ELEMENT xg ( x, xt ) >
 <!ELEMENT x ( #PCDATA ) >

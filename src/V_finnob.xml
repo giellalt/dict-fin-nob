@@ -16601,7 +16601,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">ulkoilutta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <re>om hund</re>
             <t pos="V">lufte</t>
             <xg>
@@ -16617,7 +16617,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">ulkoilla</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Phrase">være ute i fri luft</t>
             <t pos="V">mosjonere</t>
             <xg>
@@ -16664,6 +16664,11 @@ For the full license text, see the link above.</lic>
             <t pos="V">vurdere lavt</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">forakte</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -16699,6 +16704,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="V">siittää</l>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">avle</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">befrukte</t>
@@ -16796,7 +16806,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">fordele seg</t>
+            <t pos="Phrase">fordele seg</t>
          </tg>
       </mg>
    </e>
@@ -16806,7 +16816,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">forholde seg til</t>
+            <t pos="Phrase">forholde seg til</t>
          </tg>
       </mg>
    </e>
@@ -17112,6 +17122,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">fordele seg</t>
+            <xg>
+               <x>Se jakaantui hienosti</x>
+               <xt>Det fordete seg fint.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -17342,6 +17356,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">renne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">strømme</t>
          </tg>
       </mg>
    </e>

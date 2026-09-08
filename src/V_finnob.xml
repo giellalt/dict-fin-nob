@@ -666,11 +666,13 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
+            <re>laskennallisesti</re>
             <t pos="V">beregne</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
+            <re>muodollisesti</re>
             <t pos="V">evaluere</t>
          </tg>
       </mg>
@@ -681,11 +683,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <re>muodollista arvo-asteikkoa varten</re>
             <t pos="V">bedømme</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
+            <re>sisælløstæ</re>
             <t pos="V">kritisere</t>
             <xg>
                <x>Hagman puolestaan arvostelee julkisesti Furuhjelmia seuraavin sanoin:</x>
@@ -701,10 +705,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">installere</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">montere</t>
          </tg>
       </mg>
@@ -898,6 +898,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">gifte seg</t>
+            <xg>
+               <x>Lea ja Heikki avioituivat 1973 ja muuttivat asumaan Kaustiselle</x>
+               <xt>Lea og Heikki gifta seg i 1973 og flytta til Kaustinen for å bo der.</xt>
+            </xg>
+            <xg>
+               <x>Keväällä 1926 hän avioitui talon emännän kanssa.</x>
+               <xt>Våren 1926 gifta han seg med husmora på garden.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1089,11 +1097,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">forebygge</t>
+            <xg>
+               <x>Hyvät ruokatavat voivat ehkäistä ihon ikääntymistä.</x>
+               <xt>Gode matvaner kan forebygge hudens aldringsprosess.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">hindre</t>
+            <xg>
+               <x>Hän oli kironnut miehen ja aikoi nyt kostoksi ehkäistä tämän suunnitelmat.</x>
+               <xt>Hun hadde forbanna mannen og akta nå som hevn å hindre dennes planer.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1104,6 +1120,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">rekke</t>
+            <xg>
+               <x>Hän ei ehtinyt bussiin.</x>
+               <xt>Han rakk ikke bussen.</xt>
+            </xg>
+            <xg>
+               <x>Ambulanssi ehti paikalle ajoissa.</x>
+               <xt>Ambulansen rakk på plass i tide.</xt>
+            </xg>
+            <xg>
+               <x>Valmentaja ehti poistua jalkapallokentältä. </x>
+               <xt>Treneren rakk å fjerne seg fra fotballbanen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1114,6 +1142,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">ikke</t>
+            <xg>
+               <x>En tule</x>
+               <xt>Jeg kommer ikke.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1333,7 +1365,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">falle over ende</t>
+            <t pos="Phrase">komme fra hverandre</t>
+            <xg>
+               <x>Lukion jälkeen kaikki erkaantuivat kukin omille teilleen. </x>
+               <xt>Etter videregående </xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1654,6 +1690,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">ødelegge</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -16621,11 +16661,11 @@ For the full license text, see the link above.</lic>
             <t pos="Phrase">være ute i fri luft</t>
             <t pos="V">mosjonere</t>
             <xg>
-               <x>Lapset saavat ulkoilla ja leikkiä isän kanssa pihalla </x>
+               <x>Lapset saavat ulkoilla ja leikkiä isän kanssa pihalla.</x>
                <xt>Barna fikk være ute og leike sammen med far på gården.</xt>
             </xg>
             <xg>
-               <x>Ulkoilen yleensä ainakin muutaman kerran viikossa kunnolla </x>
+               <x>Ulkoilen yleensä ainakin muutaman kerran viikossa kunnolla.</x>
                <xt>Jeg mosjonerer vanligvis skikkelig i alle fall et par ganger i uka.</xt>
             </xg>
          </tg>

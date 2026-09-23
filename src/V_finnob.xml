@@ -244,7 +244,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">drive og kjøre</t>
             <xg>
-               <x>Älä ajele autopilotilla.</x>
+               <x>Älä ajele autopilotillal.</x>
                <xt>Ikke kjør på autopilot.</xt>
             </xg>
          </tg>
@@ -377,6 +377,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">få i gang</t>
+            <xg>
+               <x>Aloitin keskustelun.</x>
+               <xt>Jeg fikk i gang diskusjonen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -387,6 +391,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">forberede</t>
+            <xg>
+               <x>Rva. Koski alusti asiaa kertomalla työryhmän työskentelystä</x>
+               <xt>Fru Koski forberedte saka ved å fortelle om arbeidet i arbeidsgruppa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -420,6 +428,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">skyte</t>
+            <xg>
+               <x>Tehtävänä oli ampua omenaa, joka oli asetettu pojan pään päälle.</x>
+               <xt>Oppgava var å skyte eplet, som var satt på hodet til gutten.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8301,6 +8313,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <re>antaa nimen</re>
             <t pos="V">kalle</t>
          </tg>
       </mg>
@@ -10344,7 +10357,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">bite</t>
+            <t pos="V">̉bite</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>omupersonlige fenomen</re>
+            <t pos="V">påvirke</t>
+            <xg>
+               <x>Lama pureee köyhillä alueilla.</x>
+               <xt>Depresjonen påvirker de fattige områdene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

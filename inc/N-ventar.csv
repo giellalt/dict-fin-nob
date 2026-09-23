@@ -1,1515 +1,1267 @@
-riisto	N	
-riffi	N	
-työväenyhdistys	N	
-turkis	N	
-tinnitus	N	
-tiilitehdas	N	
-teoreema	N	
-televisioyhtiö	N	
-tallenne	N	
-säätäminen	N	
-sunni	N	
-sotilasakatemia	N	
-sosiaaliliberalismi	N	
-siemensyöksy	N	
-siemenneste	N	
-selonteko	N	
-sairaalahoito	N	
-saarnahuonekunta	N	
-räpylä	N	
-ryöstöretki	N	
-riff	N	
-ravintokasvi	N	
-ratapiha	N	
-rantavesi	N	
-rakettimoottori	N	
-radiosoitto	N	
-raati	N	
-pöytäkone	N	
-pääsääntö	N	
-päälliköö	N	
-pää-äänenkannattaja	N	
-päivänvalo	N	
-putoaminen	N	
-punjabi	N	
-prosenttiyksikkö	N	
-presidentinvirka	N	
-ponsi	N	
-pintakerros	N	
-pientaloalue	N	
-pesue	N	
-perhe-elämä	N	
-pelimuoto	N	
-pamfletti	N	
-painajainen	N	
-ottelija	N	
-nuoruusvuosi	N	
-naama	N	
-muumio	N	
-muistokivi	N	
-muistelmateos	N	
-mikrotaloustiede	N	
-messierä	N	
-marttyyri	N	
-mara	N	
-management	N	
-mallas	N	
-maalintekijä	N	
-maailmankatsomus	N	
-länsisatama	N	
-lähiseutu	N	
-luuranko	N	
-luolasto	N	
-louhinta	N	
-lopputuote	N	
-liikekeskus	N	
-lihassolu	N	
-lentokoneteollisuus	N	
-lentokonetehdas	N	
-lento-onnettomuus	N	
-lennosto	N	
-laskin	N	
-laivue	N	
-laivaliikenne	N	
-laitama	N	
-käänteisfunktio	N	
-kytkentä	N	
-kuvankäsittelyohjelma	N	
-kuvatiedosto	N	
-kuusikko	N	
-kuolinvuode	N	
-kulttuuritalo	N	
-kovakuoriainen	N	
-kotitalo	N	
-korkea-aste	N	
-konsentraatio	N	
-kolumni	N	
-kohokohta	N	
-koboltti	N	
-kirkkojärvi	N	
-kirjoituskone	N	
-kilotonni	N	
-kesä-heinäkuu	N	
-kertaluku	N	
-kerrostuma	N	
-kerrannaisyksikkö	N	
-katumus	N	
-kasvatustiede	N	
-karsintakierros	N	
-kaivopuisto	N	
-jääpeite	N	
-julkistaminen	N	
-julkaisutoiminta	N	
-jokisuu	N	
-jatkuminen	N	
-jalkaväenkenraali	N	
-itiö	N	
-istunta	N	
-iskulause	N	
-irrationaaliluku	N	
-ikirouta	N	
-ihailu	N	
-hätänumero	N	
-hybridi	N	
-huutomerkki	N	
-huippunopeus	N	
-huippukokous	N	
-honka	N	
-hippiäinen	N	
-hintataso	N	
-henkilötunnus	N	
-helluntaikirkko	N	
-hautaus	N	
-harjanne	N	
-haittapuoli	N	
-guru	N	
-galaksijoukko	N	
-fenomenologi	N	
-facto	N	
-etruski	N	
-esiintyvyys	N	
-elokuvasarja	N	
-ellipsi	N	
-elintoiminto	N	
-duetto	N	
-diabeetikko	N	
-classic	N	
-asukastiheys	N	
-asianosainen	N	
-asemanseutu	N	
-arvojärjestys	N	
-arkkitehtitoimisto	N	
-alatalo	N	
-ajuri	N	
-aikuisikä	N	
-agnostikko	N	
-äänimaailma	N	
-yuan-dynastia	N	
-yläpinta	N	
-yläperä	N	
-yksinvalta	N	
-western	N	
-väärinkäsitys	N	
-väestölaskenta	N	
-vuosipäivä	N	
-voimistelu	N	
-voimakeino	N	
-viidakko	N	
-vesivoimalaitos	N	
-vesimolekyyli	N	
-vesivoimalaitos	N	
-vertaisverkko	N	
-verottaja	N	
-vastavoima	N	
-vastaanottaminen	N	
-vaskitsa	N	
-varustamo	N	
-varapääministeri	N	
-vanhainkoti	N	
-valtiontalous	N	
-valtionrautatie	N	
-vaikutin	N	
-uusiminen	N	
-utopia	N	
-uskonnonvapauslaki	N	
-ulkosaari	N	
-tuominen	N	
-tunnetila	N	
-tukialue	N	
-tuholainen	N	
-tomismi	N	
-toipuminen	N	
-toimihenkilö	N	
-todenperäisyys	N	
-tislaus	N	
-tieteiselokuva	N	
-tienhaara	N	
-teleskooppi	N	
-tehoste	N	
-teesi	N	
-tavarajuna	N	
-taustasäteily	N	
-taajuusmuuttaja	N	
-särkänniemi	N	
-säestys	N	
-syrjäseutu	N	
-suupohja	N	
-staattori	N	
-spektriviiva	N	
-sotilaskomentaja	N	
-sotahistoria	N	
-sokeriruoko	N	
-skotti	N	
-sivurooli	N	
-sisäelin	N	
-sisus	N	
-sirpale	N	
-sinetti	N	
-sijoituspaikka	N	
-siirtomaakausi	N	
-seikkailija	N	
-saattaminen	N	
-rokotusohjelma	N	
-risteilijä	N	
-rikoksentekijä	N	
-riki	N	
-remonttiryhmä	N	
-realisti	N	
-reaktanssi	N	
-raviurheilu	N	
-ratas	N	
-raskasmetalli	N	
-rantatie	N	
-rakennusvaihe	N	
-raippaluoto	N	
-rahvas	N	
-pörssiyhtiö	N	
-päävalmentaja	N	
-pääteasema	N	
-päärooli	N	
-pääpiirre	N	
-pääkaupunkialue	N	
-päähaara	N	
-pääkaupunkialue	N	
-pyörimisnopeus	N	
-pyörimisliike	N	
-purjehtija	N	
-pulsari	N	
-prikaatikenraali	N	
-pokaali	N	
-pohjois-eteläsuunta	N	
-pituuskasvu	N	
-pienuus	N	
-perustuslakivaliokunta	N	
-perheyritys	N	
-peitenimi	N	
-partio	N	
-pappisvirka	N	
-paperikone	N	
-palkintokoroke	N	
-pakottaminen	N	
-oikeudenala	N	
-nouseminen	N	
-nominatiivi	N	
-niveljalkainen	N	
-nimittäjä	N	
-negatiivi	N	
-nanometri	N	
-muodostus	N	
-muistaminen	N	
-moottorivaunu	N	
-mesoni	N	
-menševikki	N	
-melonta	N	
-matkapuhelinverkko	N	
-maori	N	
-mangaani	N	
-mamelukki	N	
-mahalaukku	N	
-lyömäsoitin	N	
-luovutus	N	
-luonteenpiirre	N	
-luonnonuskonto	N	
-lukusana	N	
-lukujärjestelmä	N	
-logistiikka	N	
-lisäaine	N	
-lipputulo	N	
-liittokokous	N	
-liberaalipuolue	N	
-lakitiede	N	
-lahjakirja	N	
-köyhyysraja	N	
-kvanttitietokone	N	
-kuvanlaatu	N	
-kumpu	N	
-kulmanopeus	N	
-koulukeskus	N	
-koristelu	N	
-kontrasti	N	
-kommentaari	N	
-kohdemaa	N	
-klusiili	N	
-kiikari	N	
-kielitaito	N	
-kermajärvi	N	
-kassiitti	N	
-kartoitus	N	
-kansallisromantiikka	N	
-kaniini	N	
-kaavoitus	N	
-kaataminen	N	
-juristi	N	
-juoru	N	
-jousiammunta	N	
-joukkohauta	N	
-johtamissodankäynti	N	
-jiddiš	N	
-isoveli	N	
-islamisti	N	
-invaasio	N	
-indikaattori	N	
-ilmaisku	N	
-hiirihaukka	N	
-hietalahti	N	
-heittomerkki	N	
-happiatomi	N	
-hana	N	
-haarniska	N	
-gamma	N	
-fundamentalismi	N	
-fransiskaani	N	
-fotosynteesi	N	
-esivaali	N	
-epäjärjestys	N	
-emiiri	N	
-elokuvasarja	N	
-elinolo	N	
-edellisvuosi	N	
-buuri	N	
-astronomia	N	
-asevelvollisuuslaki	N	
-asemasota	N	
-arvostelumenestys	N	
-arvomaailma	N	
-aristotelismi	N	
-aluekeskus	N	
-aluehallintovirasto	N	
-alkukoti	N	
-aktiviteetti	N	
-aikido	N	
-ahneus	N	
-ahdinko	N	
-afrikaans	N	
-šintolaisuus	N	
-äänenkorkeus	N	
-äänennopeus	N	
-yläpää	N	
-yllätyshyökkäys	N	
-ydinvoimalaonnettomuus	N	
-vähemmistöryhmä	N	
-vire	N	
-viitekehys	N	
-viejä	N	
-vasemmistosiipi	N	
-vapaudenristi	N	
-valtionyhtiö	N	
-vaihteisto	N	
-underground	N	
-työmaa	N	
-tuuri	N	
-tuomitseminen	N	
-torppari	N	
-toora	N	
-tietojenkäsittely	N	
-temperamentti	N	
-teini-ikäinen	N	
-tarjoaminen	N	
-talvipalatsi	N	
-talouspakote	N	
-taistelutahto	N	
-syntypaikka	N	
-sunna	N	
-substraatti	N	
-strategiapeli	N	
-sopeutuma	N	
-solki	N	
-sointi	N	
-sini	N	
-siirtonopeus	N	
-seurausetiikka	N	
-seurakuntalainen	N	
-selkämeri	N	
-seisake	N	
-saviastia	N	
-sahti	N	
-saago	N	
-rusakko	N	
-ruoka-aine	N	
-romaanikirjailija	N	
-ripe	N	
-repliikki	N	
-ravinne	N	
-raskaudenkeskeytys	N	
-rannikkokaupunki	N	
-radiaani	N	
-pääsihteeristö	N	
-pyhiinvaellus	N	
-puoluevaltuusto	N	
-pornografia	N	
-porajärvi	N	
-polttopullo	N	
-polonium	N	
-piki	N	
-piispanistuin	N	
-pietismi	N	
-petturi	N	
-perikunta	N	
-periaateohjelma	N	
-penis	N	
-panssaridivisioona	N	
-palveluskäyttö	N	
-palkka-armeija	N	
-pakonopeus	N	
-paikkalintu	N	
-paikallisradio	N	
-osatekijä	N	
-osakepääoma	N	
-opiskelijajärjestö	N	
-ohutsuoli	N	
-nyrkkeilijä	N	
-nuorisotyö	N	
-nostovoima	N	
-nimikappale	N	
-nimellisarvo	N	
-niini	N	
-narri	N	
-myllykoski	N	
-mosaiikki	N	
-mineraalivarat	N	
-mikroydin	N	
-miehitysvyöhyke	N	
-metsähiiri	N	
-merkantilismi	N	
-meritaistelu	N	
-mehiläinen	N	
-megatonni	N	
-massatuotanto	N	
-maski	N	
-markkina-asema	N	
-mainonta	N	
-maapäivät	N	
-maalaaminen	N	
-länsipohja	N	
-loppupuolisko	N	
-loki	N	
-lohikala	N	
-lisuke	N	
-libertaari	N	
-leppälintu	N	
-lehtori	N	
-lehdistönvapaus	N	
-lasitehdas	N	
-laivasto-osasto	N	
-lahdenväylä	N	
-kääpiöplaneetta	N	
-kääntyminen	N	
-kuvaruutu	N	
-kuusitoinen	N	
-kuolemansynti	N	
-kuntauudistus	N	
-kuntakokous	N	
-kotikylä	N	
-koste	N	
-koskettimisto	N	
-korostus	N	
-komi	N	
-koipi	N	
-klaanilainen	N	
-kilpailukyky	N	
-kiima	N	
-keula	N	
-keskushallitus	N	
-keskisuomalainen	N	
-kehitysyhteistyö	N	
-katolilaisuus	N	
-karkottaminen	N	
-kani	N	
-kalliomaalaus	N	
-kalkki	N	
-kadotus	N	
-kaani	N	
-jäämä	N	
-järjestysnumero	N	
-jolla	N	
-isäntäkaupunki	N	
-istumapaikka	N	
-interventio	N	
-improvisaatio	N	
-iltapäivälehti	N	
-ideaoppi	N	
-hyökkäämättömyyssopimus	N	
-huoneenlämpö	N	
-holvi	N	
-hapetusluku	N	
-hapetin	N	
-guineanlahti	N	
-gneissi	N	
-gluoni	N	
-fontti	N	
-fantasiakirjallisuus	N	
-europarlamenttivaali	N	
-europarlamentaarikko	N	
-europarlamenttivaalit	N	
-eunukki	N	
-eukaristia	N	
-etätyö	N	
-etupiiri	N	
-etiketti	N	
-esitelmä	N	
-edikti	N	
-coulombi	N	
-azeri	N	
-astuminen	N	
-arvomerkki	N	
-aristokraatti	N	
-arabiemiraatti	N	
-antaja	N	
-altistuminen	N	
-alje	N	
-aliverkko	N	
-alaryhmä	N	
-šamanismi	N	
-šaahi	N	
-äänikerta	N	
-äänilähde	N	
-yökerho	N	
-yläilmakehä	N	
-yleisurheilija	N	
-yksityisyys	N	
-ydinenergia	N	
-ydinosaaminen	N	
-värväys	N	
-välimaasto	N	
-voimistuminen	N	
-visiiri	N	
-vichy	N	
-vetysidos	N	
-vetyioni	N	
-vesisiippa	N	
-verkkoyhteys	N	
-verenvuoto	N	
-vaste	N	
-vastareaktio	N	
-vastaavuus	N	
-vapaaehtoisuus	N	
-vanne	N	
-valuuttakurssi	N	
-valtapuolue	N	
-urheiluliitto	N	
-urdu	N	
-työttömyysprosentti	N	
-työpöytäympäristö	N	
-tyttökoulu	N	
-tyrmä	N	
-tyrannia	N	
-tupolevä	N	
-tuotantotapa	N	
-tunkeutuminen	N	
-trauma	N	
-torjuntahävittäjä	N	
-toimituskunta	N	
-tiltaltti	N	
-tietorakenne	N	
-tiedostomuoto	N	
-terveysongelma	N	
-teollisuuskeskus	N	
-tehosekoitin	N	
-tautiluokitus	N	
-tappaja	N	
-tantra	N	
-tammisto	N	
-talla	N	
-taivutusmuoto	N	
-taisteluosasto	N	
-taikuri	N	
-säteilyturvakeskus	N	
-säkäkorkeus	N	
-säilymislaki	N	
-sähköveturi	N	
-sähkökirja	N	
-synodi	N	
-synagoga	N	
-sympatia	N	
-sykli	N	
-suojeluspyhimys	N	
-sulamisvesi	N	
-sukuelin	N	
-sota-alus	N	
-skisma	N	
-sisu	N	
-silminnäkijä	N	
-siipiväli	N	
-shop	N	
-senaatintora	N	
-selli	N	
-sekaantuminen	N	
-segmentti	N	
-saves	N	
-sandinisti	N	
-sahateollisuus	N	
-saatananpalvonta	N	
-räme	N	
-ruutana	N	
-ruumiinavaus	N	
-ruissalo	N	
-riippumatto	N	
-rehellisyys	N	
-rankkasade	N	
-rakkaustarina	N	
-rahasäiliö	N	
-päivittäistavarakauppa	N	
-puhelinlinja	N	
-puhelinlaitos	N	
-prostituutio	N	
-postikortti	N	
-ponnistelu	N	
-pommittaja	N	
-polymeeri	N	
-polttopuu	N	
-pohjoissaari	N	
-platonismi	N	
-platinalevy	N	
-pikkukala	N	
-pikkulepakko	N	
-pienoismalli	N	
-perustuslakituomioistuin	N	
-perustamisvuosi	N	
-peltoala	N	
-pelityyli	N	
-pelikenttä	N	
-parisuhde	N	
-pakote	N	
-pahempi	N	
-paavinistuin	N	
-outsider	N	
-osoittaminen	N	
-ortodoksisuus	N	
-organisointi	N	
-orbitaali	N	
-opiskeluvuosi	N	
-opiskelijaliike	N	
-oopperalaulaja	N	
-olkiluoto	N	
-oliiviöljy	N	
-ohjelmointiympäristö	N	
-ohjelmistotuotanto	N	
-oheistuote	N	
-nykyhetki	N	
-neuvostoarmeija	N	
-muuntelu	N	
-muumilaakso	N	
-muokkaus	N	
-muistinhallinta	N	
-monetaristi	N	
-mestaruuskilpailu	N	
-massaluku	N	
-masennuslääke	N	
-marmori	N	
-maki	N	
-magneettivuo	N	
-maailmantalous	N	
-lähtöruutu	N	
-lähitulevaisuus	N	
-luonnonfilosofia	N	
-loka	N	
-lintujärvi	N	
-liikenneruuhka	N	
-lauttayhteys	N	
-lausuminen	N	
-lausahdus	N	
-lauluntekijä	N	
-laskimo	N	
-lapuanliike	N	
-kymenkartano	N	
-kuuleminen	N	
-kuualus	N	
-kutsumanimi	N	
-kustannusyhtiö	N	
-kuninkaantie	N	
-krypton	N	
-kreolikieli	N	
-koskemattomuus	N	
-korona	N	
-konserttisali	N	
-konditionaali	N	
-kohdeasema	N	
-kirkkohistoria	N	
-kirjosieppo	N	
-kirjainyhdistelmä	N	
-kiertäminen	N	
-kiertolainen	N	
-keuhkosyöpä	N	
-keskusta-alue	N	
-keskihajonta	N	
-kerrosala	N	
-keikkailu	N	
-kehitysohjelma	N	
-kauppajärjestö	N	
-katkeruus	N	
-kasino	N	
-kantaluku	N	
-kansanterveys	N	
-kansalaissota	N	
-kangaskäärme	N	
-kanalintu	N	
-kahtiajako	N	
-kaanikunta	N	
-jääkiekkoliitto	N	
-juures	N	
-julkilausuma	N	
-jousisoitin	N	
-itsemurhayritys	N	
-intro	N	
-inka	N	
-ilmatiede	N	
-ilmapuolustus	N	
-ilmailumuseo	N	
-ihmisyhteisö	N	
-ihmistiede	N	
-höyryveturi	N	
-hubi	N	
-hiukkaskiihdytin	N	
-heikentyminen	N	
-heijastus	N	
-hautamuistomerkki	N	
-haja-asutusalue	N	
-haihtuminen	N	
-gravitoni	N	
-gospelmusiikki	N	
-gestappo	N	
-folk	N	
-fissiopommi	N	
-feeniks	N	
-falsifiointi	N	
-europarlamentti	N	
-euronen	N	
-epäluottamuslause	N	
-energialähde	N	
-elämänsanalaisuus	N	
-eksistentialisti	N	
-ekshibitionismi	N	
-eduskuntatalo	N	
-eduskuntapuolue	N	
-dyyni	N	
-diakoni	N	
-crack	N	
-bussiliikenne	N	
-biomassa	N	
-bantu	N	
-baby	N	
-avaruuskeskus	N	
-autoliikenne	N	
-arawak	N	
-amfiteatteri	N	
-alueluovutus	N	
-alapää	N	
-adressi	N	
-äärivasemmisto	N	
-äänestysalue	N	
-zulu	N	
-zarathustralainen	N	
-yöeläin	N	
-yrittäjyys	N	
-ylätaso	N	
-ylijohtaja	N	
-yhdeksänvuotias	N	
-ydinsota	N	
-välikohtaus	N	
-vähemmistökansallisuus	N	
-virhepäätelmä	N	
-viestintäministeriö	N	
-vieraantuminen	N	
-vesikko	N	
-verkkokerros	N	
-veljestö	N	
-velhomaailma	N	
-vastenmielisyys	N	
-varapuhemies	N	
-valssi	N	
-vakiovuoro	N	
-vakiintuminen	N	
-vaivaishiiri	N	
-vaaleanruskea	N	
-uusintaottelu	N	
-umpi	N	
-työntövoima	N	
-tutkijaryhmä	N	
-tuotantokustannus	N	
-tuoksu	N	
-tulkitsija	N	
-tulinopeus	N	
-toksikologia	N	
-tietokoneverkko	N	
-tekstinkäsittelyohjelma	N	
-tasajännite	N	
-tarvitsija	N	
-tapulikaupunki	N	
-tapaluokka	N	
-talviaika	N	
-talouskehitys	N	
-taloluku	N	
-tallennuskapasiteetti	N	
-taivaanvuohi	N	
-taidekoulu	N	
-taajamajuna	N	
-syntymäkoti	N	
-synninpäästö	N	
-swing	N	
-suuruusjärjestys	N	
-suurristi	N	
-suurmoguli	N	
-suorakaide	N	
-suolisto	N	
-suka	N	
-strippi	N	
-sotataito	N	
-solidaarisuus	N	
-seurustelu	N	
-seitsemäntoinen	N	
-satelliittikuva	N	
-sairausloma	N	
-sahatavara	N	
-ryöstely	N	
-rypsiöljy	N	
-ruokintapaikka	N	
-ruokatorvi	N	
-runonlaulaja	N	
-rintamaa	N	
-remontti	N	
-rauhoittaminen	N	
-rauhanturvaoperaatio	N	
-rauduskoivu	N	
-rannikkotasanko	N	
-rako	N	
-rakennustoiminta	N	
-rakastaja	N	
-rajajoki	N	
-radiopuhelin	N	
-pääsykoe	N	
-pääsarjataso	N	
-pääluokka	N	
-pääkirjoitus	N	
-pääkieli	N	
-pääalue	N	
-pähkinäpensas	N	
-pystysuunta	N	
-pyhäkkö	N	
-pyhyys	N	
-purje	N	
-puolustusasema	N	
-punatulkku	N	
-punakhmer	N	
-punavuori	N	
-puhelinyhtiö	N	
-psykiatria	N	
-prioriteetti	N	
-prefekti	N	
-portto	N	
-polkka	N	
-poistuma	N	
-pohjois-eteläsuunta	N	
-piirtokirjoitus	N	
-piirrossarja	N	
-pesimälintu	N	
-perusosa	N	
-peruskäsite	N	
-perussopimus	N	
-pelimaailma	N	
-passiivi	N	
-pankkiiri	N	
-palveluspaikka	N	
-palloseura	N	
-paljastaminen	N	
-paikallisvaali	N	
-pahe	N	
-opintomatka	N	
-omistaminen	N	
-omenapuu	N	
-olympiamitalisti	N	
-oivallus	N	
-nöyryytys	N	
-närhi	N	
-nykysuomi	N	
-nide	N	
-neutri	N	
-nepotismi	N	
-mustarotta	N	
-mustarastas	N	
-miehitysjoukko	N	
-metsälehmus	N	
-meteorologia	N	
-merkkipaalu	N	
-megawatti	N	
-mausoleumi	N	
-matkustajajuna	N	
-maolaisuus	N	
-maajoukkueura	N	
-maailmankirjallisuus	N	
-länsireuna	N	
-lisäjoukko	N	
-lippukunta	N	
-linja-autoyhteys	N	
-liityntäpiste	N	
-liikennemäärä	N	
-liikelaitos	N	
-latvia	N	
-kävijämäärä	N	
-kulttuuripääkaupunki	N	
-kuivuminen	N	
-kotikäyttö	N	
-korvasieni	N	
-korsi	N	
-kontu	N	
-konservatorio	N	
-konkurssipesä	N	
-kollektiivi	N	
-kokelas	N	
-kokardi	N	
-koiraeläin	N	
-kirkkolaki	N	
-kevätmuutto	N	
-keskustelija	N	
-kertominen	N	
-kellojakso	N	
-kebab	N	
-kaupunginoikeus	N	
-kauppakaupunki	N	
-katalyytti	N	
-kasviravinto	N	
-kasvikunta	N	
-kansantaloustiede	N	
-kansanruno	N	
-kansalliseepos	N	
-kalleus	N	
-kaapu	N	
-järvialue	N	
-jälkimaininki	N	
-jälkimaine	N	
-itäpää	N	
-isänmaallisuus	N	
-isoveli	N	
-islanti	N	
-irtautuminen	N	
-inklinaatio	N	
-informaatioteknologia	N	
-individualismi	N	
-improvisointi	N	
-ilmamassa	N	
-ikääntyminen	N	
-ikärakenne	N	
-iiris	N	
-ihmislaji	N	
-hylkeenpyynti	N	
-hirvisaari	N	
-hevosenliha	N	
-hautakivi	N	
-hallitusaika	N	
-hallintokeskus	N	
-halla	N	
-graham	N	
-foneemi	N	
-esperantisti	N	
-esikaupunkialue	N	
-erotuomari	N	
-erityishallintoalue	N	
-enemmistövaali	N	
-eliniänodote	N	
-divisio	N	
-dementia	N	
-brittijoukko	N	
-bikini	N	
-beagle	N	
-avomeri	N	
-avaruustoiminta	N	
-auringonlasku	N	
-ateljee	N	
-asuntoalue	N	
-arvokisa	N	
-areiolainen	N	
-aluevaatimus	N	
-alkupää	N	
-alkalimetalli	N	
-alentaminen	N	
-alamaa	N	
-ajatusmaailma	N	
-aikayksikkö	N	
-aikaraja	N	
-aatelisarvo	N	
-äärettömyys	N	
-äännearvo	N	
-yksityisoikeus	N	
-ydinsulkusopimus	N	
-ydinonnettomuus	N	
-vävy	N	
-vähimmäispalkka	N	
-viulisti	N	
-vesiraja	N	
-vesimäärä	N	
-veroaste	N	
-vasallivaltio	N	
-varapresidenttiehdokas	N	
-valvominen	N	
-valos	N	
-vaihtonäppäin	N	
-vaalilaki	N	
-uudissana	N	
-uskontotiede	N	
-urheilu-ura	N	
-työehto	N	
-tuotantovoima	N	
-tuloste	N	
-triumfi	N	
-toleranssi	N	
-todennäköisyyslaskenta	N	
-tietokonejärjestelmä	N	
-tieverkosto	N	
-testosteroni	N	
-terästeollisuus	N	
-terveyshaitta	N	
-teollisuusministeri	N	
-tekno	N	
-tapaturma	N	
-tapahtumahorisontti	N	
-talonpoikaiskapina	N	
-säännönmukaisuus	N	
-särkkä	N	
-särkisalko	N	
-sähkönjohtavuus	N	
-syönti	N	
-syntymäpaikka	N	
-symbolismi	N	
-sydänmaa	N	
-syanidi	N	
-suurnopeusjuna	N	
-suoni	N	
-sukuhaara	N	
-sukutausta	N	
-standardointi	N	
-spekulaatio	N	
-sotilasvalta	N	
-sotaonni	N	
-sotakoulu	N	
-sosialistipuolue	N	
-solulima	N	
-siviilipalvelusmies	N	
-siunauskappeli	N	
-sijaishallitsija	N	
-sigma-algebra	N	
-seuraajavaltio	N	
-separatisti	N	
-savuke	N	
-sammakkoeläin	N	
-salpalinja	N	
-salkku	N	
-rytikerttunen	N	
-ryssä	N	
-ruuhka-aika	N	
-ruokakauppa	N	
-ruohikko	N	
-ruoanlaitto	N	
-roolisuoritus	N	
-rikostuomioistuin	N	
-resonanssi	N	
-reseptori	N	
-rangaistava	N	
-rakennusaine	N	
-raitti	N	
-railo	N	
-rahapaja	N	
-pääpuolue	N	
-päiväperhonen	N	
-pyörre	N	
-pyörimisakseli	N	
-pyökki	N	
-purotaimen	N	
-puolustuslaitos	N	
-puolustushaara	N	
-puolikuu	N	
-puoliaavikko	N	
-punarinta	N	
-pumppu	N	
-pudotus	N	
-preferenssi	N	
-pontikka	N	
-polttama	N	
-pitkäkirkko	N	
-pistepörssi	N	
-pikkupoika	N	
-pikkueläin	N	
-pikavuoropysäkki	N	
-pesye	N	
-pesimäkanna	N	
-peruskivi	N	
-perisynti	N	
-pembroke	N	
-peliväline	N	
-pelipaikka	N	
-patria	N	
-parantuminen	N	
-parantola	N	
-paniikki	N	
-pakkausmenetelmä	N	
-painovoimakenttä	N	
-paikkansapitävyys	N	
-paalu	N	
-omaksuminen	N	
-olettamus	N	
-oikeellisuus	N	
-näytteleminen	N	
-nojapyörä	N	
-neurologi	N	
-myyntimenestys	N	
-myllypuro	N	
-moninaisuus	N	
-monikerta	N	
-modi	N	
-miljoonasosa	N	
-mietiskely	N	
-metroliikenne	N	
-metrojuna	N	
-meditaatio	N	
-matinkylä	N	
-maniokki	N	
-mallintaminen	N	
-majatalo	N	
-mainoskatkotunnus	N	
-maidos	N	
-mafioso	N	
-maailmanpolitiikka	N	
-maailmankartta	N	
-maailmanliitto	N	
-maa-aines	N	
-länsituuli	N	
-luusto	N	
-luokkataistelu	N	
-lujuus	N	
-lounaisrannikko	N	
-lootus	N	
-lisäpöytäkirja	N	
-liittopresidentti	N	
-latvajärvi	N	
-lastenkirjallisuus	N	
-lajitoveri	N	
-labradorinnoutaja	N	
-käynnistäminen	N	
-kyyhky	N	
-kynäjalava	N	
-kvartsiitti	N	
-kuvittaja	N	
-kuuluvuusalue	N	
-kuolinpäivä	N	
-kuntajako	N	
-kunnossapito	N	
-kuningasperhe	N	
-kuki	N	
-koulurakennus	N	
-koripallomaajoukkue	N	
-konservatiivipuolue	N	
-konjunktiivi	N	
-komennus	N	
-kokoelma-albumi	N	
-koalitiohallitus	N	
-kivikko	N	
-kirkonkirja	N	
-kesäasunto	N	
-keltavahvero	N	
-kastemato	N	
-karhukopla	N	
-kantasana	N	
-kansantarina	N	
-kansallislippu	N	
-kansakoulunopettaja	N	
-kalenterivuosi	N	
-jäänmurtaja	N	
-jääkiekkomaajoukkue	N	
-jäsenyhdistys	N	
-juutalaisvaino	N	
-joukkueenjohtaja	N	
-jazzmuusikko	N	
-imaami	N	
-ilmanvastus	N	
-ilmaherruus	N	
-huvi	N	
-hoidettu	N	
-hippodromi	N	
-hikirauhanen	N	
-hieskoivu	N	
-henkilökuva	N	
-harmaakivikirkko	N	
-hankoniemi	N	
-gradu	N	
-gorilla	N	
-giljotiini	N	
-fraktaali	N	
-fetissi	N	
-euromaa	N	
-erottava	N	
-epätasa-arvo	N	
-energiatila	N	
-elokuvatuotanto	N	
-dublinilainen	N	
-demoskene	N	
-demoni	N	
-bordercollie	N	
-boksarikapina	N	
-binäärijärjestelmä	N	
-avaruusohjelma	N	
-autourheilu	N	
-autotehdas	N	
-aseteollisuus	N	
-apukeisari	N	
-antroposofia	N	
-anti	N	
-analyytikko	N	
-ammattioppilaitos	N	
-alkupäivä	N	
-alkaloidi	N	
-akti	N	
-aksentti	N	
-aivohalvaus	N	
-ainemäärä	N	
-aggressiivisuus	N	
-ääniaalto	N	
-äänisaalis	N	
-yöelämä	N	
-ystäväpiiri	N	
-yksityiskoulu	N	
-ykkössija	N	
-väitelause	N	
-vuosituhattavoite	N	
-vuorineuvos	N	
-voimasuhde	N	
-virkistysalue	N	
-villieläin	N	
-viiksi	N	
-verkkosivusto	N	
-verkkosarjakuva	N	
-vegaani	N	
-varastaminen	N	
-vapautusrintama	N	
-vapaudenpatsas	N	
-vapaaherra	N	
-vapaaseurakunta	N	
-vanhoillisuus	N	
-vanheneminen	N	
-vaneri	N	
-vanadiini	N	
-valtatyhjiö	N	
-valmistusmenetelmä	N	
-urheilumuoto	N	
-urheilukanava	N	
-ulkosuhde	N	
-täyttyminen	N	
-tähtitaivas	N	
-työura	N	
-työntäjä	N	
-työnimi	N	
-tyyppimerkintä	N	
-tusina	N	
-turvallisuusjoukko	N	
-turkmeeni	N	
-turkiseläin	N	
-turjanlinna	N	
-tulosuunta	N	
-tulenkantaja	N	
-triumviri	N	
-toimenkuva	N	
-tilastoalue	N	
-tikari	N	
-tiedonsiirtonopeus	N	
-teelaatu	N	
-taudinaiheuttaja	N	
-tartuntatauti	N	
-tarkoitusperä	N	
-tapahtumasarja	N	
-tammi-helmikuu	N	
-talouslama	N	
-säätösauva	N	
-säätyvaltiopäivät	N	
-syntymävuosi	N	
-syntyhistoria	N	
-suurkaupunkialue	N	
-suurpitäjä	N	
-suurkaupunkialue	N	
-sumeri	N	
-sukulaiskieli	N	
-sukeltaja	N	
-subjunktiivi	N	
-stratosfääri	N	
-stadi	N	
-sponsorointi	N	
-sovintokokous	N	
-sopimusoikeus	N	
-soluseinä	N	
-soluelin	N	
-soidinääni	N	
-skaala	N	
-sitkeys	N	
-siirtymävaihe	N	
-siirtotyöläinen	N	
-sessio	N	
-sepelvaltimotauti	N	
-sarvikuono	N	
-sakkaus	N	
-sairaanhoitopiiri	N	
-rytmihäiriö	N	
-ruutukaava	N	
-rupilisko	N	
-ruokasuola	N	
-ruokailu	N	
-runkoverkko	N	
-rotuluokittelu	N	
-ristiretkivaltio	N	
-risteymä	N	
-rippi	N	
-reduktio	N	
-rautaesirippu	N	
-rannikkokaistale	N	
-pääateria	N	
-päätarkoitus	N	
-pääperiaate	N	
-pääarmeija	N	
-pyörähdysaika	N	
-pysähdys	N	
-puolustusliitto	N	
-psykoterapia	N	
-preeria	N	
-potti	N	
-pointti	N	
-pilapiirros	N	
-pikkuviha	N	
-peruskorjaus	N	
-perimyssota	N	
-passio	N	
-pasifisti	N	
-pasaatituuli	N	
-partisiippi	N	
-parafilia	N	
-pankkikriisi	N	
-palvi	N	
-palveluntarjoaja	N	
-palvelunestohyökkäys	N	
-palaaminen	N	
-painaminen	N	
-paikannimistö	N	
-ottawa	N	
-oppi-isä	N	
-opetuskieli	N	
-onnettomuuspaikka	N	
-omaha	N	
-oksentelu	N	
-oikeusfilosofia	N	
-ohjaustyö	N	
-nitroglyseroli	N	
-nimialalaji	N	
-niinisalo	N	
-nihilismi	N	
-newyorkilainen	N	
-newton	N	
-neuvostoaika	N	
-neuroni	N	
-nelivuotias	N	
-naurulokki	N	
-natriumkloridi	N	
-naapuriprovinssi	N	
-myllykylä	N	
-muutostyö	N	
-mustangi	N	
-musiikkitapahtuma	N	
-musiikkielämä	N	
-muodonvaihdos	N	
-muistialue	N	
-morfologia	N	
-mittalaite	N	
-miljonääri	N	
-mietintö	N	
-miesliike	N	
-metsäpäästäinen	N	
-metrorata	N	
-mestaruussarja	N	
-merilintu	N	
-megapikseli	N	
-matruusi	N	
-marseljeesi	N	
-mainoskampanja	N	
-maayhteys	N	
-maataloustuotanto	N	
-maailmankauppa	N	
-löyly	N	
-lähiaika	N	
-lyhennelmä	N	
-luuttu	N	
-luotti	N	
-luotta	N	
-luonnehdinta	N	
-lukuvuosi	N	
-lopputila	N	
-lisätulo	N	
-liikennemuoto	N	
-libretto	N	
-libertaristi	N	
-laulutyyli	N	
-lapsuudenystävä	N	
-lakialoite	N	
-laiteajuri	N	
-lainsäädäntöelin	N	
-lainalaisuus	N	
-käsikranaatti	N	
-käsiase	N	
-kyselytutkimus	N	
-kymri	N	
-kuvaputkinäyttö	N	
-kuvaputki	N	
-kuvapiste	N	
-kuuria	N	
-kuppa	N	
-kuntaliitosselvitys	N	
-kulkija	N	
-kulissi	N	
-kristalli	N	
-kosmologi	N	
-koomikko	N	
-konehuone	N	
-kolumnisti	N	
-kolera	N	
-koelaulu	N	
-kiviniemi	N	
-kirkkosali	N	
-kihla	N	
-kielentutkija	N	
-kidnappaus	N	
-keveys	N	
-kesäkuukausi	N	
-keskusteluryhmä	N	
-keskusyhdistys	N	
-keskilänsi	N	
-kaupunkiliikenne	N	
-kaupunkirakenne	N	
-kauppaoikeus	N	
-katko	N	
-kasvillisuusvyöhyke	N	
-kapitalisti	N	
-kansantulo	N	
-kansaneläkelaitos	N	
-kannatusalue	N	
-kangasmetsä	N	
-kahdeksanvuotias	N	
-kaarna	N	
-jäsenmaksu	N	
-joukkuekilpailu	N	
-jalkine	N	
-itäkarjalainen	N	
-immuniteetti	N	
-ilmaisjakelulehti	N	
-illallinen	N	
-ihmisoikeustuomioistuin	N	
-ihmisjoukko	N	
-idealisti	N	
-hävitys	N	
-hälytys	N	
-hyperteksti	N	
-hymiö	N	
-huippuyksikkö	N	
-hopi	N	
-hiilidioksidipitoisuus	N	
-hieta	N	
-hevosrotu	N	
-henkimaailma	N	
-hartsirauhanen	N	
-halukkuus	N	
-hallitusvalta	N	
-europarlamenttivaalea	N	
-etumatka	N	
-eläinpuisto	N	
-elo-syyskuu	N	
-direktiivi	N	
-deklinaatio	N	
-capital	N	
-buurisota	N	
-burgundi	N	
-belizen	N	
-bataatti	N	
-barreli	N	
-avaruusolento	N	
-autoteollisuus	N	
-aurinkoenergia	N	
-audio	N	
-astronomi	N	
-asejärjestelmä	N	
-arkiajattelu	N	
-apuri	N	
-apujoukko	N	
-apteekkari	N	
-aluetoimisto	N	
-alttius	N	
-alpha	N	
-alkuhärkä	N	
-alkukausi	N	
-alankoalue	N	
-akvaario	N	
-ajatusviiva	N	
-aivotoiminta	N	
-afrikaaneri	N	
-adjutantti	N	
-ääriliike	N	
-ystäväkirje	N	
-ystävyyskunta	N	
-ympärysmitta	N	
-ympäriajo	N	
-yläreuna	N	
-väärentäminen	N	
-vääntömomentti	N	
-värimuoto	N	
-väestönkehitys	N	
-vuokati	N	
+sunni	sunni+?	inf
+saarnahuonekunta	saarnahuonekunta+?	inf
+räpylä	räpylä+?	inf
+rantavesi	rantavesi+?	inf
+radiosoitto	radiosoitto+?	inf
+pää-äänenkannattaja	pää-äänenkannattaja+?	inf
+punjabi	punjabi+?	inf
+ponsi	ponsi+?	inf
+pientaloalue	pientaloalue+?	inf
+messierä	messierä+?	inf
+mara	mara+?	inf
+management	management+?	inf
+länsisatama	länsisatama+?	inf
+lennosto	lennosto+?	inf
+kirkkojärvi	kirkkojärvi+?	inf
+kertaluku	kertaluku+?	inf
+kerrannaisyksikkö	kerrannaisyksikkö+?	inf
+kaivopuisto	kaivopuisto+?	inf
+istunta	istunta+?	inf
+honka	honka+?	inf
+alatalo	alatalo+?	inf
+yuan-dynastia	yuan-dynastia+?	inf
+yläperä	yläperä+?	inf
+western	western+?	inf
+vertaisverkko	vertaisverkko+?	inf
+vaskitsa	vaskitsa+?	inf
+ulkosaari	ulkosaari+?	inf
+tuominen	tuominen+?	inf
+tomismi	tomismi+?	inf
+särkänniemi	särkänniemi+?	inf
+suupohja	suupohja+?	inf
+sijoituspaikka	sijoituspaikka+?	inf
+saattaminen	saattaminen+?	inf
+riki	riki+?	inf
+reaktanssi	reaktanssi+?	inf
+raippaluoto	raippaluoto+?	inf
+pienuus	pienuus+?	inf
+perustuslakivaliokunta	perustuslakivaliokunta+?	inf
+peitenimi	peitenimi+?	inf
+partio	partio+?	inf
+pappisvirka	pappisvirka+?	inf
+paperikone	paperikone+?	inf
+palkintokoroke	palkintokoroke+?	inf
+pakottaminen	pakottaminen+?	inf
+oikeudenala	oikeudenala+?	inf
+nouseminen	nouseminen+?	inf
+nominatiivi	nominatiivi+?	inf
+niveljalkainen	niveljalkainen+?	inf
+nimittäjä	nimittäjä+?	inf
+negatiivi	negatiivi+?	inf
+nanometri	nanometri+?	inf
+muistaminen	muistaminen+?	inf
+moottorivaunu	moottorivaunu+?	inf
+mesoni	mesoni+?	inf
+menševikki	menševikki+?	inf
+melonta	melonta+?	inf
+matkapuhelinverkko	matkapuhelinverkko+?	inf
+maori	maori+?	inf
+mangaani	mangaani+?	inf
+mamelukki	mamelukki+?	inf
+mahalaukku	mahalaukku+?	inf
+lyömäsoitin	lyömäsoitin+?	inf
+luovutus	luovutus+?	inf
+luonteenpiirre	luonteenpiirre+?	inf
+luonnonuskonto	luonnonuskonto+?	inf
+lukujärjestelmä	lukujärjestelmä+?	inf
+logistiikka	logistiikka+?	inf
+lipputulo	lipputulo+?	inf
+liittokokous	liittokokous+?	inf
+liberaalipuolue	liberaalipuolue+?	inf
+lakitiede	lakitiede+?	inf
+lahjakirja	lahjakirja+?	inf
+köyhyysraja	köyhyysraja+?	inf
+kvanttitietokone	kvanttitietokone+?	inf
+kuvanlaatu	kuvanlaatu+?	inf
+kumpu	kumpu+?	inf
+kulmanopeus	kulmanopeus+?	inf
+koulukeskus	koulukeskus+?	inf
+koristelu	koristelu+?	inf
+kontrasti	kontrasti+?	inf
+kommentaari	kommentaari+?	inf
+kohdemaa	kohdemaa+?	inf
+klusiili	klusiili+?	inf
+kielitaito	kielitaito+?	inf
+kermajärvi	kermajärvi+?	inf
+kassiitti	kassiitti+?	inf
+kartoitus	kartoitus+?	inf
+kansallisromantiikka	kansallisromantiikka+?	inf
+kaniini	kaniini+?	inf
+kaavoitus	kaavoitus+?	inf
+kaataminen	kaataminen+?	inf
+juristi	juristi+?	inf
+juoru	juoru+?	inf
+jousiammunta	jousiammunta+?	inf
+joukkohauta	joukkohauta+?	inf
+johtamissodankäynti	johtamissodankäynti+?	inf
+jiddiš	jiddiš+?	inf
+islamisti	islamisti+?	inf
+invaasio	invaasio+?	inf
+indikaattori	indikaattori+?	inf
+ilmaisku	ilmaisku+?	inf
+hiirihaukka	hiirihaukka+?	inf
+hietalahti	hietalahti+?	inf
+heittomerkki	heittomerkki+?	inf
+happiatomi	happiatomi+?	inf
+hana	hana+?	inf
+haarniska	haarniska+?	inf
+gamma	gamma+?	inf
+fundamentalismi	fundamentalismi+?	inf
+fransiskaani	fransiskaani+?	inf
+fotosynteesi	fotosynteesi+?	inf
+esivaali	esivaali+?	inf
+epäjärjestys	epäjärjestys+?	inf
+emiiri	emiiri+?	inf
+elinolo	elinolo+?	inf
+edellisvuosi	edellisvuosi+?	inf
+buuri	buuri+?	inf
+astronomia	astronomia+?	inf
+asevelvollisuuslaki	asevelvollisuuslaki+?	inf
+asemasota	asemasota+?	inf
+arvostelumenestys	arvostelumenestys+?	inf
+arvomaailma	arvomaailma+?	inf
+aristotelismi	aristotelismi+?	inf
+aluekeskus	aluekeskus+?	inf
+aluehallintovirasto	aluehallintovirasto+?	inf
+alkukoti	alkukoti+?	inf
+aktiviteetti	aktiviteetti+?	inf
+aikido	aikido+?	inf
+ahneus	ahneus+?	inf
+ahdinko	ahdinko+?	inf
+afrikaans	afrikaans+?	inf
+šintolaisuus	šintolaisuus+?	inf
+äänenkorkeus	äänenkorkeus+?	inf
+äänennopeus	äänennopeus+?	inf
+yläpää	yläpää+?	inf
+yllätyshyökkäys	yllätyshyökkäys+?	inf
+ydinvoimalaonnettomuus	ydinvoimalaonnettomuus+?	inf
+vähemmistöryhmä	vähemmistöryhmä+?	inf
+vire	vire+?	inf
+viitekehys	viitekehys+?	inf
+viejä	viejä+?	inf
+vasemmistosiipi	vasemmistosiipi+?	inf
+vapaudenristi	vapaudenristi+?	inf
+valtionyhtiö	valtionyhtiö+?	inf
+vaihteisto	vaihteisto+?	inf
+underground	underground+?	inf
+työmaa	työmaa+?	inf
+tuomitseminen	tuomitseminen+?	inf
+torppari	torppari+?	inf
+toora	toora+?	inf
+tietojenkäsittely	tietojenkäsittely+?	inf
+temperamentti	temperamentti+?	inf
+teini-ikäinen	teini-ikäinen+?	inf
+tarjoaminen	tarjoaminen+?	inf
+talvipalatsi	talvipalatsi+?	inf
+talouspakote	talouspakote+?	inf
+taistelutahto	taistelutahto+?	inf
+syntypaikka	syntypaikka+?	inf
+sunna	sunna+?	inf
+substraatti	substraatti+?	inf
+strategiapeli	strategiapeli+?	inf
+sopeutuma	sopeutuma+?	inf
+siirtonopeus	siirtonopeus+?	inf
+seurausetiikka	seurausetiikka+?	inf
+seurakuntalainen	seurakuntalainen+?	inf
+selkämeri	selkämeri+?	inf
+seisake	seisake+?	inf
+saviastia	saviastia+?	inf
+sahti	sahti+?	inf
+saago	saago+?	inf
+ruoka-aine	ruoka-aine+?	inf
+romaanikirjailija	romaanikirjailija+?	inf
+ripe	ripe+?	inf
+repliikki	repliikki+?	inf
+ravinne	ravinne+?	inf
+raskaudenkeskeytys	raskaudenkeskeytys+?	inf
+rannikkokaupunki	rannikkokaupunki+?	inf
+radiaani	radiaani+?	inf
+pääsihteeristö	pääsihteeristö+?	inf
+pyhiinvaellus	pyhiinvaellus+?	inf
+puoluevaltuusto	puoluevaltuusto+?	inf
+pornografia	pornografia+?	inf
+porajärvi	porajärvi+?	inf
+polttopullo	polttopullo+?	inf
+polonium	polonium+?	inf
+piki	piki+?	inf
+piispanistuin	piispanistuin+?	inf
+pietismi	pietismi+?	inf
+petturi	petturi+?	inf
+perikunta	perikunta+?	inf
+periaateohjelma	periaateohjelma+?	inf
+penis	penis+?	inf
+panssaridivisioona	panssaridivisioona+?	inf
+palveluskäyttö	palveluskäyttö+?	inf
+palkka-armeija	palkka-armeija+?	inf
+pakonopeus	pakonopeus+?	inf
+paikkalintu	paikkalintu+?	inf
+paikallisradio	paikallisradio+?	inf
+osatekijä	osatekijä+?	inf
+osakepääoma	osakepääoma+?	inf
+opiskelijajärjestö	opiskelijajärjestö+?	inf
+ohutsuoli	ohutsuoli+?	inf
+nyrkkeilijä	nyrkkeilijä+?	inf
+nuorisotyö	nuorisotyö+?	inf
+nostovoima	nostovoima+?	inf
+nimikappale	nimikappale+?	inf
+nimellisarvo	nimellisarvo+?	inf
+niini	niini+?	inf
+narri	narri+?	inf
+myllykoski	myllykoski+?	inf
+mosaiikki	mosaiikki+?	inf
+mineraalivarat	mineraalivarat+?	inf
+mikroydin	mikroydin+?	inf
+miehitysvyöhyke	miehitysvyöhyke+?	inf
+metsähiiri	metsähiiri+?	inf
+merkantilismi	merkantilismi+?	inf
+mehiläinen	mehiläinen+?	inf
+megatonni	megatonni+?	inf
+massatuotanto	massatuotanto+?	inf
+maski	maski+?	inf
+markkina-asema	markkina-asema+?	inf
+mainonta	mainonta+?	inf
+maapäivät	maapäivät+?	inf
+maalaaminen	maalaaminen+?	inf
+länsipohja	länsipohja+?	inf
+loppupuolisko	loppupuolisko+?	inf
+loki	loki+?	inf
+lohikala	lohikala+?	inf
+lisuke	lisuke+?	inf
+libertaari	libertaari+?	inf
+leppälintu	leppälintu+?	inf
+lehdistönvapaus	lehdistönvapaus+?	inf
+lasitehdas	lasitehdas+?	inf
+laivasto-osasto	laivasto-osasto+?	inf
+lahdenväylä	lahdenväylä+?	inf
+kääpiöplaneetta	kääpiöplaneetta+?	inf
+kääntyminen	kääntyminen+?	inf
+kuvaruutu	kuvaruutu+?	inf
+kuusitoinen	kuusitoinen+?	inf
+kuolemansynti	kuolemansynti+?	inf
+kuntauudistus	kuntauudistus+?	inf
+kuntakokous	kuntakokous+?	inf
+kotikylä	kotikylä+?	inf
+koste	koste+?	inf
+koskettimisto	koskettimisto+?	inf
+korostus	korostus+?	inf
+komi	komi+?	inf
+koipi	koipi+?	inf
+klaanilainen	klaanilainen+?	inf
+kilpailukyky	kilpailukyky+?	inf
+kiima	kiima+?	inf
+keula	keula+?	inf
+keskushallitus	keskushallitus+?	inf
+keskisuomalainen	keskisuomalainen+?	inf
+kehitysyhteistyö	kehitysyhteistyö+?	inf
+katolilaisuus	katolilaisuus+?	inf
+karkottaminen	karkottaminen+?	inf
+kalliomaalaus	kalliomaalaus+?	inf
+kalkki	kalkki+?	inf
+kadotus	kadotus+?	inf
+kaani	kaani+?	inf
+jäämä	jäämä+?	inf
+järjestysnumero	järjestysnumero+?	inf
+jolla	jolla+?	inf
+isäntäkaupunki	isäntäkaupunki+?	inf
+istumapaikka	istumapaikka+?	inf
+interventio	interventio+?	inf
+improvisaatio	improvisaatio+?	inf
+iltapäivälehti	iltapäivälehti+?	inf
+ideaoppi	ideaoppi+?	inf
+hyökkäämättömyyssopimus	hyökkäämättömyyssopimus+?	inf
+huoneenlämpö	huoneenlämpö+?	inf
+holvi	holvi+?	inf
+hapetusluku	hapetusluku+?	inf
+hapetin	hapetin+?	inf
+guineanlahti	guineanlahti+?	inf
+gneissi	gneissi+?	inf
+gluoni	gluoni+?	inf
+fontti	fontti+?	inf
+fantasiakirjallisuus	fantasiakirjallisuus+?	inf
+europarlamenttivaali	europarlamenttivaali+?	inf
+europarlamentaarikko	europarlamentaarikko+?	inf
+europarlamenttivaalit	europarlamenttivaalit+?	inf
+eunukki	eunukki+?	inf
+eukaristia	eukaristia+?	inf
+etätyö	etätyö+?	inf
+etupiiri	etupiiri+?	inf
+etiketti	etiketti+?	inf
+esitelmä	esitelmä+?	inf
+edikti	edikti+?	inf
+coulombi	coulombi+?	inf
+azeri	azeri+?	inf
+astuminen	astuminen+?	inf
+arvomerkki	arvomerkki+?	inf
+aristokraatti	aristokraatti+?	inf
+arabiemiraatti	arabiemiraatti+?	inf
+antaja	antaja+?	inf
+altistuminen	altistuminen+?	inf
+alje	alje+?	inf
+aliverkko	aliverkko+?	inf
+alaryhmä	alaryhmä+?	inf
+šamanismi	šamanismi+?	inf
+šaahi	šaahi+?	inf
+äänikerta	äänikerta+?	inf
+äänilähde	äänilähde+?	inf
+yökerho	yökerho+?	inf
+yläilmakehä	yläilmakehä+?	inf
+yleisurheilija	yleisurheilija+?	inf
+yksityisyys	yksityisyys+?	inf
+ydinenergia	ydinenergia+?	inf
+ydinosaaminen	ydinosaaminen+?	inf
+värväys	värväys+?	inf
+välimaasto	välimaasto+?	inf
+voimistuminen	voimistuminen+?	inf
+visiiri	visiiri+?	inf
+vichy	vichy+?	inf
+vetysidos	vetysidos+?	inf
+vetyioni	vetyioni+?	inf
+vesisiippa	vesisiippa+?	inf
+verkkoyhteys	verkkoyhteys+?	inf
+verenvuoto	verenvuoto+?	inf
+vaste	vaste+?	inf
+vastareaktio	vastareaktio+?	inf
+vastaavuus	vastaavuus+?	inf
+vapaaehtoisuus	vapaaehtoisuus+?	inf
+vanne	vanne+?	inf
+valuuttakurssi	valuuttakurssi+?	inf
+valtapuolue	valtapuolue+?	inf
+urheiluliitto	urheiluliitto+?	inf
+urdu	urdu+?	inf
+työttömyysprosentti	työttömyysprosentti+?	inf
+työpöytäympäristö	työpöytäympäristö+?	inf
+tyttökoulu	tyttökoulu+?	inf
+tyrmä	tyrmä+?	inf
+tyrannia	tyrannia+?	inf
+tupolevä	tupolevä+?	inf
+tuotantotapa	tuotantotapa+?	inf
+tunkeutuminen	tunkeutuminen+?	inf
+trauma	trauma+?	inf
+torjuntahävittäjä	torjuntahävittäjä+?	inf
+tiltaltti	tiltaltti+?	inf
+tietorakenne	tietorakenne+?	inf
+tiedostomuoto	tiedostomuoto+?	inf
+terveysongelma	terveysongelma+?	inf
+teollisuuskeskus	teollisuuskeskus+?	inf
+tautiluokitus	tautiluokitus+?	inf
+tappaja	tappaja+?	inf
+tantra	tantra+?	inf
+tammisto	tammisto+?	inf
+talla	talla+?	inf
+taivutusmuoto	taivutusmuoto+?	inf
+taisteluosasto	taisteluosasto+?	inf
+taikuri	taikuri+?	inf
+säteilyturvakeskus	säteilyturvakeskus+?	inf
+säkäkorkeus	säkäkorkeus+?	inf
+säilymislaki	säilymislaki+?	inf
+sähköveturi	sähköveturi+?	inf
+sähkökirja	sähkökirja+?	inf
+synodi	synodi+?	inf
+synagoga	synagoga+?	inf
+sympatia	sympatia+?	inf
+sykli	sykli+?	inf
+suojeluspyhimys	suojeluspyhimys+?	inf
+sulamisvesi	sulamisvesi+?	inf
+sukuelin	sukuelin+?	inf
+sota-alus	sota-alus+?	inf
+skisma	skisma+?	inf
+sisu	sisu+?	inf
+silminnäkijä	silminnäkijä+?	inf
+siipiväli	siipiväli+?	inf
+shop	shop+?	inf
+senaatintora	senaatintora+?	inf
+selli	selli+?	inf
+sekaantuminen	sekaantuminen+?	inf
+segmentti	segmentti+?	inf
+saves	saves+?	inf
+sandinisti	sandinisti+?	inf
+sahateollisuus	sahateollisuus+?	inf
+saatananpalvonta	saatananpalvonta+?	inf
+räme	räme+?	inf
+ruutana	ruutana+?	inf
+ruumiinavaus	ruumiinavaus+?	inf
+ruissalo	ruissalo+?	inf
+riippumatto	riippumatto+?	inf
+rehellisyys	rehellisyys+?	inf
+rankkasade	rankkasade+?	inf
+rakkaustarina	rakkaustarina+?	inf
+rahasäiliö	rahasäiliö+?	inf
+päivittäistavarakauppa	päivittäistavarakauppa+?	inf
+puhelinlinja	puhelinlinja+?	inf
+puhelinlaitos	puhelinlaitos+?	inf
+prostituutio	prostituutio+?	inf
+postikortti	postikortti+?	inf
+ponnistelu	ponnistelu+?	inf
+pommittaja	pommittaja+?	inf
+polymeeri	polymeeri+?	inf
+polttopuu	polttopuu+?	inf
+pohjoissaari	pohjoissaari+?	inf
+platonismi	platonismi+?	inf
+platinalevy	platinalevy+?	inf
+pikkukala	pikkukala+?	inf
+pikkulepakko	pikkulepakko+?	inf
+pienoismalli	pienoismalli+?	inf
+perustuslakituomioistuin	perustuslakituomioistuin+?	inf
+perustamisvuosi	perustamisvuosi+?	inf
+peltoala	peltoala+?	inf
+pelityyli	pelityyli+?	inf
+pelikenttä	pelikenttä+?	inf
+parisuhde	parisuhde+?	inf
+pakote	pakote+?	inf
+pahempi	pahempi+?	inf
+paavinistuin	paavinistuin+?	inf
+outsider	outsider+?	inf
+osoittaminen	osoittaminen+?	inf
+ortodoksisuus	ortodoksisuus+?	inf
+organisointi	organisointi+?	inf
+orbitaali	orbitaali+?	inf
+opiskeluvuosi	opiskeluvuosi+?	inf
+opiskelijaliike	opiskelijaliike+?	inf
+oopperalaulaja	oopperalaulaja+?	inf
+olkiluoto	olkiluoto+?	inf
+oliiviöljy	oliiviöljy+?	inf
+ohjelmointiympäristö	ohjelmointiympäristö+?	inf
+ohjelmistotuotanto	ohjelmistotuotanto+?	inf
+oheistuote	oheistuote+?	inf
+nykyhetki	nykyhetki+?	inf
+neuvostoarmeija	neuvostoarmeija+?	inf
+muuntelu	muuntelu+?	inf
+muumilaakso	muumilaakso+?	inf
+muokkaus	muokkaus+?	inf
+muistinhallinta	muistinhallinta+?	inf
+monetaristi	monetaristi+?	inf
+mestaruuskilpailu	mestaruuskilpailu+?	inf
+massaluku	massaluku+?	inf
+masennuslääke	masennuslääke+?	inf
+marmori	marmori+?	inf
+maki	maki+?	inf
+magneettivuo	magneettivuo+?	inf
+maailmantalous	maailmantalous+?	inf
+lähtöruutu	lähtöruutu+?	inf
+lähitulevaisuus	lähitulevaisuus+?	inf
+luonnonfilosofia	luonnonfilosofia+?	inf
+loka	loka+?	inf
+lintujärvi	lintujärvi+?	inf
+liikenneruuhka	liikenneruuhka+?	inf
+lauttayhteys	lauttayhteys+?	inf
+lausuminen	lausuminen+?	inf
+lausahdus	lausahdus+?	inf
+lauluntekijä	lauluntekijä+?	inf
+laskimo	laskimo+?	inf
+lapuanliike	lapuanliike+?	inf
+kymenkartano	kymenkartano+?	inf
+kuuleminen	kuuleminen+?	inf
+kuualus	kuualus+?	inf
+kutsumanimi	kutsumanimi+?	inf
+kustannusyhtiö	kustannusyhtiö+?	inf
+kuninkaantie	kuninkaantie+?	inf
+krypton	krypton+?	inf
+kreolikieli	kreolikieli+?	inf
+koskemattomuus	koskemattomuus+?	inf
+korona	korona+?	inf
+konserttisali	konserttisali+?	inf
+konditionaali	konditionaali+?	inf
+kohdeasema	kohdeasema+?	inf
+kirkkohistoria	kirkkohistoria+?	inf
+kirjosieppo	kirjosieppo+?	inf
+kirjainyhdistelmä	kirjainyhdistelmä+?	inf
+kiertäminen	kiertäminen+?	inf
+kiertolainen	kiertolainen+?	inf
+keuhkosyöpä	keuhkosyöpä+?	inf
+keskusta-alue	keskusta-alue+?	inf
+keskihajonta	keskihajonta+?	inf
+kerrosala	kerrosala+?	inf
+keikkailu	keikkailu+?	inf
+kehitysohjelma	kehitysohjelma+?	inf
+kauppajärjestö	kauppajärjestö+?	inf
+katkeruus	katkeruus+?	inf
+kasino	kasino+?	inf
+kantaluku	kantaluku+?	inf
+kansanterveys	kansanterveys+?	inf
+kansalaissota	kansalaissota+?	inf
+kangaskäärme	kangaskäärme+?	inf
+kanalintu	kanalintu+?	inf
+kahtiajako	kahtiajako+?	inf
+kaanikunta	kaanikunta+?	inf
+jääkiekkoliitto	jääkiekkoliitto+?	inf
+juures	juures+?	inf
+julkilausuma	julkilausuma+?	inf
+jousisoitin	jousisoitin+?	inf
+itsemurhayritys	itsemurhayritys+?	inf
+intro	intro+?	inf
+inka	inka+?	inf
+ilmatiede	ilmatiede+?	inf
+ilmapuolustus	ilmapuolustus+?	inf
+ilmailumuseo	ilmailumuseo+?	inf
+ihmisyhteisö	ihmisyhteisö+?	inf
+ihmistiede	ihmistiede+?	inf
+höyryveturi	höyryveturi+?	inf
+hubi	hubi+?	inf
+hiukkaskiihdytin	hiukkaskiihdytin+?	inf
+heikentyminen	heikentyminen+?	inf
+heijastus	heijastus+?	inf
+hautamuistomerkki	hautamuistomerkki+?	inf
+haja-asutusalue	haja-asutusalue+?	inf
+haihtuminen	haihtuminen+?	inf
+gravitoni	gravitoni+?	inf
+gospelmusiikki	gospelmusiikki+?	inf
+gestappo	gestappo+?	inf
+folk	folk+?	inf
+fissiopommi	fissiopommi+?	inf
+feeniks	feeniks+?	inf
+falsifiointi	falsifiointi+?	inf
+europarlamentti	europarlamentti+?	inf
+euronen	euronen+?	inf
+epäluottamuslause	epäluottamuslause+?	inf
+energialähde	energialähde+?	inf
+elämänsanalaisuus	elämänsanalaisuus+?	inf
+eksistentialisti	eksistentialisti+?	inf
+ekshibitionismi	ekshibitionismi+?	inf
+eduskuntatalo	eduskuntatalo+?	inf
+eduskuntapuolue	eduskuntapuolue+?	inf
+dyyni	dyyni+?	inf
+diakoni	diakoni+?	inf
+crack	crack+?	inf
+bussiliikenne	bussiliikenne+?	inf
+biomassa	biomassa+?	inf
+bantu	bantu+?	inf
+baby	baby+?	inf
+avaruuskeskus	avaruuskeskus+?	inf
+autoliikenne	autoliikenne+?	inf
+arawak	arawak+?	inf
+amfiteatteri	amfiteatteri+?	inf
+alueluovutus	alueluovutus+?	inf
+alapää	alapää+?	inf
+adressi	adressi+?	inf
+äärivasemmisto	äärivasemmisto+?	inf
+äänestysalue	äänestysalue+?	inf
+zulu	zulu+?	inf
+zarathustralainen	zarathustralainen+?	inf
+yöeläin	yöeläin+?	inf
+yrittäjyys	yrittäjyys+?	inf
+ylätaso	ylätaso+?	inf
+ylijohtaja	ylijohtaja+?	inf
+yhdeksänvuotias	yhdeksänvuotias+?	inf
+ydinsota	ydinsota+?	inf
+välikohtaus	välikohtaus+?	inf
+vähemmistökansallisuus	vähemmistökansallisuus+?	inf
+virhepäätelmä	virhepäätelmä+?	inf
+viestintäministeriö	viestintäministeriö+?	inf
+vieraantuminen	vieraantuminen+?	inf
+vesikko	vesikko+?	inf
+verkkokerros	verkkokerros+?	inf
+veljestö	veljestö+?	inf
+velhomaailma	velhomaailma+?	inf
+vastenmielisyys	vastenmielisyys+?	inf
+varapuhemies	varapuhemies+?	inf
+valssi	valssi+?	inf
+vakiovuoro	vakiovuoro+?	inf
+vakiintuminen	vakiintuminen+?	inf
+vaivaishiiri	vaivaishiiri+?	inf
+vaaleanruskea	vaaleanruskea+?	inf
+uusintaottelu	uusintaottelu+?	inf
+umpi	umpi+?	inf
+työntövoima	työntövoima+?	inf
+tutkijaryhmä	tutkijaryhmä+?	inf
+tuotantokustannus	tuotantokustannus+?	inf
+tulkitsija	tulkitsija+?	inf
+tulinopeus	tulinopeus+?	inf
+toksikologia	toksikologia+?	inf
+tietokoneverkko	tietokoneverkko+?	inf
+tekstinkäsittelyohjelma	tekstinkäsittelyohjelma+?	inf
+tasajännite	tasajännite+?	inf
+tarvitsija	tarvitsija+?	inf
+tapulikaupunki	tapulikaupunki+?	inf
+tapaluokka	tapaluokka+?	inf
+talviaika	talviaika+?	inf
+talouskehitys	talouskehitys+?	inf
+taloluku	taloluku+?	inf
+tallennuskapasiteetti	tallennuskapasiteetti+?	inf
+taidekoulu	taidekoulu+?	inf
+taajamajuna	taajamajuna+?	inf
+syntymäkoti	syntymäkoti+?	inf
+synninpäästö	synninpäästö+?	inf
+swing	swing+?	inf
+suuruusjärjestys	suuruusjärjestys+?	inf
+suurristi	suurristi+?	inf
+suurmoguli	suurmoguli+?	inf
+suorakaide	suorakaide+?	inf
+suolisto	suolisto+?	inf
+suka	suka+?	inf
+strippi	strippi+?	inf
+sotataito	sotataito+?	inf
+solidaarisuus	solidaarisuus+?	inf
+seurustelu	seurustelu+?	inf
+seitsemäntoinen	seitsemäntoinen+?	inf
+satelliittikuva	satelliittikuva+?	inf
+sairausloma	sairausloma+?	inf
+sahatavara	sahatavara+?	inf
+ryöstely	ryöstely+?	inf
+rypsiöljy	rypsiöljy+?	inf
+ruokintapaikka	ruokintapaikka+?	inf
+ruokatorvi	ruokatorvi+?	inf
+runonlaulaja	runonlaulaja+?	inf
+rintamaa	rintamaa+?	inf
+remontti	remontti+?	inf
+rauhoittaminen	rauhoittaminen+?	inf
+rauhanturvaoperaatio	rauhanturvaoperaatio+?	inf
+rauduskoivu	rauduskoivu+?	inf
+rannikkotasanko	rannikkotasanko+?	inf
+rakennustoiminta	rakennustoiminta+?	inf
+rakastaja	rakastaja+?	inf
+rajajoki	rajajoki+?	inf
+radiopuhelin	radiopuhelin+?	inf
+pääsykoe	pääsykoe+?	inf
+pääsarjataso	pääsarjataso+?	inf
+pääluokka	pääluokka+?	inf
+pääkirjoitus	pääkirjoitus+?	inf
+pääalue	pääalue+?	inf
+pähkinäpensas	pähkinäpensas+?	inf
+pystysuunta	pystysuunta+?	inf
+pyhäkkö	pyhäkkö+?	inf
+pyhyys	pyhyys+?	inf
+puolustusasema	puolustusasema+?	inf
+punatulkku	punatulkku+?	inf
+punakhmer	punakhmer+?	inf
+punavuori	punavuori+?	inf
+puhelinyhtiö	puhelinyhtiö+?	inf
+psykiatria	psykiatria+?	inf
+prioriteetti	prioriteetti+?	inf
+prefekti	prefekti+?	inf
+portto	portto+?	inf
+polkka	polkka+?	inf
+poistuma	poistuma+?	inf
+piirtokirjoitus	piirtokirjoitus+?	inf
+piirrossarja	piirrossarja+?	inf
+pesimälintu	pesimälintu+?	inf
+perusosa	perusosa+?	inf
+peruskäsite	peruskäsite+?	inf
+perussopimus	perussopimus+?	inf
+pelimaailma	pelimaailma+?	inf
+passiivi	passiivi+?	inf
+pankkiiri	pankkiiri+?	inf
+palveluspaikka	palveluspaikka+?	inf
+palloseura	palloseura+?	inf
+paljastaminen	paljastaminen+?	inf
+paikallisvaali	paikallisvaali+?	inf
+pahe	pahe+?	inf
+opintomatka	opintomatka+?	inf
+omistaminen	omistaminen+?	inf
+omenapuu	omenapuu+?	inf
+olympiamitalisti	olympiamitalisti+?	inf
+oivallus	oivallus+?	inf
+nöyryytys	nöyryytys+?	inf
+närhi	närhi+?	inf
+nykysuomi	nykysuomi+?	inf
+nide	nide+?	inf
+neutri	neutri+?	inf
+nepotismi	nepotismi+?	inf
+mustarotta	mustarotta+?	inf
+mustarastas	mustarastas+?	inf
+miehitysjoukko	miehitysjoukko+?	inf
+metsälehmus	metsälehmus+?	inf
+meteorologia	meteorologia+?	inf
+merkkipaalu	merkkipaalu+?	inf
+megawatti	megawatti+?	inf
+mausoleumi	mausoleumi+?	inf
+matkustajajuna	matkustajajuna+?	inf
+maolaisuus	maolaisuus+?	inf
+maajoukkueura	maajoukkueura+?	inf
+maailmankirjallisuus	maailmankirjallisuus+?	inf
+länsireuna	länsireuna+?	inf
+lisäjoukko	lisäjoukko+?	inf
+lippukunta	lippukunta+?	inf
+linja-autoyhteys	linja-autoyhteys+?	inf
+liityntäpiste	liityntäpiste+?	inf
+liikennemäärä	liikennemäärä+?	inf
+liikelaitos	liikelaitos+?	inf
+latvia	latvia+?	inf
+kävijämäärä	kävijämäärä+?	inf
+kulttuuripääkaupunki	kulttuuripääkaupunki+?	inf
+kuivuminen	kuivuminen+?	inf
+kotikäyttö	kotikäyttö+?	inf
+korvasieni	korvasieni+?	inf
+korsi	korsi+?	inf
+kontu	kontu+?	inf
+konservatorio	konservatorio+?	inf
+konkurssipesä	konkurssipesä+?	inf
+kollektiivi	kollektiivi+?	inf
+kokelas	kokelas+?	inf
+kokardi	kokardi+?	inf
+koiraeläin	koiraeläin+?	inf
+kirkkolaki	kirkkolaki+?	inf
+kevätmuutto	kevätmuutto+?	inf
+keskustelija	keskustelija+?	inf
+kertominen	kertominen+?	inf
+kellojakso	kellojakso+?	inf
+kebab	kebab+?	inf
+kaupunginoikeus	kaupunginoikeus+?	inf
+kauppakaupunki	kauppakaupunki+?	inf
+katalyytti	katalyytti+?	inf
+kasviravinto	kasviravinto+?	inf
+kasvikunta	kasvikunta+?	inf
+kansantaloustiede	kansantaloustiede+?	inf
+kansalliseepos	kansalliseepos+?	inf
+kalleus	kalleus+?	inf
+kaapu	kaapu+?	inf
+järvialue	järvialue+?	inf
+jälkimaininki	jälkimaininki+?	inf
+jälkimaine	jälkimaine+?	inf
+itäpää	itäpää+?	inf
+islanti	islanti+?	inf
+irtautuminen	irtautuminen+?	inf
+inklinaatio	inklinaatio+?	inf
+informaatioteknologia	informaatioteknologia+?	inf
+individualismi	individualismi+?	inf
+improvisointi	improvisointi+?	inf
+ilmamassa	ilmamassa+?	inf
+ikääntyminen	ikääntyminen+?	inf
+ikärakenne	ikärakenne+?	inf
+iiris	iiris+?	inf
+ihmislaji	ihmislaji+?	inf
+hylkeenpyynti	hylkeenpyynti+?	inf
+hirvisaari	hirvisaari+?	inf
+hevosenliha	hevosenliha+?	inf
+hautakivi	hautakivi+?	inf
+hallitusaika	hallitusaika+?	inf
+hallintokeskus	hallintokeskus+?	inf
+halla	halla+?	inf
+graham	graham+?	inf
+foneemi	foneemi+?	inf
+esperantisti	esperantisti+?	inf
+esikaupunkialue	esikaupunkialue+?	inf
+erotuomari	erotuomari+?	inf
+erityishallintoalue	erityishallintoalue+?	inf
+enemmistövaali	enemmistövaali+?	inf
+eliniänodote	eliniänodote+?	inf
+divisio	divisio+?	inf
+dementia	dementia+?	inf
+brittijoukko	brittijoukko+?	inf
+bikini	bikini+?	inf
+beagle	beagle+?	inf
+avomeri	avomeri+?	inf
+avaruustoiminta	avaruustoiminta+?	inf
+auringonlasku	auringonlasku+?	inf
+ateljee	ateljee+?	inf
+asuntoalue	asuntoalue+?	inf
+arvokisa	arvokisa+?	inf
+areiolainen	areiolainen+?	inf
+aluevaatimus	aluevaatimus+?	inf
+alkupää	alkupää+?	inf
+alkalimetalli	alkalimetalli+?	inf
+alentaminen	alentaminen+?	inf
+alamaa	alamaa+?	inf
+ajatusmaailma	ajatusmaailma+?	inf
+aikayksikkö	aikayksikkö+?	inf
+aikaraja	aikaraja+?	inf
+aatelisarvo	aatelisarvo+?	inf
+äärettömyys	äärettömyys+?	inf
+äännearvo	äännearvo+?	inf
+yksityisoikeus	yksityisoikeus+?	inf
+ydinsulkusopimus	ydinsulkusopimus+?	inf
+ydinonnettomuus	ydinonnettomuus+?	inf
+vävy	vävy+?	inf
+vähimmäispalkka	vähimmäispalkka+?	inf
+viulisti	viulisti+?	inf
+vesiraja	vesiraja+?	inf
+vesimäärä	vesimäärä+?	inf
+veroaste	veroaste+?	inf
+vasallivaltio	vasallivaltio+?	inf
+varapresidenttiehdokas	varapresidenttiehdokas+?	inf
+valvominen	valvominen+?	inf
+valos	valos+?	inf
+vaihtonäppäin	vaihtonäppäin+?	inf
+vaalilaki	vaalilaki+?	inf
+uudissana	uudissana+?	inf
+uskontotiede	uskontotiede+?	inf
+urheilu-ura	urheilu-ura+?	inf
+työehto	työehto+?	inf
+tuotantovoima	tuotantovoima+?	inf
+tuloste	tuloste+?	inf
+triumfi	triumfi+?	inf
+toleranssi	toleranssi+?	inf
+todennäköisyyslaskenta	todennäköisyyslaskenta+?	inf
+tietokonejärjestelmä	tietokonejärjestelmä+?	inf
+tieverkosto	tieverkosto+?	inf
+testosteroni	testosteroni+?	inf
+terästeollisuus	terästeollisuus+?	inf
+terveyshaitta	terveyshaitta+?	inf
+teollisuusministeri	teollisuusministeri+?	inf
+tekno	tekno+?	inf
+tapaturma	tapaturma+?	inf
+tapahtumahorisontti	tapahtumahorisontti+?	inf
+talonpoikaiskapina	talonpoikaiskapina+?	inf
+säännönmukaisuus	säännönmukaisuus+?	inf
+särkkä	särkkä+?	inf
+särkisalko	särkisalko+?	inf
+sähkönjohtavuus	sähkönjohtavuus+?	inf
+syntymäpaikka	syntymäpaikka+?	inf
+symbolismi	symbolismi+?	inf
+sydänmaa	sydänmaa+?	inf
+syanidi	syanidi+?	inf
+suurnopeusjuna	suurnopeusjuna+?	inf
+suoni	suoni+?	inf
+sukuhaara	sukuhaara+?	inf
+sukutausta	sukutausta+?	inf
+standardointi	standardointi+?	inf
+spekulaatio	spekulaatio+?	inf
+sotilasvalta	sotilasvalta+?	inf
+sotaonni	sotaonni+?	inf
+sotakoulu	sotakoulu+?	inf
+sosialistipuolue	sosialistipuolue+?	inf
+solulima	solulima+?	inf
+siviilipalvelusmies	siviilipalvelusmies+?	inf
+siunauskappeli	siunauskappeli+?	inf
+sijaishallitsija	sijaishallitsija+?	inf
+sigma-algebra	sigma-algebra+?	inf
+seuraajavaltio	seuraajavaltio+?	inf
+separatisti	separatisti+?	inf
+savuke	savuke+?	inf
+sammakkoeläin	sammakkoeläin+?	inf
+salpalinja	salpalinja+?	inf
+salkku	salkku+?	inf
+rytikerttunen	rytikerttunen+?	inf
+ryssä	ryssä+?	inf
+ruuhka-aika	ruuhka-aika+?	inf
+ruokakauppa	ruokakauppa+?	inf
+ruoanlaitto	ruoanlaitto+?	inf
+roolisuoritus	roolisuoritus+?	inf
+rikostuomioistuin	rikostuomioistuin+?	inf
+resonanssi	resonanssi+?	inf
+reseptori	reseptori+?	inf
+rangaistava	rangaistava+?	inf
+rakennusaine	rakennusaine+?	inf
+railo	railo+?	inf
+rahapaja	rahapaja+?	inf
+pääpuolue	pääpuolue+?	inf
+päiväperhonen	päiväperhonen+?	inf
+pyörimisakseli	pyörimisakseli+?	inf
+pyökki	pyökki+?	inf
+purotaimen	purotaimen+?	inf
+puolustuslaitos	puolustuslaitos+?	inf
+puolustushaara	puolustushaara+?	inf
+puolikuu	puolikuu+?	inf
+puoliaavikko	puoliaavikko+?	inf
+punarinta	punarinta+?	inf
+pumppu	pumppu+?	inf
+preferenssi	preferenssi+?	inf
+pontikka	pontikka+?	inf
+polttama	polttama+?	inf
+pitkäkirkko	pitkäkirkko+?	inf
+pistepörssi	pistepörssi+?	inf
+pikkupoika	pikkupoika+?	inf
+pikkueläin	pikkueläin+?	inf
+pikavuoropysäkki	pikavuoropysäkki+?	inf
+pesye	pesye+?	inf
+pesimäkanna	pesimäkanna+?	inf
+peruskivi	peruskivi+?	inf
+perisynti	perisynti+?	inf
+pembroke	pembroke+?	inf
+peliväline	peliväline+?	inf
+pelipaikka	pelipaikka+?	inf
+patria	patria+?	inf
+parantuminen	parantuminen+?	inf
+parantola	parantola+?	inf
+paniikki	paniikki+?	inf
+pakkausmenetelmä	pakkausmenetelmä+?	inf
+painovoimakenttä	painovoimakenttä+?	inf
+paikkansapitävyys	paikkansapitävyys+?	inf
+paalu	paalu+?	inf
+omaksuminen	omaksuminen+?	inf
+olettamus	olettamus+?	inf
+oikeellisuus	oikeellisuus+?	inf
+näytteleminen	näytteleminen+?	inf
+nojapyörä	nojapyörä+?	inf
+neurologi	neurologi+?	inf
+myyntimenestys	myyntimenestys+?	inf
+myllypuro	myllypuro+?	inf
+moninaisuus	moninaisuus+?	inf
+monikerta	monikerta+?	inf
+modi	modi+?	inf
+miljoonasosa	miljoonasosa+?	inf
+mietiskely	mietiskely+?	inf
+metroliikenne	metroliikenne+?	inf
+metrojuna	metrojuna+?	inf
+meditaatio	meditaatio+?	inf
+matinkylä	matinkylä+?	inf
+maniokki	maniokki+?	inf
+mallintaminen	mallintaminen+?	inf
+mainoskatkotunnus	mainoskatkotunnus+?	inf
+maidos	maidos+?	inf
+mafioso	mafioso+?	inf
+maailmanpolitiikka	maailmanpolitiikka+?	inf
+maailmankartta	maailmankartta+?	inf
+maailmanliitto	maailmanliitto+?	inf
+maa-aines	maa-aines+?	inf
+länsituuli	länsituuli+?	inf
+luusto	luusto+?	inf
+luokkataistelu	luokkataistelu+?	inf
+lujuus	lujuus+?	inf
+lounaisrannikko	lounaisrannikko+?	inf
+lootus	lootus+?	inf
+lisäpöytäkirja	lisäpöytäkirja+?	inf
+liittopresidentti	liittopresidentti+?	inf
+latvajärvi	latvajärvi+?	inf
+lastenkirjallisuus	lastenkirjallisuus+?	inf
+lajitoveri	lajitoveri+?	inf
+labradorinnoutaja	labradorinnoutaja+?	inf
+käynnistäminen	käynnistäminen+?	inf
+kyyhky	kyyhky+?	inf
+kynäjalava	kynäjalava+?	inf
+kvartsiitti	kvartsiitti+?	inf
+kuvittaja	kuvittaja+?	inf
+kuuluvuusalue	kuuluvuusalue+?	inf
+kuolinpäivä	kuolinpäivä+?	inf
+kuntajako	kuntajako+?	inf
+kunnossapito	kunnossapito+?	inf
+kuningasperhe	kuningasperhe+?	inf
+kuki	kuki+?	inf
+koulurakennus	koulurakennus+?	inf
+koripallomaajoukkue	koripallomaajoukkue+?	inf
+konservatiivipuolue	konservatiivipuolue+?	inf
+konjunktiivi	konjunktiivi+?	inf
+komennus	komennus+?	inf
+kokoelma-albumi	kokoelma-albumi+?	inf
+koalitiohallitus	koalitiohallitus+?	inf
+kivikko	kivikko+?	inf
+kirkonkirja	kirkonkirja+?	inf
+kesäasunto	kesäasunto+?	inf
+keltavahvero	keltavahvero+?	inf
+kastemato	kastemato+?	inf
+karhukopla	karhukopla+?	inf
+kantasana	kantasana+?	inf
+kansantarina	kansantarina+?	inf
+kansallislippu	kansallislippu+?	inf
+kansakoulunopettaja	kansakoulunopettaja+?	inf
+kalenterivuosi	kalenterivuosi+?	inf
+jäänmurtaja	jäänmurtaja+?	inf
+jääkiekkomaajoukkue	jääkiekkomaajoukkue+?	inf
+jäsenyhdistys	jäsenyhdistys+?	inf
+juutalaisvaino	juutalaisvaino+?	inf
+joukkueenjohtaja	joukkueenjohtaja+?	inf
+jazzmuusikko	jazzmuusikko+?	inf
+imaami	imaami+?	inf
+ilmanvastus	ilmanvastus+?	inf
+ilmaherruus	ilmaherruus+?	inf
+huvi	huvi+?	inf
+hoidettu	hoidettu+?	inf
+hippodromi	hippodromi+?	inf
+hikirauhanen	hikirauhanen+?	inf
+hieskoivu	hieskoivu+?	inf
+henkilökuva	henkilökuva+?	inf
+harmaakivikirkko	harmaakivikirkko+?	inf
+hankoniemi	hankoniemi+?	inf
+gradu	gradu+?	inf
+gorilla	gorilla+?	inf
+giljotiini	giljotiini+?	inf
+fraktaali	fraktaali+?	inf
+fetissi	fetissi+?	inf
+euromaa	euromaa+?	inf
+erottava	erottava+?	inf
+epätasa-arvo	epätasa-arvo+?	inf
+energiatila	energiatila+?	inf
+elokuvatuotanto	elokuvatuotanto+?	inf
+dublinilainen	dublinilainen+?	inf
+demoskene	demoskene+?	inf
+demoni	demoni+?	inf
+bordercollie	bordercollie+?	inf
+boksarikapina	boksarikapina+?	inf
+binäärijärjestelmä	binäärijärjestelmä+?	inf
+avaruusohjelma	avaruusohjelma+?	inf
+autourheilu	autourheilu+?	inf
+autotehdas	autotehdas+?	inf
+aseteollisuus	aseteollisuus+?	inf
+apukeisari	apukeisari+?	inf
+antroposofia	antroposofia+?	inf
+anti	anti+?	inf
+analyytikko	analyytikko+?	inf
+ammattioppilaitos	ammattioppilaitos+?	inf
+alkupäivä	alkupäivä+?	inf
+alkaloidi	alkaloidi+?	inf
+akti	akti+?	inf
+aivohalvaus	aivohalvaus+?	inf
+ainemäärä	ainemäärä+?	inf
+aggressiivisuus	aggressiivisuus+?	inf
+ääniaalto	ääniaalto+?	inf
+äänisaalis	äänisaalis+?	inf
+yöelämä	yöelämä+?	inf
+ystäväpiiri	ystäväpiiri+?	inf
+yksityiskoulu	yksityiskoulu+?	inf
+ykkössija	ykkössija+?	inf
+väitelause	väitelause+?	inf
+vuosituhattavoite	vuosituhattavoite+?	inf
+vuorineuvos	vuorineuvos+?	inf
+voimasuhde	voimasuhde+?	inf
+virkistysalue	virkistysalue+?	inf
+villieläin	villieläin+?	inf
+verkkosivusto	verkkosivusto+?	inf
+verkkosarjakuva	verkkosarjakuva+?	inf
+vegaani	vegaani+?	inf
+varastaminen	varastaminen+?	inf
+vapautusrintama	vapautusrintama+?	inf
+vapaudenpatsas	vapaudenpatsas+?	inf
+vapaaherra	vapaaherra+?	inf
+vapaaseurakunta	vapaaseurakunta+?	inf
+vanhoillisuus	vanhoillisuus+?	inf
+vanheneminen	vanheneminen+?	inf
+vaneri	vaneri+?	inf
+vanadiini	vanadiini+?	inf
+valtatyhjiö	valtatyhjiö+?	inf
+valmistusmenetelmä	valmistusmenetelmä+?	inf
+urheilumuoto	urheilumuoto+?	inf
+urheilukanava	urheilukanava+?	inf
+ulkosuhde	ulkosuhde+?	inf
+täyttyminen	täyttyminen+?	inf
+työura	työura+?	inf
+työntäjä	työntäjä+?	inf
+työnimi	työnimi+?	inf
+tyyppimerkintä	tyyppimerkintä+?	inf
+turvallisuusjoukko	turvallisuusjoukko+?	inf
+turkmeeni	turkmeeni+?	inf
+turkiseläin	turkiseläin+?	inf
+turjanlinna	turjanlinna+?	inf
+tulosuunta	tulosuunta+?	inf
+tulenkantaja	tulenkantaja+?	inf
+triumviri	triumviri+?	inf
+toimenkuva	toimenkuva+?	inf
+tilastoalue	tilastoalue+?	inf
+tiedonsiirtonopeus	tiedonsiirtonopeus+?	inf
+teelaatu	teelaatu+?	inf
+taudinaiheuttaja	taudinaiheuttaja+?	inf
+tartuntatauti	tartuntatauti+?	inf
+tarkoitusperä	tarkoitusperä+?	inf
+tapahtumasarja	tapahtumasarja+?	inf
+tammi-helmikuu	tammi-helmikuu+?	inf
+talouslama	talouslama+?	inf
+säätösauva	säätösauva+?	inf
+säätyvaltiopäivät	säätyvaltiopäivät+?	inf
+syntymävuosi	syntymävuosi+?	inf
+syntyhistoria	syntyhistoria+?	inf
+suurkaupunkialue	suurkaupunkialue+?	inf
+suurpitäjä	suurpitäjä+?	inf
+suurkaupunkialue	suurkaupunkialue+?	inf
+sumeri	sumeri+?	inf
+sukulaiskieli	sukulaiskieli+?	inf
+sukeltaja	sukeltaja+?	inf
+subjunktiivi	subjunktiivi+?	inf
+stratosfääri	stratosfääri+?	inf
+stadi	stadi+?	inf
+sponsorointi	sponsorointi+?	inf
+sovintokokous	sovintokokous+?	inf
+sopimusoikeus	sopimusoikeus+?	inf
+soluseinä	soluseinä+?	inf
+soluelin	soluelin+?	inf
+soidinääni	soidinääni+?	inf
+skaala	skaala+?	inf
+sitkeys	sitkeys+?	inf
+siirtymävaihe	siirtymävaihe+?	inf
+siirtotyöläinen	siirtotyöläinen+?	inf
+sessio	sessio+?	inf
+sepelvaltimotauti	sepelvaltimotauti+?	inf
+sarvikuono	sarvikuono+?	inf
+sakkaus	sakkaus+?	inf
+sairaanhoitopiiri	sairaanhoitopiiri+?	inf
+rytmihäiriö	rytmihäiriö+?	inf
+ruutukaava	ruutukaava+?	inf
+rupilisko	rupilisko+?	inf
+ruokasuola	ruokasuola+?	inf
+ruokailu	ruokailu+?	inf
+runkoverkko	runkoverkko+?	inf
+rotuluokittelu	rotuluokittelu+?	inf
+ristiretkivaltio	ristiretkivaltio+?	inf
+risteymä	risteymä+?	inf
+rippi	rippi+?	inf
+reduktio	reduktio+?	inf
+rautaesirippu	rautaesirippu+?	inf
+rannikkokaistale	rannikkokaistale+?	inf
+pääateria	pääateria+?	inf
+päätarkoitus	päätarkoitus+?	inf
+pääperiaate	pääperiaate+?	inf
+pääarmeija	pääarmeija+?	inf
+pyörähdysaika	pyörähdysaika+?	inf
+pysähdys	pysähdys+?	inf
+puolustusliitto	puolustusliitto+?	inf
+psykoterapia	psykoterapia+?	inf
+preeria	preeria+?	inf
+potti	potti+?	inf
+pointti	pointti+?	inf
+pilapiirros	pilapiirros+?	inf
+pikkuviha	pikkuviha+?	inf
+peruskorjaus	peruskorjaus+?	inf
+perimyssota	perimyssota+?	inf
+passio	passio+?	inf
+pasifisti	pasifisti+?	inf
+pasaatituuli	pasaatituuli+?	inf
+partisiippi	partisiippi+?	inf
+parafilia	parafilia+?	inf
+pankkikriisi	pankkikriisi+?	inf
+palvi	palvi+?	inf
+palveluntarjoaja	palveluntarjoaja+?	inf
+palvelunestohyökkäys	palvelunestohyökkäys+?	inf
+palaaminen	palaaminen+?	inf
+painaminen	painaminen+?	inf
+paikannimistö	paikannimistö+?	inf
+ottawa	ottawa+?	inf
+oppi-isä	oppi-isä+?	inf
+opetuskieli	opetuskieli+?	inf
+onnettomuuspaikka	onnettomuuspaikka+?	inf
+omaha	omaha+?	inf
+oksentelu	oksentelu+?	inf
+oikeusfilosofia	oikeusfilosofia+?	inf
+ohjaustyö	ohjaustyö+?	inf
+nitroglyseroli	nitroglyseroli+?	inf
+nimialalaji	nimialalaji+?	inf
+niinisalo	niinisalo+?	inf
+nihilismi	nihilismi+?	inf
+newyorkilainen	newyorkilainen+?	inf
+newton	newton+?	inf
+neuvostoaika	neuvostoaika+?	inf
+neuroni	neuroni+?	inf
+nelivuotias	nelivuotias+?	inf
+naurulokki	naurulokki+?	inf
+natriumkloridi	natriumkloridi+?	inf
+naapuriprovinssi	naapuriprovinssi+?	inf
+myllykylä	myllykylä+?	inf
+muutostyö	muutostyö+?	inf
+musiikkitapahtuma	musiikkitapahtuma+?	inf
+musiikkielämä	musiikkielämä+?	inf
+muodonvaihdos	muodonvaihdos+?	inf
+muistialue	muistialue+?	inf
+morfologia	morfologia+?	inf
+mittalaite	mittalaite+?	inf
+miljonääri	miljonääri+?	inf
+mietintö	mietintö+?	inf
+miesliike	miesliike+?	inf
+metsäpäästäinen	metsäpäästäinen+?	inf
+metrorata	metrorata+?	inf
+mestaruussarja	mestaruussarja+?	inf
+merilintu	merilintu+?	inf
+megapikseli	megapikseli+?	inf
+matruusi	matruusi+?	inf
+marseljeesi	marseljeesi+?	inf
+mainoskampanja	mainoskampanja+?	inf
+maayhteys	maayhteys+?	inf
+maataloustuotanto	maataloustuotanto+?	inf
+maailmankauppa	maailmankauppa+?	inf
+löyly	löyly+?	inf
+lähiaika	lähiaika+?	inf
+lyhennelmä	lyhennelmä+?	inf
+luuttu	luuttu+?	inf
+luotti	luotti+?	inf
+luotta	luotta+?	inf
+luonnehdinta	luonnehdinta+?	inf
+lukuvuosi	lukuvuosi+?	inf
+lopputila	lopputila+?	inf
+lisätulo	lisätulo+?	inf
+liikennemuoto	liikennemuoto+?	inf
+libretto	libretto+?	inf
+libertaristi	libertaristi+?	inf
+laulutyyli	laulutyyli+?	inf
+lapsuudenystävä	lapsuudenystävä+?	inf
+lakialoite	lakialoite+?	inf
+laiteajuri	laiteajuri+?	inf
+lainsäädäntöelin	lainsäädäntöelin+?	inf
+lainalaisuus	lainalaisuus+?	inf
+käsikranaatti	käsikranaatti+?	inf
+käsiase	käsiase+?	inf
+kyselytutkimus	kyselytutkimus+?	inf
+kymri	kymri+?	inf
+kuvaputkinäyttö	kuvaputkinäyttö+?	inf
+kuvaputki	kuvaputki+?	inf
+kuvapiste	kuvapiste+?	inf
+kuuria	kuuria+?	inf
+kuppa	kuppa+?	inf
+kuntaliitosselvitys	kuntaliitosselvitys+?	inf
+kulissi	kulissi+?	inf
+kristalli	kristalli+?	inf
+kosmologi	kosmologi+?	inf
+koomikko	koomikko+?	inf
+konehuone	konehuone+?	inf
+kolumnisti	kolumnisti+?	inf
+kolera	kolera+?	inf
+koelaulu	koelaulu+?	inf
+kiviniemi	kiviniemi+?	inf
+kirkkosali	kirkkosali+?	inf
+kihla	kihla+?	inf
+kidnappaus	kidnappaus+?	inf
+keveys	keveys+?	inf
+kesäkuukausi	kesäkuukausi+?	inf
+keskusteluryhmä	keskusteluryhmä+?	inf
+keskusyhdistys	keskusyhdistys+?	inf
+keskilänsi	keskilänsi+?	inf
+kaupunkiliikenne	kaupunkiliikenne+?	inf
+kaupunkirakenne	kaupunkirakenne+?	inf
+kauppaoikeus	kauppaoikeus+?	inf
+katko	katko+?	inf
+kasvillisuusvyöhyke	kasvillisuusvyöhyke+?	inf
+kapitalisti	kapitalisti+?	inf
+kansantulo	kansantulo+?	inf
+kansaneläkelaitos	kansaneläkelaitos+?	inf
+kannatusalue	kannatusalue+?	inf
+kangasmetsä	kangasmetsä+?	inf
+kahdeksanvuotias	kahdeksanvuotias+?	inf
+kaarna	kaarna+?	inf
+jäsenmaksu	jäsenmaksu+?	inf
+joukkuekilpailu	joukkuekilpailu+?	inf
+jalkine	jalkine+?	inf
+itäkarjalainen	itäkarjalainen+?	inf
+immuniteetti	immuniteetti+?	inf
+ilmaisjakelulehti	ilmaisjakelulehti+?	inf
+ihmisoikeustuomioistuin	ihmisoikeustuomioistuin+?	inf
+idealisti	idealisti+?	inf
+hälytys	hälytys+?	inf
+hyperteksti	hyperteksti+?	inf
+hymiö	hymiö+?	inf
+huippuyksikkö	huippuyksikkö+?	inf
+hopi	hopi+?	inf
+hiilidioksidipitoisuus	hiilidioksidipitoisuus+?	inf
+hieta	hieta+?	inf
+hevosrotu	hevosrotu+?	inf
+henkimaailma	henkimaailma+?	inf
+hartsirauhanen	hartsirauhanen+?	inf
+halukkuus	halukkuus+?	inf
+hallitusvalta	hallitusvalta+?	inf
+europarlamenttivaalea	europarlamenttivaalea+?	inf
+etumatka	etumatka+?	inf
+eläinpuisto	eläinpuisto+?	inf
+elo-syyskuu	elo-syyskuu+?	inf
+direktiivi	direktiivi+?	inf
+deklinaatio	deklinaatio+?	inf
+capital	capital+?	inf
+buurisota	buurisota+?	inf
+burgundi	burgundi+?	inf
+belizen	belizen+?	inf
+bataatti	bataatti+?	inf
+barreli	barreli+?	inf
+avaruusolento	avaruusolento+?	inf
+autoteollisuus	autoteollisuus+?	inf
+aurinkoenergia	aurinkoenergia+?	inf
+audio	audio+?	inf
+astronomi	astronomi+?	inf
+asejärjestelmä	asejärjestelmä+?	inf
+arkiajattelu	arkiajattelu+?	inf
+apuri	apuri+?	inf
+apujoukko	apujoukko+?	inf
+apteekkari	apteekkari+?	inf
+aluetoimisto	aluetoimisto+?	inf
+alttius	alttius+?	inf
+alpha	alpha+?	inf
+alkuhärkä	alkuhärkä+?	inf
+alkukausi	alkukausi+?	inf
+alankoalue	alankoalue+?	inf
+akvaario	akvaario+?	inf
+ajatusviiva	ajatusviiva+?	inf
+aivotoiminta	aivotoiminta+?	inf
+afrikaaneri	afrikaaneri+?	inf
+adjutantti	adjutantti+?	inf
+ääriliike	ääriliike+?	inf
+ystäväkirje	ystäväkirje+?	inf
+ystävyyskunta	ystävyyskunta+?	inf
+ympärysmitta	ympärysmitta+?	inf
+ympäriajo	ympäriajo+?	inf
+yläreuna	yläreuna+?	inf
+väärentäminen	väärentäminen+?	inf
+vääntömomentti	vääntömomentti+?	inf
+värimuoto	värimuoto+?	inf
+väestönkehitys	väestönkehitys+?	inf
+vuokati	vuokati+?	inf

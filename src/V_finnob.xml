@@ -490,6 +490,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
+            <re>hakemuksesta</re>
             <t pos="V">søke</t>
             <xg>
                <x>Anoin lainaa.</x>
@@ -1129,7 +1130,7 @@ For the full license text, see the link above.</lic>
                <xt>Ambulansen rakk på plass i tide.</xt>
             </xg>
             <xg>
-               <x>Valmentaja ehti poistua jalkapallokentältä. </x>
+               <x>Valmentaja ehti poistua jalkapallokentältä.</x>
                <xt>Treneren rakk å fjerne seg fra fotballbanen.</xt>
             </xg>
          </tg>
@@ -1367,8 +1368,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">komme fra hverandre</t>
             <xg>
-               <x>Lukion jälkeen kaikki erkaantuivat kukin omille teilleen. </x>
-               <xt>Etter videregående </xt>
+               <x>Lukion jälkeen kaikki erkaantuivat kukin omille teilleen.</x>
+               <xt>Etter videregående</xt>
             </xg>
          </tg>
       </mg>
@@ -4850,8 +4851,25 @@ For the full license text, see the link above.</lic>
          <l pos="V">kiskoa</l>
       </lg>
       <mg>
+         <tg>
+            <t pos="V">dra kraftig</t>
+            <xg>
+               <x>Poija alkoi kiskoa häntä hihasta.</x>
+               <xt>Gutten begynte å dra henne hardti i ermet.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="nob">
             <t pos="V">rive</t>
+            <xg>
+               <x>Hän kiskoi hampaat heidän suustaan.</x>
+               <xt>Han reiv tennene ut av munnen deres.</xt>
+            </xg>
+            <xg>
+               <x>Sitten saan suurella vaivalla kiskoa ikkunat auki.</x>
+               <xt>Så får jeg me store anstrengelser revet opp vinduene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4871,7 +4889,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">bli sint på hverandre</t>
+            <t pos="V">være sint på hverandre</t>
          </tg>
       </mg>
    </e>
@@ -4880,9 +4898,25 @@ For the full license text, see the link above.</lic>
          <l pos="V">kiusata</l>
       </lg>
       <mg>
+         <tg>
+            <t pos="V">plage</t>
+            <xg>
+               <x>Eniten kiusasi Anteroa se , mitä hän oli sanonut rovastista</x>
+               <xt>Det som plaga Antero mest var det han hadde sagt om prosten.</xt>
+            </xg>
+            <xg>
+               <x>Ihottuma kiusaa minua.</x>
+               <xt>Eksemen plager meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="nob">
             <t pos="V">mobbe</t>
-            <t pos="V">plage</t>
+            <xg>
+               <x>Kirjan päähenkilöä Ishmaelia kiusataan koulussa nimensä takia.</x>
+               <xt>Bokas hovedperson Ishmael blir mobba i skolen på grunn av navnet sitt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4919,6 +4953,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">bearbeide</t>
             <t pos="V">behandle</t>
+            <xg>
+               <x> Eri jäsenmaissa vähemmistöjä kohdellaan hyvin eri tavoilla .</x>
+               <xt>I de ulike medlemslanda blir minoritetene behandla på svært ulike måter.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5039,6 +5077,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">prøve</t>
+            <xg>
+               <x>Kaksi heistä kokeili aluksi ottaa vain puolikkaan annoksen.</x>
+               <xt>To av dem prøvde i begynnelsen å ta bare halv dose.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

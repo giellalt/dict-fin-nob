@@ -1010,25 +1010,18 @@ suurtunturi	N	høyfjell
 suuntaviiva	N	retningslinje
 saamelaiskäräjäedustaja	N	sametingsrepresentant
 saamelaistapahtuma	N	samisk arrangement
-Trond
-saamelaispaliskunta	N	samisk reinlag
-saamelaiskohde	N	samisk lokalitet
+saamelaispaliskunta	N	reinbeitedistrikt
 räppäri	N	rapper
-ryssäjärvi	N	Ryssäjärvi (stedsnavn)
 riistakolmio	N	vilttakseringstriangel
 riekonpyynti	N	rypefangst
 rakennuspaikka	N	byggetomt
-raamatunlukukappale	N	bibellesning
 päälinja	N	hovedlinje
 päiväretki	N	dagstur
 pyyntiväline	N	fangstredskap
 purnu	N	matforrådsgrop
-puistonvartija	N	parkvokter
 postiosoite	N	postadresse
 porolauma	N	reinflokk
 pide	N	feste	bånd
-para	N	smørhare (folketro)
-paloalue	N	brannområde
 palkintosumma	N	premiesum
 painatuskeskus	N	trykkerisenter
 pahanen	N	stakkar
@@ -1051,24 +1044,18 @@ käyntimäärä	N	besøksantall
 kunnossapito	N	vedlikehold
 kulttuuritausta	N	kulturbakgrunn
 kulttuuripalvelu	N	kulturtjeneste
-kullanhuuhdontatukikohta	N	gullvaskingsbase
 kolttakulttuuri	N	skoltesamisk kultur
 kokonaisarvio	N	helhetsvurdering
-kielilakiselvitys	N	utredning om språkloven
 kielivähemmistö	N	språklig minoritet
-kansallispuku	N	nasjonaldrakt
+kansallispuku	N	nasjonaldrakt	bunad
 kaivoshanke	N	gruveprosjekt
-jao	N	deling (trolig jako)
 irtautuminen	N	løsrivelse
-huoltotuva	N	servicehytte (feilform)
-heikentämiskielto	N	forbud mot forringelse
 heikennys	N	svekkelse
 hallituspuolue	N	regjeringsparti
 hallintosihteeri	N	administrasjonssekretær
 hallintoneuvosto	N	representantskap
 esineistö	N	gjenstandssamling
 erämaaosa	N	villmarksdel
-eräretkeilijä	N	villmarksvandrer
 enimmäismäärä	N	maksimumsantall
 elokuvataide	N	filmkunst
 eliöstö	N	organismer
@@ -1092,15 +1079,12 @@ viikkotunti	N	uketime
 verkkojulkaisu	N	nettpublikasjon
 vastuutaho	N	ansvarlig instans
 vastaanottopaikka	N	mottakssted
-valtio-osapuoli	N	statspart
-u-muoto	N	U-form
 täyttäminen	N	utfylling	oppfylling
 tunturivesi	N	fjellvann
 toteuttamissuunnitelma	N	gjennomføringsplan
 toimistotila	N	kontorlokale
 toiminta-ohjelma	N	handlingsprogram
 tietous	N	kunnskap
-terveystoimi	N	helsevesen
 teatterityöpaja	N	teaterverksted
 suojeluohjelma	N	verneprogram
 sukuyhteisö	N	slektssamfunn
@@ -1117,18 +1101,12 @@ ratifiointieste	N	ratifiseringshinder
 rasiteoikeus	N	servitutt
 ranta-asemakaava	N	strandreguleringsplan
 puvusto	N	kostymesamling
-purkuhakemus	N	begjæring om gjenåpning
+purkuhakemus	N	begjæring om riving
 purku	N	riving	demontering
 priorisointi	N	prioritering
-presidenttifoorumi	N	presidentforum
 poikkeuslupa	N	dispensasjon
-pirkko	N	marihøne	Pirkko (kvinnenavn)
-perinnemusiikki	N	tradisjonsmusikk
-perhetyö	N	familiearbeid
-paikallis	N	lokal- (ordfragment)
-osatoiminto	N	delfunksjon
+pirkko	N	marihøne
 opetustilanne	N	undervisningssituasjon
-ohjelmatuotanto	N	programproduksjon
 näytteenotto	N	prøvetaking
 nykytanssi	N	moderne dans
 norjansaamelainen	N	same fra Norge
@@ -1137,29 +1115,21 @@ matkailuyritys	N	reiselivsbedrift
 maisemapalkinto	N	landskapspris
 lyhentymä	N	forkortelse
 lupakäytäntö	N	tillatelsespraksis
-luontotyyppitieto	N	naturtypeinformasjon
 luonnonolot	N	naturforhold
 luonnonmetsä	N	naturskog
-luokkamuoto	N	klasseform
 lukuvuosi	N	skoleår
 live-editointitila	N	rom for direktesendt redigering
 lisäresurssi	N	tilleggsressurs
 kuntaraja	N	kommunegrense
-kulttuuriympäristöohjelma	N	kulturmiljøprogram
 kultamaa	N	gullholdig jord
-kultahamina	N	Kultahamina (stedsnavn)
 kruununmetsätorppa	N	skoghusmannsplass på statsgrunn
 koulutusraportti	N	utdanningsrapport
 koulukielioppi	N	skolegrammatikk
 kouluhallitus	N	skoledirektorat
 korvakoru	N	ørering
 koiravaljakkoyrittäjä	N	hundespannentreprenør
-kirkkolaulu	N	kirkesang
-kirkkotupi	N	kirkestue (feilform)
 kilpailuohjelma	N	konkurranseprogram
 kielipalvelu	N	språktjeneste
-kieliasiansihteeri	N	språksakssekretær
-kielenkäyttöalue	N	språkbruksområde
 kielenvaihdos	N	språkskifte
 kerhotoiminta	N	klubbvirksomhet
 kastejumalanpalvelus	N	dåpsgudstjeneste
@@ -1167,10 +1137,7 @@ kaluste	N	møbel
 kalliopiirros	N	helleristning
 kaivoskivennäinen	N	gruvemineral
 kaivaja	N	graver
-kaita	N	smal (adjektiv; ikke substantiv)
 jälkiehkäisytabletti	N	angrepille
-jussi	N	Jussi (mannsnavn)
-ivaloinen	N	ivaloboer
 inuitti	N	inuitt
 ihmisoikeusvaltuuskunta	N	menneskerettighetsdelegasjon
 huomiointi	N	hensyntaking
@@ -1186,8 +1153,6 @@ alkuteos	N	originalverk
 alkuperäisteos	N	originalverk
 alkuperäiskansafoorumi	N	urfolksforum
 alavirta	N	nedstrøm
-1940-luku	N	1940-tallet
--jussi	N	-mann (navnebasert etterledd)
 ylistyslaulu	N	lovsang
 yleisöennätys	N	publikumsrekord
 ydinryhmä	N	kjernegruppe
@@ -1203,22 +1168,16 @@ uudistushakkuu	N	foryngelseshogst
 uudistamishanke	N	fornyelsesprosjekt
 tärkeysjärjestys	N	prioritetsrekkefølge
 tuulivoimapuisto	N	vindkraftpark
-tupakansio	N	hytteperm
-tunturipeura	N	fjellrein
-tunturimittari	N	fjellbjørkemåler
 tunnettavuus	N	kjennskap
 tulvasuojelu	N	flomvern
 tulkkauskoppa	N	tolkekabin
-trifon	N	Trifon (mannsnavn)
 tietopaketti	N	informasjonspakke
 tietolomake	N	opplysningsskjema
-tekstikirja	N	tekstbok
 tasa-arvovaliokunta	N	likestillingsutvalg
 tarjouspyyntö	N	anbudsforespørsel
 tanssitapahtuma	N	dansearrangement
 tanssikilpailu	N	dansekonkurranse
 taloushallinto	N	økonomiforvaltning
-syys-	N	høst- (ordfragment)
 soveltamisalue	N	virkeområde
 sijoituspaikka	N	plasseringssted
 sessio	N	sesjon
@@ -1226,16 +1185,13 @@ selvitysmies	N	utreder	avviklingsbestyrer
 saamenkielentaitoinen	N	samisktalende person
 saamelaisvanhempi	N	samisk forelder
 saamelaisoikeus	N	samerettighet
-runokonserttikiertue	N	poesikonsertturné
 ruhtinatar	N	fyrstinne
 ruhtinaspari	N	fyrstepar
 riekkokanta	N	rypebestand
 resurssiulottuvuus	N	ressursdimensjon
-raekunnas	N	Raekunnas (stedsnavn)
 raami	N	ramme
 raamatunluku	N	bibellesning
 päätösasiakirja	N	sluttdokument
-poroelo	N	reinbestand
 porohomma	N	reindriftsarbeid
 pienpeto	N	lite rovdyr
 pettu	N	barkmel
@@ -1246,25 +1202,16 @@ paikallistalous	N	lokaløkonomi
 paastonaika	N	fastetid
 opetustunti	N	undervisningstime
 omavastuuosuus	N	egenandel
-nousuniemi	N	Nousuniemi (stedsnavn)
-norjatenolainen	N	uklar oppføring: norjatenolainen
-murrejohdos	N	dialektavledning
 metsästysalue	N	jaktområde
-metsäohjelma	N	skogprogram
 merikalastus	N	havfiske
 markkinointihanke	N	markedsføringsprosjekt
 mammografia	N	mammografi
-läänintaiteilija	N	regional kunstner
-lähipäivä	N	samlingsdag
-lupamyynti	N	tillatelsessalg
-luonnonsuojelukäräjä	N	naturvernting
-lohikanto	N	laksebestand (feilform)
+läänintaiteilija	N	fylkeskunstner
 lohenkalastus	N	laksefiske
 lisäresurssit	N	tilleggsressurser
 liiteri	N	vedskjul
 lausuntoesitys	N	forslag til uttalelse
-laskeutumispaikko	N	landingsplass (feilform)
-lappilainen	N	lapplending
+lappilainen	N	lapplending person fra Lappland
 käyttöpaine	N	brukspress
 kumpu	N	haug
 kulttuurinilmaus	N	kulturuttrykk
@@ -1273,27 +1220,21 @@ kulttuuri-tapahtuma	N	kulturarrangement
 kulttuurivyöhyke	N	kultursone
 kulttuurilaitos	N	kulturinstitusjon
 korkeakoulukonserni	N	høyskolekonsern
-kolttasaame	N	skoltesamisk
 kivennäismaa	N	mineraljord
-kirjanpitotehtävä	N	regnskapsoppgave
 kirjallisuusluettelo	N	litteraturliste
-kiintiöpäätös	N	kvotevedtak
 kieliteknologia	N	språkteknologi
-kielenelvytysilta	N	språkvitaliseringskveld
 keskustelutilaisuus	N	diskusjonsmøte
 kemikaalivirasto	N	kjemikaliebyrå
 kehittämistoiminta	N	utviklingsvirksomhet
 kaupunkisaamelainen	N	bysame
 kamariorkesteri	N	kammerorkester
-kalastussopimus	N	fiskeavtale
+kalastussopimus	N	fiskeriavtale
 kaivosyhtiö	N	gruveselskap
 kaira	N	bor	villmarksområde
 kaakkoisranta	N	sørøstbredd
 kaakkoislaita	N	sørøstkant
 juhlatilaisuus	N	festarrangement
 johdanto-osa	N	innledningsdel
-jagi	N	år (samisk ord)
-isyysvapa	N	fedrepermisjon (trolig isyysvapaa)
 intressiryhmä	N	interessegruppe
 informaatiokeskus	N	informasjonssenter
 hoitohenkilökunta	N	pleiepersonell
@@ -1308,26 +1249,18 @@ dokumenttiprojektori	N	dokumentprojektor
 diakoni	N	diakon
 cocktailtilaisuus	N	cocktailmottakelse
 aulatila	N	foajéareal
-atk-taito	N	datakompetanse
+atk-taito	N	EDB-kompetanse
 asuinmaa	N	bostedsland
 asiakysymys	N	saksspørsmål
-asenneilmapiiri	N	holdningsklima
 arvoluokka	N	verdiklasse
 arkivaate	N	hverdagsplagg
 appellatiivi	N	fellesnavn
 alkeet	N	grunnkunnskaper
-alje	N	uklar oppføring: alje
-äänitysmahdollisuus	N	opptaksmulighet
-ympäristökasvatus	N	miljøopplæring
 yläpää	N	øvre ende
-yksilövalitus	N	individklage
 yhdistelmäelinkeino	N	kombinasjonsnæring
-vuoksiselkä	N	Vuoksiselkä (stedsnavn)
 viitehinta	N	referansepris
 vesitaloushanke	N	vassdragsprosjekt
-vesiretkeilyreitti	N	vannbasert turrute
 vastuuhenkilö	N	ansvarsperson
-varpu	N	dvergbusk	Varpu (kvinnenavn)
 valiokuntakuuleminen	N	komitéhøring
 vaalihuoneisto	N	valglokale
 uusintapainos	N	nytt opplag
@@ -1340,51 +1273,33 @@ turvekammi	N	torvgamme
 turvaamisvelvoite	N	sikringsplikt
 tupasija	N	hustuft
 toteutusaika	N	gjennomføringstid
-toimistotehtävä	N	kontoroppgave
 toiminta-talousarvio	N	driftsbudsjett
 toimintavaihtoehto	N	handlingsalternativ
 toimintamahdollisuus	N	handlingsmulighet
 tilastointi	N	statistikkføring
 tiestö	N	veinett
 tiedottaja	N	informasjonsmedarbeider
-terhi	N	Terhi (kvinnenavn)	Asperugo procumbens (plante)
-tapani	N	Tapani (mannsnavn)
-tanssikatselmus	N	dansemønstring
 taimikko	N	ungskog
 suutelu	N	kyssing
-suura	N	sure (korankapittel)
+suura	N	sure	kapittel i Koranen
 sopeutuma	N	tilpasningsform
 sekakuoro	N	blandakor
-saamelaiskulttuurikeskushanke	N	prosjekt for samisk kultursenter
-saamelaisvastaisuus	N	samefiendtlighet
-saamelaistutkimus	N	samiskforskning
-saamelaissuku	N	samisk slekt
-saamelaiskoulu	N	samisk skole
 ruotsinsuomalainen	N	sverigefinne
 runsaussuhde	N	mengdeforhold
 rauhoitusmääräys	N	fredningsbestemmelse
 päävastuu	N	hovedansvar
 päiväraha	N	dagpenger	diett
-päivätupa	N	dagsturhytte
 päivitysinventointi	N	oppdateringsregistrering
 puitesopimus	N	rammeavtale
-polkutie	N	stivei
 petopolitiikka	N	rovdyrpolitikk
 perinteenkantaja	N	tradisjonsbærer
 penis	N	penis
-palveluasuminen	N	omsorgsboligtilbud
-palveluaula	N	servicefoajé
-oto	N	oto (uklar oppføring; mulig forkortelse)
-oppilaankirja	N	elevbok
-opetusneuvos	N	undervisningsråd
 ominaispiirre	N	særtrekk
 nuorisotila	N	ungdomslokale
 nuorisotoiminta	N	ungdomsvirksomhet
-nuorisolautakunta-hanke	N	ungdomsnemndprosjekt
 nimeämisryhmä	N	navngivingsgruppe
 naalikanta	N	fjellrevbestand
 männikkö	N	furuskog
-musiikkikilpailu	N	musikkonkurranse
 matkailustrategia	N	reiselivsstrategi
 lupapäätös	N	tillatelsesvedtak
 lupaviranomainen	N	tillatelsesmyndighet
@@ -1396,52 +1311,34 @@ lapinleinikki	N	lappsoleie
 käännöstyö	N	oversettelsesarbeid
 käyttöalue	N	bruksområde
 kyläkunta	N	bygdelag
-kuvakonsertti	N	bildekonsert
 kuulemismenettely	N	høringsprosedyre
 kuntarakenneuudistus	N	kommunestrukturreform
 kunnallisvaalit	N	kommunevalg
 koulukeskus	N	skolesenter
-kirkkovaltuusto	N	kirkelig kommunestyre
 kirjoitusvihko	N	skrivehefte
 kirjoituskilpailu	N	skrivekonkurranse
 kirjoittelu	N	skriverier
-kielisäännös	N	språkbestemmelse
 kieliolo	N	språkforhold
-kesäkylä	N	sommerby
+kesäkylä	N	sommerboplass
 kehityshanke	N	utviklingsprosjekt
 kaupunkiympäristö	N	bymiljø
 kasvilajisto	N	planteflora
 kanne	N	søksmål
 kaakkoispää	N	sørøstende
 ilmastoneuvottelu	N	klimaforhandling
-ihmisoikeustilanne	N	menneskerettighetssituasjon
 hyötyjäteasema	N	gjenvinningsstasjon
 hiippakuntavaltuusto	N	bispedømmeråd
-henkilöstöresurssit	N	personalressurser
 henkilöstöresurssi	N	personalressurs
 hallintojohtaja	N	administrasjonsdirektør
-foto	N	foto
-esiintymis-	N	opptredelses- (ordfragment)
-erämaaluo	N	uklar oppføring: erämaaluo
-erityisalue	N	særområde
 eloporomäärä	N	antall levende rein
 eduskuntakausi	N	parlamentsperiode
-editointitila	N	redigeringsrom
-city	N	by (engelsk ord)
 avauspuheenvuoro	N	åpningsinnlegg
 avauspuhe	N	åpningstale
-avauspuheenvuoro	N	åpningsinnlegg
-arvosteltava	N	noe som skal vurderes
-arkistomateriaali	N	arkivmateriale
 agenda	N	dagsorden
-20-vuotias	N	tjueåring
-15.tammikuuta-	N	15. januar (datofragment)
 äänitekniikka	N	lydteknikk
-äänimaisema	N	lydlandskap
 ympäristöopas	N	miljøveileder
 yhdistystoiminta	N	foreningsvirksomhet
 välttämättömyys	N	nødvendighet
-vuokra-alue	N	leieområde
 vesipiste	N	vannpost
 varhaiskasvatusyksikkö	N	barnehageenhet
 varhaiskasvatusala	N	barnehagesektor
@@ -1453,9 +1350,6 @@ valtauskorvaus	N	mutingsgodtgjørelse
 uudistamistyö	N	fornyelsesarbeid
 uittoränni	N	fløtningsrenne
 työmaa	N	arbeidsplass	byggeplass
-tuottavuusohjelma	N	produktivitetsprogram
-tunturimittarituho	N	fjellbjørkemålerskade
-tukimuoto	N	støtteform
 tervehdyspuhe	N	hilsningstale
 terminologi	N	terminolog
 termipankki	N	termbank
@@ -1466,21 +1360,13 @@ taustaryhmä	N	bakgrunnsgruppe
 tapahtuma-asiakas	N	arrangementskunde
 talousarvioesitys	N	budsjettforslag
 sääolosuhteet	N	værforhold
-sähköpostivarmistus	N	e-postbekreftelse
 syrjintäsuoja	N	diskrimineringsvern
-syksykirja	N	høstbok
-suunnittelutehtävä	N	planleggingsoppgave
-suunnittelukäytäntö	N	planleggingspraksis
 suunnitelmavaihtoehto	N	planalternativ
 suopunginheitto	N	lassokasting
-suomalaiskulttuuri	N	finsk kultur
 sopa	N	klesdrakt (foreldet)
 sisna	N	garvet reinskinn
-sauk	N	uklar oppføring: sauk
-saamelaistaho	N	samisk instans
-saamelaiskulttuuriosio	N	del om samisk kultur
 ruska	N	høstfarger
-ruokailupalvelu	N	matserveringstjeneste
+ruokailupalvelu	N	matserveringstjeneste	catering
 rotkolaakso	N	ravinedal
 riittävyys	N	tilstrekkelighet
 riistalaji	N	viltart
@@ -1492,17 +1378,13 @@ raivaus	N	rydding
 pöytäryhmä	N	bordgruppe
 päätöksentekoelin	N	beslutningsorgan
 päätöksentekijä	N	beslutningstaker
-päätöksentekoelin	N	beslutningsorgan
 pääsisäänkäynti	N	hovedinngang
-pääjumalanpalvelus	N	hovedgudstjeneste
-puuta	N	trevirke (bøyningsform av puu)
 puristus	N	pressing	klem
 projektiryhmä	N	prosjektgruppe
-porotila	N	reingård
+porotila	N	reindriftsenhet
 poronhoitomalli	N	reindriftsmodell
-porokylä	N	reinby
+porokylä	N	reindriftslandsby
 polttopuunotto	N	veduttak
-pohjoissaamelaistenolainen	N	uklar oppføring: pohjoissaamelaistenolainen
 pohjoislaita	N	nordkant
 pohjapiirros	N	plantegning
 palkinnonsaaja	N	prismottaker
@@ -1511,38 +1393,28 @@ osatekijä	N	delfaktor
 oppimisympäristö	N	læringsmiljø
 opintojakso	N	studieemne
 opettajapula	N	lærermangel
-omanlainen	N	særegen person
 niva	N	stryk
 nettisivusto	N	nettsted
-nenetsi	N	nenets
+nenetsi	N	nenetser
 nelostie	N	riksvei 4
-nahas	N	uklar oppføring: nahas
 muutosesitys	N	endringsforslag
 musiikkitoiminta	N	musikkvirksomhet
 musiikinopettaja	N	musikklærer
 muistelus	N	erindring
 mielenterveystalo	N	psykisk helsesenter
-metsästyskäytänne	N	jaktpraksis
 metsäautotie	N	skogsbilvei
 metsonsoidinaika	N	tiurleiktid
 messut	N	messe
-maisema-asia	N	landskapssak
-maisemayksikkö	N	landskapsenhet
-maaoikeustutkimus	N	landrettighetsforskning
-lukiokoulutus	N	videregående opplæring (studieforberedende)
+lukiokoulutus	N	studieforberedende videregående opplæring
 lounaisranta	N	sørvestbredd
 lohiloinen	N	lakseparasitt
 lisäbudjetti	N	tilleggsbudsjett
-lei	N	leu (valutaenhet, flertall)
 lastenpäivä	N	barnedag
-lannanvaara	N	Lannanvaara (stedsnavn)
 lainsäädäntöhanke	N	lovgivningsprosjekt
 laiduninventointi	N	beitekartlegging
 käyttökieli	N	bruksspråk
-kuvataidekilpailu	N	bildekunstkonkurranse
 kurkkulaulu	N	strupesang
 kuntajako	N	kommuneinndeling
-kulttuurikeskushanke	N	kultursenterprosjekt
 kulttuuriohjelma	N	kulturprogram
 kulttuuriitsehallinto	N	kulturelt selvstyre
 kudosnäyte	N	vevsprøve
@@ -1556,9 +1428,7 @@ kieliala	N	språkfelt
 kielenkäyttövalinta	N	språkbruksvalg
 kielenkäyttötilanne	N	språkbrukssituasjon
 kesäreitti	N	sommertrasé
-keräämis-	N	innsamlings- (ordfragment)
 kelpoisuusehto	N	kvalifikasjonskrav
-kellojensoitto	N	klokkeringing
 kelkkailu	N	aking	snøskuterkjøring
 kelkkailija	N	aker	snøskuterfører
 kanttori	N	kantor
@@ -1574,26 +1444,22 @@ julkaisusarja	N	publikasjonsserie
 joutomaa	N	uproduktiv mark
 journalismi	N	journalistikk
 jiddiš	N	jiddisk
-jaettava	N	noe som skal deles ut
 huoltotyö	N	vedlikeholdsarbeid
 huoltoreitti	N	servicetrasé
-hiihtovaellus	N	skivandring
 giro	N	giro
-fonttivirhe	N	skriftfeil
+fonttivirhe	N	typesnittfeil	fontfeil
 etäyhteys	N	fjernforbindelse
 esittelyvideo	N	presentasjonsvideo
 erityisavustaja	N	spesialrådgiver
 epäoikeudenmukaisuus	N	urettferdighet
 energiamuoto	N	energiform
 edellisvuosi	N	foregående år
-biodiversiteettitoimintaohjelma	N	handlingsprogram for biologisk mangfold
 avohuolto	N	åpen omsorg
 assimilaatio	N	assimilering
 askartelupaja	N	formingsverksted
-asiantuntijakokous	N	ekspertmøte
 asiakaspalvelija	N	kundebehandler
 arnikki	N	solblom
-amanuenssi	N	amanuensis
+amanuenssi	N	medlem av administrasjonen ved universitetsinstitutt
 aluetoimipiste	N	regionkontor
 aluekehitys	N	regional utvikling
 alkuviikko	N	begynnelsen av uken
@@ -1608,13 +1474,10 @@ ylösnouseminen	N	oppstandelse
 yleissuunnitelma	N	overordnet plan
 yleiskalastusoikeus	N	alminnelig fiskerett
 yleishallinto	N	generell administrasjon
-yhdenvertaisuuskonferenssi	N	likeverdskonferanse
 vuoroluku	N	veksellesning
 volyymi	N	volum
 voimassaoloaika	N	gyldighetsperiode
-virsiryhmä	N	salmegruppe
-virpi	N	kvist	Virpi (kvinnenavn)
-virkistyskäyttövyöhyke	N	friluftsbrukssone
+virpi	N	kvist
 virkistyspalvelu	N	friluftstjeneste
 vihkipari	N	brudepar
 viestintäministeriö	N	kommunikasjonsdepartement
@@ -1625,9 +1488,6 @@ töpöhäntä	N	stumphale
 työkiire	N	arbeidspress
 turjansaame	N	tersamisk
 tunturijärvi	N	fjellvann
-tulvametsä	N	flommarksskog
-toteutuskeino	N	gjennomføringsmiddel
-toivoniemi	N	Toivoniemi (stedsnavn)
 toimintakausi	N	virksomhetsperiode
 teuras	N	slaktedyr
 terveystarkastus	N	helseundersøkelse
@@ -1640,41 +1500,32 @@ taidekuva	N	kunstbilde
 taideharrastus	N	kunsthobby
 taideantologia	N	kunstantologi
 tahtotila	N	politisk vilje
-säästöpuu	N	livsløpstre
 syrjintäasiamies	N	diskrimineringsombud
 suunnittelijaryhmä	N	planleggergruppe
 suunnitelma-alue	N	planområde
 sukulaisuusjärjestelmä	N	slektskapssystem
 soveltuvuus	N	egnethet
-solunäytekontrolli	N	kontroll av celleprøve
 soidin	N	paringsspill
-sivuaineopinto	N	støttefagstudium
+sivuaineopinto	N	bifagstudium
 silkkipohja	N	silkebunn
 siirtoseinä	N	flyttbar vegg
 siirtokuormaus	N	omlasting
 seurapeli	N	selskapsspill
-seuranto	N	oppfølging (sjelden form)
+seuranto	N	oppfølging
 seurantatyöryhmä	N	oppfølgingsarbeidsgruppe
-seksitautitesti	N	test for seksuelt overførbare infeksjoner
 safari	N	safari
 saamelaisoikeuskomitea	N	samerettsutvalg
-saamelaismuusikko	N	samisk musiker
-saamelaisidentiteetti	N	samisk identitet
 ryssänpalko	N	russekål
 rikosilmoitus	N	politianmeldelse
 retkikohde	N	turmål
 raskausviikko	N	svangerskapsuke
 rakennusurakka	N	byggeentreprise
-rahoitustehtävä	N	finansieringsoppgave
 rahoitusohjelma	N	finansieringsprogram
 raakalaina	N	ubearbeidet lånord
 pääsymaksu	N	inngangspris
 pääovi	N	hoveddør
 pulju	N	butikk (slang)
-poronhoitotöistyö	N	reindriftsarbeid (feilform)
 poronhoitoelinkeino	N	reindriftsnæring
-polttopuuhuolto	N	vedforsyning
-pohjoisstenolainen	N	uklar oppføring: pohjoisstenolainen
 piki	N	bek
 peuratie	N	villreinsti
 perusparannus	N	utbedring
@@ -1683,35 +1534,31 @@ perintötekijä	N	arveanlegg
 perehtyneisyys	N	inngående kjennskap
 palvelumuoto	N	tjenesteform
 palvelutarjonta	N	tjenestetilbud
-pahtakeltto	N	haukeskjegg (underarten Crepis tectorum subsp. nigrescens)
+pahtakeltto	N	haukeskjegg	underarten Crepis tectorum subsp. nigrescens
 osahanke	N	delprosjekt
 oikeussuoja	N	rettsvern
 oikeuslähde	N	rettskilde
 oikeudenkäyntiavustaja	N	prosessfullmektig
 ohjelmakausi	N	programperiode
-näyttelytoiminta	N	utstillingsvirksomhet
 nykysäännös	N	gjeldende bestemmelse
 nuorisotapahtuma	N	ungdomsarrangement
 nuolenkärki	N	pilspiss
-nukki	N	uklar oppføring: nukki
 nimistöpalvelu	N	navnetjeneste
 neuvottelija	N	forhandler
 nettisanakirja	N	nettordbok
 mutu	N	ørekyte	magefølelse
 monikäyttömetsä	N	flerbruksskog
 monialainen	N	tverrfaglig person
-metsä-hallitus	N	Forststyrelsen (Finlands statsforstforvaltning)
+metsä-hallitus	N	Forststyrelsen	Finlands statsskogsforvaltning
 merijää	N	havis
-matee	N	lake (trolig made)
 maisemointi	N	landskapsforming
 maatalousministeriö	N	landbruksdepartement
 maankäyttöpäätös	N	arealbruksvedtak
-maaalue	N	landområde
-lähimmäinen	N	medmenneske
-lähiruoka	N	lokalmat
+maa-alue	N	landområde
+lähimmäinen	N	medmenneske	nær pårørende
+lähiruoka	N	lokalmat	kortreist mat
 lyhytfilmi	N	kortfilm
 luvallisuus	N	lovlighet
-lupaohje	N	tillatelsesveiledning
 lupametsästys	N	jakt med tillatelse
 luovutustilaisuus	N	overrekkelsesarrangement
 luottamuslautakunta	N	tillitsnemnd
@@ -1721,7 +1568,6 @@ luonnonlaidun	N	utmarksbeite
 luokkalainen	N	skoleelev på et klassetrinn
 lumiteatteri	N	snøteater
 lounaiskulma	N	sørvesthjørne
-lohikanna	N	laksebestand (feilform)
 lisätoimi	N	tilleggstiltak
 leiriytyminen	N	telting
 lainsäädäntömuutos	N	lovendring
@@ -1731,35 +1577,22 @@ käyntiosoite	N	besøksadresse
 kutsuvieras	N	invitert gjest
 kustannusosakeyhtiö	N	forlagsaksjeselskap
 kustannuspäällikkö	N	forlagssjef
-kuomujärvi	N	Kuomujärvi (stedsnavn)
-kulttuuriperintöviranomainen	N	kulturminnemyndighet
 kulttuuri-ilmaisu	N	kulturuttrykk
 kultaryntäys	N	gullrush
 koulutussuunnitelma	N	opplæringsplan
 koulutusaste	N	utdanningsnivå
 kouluradio	N	skoleradio
 kotihoito	N	hjemmesykepleie	hjemmeomsorg
-kolttasaamenkieli	N	skoltesamisk språk
 kokouspöytä	N	møtebord
 kokeiluhanke	N	forsøksprosjekt
-koira-alue	N	hundeområde
 koillislaita	N	nordøstkant
 kilpailukyky	N	konkurranseevne
-kieliasia	N	språksak
-kielenelvytysseminaari	N	språkvitaliseringsseminar
-kevätaapinen	N	vår-ABC
 kesätapahtuma	N	sommerarrangement
-kerrottava	N	noe å fortelle
-kehittämisedellytys	N	utviklingsforutsetning
-kauko	N	Kauko (mannsnavn)
 katutanssi	N	gatedans
-kansanvälinen	N	mellomfolkelig (adjektiv; ikke substantiv)
 kanjonialue	N	canyonområde
-kalastussääntö	N	fiskeregel
 kalastusrajoitus	N	fiskebegrensning
 kaivu	N	graving
-kaavamerkintä	N	planmarkering
-järvivesi	N	innsjøvann
+järvivesi	N	ferskvann
 inventointimenetelmä	N	kartleggingsmetode
 inuiitti	N	inuitt
 iltapäivätoiminta	N	skolefritidsordning
@@ -1770,7 +1603,6 @@ huolestuneisuus	N	bekymring
 hirvenmetsästys	N	elgjakt
 hevi	N	heavy metal
 henkilötyövuosi	N	årsverk
-henkilöstökoulutushanke	N	personalopplæringsprosjekt
 henkikirja	N	manntall
 havaintoasema	N	observasjonsstasjon
 hautajaiset	N	begravelse
@@ -1780,36 +1612,25 @@ flunssa	N	forkjølelse	influensa
 evakkomatka	N	evakueringsreise
 esilukija	N	forsanger	lektor (liturgi)
 erityismääräraha	N	særbevilgning
-erityismaininta	N	spesiell omtale
-ei-saamelainen	N	ikke-same
-duodji-	N	duodji- (samisk håndverk; ordfragment)
 dokumenttipankki	N	dokumentbank
 askare	N	gjøremål
-askar	N	gjøremål (variant av askare)
 asiantuntijalautakunta	N	ekspertnemnd
-apulaistuottaja	N	assisterende produsent
 ammatti-identiteetti	N	yrkesidentitet
-alkusyksy	N	tidlig høst
-alkuperäiskansakysymys	N	urfolksspørsmål
+alkusyksy	N	tidlig på høsten
 alkuperäisasukas	N	urinnbygger
 alakomissio	N	underkommisjon
--luokkalainen	N	-klassing
 ympäristöviranomainen	N	miljømyndighet
 väittämä	N	påstand
 vähyys	N	knapphet
 vokaalimusiikki	N	vokalmusikk
 visuaalisuus	N	visuelt uttrykk
-virsilauluryhmä	N	salmesanggruppe
 videoneuvotteludekki	N	videokonferanseutstyr
 verhokuvio	N	gardinmønster
-vastuulaji	N	ansvarsart
 valvontajärjestelmä	N	tilsynssystem
 valmisteluvaihe	N	forberedelsesfase
 valitsijayhdistys	N	velgerforening
 uutistuotanto	N	nyhetsproduksjon
-uudis	N	nyrydding (ordstamme)	nyhet (ordstamme)
 urosporo	N	reinbukk
-uhanalaistumiskehitys	N	utvikling mot truet status
 työtilanne	N	arbeidssituasjon
 työolot	N	arbeidsforhold
 työehto	N	arbeidsvilkår
@@ -1823,8 +1644,6 @@ tulostustiedosto	N	utskriftsfil
 tulkkauspalvelu	N	tolketjeneste
 toimittaminen	N	levering	redigering
 tilastotieto	N	statistisk opplysning
-tehtäväkenttä	N	oppgavefelt
-teatterikilpailu	N	teaterkonkurranse
 tavoiteanalyysi	N	målanalyse
 tasalattia	N	flatt gulv
 tanssiesitys	N	danseforestilling
@@ -1833,46 +1652,27 @@ taidelaji	N	kunstart
 taidekäsityö	N	kunsthåndverk
 syötävä	N	noe spiselig
 syyspäivä	N	høstdag
-suunnitteluohje	N	planleggingsveiledning
-suopunginheittokilpailu	N	lassokastkonkurranse
-suomi-saame	N	finsk–samisk
 suojelutoimenpide	N	vernetiltak
 sulauttamispolitiikka	N	assimileringspolitikk
 sivutapahtuma	N	sidearrangement
 sivistysseura	N	opplysningsforening
 sisäasianministeriö	N	innenriksdepartement
-sisarelin	N	søsterorgan
-siirtäjä	N	flytter	overfører
+sisarelin	N	søsterorgan	administrativt organ med beslektede oppgaver
 seurantajakso	N	oppfølgingsperiode
 seminaariyleisö	N	seminarpublikum
 sekajäte	N	restavfall
-saunatakki	N	badekåpe
 sanakirjatyö	N	ordboksarbeid
-san	N	san (folk eller språk)
 saamenmestaruuskisa	N	samemesterskap
-saamelaismusiikkikeskushanke	N	prosjekt for samisk musikksenter
-saamelaistoimijoki	N	uklar oppføring: saamelaistoimijoki
-saamelaisorganisaatio	N	samisk organisasjon
-saamelaisjoikaaja	N	samisk joiker
-saamelaisinstituutio	N	samisk institusjon
-saamelaisesine	N	samisk gjenstand
 ryhmäkeskustelu	N	gruppesamtale
 ruotsinsaamelainen	N	same fra Sverige
-ruotenolainen	N	uklar oppføring: ruotenolainen
 rotkoalue	N	ravineområde
 rock-yhtye	N	rockeband
 riistakolmiolaskenta	N	vilttaksering med triangelmetoden
 retro	N	retro
-retkeilyneuvonta	N	turveiledning
-resurssitaso	N	ressursnivå
 ratkaisumalli	N	løsningsmodell
-rannas	N	strand (dialektform)
-rakennusperintökohde	N	bygningsarvsted
-rajoitusosa	N	restriksjonsdel
 rahoituspäätös	N	finansieringsvedtak
 rahoitushakemus	N	finansieringssøknad
 pääperiaate	N	hovedprinsipp
-päiväkotiryhmä	N	barnehagegruppe
 pyyntipaikka	N	fangstplass
 puolustusvoimat	N	forsvaret
 potilaskertomus	N	pasientjournal
@@ -1885,15 +1685,12 @@ perhe-etuus	N	familieytelse
 pelastustoimi	N	redningsvesen
 pedagogiikka	N	pedagogikk
 partiomaja	N	speiderhytte
-parviola	N	Parviola (egennavn)
 palvelukeskus	N	servicesenter
 painanne	N	forsenkning
 otto-oikeus	N	overtakelsesrett	uttaksrett
-ottaja	N	taker
 osallistujamäärä	N	deltakerantall
 opinnäytetyö	N	avhandling
 opetusvirasto	N	utdanningsetat
-opetusasia	N	undervisningssak
 opettajakoulutus	N	lærerutdanning
 opastusviestintä	N	veiledningskommunikasjon
 näyttelysermi	N	utstillingsskjerm
@@ -1902,12 +1699,11 @@ naispuoli	N	kvinnekjønn
 naalialue	N	fjellrevområde
 muuttuma	N	endret form
 muutostyö	N	ombyggingsarbeid
-musiikintekijä	N	musikkskaper
 muistitieto	N	muntlig overlevert kunnskap
 muistitikku	N	minnepinne
-muinaisjäännösryhmä	N	fornminnegruppe
 mittariarvo	N	målerverdi
 metsävarat	N	skogressurser
+Trond
 merisaamelainen	N	sjøsame
 meriluonto	N	havnatur
 mammografiatutkimus	N	mammografiundersøkelse

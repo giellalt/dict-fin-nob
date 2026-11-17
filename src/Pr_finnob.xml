@@ -33,7 +33,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">ilman</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Pr">uten</t>
          </tg>
       </mg>
@@ -43,7 +43,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">yli</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Pr">over</t>
             <xg>
                <x>yli odotusten.</x>

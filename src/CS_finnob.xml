@@ -34,7 +34,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">että</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="CS">at</t>
          </tg>
       </mg>
@@ -44,7 +44,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">sillä</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="CS">fordi</t>
          </tg>
       </mg>
@@ -54,7 +54,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">ettei</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="CS">at ikke</t>
          </tg>
       </mg>
@@ -64,7 +64,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">jos</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="CS">dersom</t>
             <t pos="CS">hvis</t>
             <t pos="CS">om</t>
@@ -76,7 +76,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">kuin</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="CS">enn</t>
             <t pos="CS">som</t>
          </tg>
@@ -87,7 +87,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">kun</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="CS">da</t>
             <t pos="CS">når</t>
          </tg>
@@ -98,7 +98,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">koska</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="CS">fordi</t>
             <t pos="CS">når</t>
          </tg>
@@ -109,7 +109,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">entä</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="CS">enn</t>
          </tg>
       </mg>

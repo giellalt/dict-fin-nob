@@ -34,7 +34,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Suomi</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Finland</t>
          </tg>
       </mg>
@@ -44,7 +44,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Venäjä</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Russland</t>
          </tg>
       </mg>
@@ -54,7 +54,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Ruotsi</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Sverige</t>
          </tg>
       </mg>
@@ -64,7 +64,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Tanska</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Danmark</t>
          </tg>
       </mg>
@@ -74,7 +74,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Belgia</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Belgia</t>
          </tg>
       </mg>
@@ -84,7 +84,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Grönlanti</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Grønland</t>
          </tg>
       </mg>
@@ -94,7 +94,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Albania</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Albania</t>
          </tg>
       </mg>
@@ -104,7 +104,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Sodankylä</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Sodankylä</t>
          </tg>
       </mg>
@@ -114,7 +114,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Otava</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Karlsvogna</t>
          </tg>
       </mg>
@@ -124,7 +124,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Inari</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Enare</t>
          </tg>
       </mg>
@@ -134,7 +134,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Teno</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Tana</t>
          </tg>
       </mg>
@@ -144,7 +144,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Armenia</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Armenia</t>
          </tg>
       </mg>
@@ -154,7 +154,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Bulgaria</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Bulgaria</t>
          </tg>
       </mg>
@@ -164,7 +164,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Englanti</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">England</t>
          </tg>
       </mg>
@@ -174,7 +174,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Indonesia</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Indonesia</t>
          </tg>
       </mg>
@@ -184,7 +184,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Islanti</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Island</t>
          </tg>
       </mg>
@@ -194,7 +194,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Kauppakomppania</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Handelskompaniet</t>
          </tg>
       </mg>
@@ -204,7 +204,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Kiina</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Kina</t>
          </tg>
       </mg>
@@ -214,7 +214,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Kiribati</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Kiribati</t>
          </tg>
       </mg>
@@ -224,7 +224,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Kongo</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Kongo</t>
          </tg>
       </mg>
@@ -234,7 +234,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Kroatia</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Kroatia</t>
          </tg>
       </mg>
@@ -244,7 +244,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Latvia</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Latvia</t>
          </tg>
       </mg>
@@ -254,7 +254,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Liettua</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Litauen</t>
          </tg>
       </mg>
@@ -264,7 +264,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Mali</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Mali</t>
          </tg>
       </mg>
@@ -274,7 +274,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Malta</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Malta</t>
          </tg>
       </mg>
@@ -284,7 +284,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Moldova</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Moldova</t>
          </tg>
       </mg>
@@ -294,7 +294,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Nauru</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Nauru</t>
          </tg>
       </mg>
@@ -304,7 +304,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Nepal</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Nepal</t>
          </tg>
       </mg>
@@ -314,7 +314,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Saksa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Tyskland</t>
          </tg>
       </mg>
@@ -324,7 +324,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Tonga</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Tonga</t>
          </tg>
       </mg>
@@ -334,7 +334,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Tuvalu</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Tuvalu</t>
          </tg>
       </mg>
@@ -344,7 +344,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Ukraina</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Ukraina</t>
          </tg>
       </mg>
@@ -354,7 +354,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Vietnam</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Vietnam</t>
          </tg>
       </mg>
@@ -364,7 +364,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Neuvostoliitto</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Sovjetunionen</t>
          </tg>
       </mg>
@@ -374,7 +374,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Ranska</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Frankrike</t>
          </tg>
       </mg>
@@ -384,7 +384,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Turku</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Åbo</t>
          </tg>
       </mg>
@@ -394,7 +394,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Japani</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Japan</t>
          </tg>
       </mg>
@@ -404,7 +404,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Italia</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Italia</t>
          </tg>
       </mg>
@@ -414,7 +414,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Espanja</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Spania</t>
          </tg>
       </mg>
@@ -424,7 +424,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Puola</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Polen</t>
          </tg>
       </mg>
@@ -434,7 +434,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Afrikka</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Afrika</t>
          </tg>
       </mg>
@@ -444,7 +444,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Pariisi</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Paris</t>
          </tg>
       </mg>
@@ -454,7 +454,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Lappi</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Lappland</t>
          </tg>
       </mg>
@@ -464,7 +464,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Karjala</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Karelen</t>
          </tg>
       </mg>
@@ -474,7 +474,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Jeesus</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Jesus</t>
          </tg>
       </mg>
@@ -484,7 +484,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Kreikka</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Hellas</t>
          </tg>
       </mg>
@@ -494,7 +494,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Norja</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Norge</t>
          </tg>
       </mg>
@@ -504,7 +504,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Raamattu</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Bibelen</t>
          </tg>
       </mg>
@@ -514,7 +514,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Unkari</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Ungarn</t>
          </tg>
       </mg>
@@ -524,7 +524,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Viro</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Estland</t>
          </tg>
       </mg>
@@ -534,7 +534,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Lahti</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Lahtis</t>
          </tg>
       </mg>
@@ -544,7 +544,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Turkki</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Tyrkia</t>
          </tg>
       </mg>
@@ -554,7 +554,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Iso-Britannia</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Storbritannia</t>
          </tg>
       </mg>
@@ -564,7 +564,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Portugali</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Portugal</t>
          </tg>
       </mg>
@@ -574,7 +574,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Uusimaa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Nyland</t>
          </tg>
       </mg>
@@ -584,7 +584,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Ahvenanmaa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Åland</t>
          </tg>
       </mg>
@@ -594,7 +594,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Pohjanmaa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Österbotten</t>
          </tg>
       </mg>
@@ -604,7 +604,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Alankomaa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Nederland</t>
          </tg>
       </mg>
@@ -614,7 +614,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Hämeenlinna</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Tavastehus</t>
          </tg>
       </mg>
@@ -624,7 +624,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Lähi-itä</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Midtøsten</t>
          </tg>
       </mg>
@@ -634,7 +634,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Preussi</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Preussen</t>
          </tg>
       </mg>
@@ -644,7 +644,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Lappeenranta</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Villemannstrand</t>
          </tg>
       </mg>
@@ -654,7 +654,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Mikkeli</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">St. Michel</t>
          </tg>
       </mg>
@@ -664,7 +664,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Korea</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Korea</t>
          </tg>
       </mg>
@@ -674,7 +674,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Serbia</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Serbia</t>
          </tg>
       </mg>
@@ -684,7 +684,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Syyria</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Syria</t>
          </tg>
       </mg>
@@ -694,7 +694,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Mari</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Mari</t>
          </tg>
       </mg>
@@ -704,7 +704,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Kallio</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Berghäll</t>
          </tg>
       </mg>
@@ -714,7 +714,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Thaimaa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Thailand</t>
          </tg>
       </mg>
@@ -724,7 +724,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Pohjola</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Norden</t>
          </tg>
       </mg>
@@ -734,7 +734,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Rauma</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Raumo</t>
          </tg>
       </mg>
@@ -744,7 +744,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Kotka</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Kotka</t>
          </tg>
       </mg>
@@ -754,7 +754,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Satakunta</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Satakunda</t>
          </tg>
       </mg>
@@ -764,7 +764,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Savo</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Savolax</t>
          </tg>
       </mg>
@@ -774,7 +774,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Marokko</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Marokko</t>
          </tg>
       </mg>
@@ -784,7 +784,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Sahara</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Sahara</t>
          </tg>
       </mg>
@@ -794,7 +794,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Hollanti</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Holland</t>
          </tg>
       </mg>
@@ -804,7 +804,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">SI-järjestelmä</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">SI-system</t>
          </tg>
       </mg>
@@ -814,7 +814,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Järvenpää</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Träskenda</t>
          </tg>
       </mg>
@@ -824,7 +824,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Naantali</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Nådendal</t>
          </tg>
       </mg>
@@ -834,7 +834,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Tiibet</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Tibet</t>
          </tg>
       </mg>
@@ -844,7 +844,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Linnunrata</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Melkeveien</t>
          </tg>
       </mg>
@@ -854,7 +854,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Kirkkonummi</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Kyrkslätt</t>
          </tg>
       </mg>
@@ -864,7 +864,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Yhdysvallat</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">USA</t>
          </tg>
       </mg>
@@ -874,7 +874,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Eurooppa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Europa</t>
          </tg>
       </mg>
@@ -884,7 +884,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Helsinki</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Helsingfors</t>
          </tg>
       </mg>
@@ -894,7 +894,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Maa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Jorda</t>
          </tg>
       </mg>
@@ -904,7 +904,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Rooma</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Roma</t>
          </tg>
       </mg>
@@ -914,7 +914,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Jumala</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Gud</t>
          </tg>
       </mg>
@@ -924,7 +924,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Tampere</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Tammerfors</t>
          </tg>
       </mg>
@@ -934,7 +934,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Intia</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">India</t>
          </tg>
       </mg>
@@ -944,7 +944,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Oulu</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Uleåborg</t>
          </tg>
       </mg>
@@ -954,7 +954,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Pietari</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">St. Petersburg</t>
          </tg>
       </mg>
@@ -964,7 +964,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Egypti</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Egypt</t>
          </tg>
       </mg>
@@ -974,7 +974,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Moskova</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Moskva</t>
          </tg>
       </mg>
@@ -984,7 +984,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Kaarle</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Karl</t>
          </tg>
       </mg>
@@ -994,7 +994,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Aurinko</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Sola</t>
          </tg>
       </mg>
@@ -1004,7 +1004,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Lontoo</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">London</t>
          </tg>
       </mg>
@@ -1014,7 +1014,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Kanada</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Canada</t>
          </tg>
       </mg>
@@ -1024,7 +1024,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Berliini</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Berlin</t>
          </tg>
       </mg>
@@ -1034,7 +1034,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Vaasa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Vasa</t>
          </tg>
       </mg>
@@ -1044,7 +1044,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Aasia</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Asia</t>
          </tg>
       </mg>
@@ -1054,7 +1054,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Amerikka</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Amerika</t>
          </tg>
       </mg>
@@ -1064,7 +1064,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Pori</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Bjørneborg</t>
          </tg>
       </mg>
@@ -1074,7 +1074,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Pohjois-Amerikka</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Nord-Amerika</t>
          </tg>
       </mg>
@@ -1084,7 +1084,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Sveitsi</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Sveits</t>
          </tg>
       </mg>
@@ -1094,7 +1094,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Bysantti</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Bysants</t>
          </tg>
       </mg>
@@ -1104,7 +1104,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Kustaa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Gustav</t>
          </tg>
       </mg>
@@ -1114,7 +1114,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Viipuri</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Viborg</t>
          </tg>
       </mg>
@@ -1124,7 +1124,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Tukholma</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Stockholm</t>
          </tg>
       </mg>
@@ -1134,7 +1134,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Espoo</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Esbo</t>
          </tg>
       </mg>
@@ -1144,7 +1144,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Etelä-Amerikka</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Sør-Amerika</t>
          </tg>
       </mg>
@@ -1154,7 +1154,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Konstantinopoli</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Konstantinopel</t>
          </tg>
       </mg>
@@ -1164,7 +1164,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Vantaa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Vanda</t>
          </tg>
       </mg>
@@ -1174,7 +1174,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Argentiina</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Argentina</t>
          </tg>
       </mg>
@@ -1184,7 +1184,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Ateena</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Aten</t>
          </tg>
       </mg>
@@ -1194,7 +1194,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Aku Ankka</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Donald Duck</t>
          </tg>
       </mg>
@@ -1204,7 +1204,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Irlanti</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Irland</t>
          </tg>
       </mg>
@@ -1214,7 +1214,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Atlantti</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Atlanterhavet</t>
          </tg>
       </mg>
@@ -1224,7 +1224,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Kuuba</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Cuba</t>
          </tg>
       </mg>
@@ -1234,7 +1234,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Kalifornia</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">California</t>
          </tg>
       </mg>
@@ -1244,7 +1244,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Skotlanti</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Skottland</t>
          </tg>
       </mg>
@@ -1254,7 +1254,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Porvoo</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Borgå</t>
          </tg>
       </mg>
@@ -1264,7 +1264,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Baltia</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Baltikum</t>
          </tg>
       </mg>
@@ -1274,7 +1274,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Tornio</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Torneå</t>
          </tg>
       </mg>
@@ -1284,7 +1284,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Siperia</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Sibir</t>
          </tg>
       </mg>
@@ -1294,7 +1294,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Varsova</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Warsava</t>
          </tg>
       </mg>
@@ -1304,7 +1304,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Itä-Eurooppa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Øst-Europa</t>
          </tg>
       </mg>
@@ -1314,7 +1314,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Koraani</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Koranen</t>
          </tg>
       </mg>
@@ -1324,7 +1324,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Palestiina</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Palestina</t>
          </tg>
       </mg>
@@ -1334,7 +1334,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Riika</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Riga</t>
          </tg>
       </mg>
@@ -1344,7 +1344,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Laatokka</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Ladoga</t>
          </tg>
       </mg>
@@ -1354,7 +1354,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Tikkurila</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Dickursby</t>
          </tg>
       </mg>
@@ -1364,7 +1364,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Kenia</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Kenya</t>
          </tg>
       </mg>
@@ -1374,7 +1374,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Kööpenhamina</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">København</t>
          </tg>
       </mg>
@@ -1384,7 +1384,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Euraasia</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Eurasia</t>
          </tg>
       </mg>
@@ -1394,7 +1394,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Tallinna</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Tallinn</t>
          </tg>
       </mg>
@@ -1404,7 +1404,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Loviisa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Lovisa</t>
          </tg>
       </mg>
@@ -1414,7 +1414,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Pohjois-Eurooppa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Nord-Europa</t>
          </tg>
       </mg>
@@ -1424,7 +1424,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop">Kamppi</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="N">Kampen</t>
          </tg>
       </mg>

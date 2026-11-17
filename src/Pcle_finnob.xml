@@ -34,7 +34,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">kuitenkin</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">likevel</t>
          </tg>
       </mg>
@@ -44,7 +44,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">vain</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">bare</t>
          </tg>
       </mg>
@@ -54,7 +54,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">jopa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">til og med</t>
             <xg>
               <x>Hän jopa lauloi pikkujouluissa.</x>
@@ -68,12 +68,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">kuten</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">slik som</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">akkurat som</t>
          </tg>
       </mg>
@@ -83,7 +83,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">jo</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">allerede</t>
          </tg>
       </mg>
@@ -93,7 +93,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">voi</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">oi</t>
          </tg>
       </mg>
@@ -103,7 +103,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">vielä</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">enda</t>
          </tg>
       </mg>
@@ -113,7 +113,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">lähes</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">nesten</t>
          </tg>
       </mg>
@@ -123,7 +123,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">taas</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">igjen</t>
          </tg>
       </mg>
@@ -133,7 +133,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">vasta</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">nettopp</t>
          </tg>
       </mg>
@@ -143,7 +143,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">enää</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">mer</t>
          </tg>
       </mg>
@@ -153,7 +153,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">siis</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">altså</t>
          </tg>
       </mg>
@@ -163,7 +163,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">yhä</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">enda</t>
          </tg>
       </mg>
@@ -173,7 +173,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">ainoastaan</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">bare</t>
          </tg>
       </mg>
@@ -183,7 +183,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">melko</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">temmelig</t>
             <t pos="Adv">ganske</t>
          </tg>
@@ -194,7 +194,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">varsin</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">ganske</t>
          </tg>
       </mg>
@@ -204,7 +204,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">nyt</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">nå</t>
          </tg>
       </mg>
@@ -214,7 +214,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">juuri</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">nettopp</t>
          </tg>
       </mg>
@@ -224,7 +224,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">liian</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">bare</t>
          </tg>
       </mg>
@@ -234,7 +234,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">siten</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">slik</t>
          </tg>
       </mg>
@@ -244,7 +244,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">aivan</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">ganske</t>
          </tg>
       </mg>
@@ -254,7 +254,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">ehkä</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">kanskje</t>
          </tg>
       </mg>
@@ -264,7 +264,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">silti</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">likevel</t>
          </tg>
       </mg>
@@ -274,7 +274,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">kaikkiaan</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">tilsammen</t>
          </tg>
       </mg>
@@ -284,7 +284,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">sitä</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">desto</t>
          </tg>
       </mg>
@@ -294,7 +294,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">aika</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">ganske</t>
          </tg>
       </mg>
@@ -304,7 +304,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">asti</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">til</t>
          </tg>
       </mg>
@@ -314,7 +314,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">samoin</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">samme</t>
          </tg>
       </mg>
@@ -324,12 +324,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">ensi</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">første</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">førstkommende</t>
          </tg>
       </mg>
@@ -339,7 +339,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">kaikkein</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">aller</t>
          </tg>
       </mg>
@@ -349,7 +349,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">päin</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">i retning av</t>
          </tg>
       </mg>
@@ -359,7 +359,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">lähtien</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">fra</t>
          </tg>
       </mg>
@@ -369,7 +369,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">koko</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">hel</t>
          </tg>
       </mg>
@@ -379,7 +379,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">kovin</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">veldig</t>
          </tg>
       </mg>
@@ -389,7 +389,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">kyse</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">spørsmål</t>
          </tg>
       </mg>
@@ -399,7 +399,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">siksi</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">derfor</t>
          </tg>
       </mg>
@@ -409,7 +409,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">saakka</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">til</t>
          </tg>
       </mg>
@@ -419,7 +419,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">jaa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">jasså</t>
          </tg>
       </mg>
@@ -429,7 +429,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">noin</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">omtrent</t>
          </tg>
       </mg>
@@ -439,7 +439,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">lisää</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">ytterligere</t>
          </tg>
       </mg>
@@ -449,7 +449,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">kyllä</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">så</t>
          </tg>
       </mg>
@@ -459,7 +459,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">tosi</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">sann</t>
          </tg>
       </mg>
@@ -469,7 +469,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">niin</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">slik</t>
          </tg>
       </mg>
@@ -479,7 +479,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">no</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">nå</t>
          </tg>
       </mg>
@@ -489,7 +489,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">myös</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">også</t>
          </tg>
       </mg>
@@ -499,7 +499,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">anteeksi</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">unnskyld</t>
          </tg>
       </mg>
@@ -509,7 +509,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">tuskin</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">såvidt</t>
          </tg>
       </mg>
@@ -519,7 +519,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">suorastaan</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">rett ut sagt</t>
          </tg>
       </mg>
@@ -529,7 +529,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">totta</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">sant</t>
          </tg>
       </mg>
@@ -539,7 +539,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">aina</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">alltid</t>
          </tg>
       </mg>
@@ -549,7 +549,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">sitten</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">så</t>
          </tg>
       </mg>
@@ -559,7 +559,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">kerta</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">gang</t>
          </tg>
       </mg>
@@ -569,7 +569,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">yli</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">over</t>
          </tg>
       </mg>
@@ -579,7 +579,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">tietenkin</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">selvfølgelig</t>
          </tg>
       </mg>
@@ -589,7 +589,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">yksin</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">alene</t>
          </tg>
       </mg>
@@ -599,7 +599,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">näin</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">slik</t>
          </tg>
       </mg>
@@ -609,7 +609,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">kunnon</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">ordentlig</t>
          </tg>
       </mg>
@@ -619,7 +619,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">muuten</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">ellers</t>
          </tg>
       </mg>
@@ -629,7 +629,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">puolestaan</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">igjen</t>
          </tg>
       </mg>
@@ -639,7 +639,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">erityisesti</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">nemlig</t>
          </tg>
       </mg>
@@ -649,7 +649,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">oikein</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">riktig</t>
          </tg>
       </mg>
@@ -659,7 +659,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">näet</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">nemlig</t>
          </tg>
       </mg>
@@ -669,7 +669,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">ihan</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">ganske</t>
          </tg>
       </mg>
@@ -679,7 +679,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">myöskin</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">også</t>
          </tg>
       </mg>
@@ -689,7 +689,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">paitsi</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">unntatt</t>
          </tg>
       </mg>
@@ -699,7 +699,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">joka</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">hver</t>
          </tg>
       </mg>
@@ -709,7 +709,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">puoli</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="A">halv</t>
          </tg>
       </mg>
@@ -719,7 +719,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">täten</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">slik</t>
          </tg>
       </mg>
@@ -729,7 +729,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">kai</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">kanskje</t>
          </tg>
       </mg>
@@ -739,7 +739,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">tosiaan</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">virkelig</t>
          </tg>
       </mg>
@@ -749,7 +749,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">liika</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">noe ekstra</t>
          </tg>
       </mg>
@@ -759,7 +759,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">varmaankin</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">kanskje</t>
          </tg>
       </mg>
@@ -769,7 +769,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">tietysti</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">naturligvis</t>
          </tg>
       </mg>
@@ -779,7 +779,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">ainakin</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">i alle fall</t>
          </tg>
       </mg>
@@ -789,7 +789,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">melkein</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">nesten</t>
          </tg>
       </mg>
@@ -799,7 +799,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">nimittäin</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">nemlig</t>
          </tg>
       </mg>
@@ -809,7 +809,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">entä</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">enn</t>
          </tg>
       </mg>
@@ -819,7 +819,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">haava</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">sår</t>
          </tg>
       </mg>
@@ -829,7 +829,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">tervetuloa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">velkommen</t>
          </tg>
       </mg>
@@ -839,7 +839,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">eri</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">annen</t>
          </tg>
       </mg>
@@ -849,7 +849,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">tarkalleen</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">akkurat</t>
          </tg>
       </mg>
@@ -859,7 +859,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pcle">näköjään</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg>
             <t pos="Adv">se ut til</t>
          </tg>
       </mg>

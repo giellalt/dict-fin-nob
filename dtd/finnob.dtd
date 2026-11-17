@@ -1,4 +1,4 @@
-<!-- <!ELEMENT r (lics?, e+, xhtml:script?) > -->
+!-- <!ELEMENT r (lics?, e+, xhtml:script?) > -->
 <!ELEMENT r (lics?, e+) >
 <!ATTLIST r xml:lang (fin) #IMPLIED>
 <!ATTLIST r id (finnob) #IMPLIED>
@@ -27,7 +27,7 @@
 <!ELEMENT mg ( re?, tg+ ) >
 
 <!ELEMENT tg ( re*, t+, xg* ) >
-<!ATTLIST tg xml:lang NMTOKEN #FIXED "nob" >
+<!ATTLIST tg xml:lang ( nob ) #FIXED "nob" >
 
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
 <!ATTLIST re xml:lang ( fin | nob ) #IMPLIED >

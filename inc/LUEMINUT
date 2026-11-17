@@ -18,7 +18,7 @@ V-google.csv			  = tavallisimat verbit + ehdotus
 V.csv					  = tavallisimat verbit (Wikipedian mukaan *)
 freeA.csv				  = Giellateknon korpukset tavallisimmat
 freeAdv.csv				  = Giellateknon korpukset tavallisimmat
-freeN.csv				  = Giellateknon korpukset tavallisimmat
+!! freeN.csv  = Giellateknon korpukset tavallisimmat = lisätty!!
 freeV.csv				  = Giellateknon korpukset tavallisimmat
 problematiske.csv		  = Vaikeat sanat odottavat käännöstä
 saaristo_fin_nob.csv	  = Vesisaaren sanakirja
@@ -34,4 +34,3 @@ https://victorio.uit.no/langtech/trunk/words/lists/fin/finwp.freq
 
 Sanomalehtikielen taajuuden mukaan:
 ks. orig-hakemistosta
-

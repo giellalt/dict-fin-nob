@@ -1,4 +1,4 @@
-!-- <!ELEMENT r (lics?, e+, xhtml:script?) > -->
+<!-- <!ELEMENT r (lics?, e+, xhtml:script?) > -->
 <!ELEMENT r (lics?, e+) >
 <!ATTLIST r xml:lang (fin) #IMPLIED>
 <!ATTLIST r id (finnob) #IMPLIED>
